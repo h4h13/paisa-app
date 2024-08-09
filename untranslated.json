@@ -6,13 +6,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "be": [
@@ -44,13 +46,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "cs": [
@@ -65,25 +69,29 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "de": [
     "pickColorAccountDesc",
     "emptyRecommendedAccountsInfo",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "es": [
@@ -93,13 +101,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "fr": [
@@ -123,13 +133,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "gu": [
@@ -137,13 +149,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "it": [
@@ -181,13 +195,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "kn": [
@@ -217,23 +233,27 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "ml": [
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "ne": [
@@ -248,13 +268,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "pl": [
@@ -279,23 +301,27 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "pt": [
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "ru": [
@@ -327,13 +353,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "ta": [
@@ -349,20 +377,24 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "tr": [
+    "data",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "uk": [
@@ -377,21 +409,25 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "ur": [
     "intoTitle",
+    "data",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "vi": [
@@ -400,13 +436,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "zh": [
@@ -414,13 +452,15 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ],
 
   "zh_TW": [
@@ -445,12 +485,14 @@
     "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
+    "data",
     "clearData",
     "clearDataDesc",
     "clear",
     "enableAds",
     "enableAdsDesc",
     "supportDevelopment",
-    "changeLog"
+    "changeLog",
+    "calenderHeatMap"
   ]
 }

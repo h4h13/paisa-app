@@ -1090,6 +1090,11 @@
         "description": "Subtitle text shown on the welcome page",
         "type": "text"
     },
+    "data": "Data",
+    "@data": {
+        "description": "Text shown on the setting page for clear data",
+        "type": "text"
+    },
     "clearData": "Clear data",
     "@clearData": {
         "description": "Text shown on the setting page for clear data",
@@ -1123,6 +1128,11 @@
     "changeLog": "Changelog",
     "@changeLog": {
         "description": "Text shown on the setting option",
+        "type": "text"
+    },
+    "calenderHeatMap": "Calendar heatmap",
+    "@calenderHeatMap": {
+        "description": "Subtitle text shown on the summary page in home",
         "type": "text"
     }
 }
