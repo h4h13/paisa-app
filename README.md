@@ -8,8 +8,8 @@
  <a href="https://flutter.dev/" style="text-decoration:none" area-label="flutter">
     <img src="https://img.shields.io/badge/Platform-Flutter%203.22.2-blue">
   </a>
-  <a href="https://github.com/h4h13/paisa-app/releases/tag/v6.3.9" style="text-decoration:none" area-label="flutter">
-    <img src="https://img.shields.io/badge/Version-6.4.0-orange">
+  <a href="https://github.com/RetroMusicPlayer/Paisa/releases/tag/v6.1.4" style="text-decoration:none" area-label="flutter">
+    <img src="https://img.shields.io/badge/Version-6.1.4-orange">
   </a>
    <a href="https://play.google.com/store/apps/details?id=dev.hemanths.paisa" style="text-decoration:none" area-label="play store">
     <img src="https://img.shields.io/badge/Download-Google%20Play-green">
@@ -47,7 +47,7 @@
 ### Expense Tracking
 
 - Tracking expenses, incomes & deposits
-- Account & budget view overview
+- Account & budget visw overview
 - Manage categories
 
 ### Steps to translate
@@ -77,6 +77,19 @@
 
 3. Check `untranslated.json` for anything missing keys need to be translated
 4. Run the app and check once
+
+### Steps to build project
+
+1. Clone the Flutter Project:
+   - Use `git clone https://github.com/RetroMusicPlayer/Paisa.git` to download the project from the GitHub repository.
+2. Install Dependencies:
+   - Navigate to the project directory and run `flutter pub get` to install the required dependencies.
+3. Run the App:
+   - Connect a device or emulator and run the app using `flutter run --flavor dev` or through your IDE.
+
+### Support Translations
+
+Contact us in Telegram [Telegram Group](https://t.me/app_paisa)
 
 ### Download
 
