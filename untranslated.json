@@ -14,7 +14,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "be": [
@@ -54,7 +70,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "cs": [
@@ -77,7 +109,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "de": [
@@ -91,7 +139,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "es": [
@@ -109,7 +173,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "fr": [
@@ -141,7 +221,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "gu": [
@@ -157,7 +253,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "it": [
@@ -203,7 +315,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "kn": [
@@ -241,7 +369,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "ml": [
@@ -253,7 +397,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "ne": [
@@ -276,7 +436,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "pl": [
@@ -309,7 +485,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "pt": [
@@ -321,7 +513,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "ru": [
@@ -361,7 +569,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "ta": [
@@ -385,7 +609,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "tr": [
@@ -394,7 +634,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "uk": [
@@ -417,7 +673,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "ur": [
@@ -427,7 +699,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "vi": [
@@ -444,7 +732,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "zh": [
@@ -460,7 +764,23 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ],
 
   "zh_TW": [
@@ -493,6 +813,22 @@
     "enableAdsDesc",
     "supportDevelopment",
     "changeLog",
-    "calenderHeatMap"
+    "calenderHeatMap",
+    "privacyPolicyAgreeButton",
+    "adsConsent",
+    "adsConsentDesc",
+    "readOur",
+    "accountIconError",
+    "tags",
+    "tagsToolTip",
+    "selectTag",
+    "tagName",
+    "enterTagName",
+    "addedDebit",
+    "updatedDebit",
+    "contributors",
+    "topAccounts",
+    "topCategories",
+    "recentTransactions"
   ]
 }
