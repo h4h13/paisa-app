@@ -30,7 +30,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "be": [
@@ -86,7 +87,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "cs": [
@@ -125,7 +127,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "de": [
@@ -155,7 +158,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "es": [
@@ -189,7 +193,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "fr": [
@@ -237,7 +242,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "gu": [
@@ -269,7 +275,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "it": [
@@ -331,7 +338,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "kn": [
@@ -385,7 +393,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "ml": [
@@ -413,7 +422,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "ne": [
@@ -452,7 +462,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "pl": [
@@ -501,7 +512,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "pt": [
@@ -529,7 +541,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "ru": [
@@ -585,7 +598,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "ta": [
@@ -625,7 +639,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "tr": [
@@ -650,7 +665,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "uk": [
@@ -689,7 +705,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "ur": [
@@ -715,7 +732,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "vi": [
@@ -748,7 +766,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "zh": [
@@ -780,7 +799,8 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ],
 
   "zh_TW": [
@@ -829,6 +849,7 @@
     "contributors",
     "topAccounts",
     "topCategories",
-    "recentTransactions"
+    "recentTransactions",
+    "sortBy"
   ]
 }

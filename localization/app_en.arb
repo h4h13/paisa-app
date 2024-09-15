@@ -1214,5 +1214,10 @@
     "@recentTransactions": {
         "description": "Text shown on home page section title",
         "type": "text"
+    },
+    "sortBy": "Sort by",
+    "@sortBy": {
+        "description": "Text shown on search filter widget",
+        "type": "text"
     }
 }
