@@ -1219,5 +1219,10 @@
     "@sortBy": {
         "description": "Text shown on search filter widget",
         "type": "text"
+    },
+    "createBackup": "Create backup",
+    "@createBackup": {
+        "description": "Text shown on the Google backup and restore page",
+        "type": "text"
     }
 }
