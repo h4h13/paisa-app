@@ -100,6 +100,3 @@ Contact us in Telegram [Telegram Group](https://t.me/app_paisa)
 
     Copyright (c) 2022, Hemanth Savarala
     All rights reserved.
-
-    This source code is licensed under the GPLv3-style license found in the
-    LICENSE file in the root directory of this source tree.
