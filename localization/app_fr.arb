@@ -9,7 +9,7 @@
     "overview": "Synthèse",
     "defaultAccount": "Compte par défaut",
     "recurring": "Souscriptions",
-    "debts": "Emprunts",
+    "debits": "Emprunts",
     "addTransactionTooltip": "Ajouter une transaction",
     "addAccountTooltip": "Ajouter un compte",
     "addCategoryTooltip": "Ajouter une catégorie",

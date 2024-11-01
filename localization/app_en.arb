@@ -34,6 +34,11 @@
         "description": "Accounts text shown in the bottom navigation or drawer widget",
         "type": "text"
     },
+    "budgets": "Budgets",
+    "@budgets": {
+        "description": "Title text shown on the budget page",
+        "type": "text"
+    },
     "overview": "Overview",
     "@overview": {
         "description": "Accounts text shown in the bottom navigation or drawer widget",
@@ -49,9 +54,9 @@
         "description": "Recurring text shown in the bottom navigation or drawer widget and recurring page toolbar title",
         "type": "text"
     },
-    "debts": "Debts",
-    "@debts": {
-        "description": "Debts text shown in the bottom navigation or drawer widget",
+    "debits": "Debits",
+    "@debits": {
+        "description": "Debits text shown in the bottom navigation or drawer widget",
         "type": "text"
     },
     "addTransactionTooltip": "Add transaction",
@@ -693,13 +698,13 @@
     "@transferName": {
         "description": "Transfer name "
     },
-    "debt": "Debt",
-    "@debt": {
-        "description": "Debts "
-    },
     "credit": "Credit",
     "@credit": {
         "description": "Credit "
+    },
+    "credits": "Credits",
+    "@credits": {
+        "description": "Credits "
     },
     "enterCategory": "Enter category",
     "@enterCategory": {
@@ -737,13 +742,13 @@
     "@enterAmount": {
         "description": "Enter amount "
     },
-    "emptyDebts": "There are no debts at this time",
+    "emptyDebts": "There are no debits at this time",
     "@emptyDebts": {
-        "description": "There are no debts at this time "
+        "description": "There are no debits at this time "
     },
-    "emptyDebtsDesc": "Add your debts to see them displayed here",
+    "emptyDebtsDesc": "Add your debits to see them displayed here",
     "@emptyDebtsDesc": {
-        "description": "Add your debts here to see them displayed "
+        "description": "Add your debits here to see them displayed "
     },
     "emptyCredit": "There are no credits at this time",
     "@emptyCredit": {
@@ -1223,6 +1228,91 @@
     "createBackup": "Create backup",
     "@createBackup": {
         "description": "Text shown on the Google backup and restore page",
+        "type": "text"
+    },
+    "categoryWise": "Category wise",
+    "@categoryWise": {
+        "description": "Text shown on the overview page section title",
+        "type": "text"
+    },
+    "startFresh": "Start fresh",
+    "@startFresh": {
+        "description": "Text shown on the intro page for button to start the fresh app",
+        "type": "text"
+    },
+    "importBackup": "Import backup",
+    "@importBackup": {
+        "description": "Text shown on the import backup page",
+        "type": "text"
+    },
+    "addBudget": "Add budget",
+    "@addBudget": {
+        "description": "Text shown on the add budget page title",
+        "type": "text"
+    },
+    "period": "Period",
+    "@period": {
+        "description": "Text shown on the add budget page",
+        "type": "text"
+    },
+    "history": "History",
+    "@history": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "transaction": "Transaction",
+    "@transaction": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "debitTransaction": "Debit Transaction",
+    "@debitTransaction": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "account": "Account",
+    "@account": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "category": "Category",
+    "@category": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "tag": "Tag",
+    "@tag": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "goal": "Goal",
+    "@goal": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "debit": "Debit",
+    "@debit": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "overall": "Overall",
+    "@overall": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "selectBudget": "Select budget",
+    "@selectBudget": {
+        "description": "Text shown on the add transaction page",
+        "type": "text"
+    },
+    "budgetUpdated": "Budget updated",
+    "@budgetUpdated": {
+        "description": "Text shown on the snack bar when budget updated",
+        "type": "text"
+    },
+    "budgetAdded": "Budget added",
+    "@budgetAdded": {
+        "description": "Text shown on the snack bar when budget added",
         "type": "text"
     }
 }
