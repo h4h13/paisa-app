@@ -15,6 +15,16 @@
     "addRecurringTooltip": "Aggiungi ricorrente",
     "selectDateRangeTooltip": "Intervallo di date",
     "transactionSubTittleText": "{bankName} • {dateString}",
+    "@transactionSubTittleText": {
+        "placeholders": {
+            "bankName": {
+                "type": "String"
+            },
+            "dateString": {
+                "type": "String"
+            }
+        }
+    },
     "addCategory": "Aggiungi categoria",
     "addCategoryEmptyTitle": "Nessuna categoria",
     "addCategoryEmptySubTitle": "Aggiungi categoria da selezionare",
@@ -74,6 +84,13 @@
     "githubText": "Crea un fork su GitHub",
     "version": "Versione",
     "versionNumber": "v{version}",
+    "@versionNumber": {
+        "placeholders": {
+            "version": {
+                "type": "String"
+            }
+        }
+    },
     "deleteAccount": "L'eliminazione dell'account eliminerà tutte le transazioni correlate ",
     "deleteCategory": "L'eliminazione della categoria eliminerà tutte le transazioni ocrrelate ",
     "deleteExpense": "La spesa sarà rimossa permanentemente dall'account",

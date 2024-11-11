@@ -17,6 +17,16 @@
     "addRecurringTooltip": "Ajouter une souscription",
     "selectDateRangeTooltip": "Période",
     "transactionSubTittleText": "{bankName} • {dateString}",
+    "@transactionSubTittleText": {
+        "placeholders": {
+            "bankName": {
+                "type": "String"
+            },
+            "dateString": {
+                "type": "String"
+            }
+        }
+    },
     "addCategory": "Ajouter une catégorie",
     "addCategoryEmptyTitle": "Aucune catégorie",
     "addCategoryEmptySubTitle": "Ajoutez une catégorie à séléctionner",
@@ -77,6 +87,13 @@
     "githubText": "Forkez le projet sur GitHub",
     "version": "Version",
     "versionNumber": "v{version}",
+    "@versionNumber": {
+        "placeholders": {
+            "version": {
+                "type": "String"
+            }
+        }
+    },
     "deleteAccount": "Supprimer le compte supprime toutes les dépenses qui lui sont associées ",
     "deleteCategory": "Supprimer la catégorie supprime toutes les dépenses qui lui sont associées ",
     "deleteExpense": "Cette dépense sera définitivement retirée du compte",
@@ -201,5 +218,71 @@
     "chooseFont": "Choisissez une police d'écriture",
     "chooseAppLanguage": "Choisissez une langue",
     "appLanguage": "Langue de l'application",
-    "calendarFormat": "Format du calendrier"
+    "calendarFormat": "Format du calendrier",
+    "budgets": "Budgets",
+    "deletedCategory": "Catégorie supprimée",
+    "pickColorAccountDesc": "Choisir cette couleur pour ce compte",
+    "back": "Retour",
+    "excludeAccount": "Exclure le compte",
+    "accountNotFound": "Compte non trouvé !",
+    "bankNameError": "Définir le nom de la banque",
+    "holderNameError": "Définir le nom du titulaire",
+    "accountColorError": "Définir la couleur du compte",
+    "emptySelectedAccountsInfo": "Sélectionnez un compte ci-dessus pour commencer",
+    "emptyRecommendedAccountsInfo": "Plus aucun compte à ajouter",
+    "transferCategorySubtitle": "Autoriser les transferts entre comptes",
+    "currencySelectorError": "Veuillez sélectionner une devise",
+    "justBlackText": "Noir uniquement",
+    "dateAndTime": "Date et heure",
+    "goals": "Objectifs",
+    "addGoalTooltip": "Ajouter un objectif",
+    "customize": "Personnaliser",
+    "statistics": "Statistiques",
+    "welcomeAppTitle": "Bienvenue sur Paisa",
+    "welcomeAppSubTitle": "Votre compagnon financier personnel pour une gestion plus intelligente de votre argent",
+    "data": "Données",
+    "clearData": "Effacer les données",
+    "clearDataDesc": "Effacer toutes les données et recommencer à zéro",
+    "clear": "Effacer",
+    "enableAds": "Activer la publicité",
+    "enableAdsDesc": "Publicités pour soutenir le développement de l'application",
+    "supportDevelopment": "Soutenir le développement",
+    "changeLog": "Journal des modifications",
+    "calenderHeatMap": "Carte thermique du calendrier",
+    "privacyPolicyAgreeButton": "J'accepte la politique de confidentialité",
+    "adsConsent": "Consentement aux publicités",
+    "adsConsentDesc": "Nous utilisons des publicités pour maintenir notre application gratuite. Veuillez lire notre politique de confidentialité et accepter notre utilisation des publicités",
+    "readOur": "Lisez notre",
+    "accountIconError": "Définir l'icône du compte",
+    "tags": "Étiquettes",
+    "tagsToolTip": "Ajouter une étiquette",
+    "selectTag": "Sélectionner une étiquette",
+    "tagName": "Nom de l'étiquette",
+    "enterTagName": "Saisissez le nom de l'étiquette",
+    "addedDebit": "Débit ajouté",
+    "updatedDebit": "Débit mis à jour",
+    "contributors": "Contributeurs",
+    "topAccounts": "Comptes principaux",
+    "topCategories": "Catégories principales",
+    "recentTransactions": "Transactions récentes",
+    "sortBy": "Trier par",
+    "createBackup": "Créer une sauvegarde",
+    "categoryWise": "Par catégorie",
+    "startFresh": "Recommencer à zéro",
+    "importBackup": "Importer une sauvegarde",
+    "addBudget": "Ajouter un budget",
+    "period": "Période",
+    "history": "Historique",
+    "transaction": "Transaction",
+    "debitTransaction": "Transaction de débit",
+    "account": "Compte",
+    "category": "Catégorie",
+    "tag": "Étiquette",
+    "goal": "Objectif",
+    "debit": "Débit",
+    "overall": "Global",
+    "selectBudget": "Sélectionner un budget",
+    "budgetUpdated": "Budget mis à jour",
+    "budgetAdded": "Budget ajouté",
+    "credits": "Crédits"
 }
