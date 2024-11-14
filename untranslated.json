@@ -1,4 +1,64 @@
 {
+  "ar": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "cs": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "de": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "es": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "fr": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "hi": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
   "it": [
     "budgets",
     "defaultAccount",
@@ -79,6 +139,73 @@
     "overall",
     "selectBudget",
     "budgetUpdated",
-    "budgetAdded"
+    "budgetAdded",
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "ja": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "pl": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "ru": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "tr": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "zh": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
+  ],
+
+  "zh_TW": [
+    "name",
+    "nameAZ",
+    "nameZA",
+    "amountLowToHigh",
+    "amountHighToLow",
+    "dateOldestFirst",
+    "dateNewestFirst"
   ]
 }

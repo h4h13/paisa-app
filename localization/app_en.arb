@@ -1314,5 +1314,40 @@
     "@budgetAdded": {
         "description": "Text shown on the snack bar when budget added",
         "type": "text"
+    },
+    "name": "Name",
+    "@name": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "nameAZ": "Name (A-Z)",
+    "@nameAZ": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "nameZA": "Name (Z-A)",
+    "@nameZA": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "amountLowToHigh": "Amount (low-high)",
+    "@amountLowToHigh": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "amountHighToLow": "Amount (high-low)",
+    "@amountHighToLow": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "dateOldestFirst": "Date (old-new)",
+    "@dateOldestFirst": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "dateNewestFirst": "Date (new-old)",
+    "@dateNewestFirst": {
+        "description": "Text shown on the search filter dialog",
+        "type": "text"
     }
 }
