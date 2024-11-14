@@ -630,24 +630,14 @@
         "description": "Text shown on the toolbar title",
         "type": "text"
     },
-    "backupAndRestoreTitle": "Backup and restore",
+    "backupAndRestoreTitle": "Backup & restore",
     "@backupAndRestoreTitle": {
         "description": "Text shown on the toolbar title",
         "type": "text"
     },
-    "backupAndRestoreSubTitle": "Backup and restore your expenses, accounts & categories",
+    "backupAndRestoreSubTitle": "Backup and restore your data as JSON file",
     "@backupAndRestoreSubTitle": {
         "description": "Subtitle text shown on the setting button",
-        "type": "text"
-    },
-    "exportData": "Export",
-    "@exportData": {
-        "description": "Text shown on the import and export button",
-        "type": "text"
-    },
-    "importData": "Import",
-    "@importData": {
-        "description": "IText shown on the import and export button",
         "type": "text"
     },
     "creatingBackup": "Creating backup",
@@ -669,14 +659,6 @@
     "@restoringBackupSuccess": {
         "description": "Message shown when the importing backup file",
         "type": "text"
-    },
-    "saveAsCSV": "Save as CSV",
-    "@saveAsCSV": {
-        "description": "Save as CSV "
-    },
-    "saveAsCSVDesc": "Export data into CSV file format",
-    "@saveAsCSVDesc": {
-        "description": "Save as CSV "
     },
     "appRate": "Rate the app",
     "@appRate": {
@@ -823,16 +805,6 @@
     "deleteDebtOrCredit": "Deleting the debt or credit deletes all records related to it",
     "@deleteDebtOrCredit": {
         "description": "Delete debt or credit ",
-        "type": "text"
-    },
-    "backupAndRestoreJSONTitle": "Export data as JSON file",
-    "@backupAndRestoreJSONTitle": {
-        "description": "Section title text shown on the export and import page",
-        "type": "text"
-    },
-    "backupAndRestoreJSONDesc": "The file will be a plain JSON file created and exported to save. Please note that if in case anything changes happen in the future in Paisa then this file will be invalid to import",
-    "@backupAndRestoreJSONDesc": {
-        "description": "Message shown on the import and export screen",
         "type": "text"
     },
     "emptyBudgetMessageTitle": "No budgets have been set for any categories",
@@ -1348,6 +1320,166 @@
     "dateNewestFirst": "Date (new-old)",
     "@dateNewestFirst": {
         "description": "Text shown on the search filter dialog",
+        "type": "text"
+    },
+    "reorderAccounts": "Reorder accounts",
+    "@reorderAccounts": {
+        "description": "Text shown on the reorder dialog",
+        "type": "text"
+    },
+    "whatsNew": "What's new",
+    "@whatsNew": {
+        "description": "Title text shown on the version bottom sheet dialog page",
+        "type": "text"
+    },
+    "googleDriveDesc": "Backup and restore your data to Google Drive",
+    "@googleDriveDesc": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "googleDriveBackup": "Google Drive",
+    "@googleDriveBackup": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "historyDesc": "View all your transactions",
+    "@historyDesc": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "backupAndRestoreCSV": "Backup & restore CSV files",
+    "@backupAndRestoreCSV": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "backupAndRestoreCSVDesc": "Backup and restore your data to CSV file",
+    "@backupAndRestoreCSVDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "backupAndRestoreJSON": "Backup & restore JSON files",
+    "@backupAndRestoreJSON": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "backupAndRestoreJSONDesc": "Backup and restore your data to JSON file",
+    "@backupAndRestoreJSONDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "exportData": "Export data",
+    "@exportData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "exportAllData": "Export all data",
+    "@exportAllData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "exportAllDataDesc": "Export all your data to CSV file",
+    "@exportAllDataDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "exportAllDataSuccess": "Data exported successfully",
+    "@exportAllDataSuccess": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "importData": "Import data",
+    "@importData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "importAllData": "Import CSV file",
+    "@importAllData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "importAllDataDesc": "Import all your data from a CSV file",
+    "@importAllDataDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "importAllDataSuccess": "Data imported successfully",
+    "@importAllDataSuccess": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "createBackupDesc": "Save your current data to a file",
+    "@createBackupDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "restoreBackup": "Restore backup",
+    "@restoreBackup": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "restoreBackupDesc": "Restore your data from a file",
+    "@restoreBackupDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "legacyMigration": "Legacy Data Migration",
+    "@legacyMigration": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "createLegacyBackup": "Create legacy backup",
+    "@createLegacyBackup": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "createLegacyBackupDesc": "Save your data from older app version to a file",
+    "@createLegacyBackupDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "restoreLegacyBackup": "Restore legacy backup",
+    "@restoreLegacyBackup": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "restoreLegacyBackupDesc": "Restore your data from older app version file",
+    "@restoreLegacyBackupDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "migrateLegacyData": "Migrate legacy data",
+    "@migrateLegacyData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "migrateLegacyDataDesc": "Migrate your data from older app version to the current version",
+    "@migrateLegacyDataDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "dangerZone": "Danger zone",
+    "@dangerZone": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "deleteAllData": "Permanently deletes all data",
+    "@deleteAllData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "resetAllData": "Reset all data",
+    "@resetAllData": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "resetAllDataDesc": "This action cannot be undone. Are you sure you want to delete all your data?",
+    "@resetAllDataDesc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "reset": "Reset",
+    "@reset": {
+        "description": "Text shown on the export and import page",
         "type": "text"
     }
 }
