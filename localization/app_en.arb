@@ -1437,12 +1437,22 @@
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "restoreLegacyBackup": "Restore legacy backup",
+    "restoreLegacyBackup": "Restore v6.x.x backup",
     "@restoreLegacyBackup": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "restoreLegacyBackupDesc": "Restore your data from older app version file",
+    "restoreLegacyBackupV7": "Restore v7.x.x backup",
+    "@restoreLegacyBackupV7": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "restoreLegacyBackupV7Desc": "Restore data from backups created in Paisa version 7.0.0 and above",
+    "@restoreLegacyBackupV7Desc": {
+        "description": "Text shown on the export and import page",
+        "type": "text"
+    },
+    "restoreLegacyBackupDesc": "Restore data from backups created in Paisa version 6.0.0 and below",
     "@restoreLegacyBackupDesc": {
         "description": "Text shown on the export and import page",
         "type": "text"
