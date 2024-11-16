@@ -37,7 +37,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "cs": [
@@ -78,7 +87,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "de": [
@@ -119,7 +137,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "es": [
@@ -160,7 +187,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "fr": [
@@ -201,7 +237,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "hi": [
@@ -242,7 +287,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "it": [
@@ -363,7 +417,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "ja": [
@@ -404,7 +467,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "pl": [
@@ -445,7 +517,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "ru": [
@@ -486,7 +567,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "tr": [
@@ -527,7 +617,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "zh": [
@@ -568,7 +667,16 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ],
 
   "zh_TW": [
@@ -609,6 +717,15 @@
     "deleteAllData",
     "resetAllData",
     "resetAllDataDesc",
-    "reset"
+    "reset",
+    "trackBudgets",
+    "trackGoals",
+    "onTrack",
+    "overBudget",
+    "warning",
+    "dailyBudget",
+    "weeklyBudget",
+    "monthlyBudget",
+    "yearlyBudget"
   ]
 }

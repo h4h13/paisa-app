@@ -1491,5 +1491,50 @@
     "@reset": {
         "description": "Text shown on the export and import page",
         "type": "text"
+    },
+    "trackBudgets": "Track budgets",
+    "@trackBudgets": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "trackGoals": "Track goals",
+    "@trackGoals": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "onTrack": "On track",
+    "@onTrack": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "overBudget": "Over budget",
+    "@overBudget": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "warning": "Warning",
+    "@warning": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "dailyBudget": "Daily budget",
+    "@dailyBudget": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "weeklyBudget": "Weekly budget",
+    "@weeklyBudget": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "monthlyBudget": "Monthly budget",
+    "@monthlyBudget": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "yearlyBudget": "Yearly budget",
+    "@yearlyBudget": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
     }
 }
