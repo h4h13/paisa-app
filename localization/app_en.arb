@@ -1536,5 +1536,15 @@
     "@yearlyBudget": {
         "description": "Text shown on the home page section title",
         "type": "text"
+    },
+    "deleteBudget": "Delete budget?",
+    "@deleteBudget": {
+        "description": "Text shown on the delete budget dialog",
+        "type": "text"
+    },
+    "deleteBudgetDesc": "This won't affect any transactions linked to this budget",
+    "@deleteBudgetDesc": {
+        "description": "Text shown on the delete budget dialog",
+        "type": "text"
     }
 }

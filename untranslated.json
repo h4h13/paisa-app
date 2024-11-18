@@ -46,7 +46,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "cs": [
@@ -96,7 +98,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "de": [
@@ -146,7 +150,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "es": [
@@ -196,7 +202,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "fr": [
@@ -246,7 +254,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "hi": [
@@ -296,7 +306,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "it": [
@@ -426,7 +438,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "ja": [
@@ -476,7 +490,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "pl": [
@@ -526,7 +542,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "ru": [
@@ -576,7 +594,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "tr": [
@@ -626,7 +646,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "zh": [
@@ -676,7 +698,9 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ],
 
   "zh_TW": [
@@ -726,6 +750,8 @@
     "dailyBudget",
     "weeklyBudget",
     "monthlyBudget",
-    "yearlyBudget"
+    "yearlyBudget",
+    "deleteBudget",
+    "deleteBudgetDesc"
   ]
 }
