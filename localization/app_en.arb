@@ -85,7 +85,7 @@
         "type": "text"
     },
     "selectDateRangeTooltip": "Date range",
-    "@selectDate": {
+    "@selectDateRangeTooltip": {
         "description": "Tooltip shown on the overview fab button",
         "type": "text"
     },
@@ -591,7 +591,7 @@
         "type": "text"
     },
     "emptyExpensesMessageSubTitle": "If there are no expenses, start by adding an expense to see it displayed here",
-    "@emptyExpensesMessageSunTitle": {
+    "@emptyExpensesMessageSubTitle": {
         "description": "Subtitle message shown on the page when there are no expenses",
         "type": "text"
     },
@@ -1008,7 +1008,7 @@
         "type": "text"
     },
     "emptySelectedAccountsInfo": "Select account from above to start",
-    "@accountsIntroInfo": {
+    "@emptySelectedAccountsInfo": {
         "description": "Text shown on intro page accounts info",
         "type": "text"
     },
