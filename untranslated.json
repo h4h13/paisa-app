@@ -48,7 +48,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "cs": [
@@ -100,7 +101,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "de": [
@@ -152,7 +154,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "es": [
@@ -204,7 +207,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "fr": [
@@ -256,7 +260,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "hi": [
@@ -308,7 +313,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "it": [
@@ -440,7 +446,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "ja": [
@@ -492,7 +499,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "pl": [
@@ -544,7 +552,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "ru": [
@@ -596,7 +605,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "tr": [
@@ -648,7 +658,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "zh": [
@@ -700,7 +711,8 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ],
 
   "zh_TW": [
@@ -752,6 +764,7 @@
     "monthlyBudget",
     "yearlyBudget",
     "deleteBudget",
-    "deleteBudgetDesc"
+    "deleteBudgetDesc",
+    "transactionsCount"
   ]
 }

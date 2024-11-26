@@ -1,4 +1,5 @@
 {
+    "@@locale": "en",
     "appTitle": "Paisa",
     "@appTitle": {
         "description": "The app name",
@@ -1546,5 +1547,15 @@
     "@deleteBudgetDesc": {
         "description": "Text shown on the delete budget dialog",
         "type": "text"
+    },
+    "transactionsCount": "{count, plural,zero{No transactions added} one{1 Transactions} other{{count} transactions} }",
+    "@transactionsCount": {
+        "description": "Shows the count of transactions in category list",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
     }
 }
