@@ -1557,5 +1557,15 @@
                 "example": "1"
             }
         }
+    },
+    "enableFeedback": "Enable feedback",
+    "@enableFeedback": {
+        "description": "Text shown on the setting option",
+        "type": "text"
+    },
+    "enableFeedbackDesc": "Send feedback to help improve the app",
+    "@enableFeedbackDesc": {
+        "description": "Text shown on the setting option",
+        "type": "text"
     }
 }

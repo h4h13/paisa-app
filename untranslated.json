@@ -49,7 +49,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "cs": [
@@ -102,7 +104,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "de": [
@@ -155,7 +159,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "es": [
@@ -208,7 +214,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "fr": [
@@ -261,7 +269,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "hi": [
@@ -314,7 +324,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "it": [
@@ -447,7 +459,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "ja": [
@@ -500,7 +514,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "pl": [
@@ -553,7 +569,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "ru": [
@@ -606,7 +624,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "tr": [
@@ -659,7 +679,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "zh": [
@@ -712,7 +734,9 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ],
 
   "zh_TW": [
@@ -765,6 +789,8 @@
     "yearlyBudget",
     "deleteBudget",
     "deleteBudgetDesc",
-    "transactionsCount"
+    "transactionsCount",
+    "enableFeedback",
+    "enableFeedbackDesc"
   ]
 }
