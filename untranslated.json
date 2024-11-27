@@ -51,7 +51,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "cs": [
@@ -106,7 +116,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "de": [
@@ -161,7 +181,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "es": [
@@ -216,7 +246,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "fr": [
@@ -271,7 +311,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "hi": [
@@ -326,7 +376,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "it": [
@@ -461,7 +521,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "ja": [
@@ -516,7 +586,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "pl": [
@@ -571,7 +651,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "ru": [
@@ -626,7 +716,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "tr": [
@@ -681,7 +781,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "zh": [
@@ -736,7 +846,17 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ],
 
   "zh_TW": [
@@ -791,6 +911,16 @@
     "deleteBudgetDesc",
     "transactionsCount",
     "enableFeedback",
-    "enableFeedbackDesc"
+    "enableFeedbackDesc",
+    "emptyGoalsMessageTitle",
+    "emptyGoalsMessageSubTitle",
+    "addGoal",
+    "selectAImage",
+    "overViewChartTitle",
+    "overViewChartSubTitle",
+    "saved",
+    "remaining",
+    "daysLeft",
+    "spent"
   ]
 }

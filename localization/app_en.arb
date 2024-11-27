@@ -808,12 +808,12 @@
         "description": "Delete debt or credit ",
         "type": "text"
     },
-    "emptyBudgetMessageTitle": "No budgets have been set for any categories",
+    "emptyBudgetMessageTitle": "No budgets",
     "@emptyBudgetMessageTitle": {
         "description": "Title text shown on the budget screen when no budgets are available",
         "type": "text"
     },
-    "emptyBudgetMessageSubTitle": "Set a budget for any category, and that category will show up here",
+    "emptyBudgetMessageSubTitle": "Add a budget to view it here",
     "@emptyBudgetMessageSubTitle": {
         "description": "Subtitle text shown on the budget screen when no budgets are available",
         "type": "text"
@@ -1548,7 +1548,7 @@
         "description": "Text shown on the delete budget dialog",
         "type": "text"
     },
-    "transactionsCount": "{count, plural,zero{No transactions added} one{1 Transactions} other{{count} transactions} }",
+    "transactionsCount": "{count, plural,zero{No transactions added} one{1 Transactions} other{{count} transactions}}",
     "@transactionsCount": {
         "description": "Shows the count of transactions in category list",
         "placeholders": {
@@ -1566,6 +1566,61 @@
     "enableFeedbackDesc": "Send feedback to help improve the app",
     "@enableFeedbackDesc": {
         "description": "Text shown on the setting option",
+        "type": "text"
+    },
+    "emptyGoalsMessageTitle": "No goals",
+    "@emptyGoalsMessageTitle": {
+        "description": "Title text shown on the goals page when no goals are available",
+        "type": "text"
+    },
+    "emptyGoalsMessageSubTitle": "Add a goal to view it here",
+    "@emptyGoalsMessageSubTitle": {
+        "description": "Subtitle text shown on the goals page when no goals are available",
+        "type": "text"
+    },
+    "addGoal": "Add goal",
+    "@addGoal": {
+        "description": "Text shown on the add goal page title",
+        "type": "text"
+    },
+    "selectAImage": "Select a image",
+    "@selectImage": {
+        "description": "Text shown on the add goal page",
+        "type": "text"
+    },
+    "overViewChartTitle": "Financial overview",
+    "@overViewChartTitle": {
+        "description": "Title text shown on the overview page",
+        "type": "text"
+    },
+    "overViewChartSubTitle": "Income vs Expenses",
+    "@overViewChartSubTitle": {
+        "description": "Subtitle text shown on the overview page",
+        "type": "text"
+    },
+    "saved": "Saved",
+    "@saved": {
+        "description": "Text shown on the goal page",
+        "type": "text"
+    },
+    "remaining": "Remaining",
+    "@Remaining": {
+        "description": "Text shown on the goal page",
+        "type": "text"
+    },
+    "daysLeft": "{count, plural, zero{No days} one{1 day} other{{count} days}}",
+    "@daysLeft": {
+        "description": "Text shown on the goal page",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "spent": "Spent",
+    "@spent": {
+        "description": "Text shown on the budget page",
         "type": "text"
     }
 }
