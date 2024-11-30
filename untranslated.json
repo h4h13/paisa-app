@@ -61,7 +61,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "cs": [
@@ -126,7 +128,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "de": [
@@ -191,7 +195,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "es": [
@@ -256,7 +262,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "fr": [
@@ -321,7 +329,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "hi": [
@@ -386,7 +396,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "it": [
@@ -531,7 +543,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "ja": [
@@ -596,7 +610,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "pl": [
@@ -661,7 +677,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "ru": [
@@ -726,7 +744,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "tr": [
@@ -791,7 +811,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "zh": [
@@ -856,7 +878,9 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ],
 
   "zh_TW": [
@@ -921,6 +945,8 @@
     "saved",
     "remaining",
     "daysLeft",
-    "spent"
+    "spent",
+    "scheduleNotification",
+    "scheduleNotificationDesc"
   ]
 }

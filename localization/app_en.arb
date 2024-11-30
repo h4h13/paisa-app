@@ -1622,5 +1622,15 @@
     "@spent": {
         "description": "Text shown on the budget page",
         "type": "text"
+    },
+    "scheduleNotification": "Schedule notification",
+    "@scheduleNotification": {
+        "description": "Text shown on the page page",
+        "type": "text"
+    },
+    "scheduleNotificationDesc": "Set a reminder to track your daily transactions",
+    "@scheduleNotificationDesc": {
+        "description": "Text shown on the setting page",
+        "type": "text"
     }
 }
