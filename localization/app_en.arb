@@ -1632,5 +1632,10 @@
     "@scheduleNotificationDesc": {
         "description": "Text shown on the setting page",
         "type": "text"
+    },
+    "subscription": "Subscription",
+    "@subscription": {
+        "description": "Text shown on the setting page",
+        "type": "text"
     }
 }

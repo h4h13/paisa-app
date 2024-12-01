@@ -63,7 +63,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "cs": [
@@ -130,7 +131,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "de": [
@@ -197,7 +199,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "es": [
@@ -264,7 +267,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "fr": [
@@ -331,7 +335,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "hi": [
@@ -398,7 +403,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "it": [
@@ -545,7 +551,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "ja": [
@@ -612,7 +619,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "pl": [
@@ -679,7 +687,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "ru": [
@@ -746,7 +755,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "tr": [
@@ -813,7 +823,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "zh": [
@@ -880,7 +891,8 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ],
 
   "zh_TW": [
@@ -947,6 +959,7 @@
     "daysLeft",
     "spent",
     "scheduleNotification",
-    "scheduleNotificationDesc"
+    "scheduleNotificationDesc",
+    "subscription"
   ]
 }
