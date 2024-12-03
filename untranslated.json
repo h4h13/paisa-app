@@ -64,7 +64,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "cs": [
@@ -132,7 +134,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "de": [
@@ -200,7 +204,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "es": [
@@ -268,7 +274,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "fr": [
@@ -336,7 +344,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "hi": [
@@ -404,7 +414,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "it": [
@@ -552,7 +564,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "ja": [
@@ -620,7 +634,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "pl": [
@@ -688,7 +704,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "ru": [
@@ -756,7 +774,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "tr": [
@@ -824,7 +844,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "zh": [
@@ -892,7 +914,9 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ],
 
   "zh_TW": [
@@ -960,6 +984,8 @@
     "spent",
     "scheduleNotification",
     "scheduleNotificationDesc",
-    "subscription"
+    "subscription",
+    "website",
+    "websiteDesc"
   ]
 }

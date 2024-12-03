@@ -1558,7 +1558,7 @@
             }
         }
     },
-    "enableFeedback": "Enable feedback",
+    "enableFeedback": "Enable feedback mode",
     "@enableFeedback": {
         "description": "Text shown on the setting option",
         "type": "text"
@@ -1584,7 +1584,7 @@
         "type": "text"
     },
     "selectAImage": "Select a image",
-    "@selectImage": {
+    "@selectAImage": {
         "description": "Text shown on the add goal page",
         "type": "text"
     },
@@ -1604,7 +1604,7 @@
         "type": "text"
     },
     "remaining": "Remaining",
-    "@Remaining": {
+    "@remaining": {
         "description": "Text shown on the goal page",
         "type": "text"
     },
@@ -1635,6 +1635,16 @@
     },
     "subscription": "Subscription",
     "@subscription": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "website": "Website",
+    "@website": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "websiteDesc": "Visit our website for more information",
+    "@websiteDesc": {
         "description": "Text shown on the setting page",
         "type": "text"
     }
