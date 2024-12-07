@@ -1647,5 +1647,10 @@
     "@websiteDesc": {
         "description": "Text shown on the setting page",
         "type": "text"
+    },
+    "defaultCategory": "Default category",
+    "@defaultCategory": {
+        "description": "Text shown on the category page",
+        "type": "text"
     }
 }

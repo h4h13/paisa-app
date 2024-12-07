@@ -66,7 +66,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "cs": [
@@ -136,7 +137,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "de": [
@@ -206,7 +208,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "es": [
@@ -276,7 +279,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "fr": [
@@ -346,7 +350,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "hi": [
@@ -416,7 +421,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "it": [
@@ -566,7 +572,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "ja": [
@@ -636,7 +643,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "pl": [
@@ -706,7 +714,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "ru": [
@@ -776,7 +785,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "tr": [
@@ -846,7 +856,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "zh": [
@@ -916,7 +927,8 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ],
 
   "zh_TW": [
@@ -986,6 +998,7 @@
     "scheduleNotificationDesc",
     "subscription",
     "website",
-    "websiteDesc"
+    "websiteDesc",
+    "defaultCategory"
   ]
 }
