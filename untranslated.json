@@ -67,7 +67,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "cs": [
@@ -138,7 +139,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "de": [
@@ -209,7 +211,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "es": [
@@ -280,7 +283,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "fr": [
@@ -351,7 +355,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "hi": [
@@ -422,7 +427,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "it": [
@@ -573,7 +579,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "ja": [
@@ -644,7 +651,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "pl": [
@@ -715,7 +723,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "ru": [
@@ -786,7 +795,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "tr": [
@@ -857,7 +867,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "zh": [
@@ -928,7 +939,8 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ],
 
   "zh_TW": [
@@ -999,6 +1011,7 @@
     "subscription",
     "website",
     "websiteDesc",
-    "defaultCategory"
+    "defaultCategory",
+    "selectGoal"
   ]
 }

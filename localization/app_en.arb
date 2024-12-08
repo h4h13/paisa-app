@@ -1652,5 +1652,10 @@
     "@defaultCategory": {
         "description": "Text shown on the category page",
         "type": "text"
+    },
+    "selectGoal": "Select goal",
+    "@selectGoal": {
+        "description": "Text shown on the add transaction page",
+        "type": "text"
     }
 }
