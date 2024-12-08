@@ -68,7 +68,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "cs": [
@@ -140,7 +141,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "de": [
@@ -212,7 +214,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "es": [
@@ -284,7 +287,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "fr": [
@@ -356,7 +360,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "hi": [
@@ -428,7 +433,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "it": [
@@ -580,7 +586,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "ja": [
@@ -652,7 +659,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "pl": [
@@ -724,7 +732,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "ru": [
@@ -796,7 +805,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "tr": [
@@ -868,7 +878,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "zh": [
@@ -940,7 +951,8 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ],
 
   "zh_TW": [
@@ -1012,6 +1024,7 @@
     "website",
     "websiteDesc",
     "defaultCategory",
-    "selectGoal"
+    "selectGoal",
+    "seeAll"
   ]
 }
