@@ -938,7 +938,7 @@
         "description": "Text shown on settings page",
         "type": "text"
     },
-    "accountStyleDescription": "Select your preferred account display style : vertical or horizontal",
+    "accountStyleDescription": "Select your preferred account display style vertical or horizontal",
     "@accountStyleDescription": {
         "description": "Text shown on settings page",
         "type": "text"
@@ -1661,6 +1661,11 @@
     "seeAll": "See all",
     "@seeAll": {
         "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "festivalAnimations": "Festival animations",
+    "@festivalAnimations": {
+        "description": "Text shown on the setting page",
         "type": "text"
     }
 }

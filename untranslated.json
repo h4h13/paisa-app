@@ -69,7 +69,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "cs": [
@@ -142,7 +143,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "de": [
@@ -215,7 +217,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "es": [
@@ -288,7 +291,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "fr": [
@@ -361,7 +365,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "hi": [
@@ -434,7 +439,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "it": [
@@ -587,7 +593,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "ja": [
@@ -660,7 +667,12 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
+  ],
+
+  "kn": [
+    "festivalAnimations"
   ],
 
   "pl": [
@@ -733,7 +745,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "ru": [
@@ -806,7 +819,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "tr": [
@@ -879,7 +893,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "zh": [
@@ -952,7 +967,8 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ],
 
   "zh_TW": [
@@ -1025,6 +1041,7 @@
     "websiteDesc",
     "defaultCategory",
     "selectGoal",
-    "seeAll"
+    "seeAll",
+    "festivalAnimations"
   ]
 }
