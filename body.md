@@ -1,4 +1,6 @@
 ##What's New
 
-- Action: When clicking on "Add Transaction", the app crashes. The fix requires updating the default account and toggling the category once, even if it is not being used
-- Fix: Where you want to add goal or budget with default account
+- Top tags are shown in the home page with total amount'
+- Tags transactions number with total amount shown in tags list page
+- Added festival theme for the app
+- Settings UI improved with Android 16 style
