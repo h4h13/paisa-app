@@ -1667,5 +1667,25 @@
     "@festivalAnimations": {
         "description": "Text shown on the setting page",
         "type": "text"
+    },
+    "addSubscription": "Add subscription",
+    "@addSubscription": {
+        "description": "Text shown on the add subscription page title",
+        "type": "text"
+    },
+    "editSubscription": "Edit subscription",
+    "@editSubscription": {
+        "description": "Text shown on the edit subscription page title",
+        "type": "text"
+    },
+    "editGoal": "Edit goal",
+    "@editGoal": {
+        "description": "Text shown on the edit goal page title",
+        "type": "text"
+    },
+    "editBudget": "Edit budget",
+    "@editBudget": {
+        "description": "Text shown on the edit budget page title",
+        "type": "text"
     }
 }

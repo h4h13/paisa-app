@@ -70,7 +70,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "cs": [
@@ -144,7 +148,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "de": [
@@ -218,7 +226,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "es": [
@@ -292,7 +304,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "fr": [
@@ -366,7 +382,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "hi": [
@@ -440,7 +460,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "it": [
@@ -594,7 +618,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "ja": [
@@ -668,11 +696,19 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "kn": [
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "pl": [
@@ -746,7 +782,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "ru": [
@@ -820,7 +860,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "tr": [
@@ -894,7 +938,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "zh": [
@@ -968,7 +1016,11 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ],
 
   "zh_TW": [
@@ -1042,6 +1094,10 @@
     "defaultCategory",
     "selectGoal",
     "seeAll",
-    "festivalAnimations"
+    "festivalAnimations",
+    "addSubscription",
+    "editSubscription",
+    "editGoal",
+    "editBudget"
   ]
 }
