@@ -55,11 +55,6 @@
         "description": "Recurring text shown in the bottom navigation or drawer widget and recurring page toolbar title",
         "type": "text"
     },
-    "debits": "Debits",
-    "@debits": {
-        "description": "Debits text shown in the bottom navigation or drawer widget",
-        "type": "text"
-    },
     "addTransactionTooltip": "Add transaction",
     "@addTransactionTooltip": {
         "description": "Tooltip shown on the home fab button",
@@ -73,11 +68,6 @@
     "addCategoryTooltip": "Add category",
     "@addCategoryTooltip": {
         "description": "Tooltip shown on the category fab button",
-        "type": "text"
-    },
-    "addDebtTooltip": "Add debt",
-    "@addDebtTooltip": {
-        "description": "Tooltip shown on the category debt button",
         "type": "text"
     },
     "addRecurringTooltip": "Add recurring",
@@ -313,7 +303,7 @@
         "description": "Error message shown when biometric authentication fails",
         "type": "text"
     },
-    "emptyAccountMessageTitle": "No accounts are available",
+    "emptyAccountMessageTitle": "No accounts available",
     "@emptyAccountMessageTitle": {
         "description": "Message title text shown on the accounts page",
         "type": "text"
@@ -323,7 +313,7 @@
         "description": "Message sub title text shown on the accounts page",
         "type": "text"
     },
-    "emptyCategoriesMessageTitle": "No categories are available",
+    "emptyCategoriesMessageTitle": "No categories available",
     "@emptyCategoriesMessageTitle": {
         "description": "Message title text shown on the categories page when no categories available",
         "type": "text"
@@ -338,7 +328,7 @@
         "description": "No overview data message",
         "type": "text"
     },
-    "emptyOverviewMessageSubtitle": "To see your spending overview, add your expenses",
+    "emptyOverviewMessageSubtitle": "To see your spending overview, add some transactions",
     "@emptyOverviewMessageSubtitle": {
         "description": "No budget overview description ",
         "type": "text"
@@ -359,12 +349,12 @@
     },
     "dueDate": "End date",
     "@dueDate": {
-        "description": "Text shown on the debt/ credit page when selecting end date",
+        "description": "Text shown on the loan page when selecting end date",
         "type": "text"
     },
     "startDate": "Start date",
     "@startDate": {
-        "description": "Text shown on the debt/ credit page when selecting start date",
+        "description": "Text shown on the loan page when selecting start date",
         "type": "text"
     },
     "socialLinks": "Social links",
@@ -466,9 +456,14 @@
         "description": "Title text shown on the settings page theme button",
         "type": "text"
     },
-    "dynamicColor": "Dynamic",
+    "dynamicColor": "Dynamic color",
     "@dynamicColor": {
         "description": "Text shown on the theme option switch button ",
+        "type": "text"
+    },
+    "dynamicColorDesc": "Change the theme color based on the wallpaper",
+    "@dynamicColorDesc": {
+        "description": "Subtitle text shown on the theme option switch button",
         "type": "text"
     },
     "pickColor": "Pick color",
@@ -681,25 +676,9 @@
     "@transferName": {
         "description": "Transfer name "
     },
-    "credit": "Credit",
-    "@credit": {
-        "description": "Credit "
-    },
-    "credits": "Credits",
-    "@credits": {
-        "description": "Credits "
-    },
     "enterCategory": "Enter category",
     "@enterCategory": {
         "description": "Enter category "
-    },
-    "addDebt": "Add debt",
-    "@addDebt": {
-        "description": "Add debt "
-    },
-    "addCredit": "Add credit",
-    "@addCredit": {
-        "description": "Add credit "
     },
     "enterBudget": "Enter budget",
     "@enterBudget": {
@@ -713,33 +692,9 @@
     "@validDescription": {
         "description": "Enter valid description "
     },
-    "payDebt": "Pay debt",
-    "@payDebt": {
-        "description": "Pay debt "
-    },
-    "payCredit": "Pay credit",
-    "@payCredit": {
-        "description": "Pay credit "
-    },
     "enterAmount": "Enter amount",
     "@enterAmount": {
         "description": "Enter amount "
-    },
-    "emptyDebts": "There are no debits at this time",
-    "@emptyDebts": {
-        "description": "There are no debits at this time "
-    },
-    "emptyDebtsDesc": "Add your debits to see them displayed here",
-    "@emptyDebtsDesc": {
-        "description": "Add your debits here to see them displayed "
-    },
-    "emptyCredit": "There are no credits at this time",
-    "@emptyCredit": {
-        "description": "There are no credits at this time "
-    },
-    "emptyCreditDesc": "Add your credits to see them displayed here",
-    "@emptyCreditDesc": {
-        "description": "Add your credits here to see them displayed "
     },
     "enterInitialAmount": "Enter initial amount",
     "@enterInitialAmount": {
@@ -803,9 +758,9 @@
         "description": "Text shown on the intro screen button",
         "type": "text"
     },
-    "deleteDebtOrCredit": "Deleting the debt or credit deletes all records related to it",
-    "@deleteDebtOrCredit": {
-        "description": "Delete debt or credit ",
+    "deleteLoan": "Deleting the loan deletes all records associated to it",
+    "@deleteLoan": {
+        "description": "Delete loan message",
         "type": "text"
     },
     "emptyBudgetMessageTitle": "No budgets",
@@ -1263,11 +1218,6 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "debit": "Debit",
-    "@debit": {
-        "description": "Text shown on the history page",
-        "type": "text"
-    },
     "overall": "Overall",
     "@overall": {
         "description": "Text shown on the history page",
@@ -1687,5 +1637,112 @@
     "@editBudget": {
         "description": "Text shown on the edit budget page title",
         "type": "text"
+    },
+    "subscriptionNeedsActions": "Subscription needs actions",
+    "@subscriptionNeedsActions": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "deleteGoal": "Deleting the {goalName} goal?",
+    "@deleteGoal": {
+        "description": "Delete goal message",
+        "placeholders": {
+            "goalName": {
+                "type": "String"
+            }
+        }
+    },
+    "deletedGoal": "Goal deleted",
+    "@deletedGoal": {
+        "description": "Snackbar message when goal is deleted"
+    },
+    "subscriptionSubTitle": "{type} • {autoRenew}",
+    "@subscriptionSubTitle": {
+        "description": "Subtitle text shown on the subscription page",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            },
+            "autoRenew": {
+                "type": "String"
+            }
+        }
+    },
+    "autoRenewing": "Auto renewing",
+    "@autoRenewing": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "subscriptionAmountMonthly": "Monthly: {amount}",
+    "@subscriptionAmountMonthly": {
+        "description": "Text shown on the subscription page",
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "subscriptionNextPayment": "Next payment: {date}",
+    "@subscriptionNextPayment": {
+        "description": "Text shown on the subscription page",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "subscriptionRecordPayment": "Record Payment",
+    "@subscriptionRecordPayment": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "loans": "Loans",
+    "@loans": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "lending": "Lending",
+    "@lending": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "borrowing": "Borrowing",
+    "@borrowing": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "addLoan": "Add loan",
+    "@addLoan": {
+        "description": "Text shown on the add loan page title",
+        "type": "text"
+    },
+    "editLoan": "Edit loan",
+    "@editLoan": {
+        "description": "Text shown on the edit loan page title",
+        "type": "text"
+    },
+    "payLoan": "Pay loan",
+    "@payLoan": {
+        "description": "Text shown on the pay loan page title",
+        "type": "text"
+    },
+    "emptyLoansMessageTitle": "No loans",
+    "@emptyLoansMessageTitle": {
+        "description": "Title text shown on the loans page when no loans are available",
+        "type": "text"
+    },
+    "emptyLoansMessageSubTitle": "Add a loan to view it here",
+    "@emptyLoansMessageSubTitle": {
+        "description": "Subtitle text shown on the loans page when no loans are available",
+        "type": "text"
+    },
+    "deleteSubscription": "Deleting the {subscription} subscription?",
+    "@deleteSubscription": {
+        "description": "Delete goal message",
+        "placeholders": {
+            "subscription": {
+                "type": "String"
+            }
+        }
     }
 }
