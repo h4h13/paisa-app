@@ -93,7 +93,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "cs": [
@@ -190,7 +192,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "de": [
@@ -287,7 +291,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "es": [
@@ -384,7 +390,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "fr": [
@@ -481,7 +489,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "hi": [
@@ -578,7 +588,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "it": [
@@ -753,7 +765,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "ja": [
@@ -850,7 +864,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "kn": [
@@ -877,7 +893,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "pl": [
@@ -974,7 +992,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "ru": [
@@ -1071,7 +1091,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "tr": [
@@ -1168,7 +1190,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "zh": [
@@ -1265,7 +1289,9 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ],
 
   "zh_TW": [
@@ -1362,6 +1388,8 @@
     "payLoan",
     "emptyLoansMessageTitle",
     "emptyLoansMessageSubTitle",
-    "deleteSubscription"
+    "deleteSubscription",
+    "noSubscriptions",
+    "emptySubscriptionMessageSubTitle"
   ]
 }

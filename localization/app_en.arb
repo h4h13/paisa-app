@@ -303,12 +303,7 @@
         "description": "Error message shown when biometric authentication fails",
         "type": "text"
     },
-    "emptyAccountMessageTitle": "No accounts available",
-    "@emptyAccountMessageTitle": {
-        "description": "Message title text shown on the accounts page",
-        "type": "text"
-    },
-    "emptyAccountMessageSubTitle": "Add an account to display it here",
+    "emptyAccountMessageSubTitle": "Add a account to view it here",
     "@emptyAccountMessageSubTitle": {
         "description": "Message sub title text shown on the accounts page",
         "type": "text"
@@ -1583,7 +1578,7 @@
         "description": "Text shown on the setting page",
         "type": "text"
     },
-    "subscription": "Subscription",
+    "subscription": "Subscriptions",
     "@subscription": {
         "description": "Text shown on the setting page",
         "type": "text"
@@ -1744,5 +1739,15 @@
                 "type": "String"
             }
         }
+    },
+    "noSubscriptions": "No subscriptions",
+    "@noSubscriptions": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "emptySubscriptionMessageSubTitle": "Add a subscription to view it here",
+    "@emptySubscriptionMessageSubTitle": {
+        "description": "Subtitle text shown on the subscription page when no subscriptions are available",
+        "type": "text"
     }
 }
