@@ -95,7 +95,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "cs": [
@@ -194,7 +196,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "de": [
@@ -293,7 +297,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "es": [
@@ -392,7 +398,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "fr": [
@@ -491,7 +499,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "hi": [
@@ -590,7 +600,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "it": [
@@ -767,7 +779,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "ja": [
@@ -866,7 +880,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "kn": [
@@ -895,7 +911,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "pl": [
@@ -994,7 +1012,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "ru": [
@@ -1093,7 +1113,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "tr": [
@@ -1192,7 +1214,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "zh": [
@@ -1291,7 +1315,9 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ],
 
   "zh_TW": [
@@ -1390,6 +1416,8 @@
     "emptyLoansMessageSubTitle",
     "deleteSubscription",
     "noSubscriptions",
-    "emptySubscriptionMessageSubTitle"
+    "emptySubscriptionMessageSubTitle",
+    "termsOfUse",
+    "aboutPaisa"
   ]
 }

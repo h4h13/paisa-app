@@ -1749,5 +1749,15 @@
     "@emptySubscriptionMessageSubTitle": {
         "description": "Subtitle text shown on the subscription page when no subscriptions are available",
         "type": "text"
+    },
+    "termsOfUse": "Terms of Use",
+    "@termsOfUse": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "aboutPaisa": "About Paisa",
+    "@aboutPaisa": {
+        "description": "Text shown on the setting page",
+        "type": "text"
     }
 }
