@@ -1759,5 +1759,25 @@
     "@aboutPaisa": {
         "description": "Text shown on the setting page",
         "type": "text"
+    },
+    "restorePurchases": "Restore purchases",
+    "@restorePurchases": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "continueText": "Continue",
+    "@continueText": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "featureIncluded": "Feature included",
+    "@featureIncluded": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "paywallText": "Get access to all premium features and support the development",
+    "@featureNotIncluded": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
     }
 }

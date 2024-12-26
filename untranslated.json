@@ -97,7 +97,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "cs": [
@@ -198,7 +202,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "de": [
@@ -299,7 +307,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "es": [
@@ -400,7 +412,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "fr": [
@@ -501,7 +517,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "hi": [
@@ -602,7 +622,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "it": [
@@ -781,7 +805,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "ja": [
@@ -882,7 +910,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "kn": [
@@ -913,7 +945,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "pl": [
@@ -1014,7 +1050,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "ru": [
@@ -1115,7 +1155,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "tr": [
@@ -1216,7 +1260,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "zh": [
@@ -1317,7 +1365,11 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ],
 
   "zh_TW": [
@@ -1418,6 +1470,10 @@
     "noSubscriptions",
     "emptySubscriptionMessageSubTitle",
     "termsOfUse",
-    "aboutPaisa"
+    "aboutPaisa",
+    "restorePurchases",
+    "continueText",
+    "featureIncluded",
+    "paywallText"
   ]
 }
