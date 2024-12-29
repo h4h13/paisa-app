@@ -77,7 +77,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -101,7 +100,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "cs": [
@@ -182,7 +183,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -206,7 +206,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "de": [
@@ -287,7 +289,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -311,7 +312,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "es": [
@@ -392,7 +395,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -416,7 +418,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "fr": [
@@ -497,7 +501,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -521,7 +524,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "hi": [
@@ -602,7 +607,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -626,7 +630,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "it": [
@@ -785,7 +791,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -809,7 +814,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "ja": [
@@ -890,7 +897,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -914,7 +920,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "kn": [
@@ -925,7 +933,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -949,7 +956,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "pl": [
@@ -1030,7 +1039,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -1054,7 +1062,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "ru": [
@@ -1135,7 +1145,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -1159,7 +1168,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "tr": [
@@ -1240,7 +1251,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -1264,7 +1274,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "zh": [
@@ -1345,7 +1357,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -1369,7 +1380,9 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ],
 
   "zh_TW": [
@@ -1450,7 +1463,6 @@
     "editSubscription",
     "editGoal",
     "editBudget",
-    "subscriptionNeedsActions",
     "deleteGoal",
     "deletedGoal",
     "subscriptionSubTitle",
@@ -1474,6 +1486,8 @@
     "restorePurchases",
     "continueText",
     "featureIncluded",
-    "paywallText"
+    "paywallText",
+    "projectedCashFlow",
+    "actionNeeded"
   ]
 }

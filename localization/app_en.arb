@@ -1633,11 +1633,6 @@
         "description": "Text shown on the edit budget page title",
         "type": "text"
     },
-    "subscriptionNeedsActions": "Subscription needs actions",
-    "@subscriptionNeedsActions": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
-    },
     "deleteGoal": "Deleting the {goalName} goal?",
     "@deleteGoal": {
         "description": "Delete goal message",
@@ -1776,8 +1771,18 @@
         "type": "text"
     },
     "paywallText": "Get access to all premium features and support the development",
-    "@featureNotIncluded": {
+    "@paywallText": {
         "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "projectedCashFlow": "Projected Cash Flow",
+    "@projectedCashFlow": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "actionNeeded": "Action needed",
+    "@actionNeeded": {
+        "description": "Text shown on the summary page",
         "type": "text"
     }
 }
