@@ -1784,5 +1784,80 @@
     "@actionNeeded": {
         "description": "Text shown on the summary page",
         "type": "text"
+    },
+    "spendingAnalytics": "Spending Analytics",
+    "@spendingAnalytics": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "monthlyOverview": "Monthly Overview",
+    "@monthlyOverview": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "predictions": "Spending Predictions",
+    "@predictions": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "unusualSpending": "Unusual Spending",
+    "@unusualSpending": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "averageSpending": "Average Spending",
+    "@averageSpending": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "predicted": "Predicted",
+    "@predicted": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "increasing": "Increasing",
+    "@increasing": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "decreasing": "Decreasing",
+    "@decreasing": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "stable": "Stable",
+    "@stable": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "currentSpending": "Current Spending",
+    "@currentSpending": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "averageMonthly": "Monthly Average",
+    "@averageMonthly": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "last6Months": "Last 6 Months",
+    "@last6Months": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "trendingUp": "Trending Up",
+    "@trendingUp": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "trendingDown": "Trending Down",
+    "@trendingDown": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "overallSpending": "Overall Spending",
+    "@overallSpending": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
     }
 }

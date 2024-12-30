@@ -102,7 +102,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "cs": [
@@ -208,7 +223,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "de": [
@@ -314,7 +344,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "es": [
@@ -420,7 +465,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "fr": [
@@ -526,7 +586,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "hi": [
@@ -632,7 +707,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "it": [
@@ -816,7 +906,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "ja": [
@@ -922,7 +1027,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "kn": [
@@ -958,7 +1078,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "pl": [
@@ -1064,7 +1199,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "ru": [
@@ -1170,7 +1320,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "tr": [
@@ -1276,7 +1441,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "zh": [
@@ -1382,7 +1562,22 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ],
 
   "zh_TW": [
@@ -1488,6 +1683,21 @@
     "featureIncluded",
     "paywallText",
     "projectedCashFlow",
-    "actionNeeded"
+    "actionNeeded",
+    "spendingAnalytics",
+    "monthlyOverview",
+    "predictions",
+    "unusualSpending",
+    "averageSpending",
+    "predicted",
+    "increasing",
+    "decreasing",
+    "stable",
+    "currentSpending",
+    "averageMonthly",
+    "last6Months",
+    "trendingUp",
+    "trendingDown",
+    "overallSpending"
   ]
 }
