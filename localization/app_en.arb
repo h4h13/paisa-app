@@ -1859,5 +1859,30 @@
     "@overallSpending": {
         "description": "Text shown on the home page section title",
         "type": "text"
+    },
+    "paisaPro": "Paisa Pro",
+    "@paisaPro": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "notificationTitle": "Daily reminder",
+    "@notificationTitle": {
+        "description": "Text shown on the schedule notification page",
+        "type": "text"
+    },
+    "notificationDesc": "Set a reminder to track your daily transactions",
+    "@notificationDesc": {
+        "description": "Text shown on the schedule notification page",
+        "type": "text"
+    },
+    "notificationTime": "Notification time",
+    "@notificationTime": {
+        "description": "Text shown on the schedule notification page",
+        "type": "text"
+    },
+    "notificationTimeDesc": "Set the time to receive the notification",
+    "@notificationTimeDesc": {
+        "description": "Text shown on the schedule notification page",
+        "type": "text"
     }
 }

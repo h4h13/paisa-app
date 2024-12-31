@@ -117,7 +117,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "cs": [
@@ -238,7 +243,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "de": [
@@ -359,7 +369,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "es": [
@@ -480,7 +495,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "fr": [
@@ -601,7 +621,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "hi": [
@@ -722,7 +747,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "it": [
@@ -921,7 +951,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "ja": [
@@ -1042,7 +1077,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "kn": [
@@ -1093,7 +1133,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "pl": [
@@ -1214,7 +1259,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "ru": [
@@ -1335,7 +1385,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "tr": [
@@ -1456,7 +1511,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "zh": [
@@ -1577,7 +1637,12 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ],
 
   "zh_TW": [
@@ -1698,6 +1763,11 @@
     "last6Months",
     "trendingUp",
     "trendingDown",
-    "overallSpending"
+    "overallSpending",
+    "paisaPro",
+    "notificationTitle",
+    "notificationDesc",
+    "notificationTime",
+    "notificationTimeDesc"
   ]
 }
