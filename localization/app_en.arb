@@ -778,11 +778,6 @@
         "description": "Subtitle text shown on the recurring page when no events available",
         "type": "text"
     },
-    "recurringAction": "Add recurring events",
-    "@recurringAction": {
-        "description": "Text shown on the recurring action button",
-        "type": "text"
-    },
     "sortList": "Sort list",
     "@sortList": {
         "description": "Title text shown on the sort dialog",
@@ -1884,5 +1879,45 @@
     "@notificationTimeDesc": {
         "description": "Text shown on the schedule notification page",
         "type": "text"
+    },
+    "upcoming": "Upcoming",
+    "@upcoming": {
+        "description": "Text shown on the recurring page section title",
+        "type": "text"
+    },
+    "dueTransactions": "Due transactions",
+    "@dueTransactions": {
+        "description": "Text shown on the recurring page section title",
+        "type": "text"
+    },
+    "dueTransaction": "Due transaction",
+    "@dueTransaction": {
+        "description": "Text shown on the recurring page section title",
+        "type": "text"
+    },
+    "paidFromAccount": "Paid from: {accountName}",
+    "@paidFromAccount": {
+        "description": "Text shown on the recurring page",
+        "type": "text",
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "processNow": "Process now",
+    "@processNow": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "monthCompared": "Compared to {amount} last month",
+    "@monthCompared": {
+        "description": "Text shown on the home page section title",
+        "type": "text",
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
     }
 }

@@ -1,6 +1,9 @@
 ##What's New
 
-- Top tags are shown in the home page with total amount'
-- Tags transactions number with total amount shown in tags list page
-- Added festival theme for the app
-- Settings UI improved with Android 16 style
+- Fixed translations some places are not translated
+- Added dismiss keyboard option for all text fields
+- Added Greek language support for the app
+- Removed start and end date for recurring transactions, only due day is enough
+- Customize home screen options with the new settings option
+- Update recurring transactions with new options
+- Subscriptions are merged with new recurring transactions

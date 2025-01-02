@@ -122,7 +122,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "cs": [
@@ -248,7 +254,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "de": [
@@ -374,7 +386,25 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
+  ],
+
+  "el": [
+    "budgets",
+    "dynamicColorDesc",
+    "deleteLoan",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "es": [
@@ -500,7 +530,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "fr": [
@@ -626,7 +662,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "hi": [
@@ -752,7 +794,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "it": [
@@ -956,7 +1004,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "ja": [
@@ -1082,7 +1136,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "kn": [
@@ -1138,7 +1198,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "pl": [
@@ -1264,7 +1330,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "ru": [
@@ -1390,7 +1462,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "tr": [
@@ -1516,7 +1594,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "zh": [
@@ -1642,7 +1726,13 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ],
 
   "zh_TW": [
@@ -1768,6 +1858,12 @@
     "notificationTitle",
     "notificationDesc",
     "notificationTime",
-    "notificationTimeDesc"
+    "notificationTimeDesc",
+    "upcoming",
+    "dueTransactions",
+    "dueTransaction",
+    "paidFromAccount",
+    "processNow",
+    "monthCompared"
   ]
 }
