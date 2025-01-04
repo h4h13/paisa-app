@@ -655,9 +655,15 @@
     "@appRate": {
         "description": "Rate "
     },
-    "appRateDesc": "Love this app? Let us know how we can make it better on the Google Play Store",
+    "appRateDesc": "Love this app? Let us know how we can make it better on the {store}",
     "@appRateDesc": {
-        "description": "Rate "
+        "description": "Text shown on the settings page",
+        "type": "text",
+        "placeholders": {
+            "store": {
+                "type": "String"
+            }
+        }
     },
     "raiseABugOrRequest": "Raise a bug or request",
     "@raiseABugOrRequest": {

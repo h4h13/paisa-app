@@ -283,5 +283,202 @@
     "overall": "Gesamt",
     "selectBudget": "Budget auswählen",
     "budgetUpdated": "Budget aktualisiert",
-    "budgetAdded": "Budget hinzugefügt"
+    "budgetAdded": "Budget hinzugefügt",
+    "dynamicColorDesc": "Änderen Sie die Designfarbe basierend auf dem Hintergrundbild",
+    "deleteLoan": "Das Löschen des Darlehens löscht alle damit verbundenen Datensätze",
+    "name": "Name",
+    "nameAZ": "Name (A-Z)",
+    "nameZA": "Name (Z-A)",
+    "amountLowToHigh": "Betrag (niedrig-hoch)",
+    "amountHighToLow": "Betrag (hoch-niedrig)",
+    "dateOldestFirst": "Datum (alt-neu)",
+    "dateNewestFirst": "Datum (neu-alt)",
+    "reorderAccounts": "Konten neu anordnen",
+    "whatsNew": "Was gibt's Neue",
+    "googleDriveDesc": "Sichern und Wiederherstellen Ihrer Daten auf Google Drive",
+    "googleDriveBackup": "Google Drive",
+    "historyDesc": "Alle Ihre Transaktionen anzeigen",
+    "backupAndRestoreCSV": "CSV-Dateien sichern und wiederherstellen",
+    "backupAndRestoreCSVDesc": "Sichern und Wiederherstellen Ihrer Daten in einer CSV-Datei",
+    "backupAndRestoreJSON": "JSON-Dateien sichern und wiederherstellen",
+    "exportAllData": "Alle Daten exportieren",
+    "exportAllDataDesc": "Alle Daten als CSV-Datei exportieren",
+    "exportAllDataSuccess": "Daten erfolgreich exportiert",
+    "importAllData": "CSV-Datei importieren",
+    "importAllDataDesc": "Importieren Sie alle Daten einer CSV-Datei",
+    "importAllDataSuccess": "Daten erfolgreich exportiert",
+    "createBackupDesc": "Speichern Sie aktuellen Daten in einer Datei",
+    "restoreBackup": "Backup wiederherstellen",
+    "restoreBackupDesc": "Stelle Sie Daten aus einer Datei wieder her",
+    "legacyMigration": "Migration älterer Daten",
+    "createLegacyBackup": "Altdaten-Backup erstellen",
+    "createLegacyBackupDesc": "Speichern Sie Ihre Daten aus einer älteren App-Version in einer Datei",
+    "restoreLegacyBackup": "v6.x.x Backup wiederherstellen",
+    "restoreLegacyBackupV7": "v7.x.x Backup wiederherstellen",
+    "restoreLegacyBackupV7Desc": "Daten aus Backups wiederherstellen, die in Paisa Version 7.0.0 und höher erstellt wurden",
+    "restoreLegacyBackupDesc": "Daten aus Backups wiederherstellen, die in Paisa Version 6.0.0 und älter erstellt wurden",
+    "migrateLegacyData": "Ältere Daten migrieren",
+    "migrateLegacyDataDesc": "Migrieren Sie Ihre Daten von einer älteren App-Version zur aktuellen Version",
+    "dangerZone": "Gefahrenzone",
+    "deleteAllData": "Löscht alle Daten dauerhaft",
+    "resetAllData": "Setze alle Daten zurück",
+    "resetAllDataDesc": "Diese Aktion kann nicht rückgängig gemacht werden. Bist du sicher, dass du alle deine Daten löschen möchtest?",
+    "reset": "Zurücksetzen",
+    "trackBudgets": "Budgets verfolgen",
+    "trackGoals": "Ziele verfolgen",
+    "onTrack": "auf Kurs",
+    "overBudget": "Über dem Budget",
+    "warning": "Warnung",
+    "dailyBudget": "Tagesbudget",
+    "weeklyBudget": "Wochenbudget",
+    "monthlyBudget": "Monatsbudget",
+    "yearlyBudget": "Jahresbudget",
+    "deleteBudget": "Budget löschen?",
+    "deleteBudgetDesc": "Dies hat keine Auswirkungen auf die mit diesem Budget verbundenen Transaktionen",
+    "transactionsCount": "{count, plural,zero{Keine Transaktion hinzugefügt} one{1 Transaktion} other{{count} Transaktionen}}",
+    "@transactionsCount": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "enableFeedback": "Feedbackmodus aktivieren",
+    "enableFeedbackDesc": "Senden Sie Feedback, um die App zu verbessern",
+    "emptyGoalsMessageTitle": "Keine Ziele",
+    "emptyGoalsMessageSubTitle": "Fügen Sie ein Ziel hinzu, um es hier anzuzeigen",
+    "addGoal": "Ziel hinzufügen",
+    "selectAImage": "Bild auswählen",
+    "overViewChartTitle": "Finanzübersicht",
+    "overViewChartSubTitle": "Einkommen vs. Ausgaben",
+    "saved": "Speichern",
+    "remaining": "Verbleibend",
+    "daysLeft": "{count, plural, zero{Keine Tage} one{1 Tag} other{{count} Tage}}",
+    "@daysLeft": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "spent": "Ausgegeben",
+    "scheduleNotification": "Benachrichtigungen planen",
+    "scheduleNotificationDesc": "Setzen Sie eine Erinnerung, um ihre täglichen Transaktionen zu verfolgen",
+    "subscription": "Abonnements",
+    "website": "Webseite",
+    "websiteDesc": "Besuchen Sie unsere Website für weitere Informationen",
+    "defaultCategory": "Standard-Kategorie",
+    "selectGoal": "Ziel auswählen",
+    "seeAll": "Alle anzeigen",
+    "festivalAnimations": "Festival Animationen",
+    "addSubscription": "Abonnement hinzufügen",
+    "editSubscription": "Abonnement bearbeiten",
+    "editGoal": "Ziel bearbeiten",
+    "editBudget": "Budget bearbeiten",
+    "deleteGoal": "Ziel {goalName} löschen?",
+    "@deleteGoal": {
+        "placeholders": {
+            "goalName": {
+                "type": "String"
+            }
+        }
+    },
+    "deletedGoal": "Ziel gelöscht",
+    "subscriptionSubTitle": "{type} • {autoRenew}",
+    "@subscriptionSubTitle": {
+        "placeholders": {
+            "type": {
+                "type": "String"
+            },
+            "autoRenew": {
+                "type": "String"
+            }
+        }
+    },
+    "autoRenewing": "Automatische Verlängerung",
+    "subscriptionAmountMonthly": "Monatlich: {amount}",
+    "@subscriptionAmountMonthly": {
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "subscriptionNextPayment": "Nächste Zahlung: {date}",
+    "@subscriptionNextPayment": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "subscriptionRecordPayment": "Zahlung aufzeichnen",
+    "loans": "Darlehen",
+    "lending": "Verleihen",
+    "borrowing": "Ausleihen",
+    "addLoan": "Darlehen hinzufügen",
+    "editLoan": "Darlehen bearbeiten",
+    "payLoan": "Darlehen bezahlen",
+    "emptyLoansMessageTitle": "Keine Darlehen",
+    "emptyLoansMessageSubTitle": "Fügen Sie ein Darlehen hinzu, um es hier anzuzeigen",
+    "deleteSubscription": "Abonnement {subscription} löschen?",
+    "@deleteSubscription": {
+        "placeholders": {
+            "subscription": {
+                "type": "String"
+            }
+        }
+    },
+    "noSubscriptions": "Keine Abonnements",
+    "emptySubscriptionMessageSubTitle": "Fügen Sie ein Abonnement hinzu, um es hier anzuzeigen",
+    "termsOfUse": "Nutzungsbedingungen",
+    "aboutPaisa": "Über Paisa",
+    "restorePurchases": "Käufe wiederherstellen",
+    "continueText": "Fortfahren",
+    "featureIncluded": "Enthaltene Funktionen",
+    "paywallText": "Erhalten Sie Zugriff auf alle Premium-Funktionen und unterstützen Sie die Entwicklung",
+    "projectedCashFlow": "Prognostizierter Cashflow",
+    "actionNeeded": "Maßnahmen erforderlich",
+    "spendingAnalytics": "Ausgabenanalyse",
+    "monthlyOverview": "Monatsübersicht",
+    "predictions": "Ausgabenprognosen",
+    "unusualSpending": "Ungewöhnliche Ausgaben",
+    "averageSpending": "Durchschnittliche Ausgaben",
+    "predicted": "Vorhersage",
+    "increasing": "Steigend",
+    "decreasing": "Sinkend",
+    "stable": "Stabil",
+    "currentSpending": "Aktuelle Ausgaben",
+    "averageMonthly": "Monatsdurchschnitt",
+    "last6Months": "Letzte 6 Monate",
+    "trendingUp": "Aufwärtstrend",
+    "trendingDown": "Abwärtstrend",
+    "overallSpending": "Gesamtausgaben",
+    "paisaPro": "Paisa Pro",
+    "notificationTitle": "Tägliche Erinnerung",
+    "notificationDesc": "Richten Sie eine Erinnerung ein, um Ihre täglichen Transaktionen zu verfolgen",
+    "notificationTime": "Benachrichtigungszeit",
+    "notificationTimeDesc": "Legen Sie die Zeit für den Empfang der Benachrichtigung fest",
+    "upcoming": "Bevorstehend",
+    "dueTransactions": "Fällige Transaktionen",
+    "dueTransaction": "Fällige Transaktion",
+    "paidFromAccount": "Bezahlt von: {accountName}",
+    "@paidFromAccount": {
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "processNow": "Jetzt abrechnen",
+    "monthCompared": "Im Vergleich zu {amount} im letzten Monat",
+    "@monthCompared": {
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    }
 }
