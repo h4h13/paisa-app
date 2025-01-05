@@ -1294,23 +1294,13 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "backupAndRestoreCSV": "Backup & restore CSV files",
+    "backupAndRestoreCSV": "Backup & restore CSV",
     "@backupAndRestoreCSV": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "backupAndRestoreCSVDesc": "Backup and restore your data to CSV file",
-    "@backupAndRestoreCSVDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "backupAndRestoreJSON": "Backup & restore JSON files",
+    "backupAndRestoreJSON": "Backup & restore",
     "@backupAndRestoreJSON": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "backupAndRestoreJSONDesc": "Backup and restore your data to JSON file",
-    "@backupAndRestoreJSONDesc": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
@@ -1354,7 +1344,7 @@
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "createBackupDesc": "Save your current data to a file",
+    "createBackupDesc": "Backup your transactions, accounts, categories, goals, and more",
     "@createBackupDesc": {
         "description": "Text shown on the export and import page",
         "type": "text"
@@ -1364,53 +1354,8 @@
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "restoreBackupDesc": "Restore your data from a file",
+    "restoreBackupDesc": "Restore your transactions, accounts, categories, goals, and more",
     "@restoreBackupDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "legacyMigration": "Legacy Data Migration",
-    "@legacyMigration": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "createLegacyBackup": "Create legacy backup",
-    "@createLegacyBackup": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "createLegacyBackupDesc": "Save your data from older app version to a file",
-    "@createLegacyBackupDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "restoreLegacyBackup": "Restore v6.x.x backup",
-    "@restoreLegacyBackup": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "restoreLegacyBackupV7": "Restore v7.x.x backup",
-    "@restoreLegacyBackupV7": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "restoreLegacyBackupV7Desc": "Restore data from backups created in Paisa version 7.0.0 and above",
-    "@restoreLegacyBackupV7Desc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "restoreLegacyBackupDesc": "Restore data from backups created in Paisa version 6.0.0 and below",
-    "@restoreLegacyBackupDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "migrateLegacyData": "Migrate legacy data",
-    "@migrateLegacyData": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "migrateLegacyDataDesc": "Migrate your data from older app version to the current version",
-    "@migrateLegacyDataDesc": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
