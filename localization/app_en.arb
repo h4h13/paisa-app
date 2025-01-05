@@ -1925,5 +1925,28 @@
                 "type": "String"
             }
         }
+    },
+    "deleteTag": "Are you sure you want to delete this {tag} tag?",
+    "@deleteTag": {
+        "description": "Text shown on the delete tag dialog",
+        "type": "text",
+        "placeholders": {
+            "tag": {
+                "type": "String"
+            }
+        }
+    },
+    "tagSubtitle": "{tagCount} transactions • {transactionTotal}",
+    "@tagSubtitle": {
+        "description": "Text shown on the delete tag dialog",
+        "type": "text",
+        "placeholders": {
+            "tagCount": {
+                "type": "int"
+            },
+            "transactionTotal": {
+                "type": "String"
+            }
+        }
     }
 }
