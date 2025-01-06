@@ -238,18 +238,8 @@
         "description": "Text shown on the account page chip button",
         "type": "text"
     },
-    "cardHolder": "Cardholder name",
-    "@cardHolder": {
-        "description": "Text shown on the account page as textfield hint",
-        "type": "text"
-    },
     "accountName": "Account name",
     "@accountName": {
-        "description": "Text shown on the account page as textfield hint",
-        "type": "text"
-    },
-    "lastFourDigit": "Last four digit number",
-    "@lastFourDigit": {
         "description": "Text shown on the account page as textfield hint",
         "type": "text"
     },
@@ -261,11 +251,6 @@
     "updatedAccount": "Account updated",
     "@updatedAccount": {
         "description": "Successful message when account updated",
-        "type": "text"
-    },
-    "deletedAccount": "Account deleted",
-    "@deletedAccount": {
-        "description": "Successful message when account deleted",
         "type": "text"
     },
     "deletedCategory": "Category deleted",
@@ -296,11 +281,6 @@
     "selectCurrency": "Select currency",
     "@selectCurrency": {
         "description": "Toolbar title text shown on choosing the currency",
-        "type": "text"
-    },
-    "errorAuth": "Authentication error",
-    "@errorAuth": {
-        "description": "Error message shown when biometric authentication fails",
         "type": "text"
     },
     "emptyAccountMessageSubTitle": "Add a account to view it here",
@@ -446,11 +426,6 @@
         "description": "Text shown on the one of the theme option",
         "type": "text"
     },
-    "accentColor": "Primary color",
-    "@accentColor": {
-        "description": "Title text shown on the settings page theme button",
-        "type": "text"
-    },
     "dynamicColor": "Dynamic color",
     "@dynamicColor": {
         "description": "Text shown on the theme option switch button ",
@@ -464,16 +439,6 @@
     "pickColor": "Pick color",
     "@pickColor": {
         "description": "Title text shown on the color picker",
-        "type": "text"
-    },
-    "pickColorDesc": "Set color to your category",
-    "@pickColorDesc": {
-        "description": "Subtitle text shown on the category color picker button",
-        "type": "text"
-    },
-    "pickColorAccountDesc": "Set color to your account",
-    "@pickColorAccountDesc": {
-        "description": "Subtitle text shown on the account color picker button",
         "type": "text"
     },
     "colors": "Colors",
@@ -541,11 +506,6 @@
         "description": "Image desc ",
         "type": "text"
     },
-    "setBudget": "Set budget for category",
-    "@setBudget": {
-        "description": "Text shown on the category screen for setting budget",
-        "type": "text"
-    },
     "income": "Income",
     "@income": {
         "description": "Text shown on multiple places",
@@ -576,16 +536,6 @@
         "description": "Message shown on the search screen",
         "type": "text"
     },
-    "emptyExpensesMessageTitle": "No expenses yet?",
-    "@emptyExpensesMessageTitle": {
-        "description": "Title message shown on the page when there are no expenses",
-        "type": "text"
-    },
-    "emptyExpensesMessageSubTitle": "If there are no expenses, start by adding an expense to see it displayed here",
-    "@emptyExpensesMessageSubTitle": {
-        "description": "Subtitle message shown on the page when there are no expenses",
-        "type": "text"
-    },
     "selectIconTitle": "Select icon",
     "@selectIconTitle": {
         "description": "Title text shown on the button in category page",
@@ -611,44 +561,9 @@
         "description": "Text shown on the button on settings screen",
         "type": "text"
     },
-    "expenseByCategory": "Expense by category",
-    "@expenseByCategory": {
-        "description": "Text shown on the toolbar title",
-        "type": "text"
-    },
-    "transactionsByCategory": "Transactions by category",
-    "@transactionsByCategory": {
-        "description": "Text shown on the toolbar title",
-        "type": "text"
-    },
     "backupAndRestoreTitle": "Backup & restore",
     "@backupAndRestoreTitle": {
         "description": "Text shown on the toolbar title",
-        "type": "text"
-    },
-    "backupAndRestoreSubTitle": "Backup and restore your data as JSON file",
-    "@backupAndRestoreSubTitle": {
-        "description": "Subtitle text shown on the setting button",
-        "type": "text"
-    },
-    "creatingBackup": "Creating backup",
-    "@creatingBackup": {
-        "description": "Message shown when the backup is initiated",
-        "type": "text"
-    },
-    "creatingBackupSuccess": "Backup successful",
-    "@creatingBackupSuccess": {
-        "description": "Message shown when the importing backup file",
-        "type": "text"
-    },
-    "restoringBackup": "Restoring backup",
-    "@restoringBackup": {
-        "description": "Message shown when the importing backup file",
-        "type": "text"
-    },
-    "restoringBackupSuccess": "Restoring successful",
-    "@restoringBackupSuccess": {
-        "description": "Message shown when the importing backup file",
         "type": "text"
     },
     "appRate": "Rate the app",
@@ -665,14 +580,6 @@
             }
         }
     },
-    "raiseABugOrRequest": "Raise a bug or request",
-    "@raiseABugOrRequest": {
-        "description": "Raise a bug or request "
-    },
-    "raiseABugOrRequestDesc": "Found a bug or need a feature to be implemented? Ask away!",
-    "@raiseABugOrRequestDesc": {
-        "description": "Found a bug or need a feature to implement ask away "
-    },
     "transferName": "Transfer name",
     "@transferName": {
         "description": "Transfer name "
@@ -681,29 +588,13 @@
     "@enterCategory": {
         "description": "Enter category "
     },
-    "enterBudget": "Enter budget",
-    "@enterBudget": {
-        "description": "Enter budget "
-    },
     "enterDescription": "Enter description",
     "@enterDescription": {
         "description": "Enter description "
     },
-    "validDescription": "Enter valid description",
-    "@validDescription": {
-        "description": "Enter valid description "
-    },
     "enterAmount": "Enter amount",
     "@enterAmount": {
         "description": "Enter amount "
-    },
-    "enterInitialAmount": "Enter initial amount",
-    "@enterInitialAmount": {
-        "description": "Enter initial amount "
-    },
-    "enterNumberOptional": "Enter last 4 digit (optional)",
-    "@enterNumberOptional": {
-        "description": "Optional number"
     },
     "enterAccountName": "Enter account name",
     "@enterAccountName": {
@@ -717,42 +608,13 @@
     "@search": {
         "description": "Search "
     },
-    "addNew": "Add new",
-    "@addNew": {
-        "description": "Add new "
-    },
     "delete": "Delete",
     "@delete": {
-        "description": "Delete "
-    },
-    "appBarSearch": "Search expenses, accounts, categories",
-    "@appBarSearch": {
         "description": "Delete "
     },
     "noTransaction": "Empty in transaction",
     "@noTransaction": {
         "description": "Empty in transaction"
-    },
-    "enterSymbol": "Enter symbol",
-    "@enterSymbol": {
-        "description": "Enter symbol"
-    },
-    "leftSymbol": "Symbol on left",
-    "@leftSymbol": {
-        "description": "Symbol on left "
-    },
-    "rightSymbol": "Symbol on right",
-    "@rightSymbol": {
-        "description": "Symbol on right "
-    },
-    "customSymbol": "Custom symbol",
-    "@customSymbol": {
-        "description": "Custom symbol "
-    },
-    "intoTitle": "Simple way to help control your savings",
-    "@intoTitle": {
-        "description": "Title text shown on the intro page",
-        "type": "text"
     },
     "introCTA": "Get started",
     "@introCTA": {
@@ -782,11 +644,6 @@
     "recurringEmptyMessageSubTitle": "Add recurring events to view them here",
     "@recurringEmptyMessageSubTitle": {
         "description": "Subtitle text shown on the recurring page when no events available",
-        "type": "text"
-    },
-    "sortList": "Sort list",
-    "@sortList": {
-        "description": "Title text shown on the sort dialog",
         "type": "text"
     },
     "smallSizeFab": "Small size FAB",
@@ -834,29 +691,9 @@
         "description": "Text shown on the biometric screen below icon",
         "type": "text"
     },
-    "addedCategories": "Added categories",
-    "@addedCategories": {
-        "description": "Text shown on the add category section title",
-        "type": "text"
-    },
     "back": "Back",
     "@back": {
         "description": "Text shown on the button on intro page",
-        "type": "text"
-    },
-    "recommendedCategories": "Recommended categories",
-    "@recommendedCategories": {
-        "description": "Text shown on the add category section title",
-        "type": "text"
-    },
-    "addedAccounts": "Selected accounts",
-    "@addedAccounts": {
-        "description": "Text shown on the add account section title",
-        "type": "text"
-    },
-    "recommendedAccounts": "Recommended accounts",
-    "@recommendedAccounts": {
-        "description": "Text shown on the add account section title",
         "type": "text"
     },
     "total": "Total",
@@ -877,11 +714,6 @@
     "chooseIcon": "Choose icon",
     "@chooseIcon": {
         "description": "Title text shown on the icon chooser screen",
-        "type": "text"
-    },
-    "transferCategory": "Transfer category",
-    "@transferCategory": {
-        "description": "Text shown add category page for add default category ",
         "type": "text"
     },
     "accountStyle": "Account style",
@@ -912,16 +744,6 @@
     "fontStyle": "Font style",
     "@fontStyle": {
         "description": "Text shown on settings page",
-        "type": "text"
-    },
-    "fontStyleDescription": "Change the font style to personalize your app's appearance. Select from various font options to suit your preferences and enhance readability.",
-    "@fontStyleDescription": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
-    "chooseFont": "Choose font",
-    "@chooseFont": {
-        "description": "Text shown on font selection dialog title",
         "type": "text"
     },
     "chooseAppLanguage": "Choose language",
@@ -957,26 +779,6 @@
     "accountColorError": "Set account color name",
     "@accountColorError": {
         "description": "Text shown on snackbar when adding account",
-        "type": "text"
-    },
-    "emptySelectedAccountsInfo": "Select account from above to start",
-    "@emptySelectedAccountsInfo": {
-        "description": "Text shown on intro page accounts info",
-        "type": "text"
-    },
-    "emptyRecommendedAccountsInfo": "No accounts left to add",
-    "@emptyRecommendedAccountsInfo": {
-        "description": "Text shown on intro page accounts info",
-        "type": "text"
-    },
-    "transferCategorySubtitle": "Allow transfers between accounts",
-    "@transferCategorySubtitle": {
-        "description": "Text shown add category page for add default category ",
-        "type": "text"
-    },
-    "currencySelectorError": "Please select currency",
-    "@currencySelectorError": {
-        "description": "Text shown when the currency is not selected",
         "type": "text"
     },
     "justBlackText": "Just black",
@@ -1024,34 +826,9 @@
         "description": "Text shown on the setting page for clear data",
         "type": "text"
     },
-    "clearData": "Clear data",
-    "@clearData": {
-        "description": "Text shown on the setting page for clear data",
-        "type": "text"
-    },
-    "clearDataDesc": "Clear all data and start fresh",
-    "@clearDataDesc": {
-        "description": "Text shown on the setting page for clear data",
-        "type": "text"
-    },
     "clear": "Clear",
     "@clear": {
         "description": "Text shown on the setting page for clear data",
-        "type": "text"
-    },
-    "enableAds": "Enable Ads",
-    "@enableAds": {
-        "description": "Text shown on the setting option",
-        "type": "text"
-    },
-    "enableAdsDesc": "Ads to support the development of the app",
-    "@enableAdsDesc": {
-        "description": "Text shown on the setting option",
-        "type": "text"
-    },
-    "supportDevelopment": "Support development",
-    "@supportDevelopment": {
-        "description": "Text shown on the setting option",
         "type": "text"
     },
     "changeLog": "Changelog",
@@ -1062,26 +839,6 @@
     "calenderHeatMap": "Calendar heatmap",
     "@calenderHeatMap": {
         "description": "Subtitle text shown on the summary page in home",
-        "type": "text"
-    },
-    "privacyPolicyAgreeButton": "I agree to the privacy policy",
-    "@privacyPolicyAgreeButton": {
-        "description": "Text shown on the privacy policy page",
-        "type": "text"
-    },
-    "adsConsent": "Ads Consent",
-    "@adsConsent": {
-        "description": "Text shown on the privacy policy page",
-        "type": "text"
-    },
-    "adsConsentDesc": "We use ads to keep our app free. Please read our privacy policy and consent to our ad usage.",
-    "@adsConsentDesc": {
-        "description": "Text shown on the privacy policy page",
-        "type": "text"
-    },
-    "readOur": "Read our ",
-    "@readOur": {
-        "description": "Text shown on the privacy policy page",
         "type": "text"
     },
     "accountIconError": "Set account icon",
@@ -1152,21 +909,6 @@
     "createBackup": "Create backup",
     "@createBackup": {
         "description": "Text shown on the Google backup and restore page",
-        "type": "text"
-    },
-    "categoryWise": "Category wise",
-    "@categoryWise": {
-        "description": "Text shown on the overview page section title",
-        "type": "text"
-    },
-    "startFresh": "Start fresh",
-    "@startFresh": {
-        "description": "Text shown on the intro page for button to start the fresh app",
-        "type": "text"
-    },
-    "importBackup": "Import backup",
-    "@importBackup": {
-        "description": "Text shown on the import backup page",
         "type": "text"
     },
     "addBudget": "Add budget",
@@ -1294,13 +1036,13 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "backupAndRestoreCSV": "Backup & restore CSV",
-    "@backupAndRestoreCSV": {
+    "exportImportCSVFile": "Export/Import CSV File",
+    "@exportImportCSVFile": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "backupAndRestoreJSON": "Backup & restore",
-    "@backupAndRestoreJSON": {
+    "dataBackupAndRestore": "Data Backup & Restore",
+    "@dataBackupAndRestore": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
@@ -1336,11 +1078,6 @@
     },
     "importAllDataDesc": "Import all your data from a CSV file",
     "@importAllDataDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "importAllDataSuccess": "Data imported successfully",
-    "@importAllDataSuccess": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
@@ -1386,11 +1123,6 @@
     },
     "trackBudgets": "Track budgets",
     "@trackBudgets": {
-        "description": "Text shown on the home page section title",
-        "type": "text"
-    },
-    "trackGoals": "Track goals",
-    "@trackGoals": {
         "description": "Text shown on the home page section title",
         "type": "text"
     },
@@ -1554,16 +1286,6 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
-    "festivalAnimations": "Festival animations",
-    "@festivalAnimations": {
-        "description": "Text shown on the setting page",
-        "type": "text"
-    },
-    "addSubscription": "Add subscription",
-    "@addSubscription": {
-        "description": "Text shown on the add subscription page title",
-        "type": "text"
-    },
     "editSubscription": "Edit subscription",
     "@editSubscription": {
         "description": "Text shown on the edit subscription page title",
@@ -1604,20 +1326,6 @@
             }
         }
     },
-    "autoRenewing": "Auto renewing",
-    "@autoRenewing": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
-    },
-    "subscriptionAmountMonthly": "Monthly: {amount}",
-    "@subscriptionAmountMonthly": {
-        "description": "Text shown on the subscription page",
-        "placeholders": {
-            "amount": {
-                "type": "String"
-            }
-        }
-    },
     "subscriptionNextPayment": "Next payment: {date}",
     "@subscriptionNextPayment": {
         "description": "Text shown on the subscription page",
@@ -1626,11 +1334,6 @@
                 "type": "String"
             }
         }
-    },
-    "subscriptionRecordPayment": "Record Payment",
-    "@subscriptionRecordPayment": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
     },
     "loans": "Loans",
     "@loans": {
@@ -1681,16 +1384,6 @@
             }
         }
     },
-    "noSubscriptions": "No subscriptions",
-    "@noSubscriptions": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
-    },
-    "emptySubscriptionMessageSubTitle": "Add a subscription to view it here",
-    "@emptySubscriptionMessageSubTitle": {
-        "description": "Subtitle text shown on the subscription page when no subscriptions are available",
-        "type": "text"
-    },
     "termsOfUse": "Terms of Use",
     "@termsOfUse": {
         "description": "Text shown on the setting page",
@@ -1719,11 +1412,6 @@
     "paywallText": "Get access to all premium features and support the development",
     "@paywallText": {
         "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "projectedCashFlow": "Projected Cash Flow",
-    "@projectedCashFlow": {
-        "description": "Text shown on the home page section title",
         "type": "text"
     },
     "actionNeeded": "Action needed",
@@ -1893,5 +1581,10 @@
                 "type": "String"
             }
         }
+    },
+    "topTags": "Top Tags",
+    "@topTags": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
     }
 }
