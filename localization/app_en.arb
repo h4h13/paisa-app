@@ -1586,5 +1586,53 @@
     "@topTags": {
         "description": "Text shown on the home page section title",
         "type": "text"
+    },
+    "filter": "Filter",
+    "@filter": {
+        "description": "Text shown on the overview page",
+        "type": "text"
+    },
+    "selectDateRange": "Select Date Range",
+    "@selectDateRange": {
+        "description": "Text shown on the overview page",
+        "type": "text"
+    },
+    "dateRange": "{start} - {end}",
+    "@dateRange": {
+        "description": "Text shown on the overview page",
+        "type": "text",
+        "placeholders": {
+            "start": {
+                "type": "String"
+            },
+            "end": {
+                "type": "String"
+            }
+        }
+    },
+    "apply": "Apply",
+    "@apply": {
+        "description": "Text shown on the overview page",
+        "type": "text"
+    },
+    "selectedDays": "{days} days",
+    "@selectedDays": {
+        "description": "Text shown on the overview page",
+        "type": "text",
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
+    "accountDetails": "Account Details",
+    "@accountDetails": {
+        "description": "Text shown on the account details page",
+        "type": "text"
+    },
+    "spending": "Spending",
+    "@spending": {
+        "description": "Text shown on the account details page",
+        "type": "text"
     }
 }

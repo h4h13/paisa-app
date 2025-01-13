@@ -2,7 +2,14 @@
   "ar": [
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "be": [
@@ -78,7 +85,14 @@
     "continueText",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "cs": [
@@ -153,7 +167,14 @@
     "continueText",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "da": [
@@ -193,13 +214,27 @@
     "exportAllDataDesc",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "de": [
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "el": [
@@ -214,11 +249,25 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "es": [
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "fr": [
@@ -333,7 +382,14 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "he": [
@@ -449,7 +505,14 @@
     "predicted",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "hi": [
@@ -564,13 +627,27 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "id": [
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "it": [
@@ -743,7 +820,14 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "ja": [
@@ -781,7 +865,14 @@
     "addGoal",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "kn": [
@@ -838,7 +929,14 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "ko": [
@@ -883,7 +981,14 @@
     "addGoal",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "nl": [
@@ -924,7 +1029,14 @@
     "addGoal",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "pl": [
@@ -1039,25 +1151,53 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "pt": [
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "pt_BR": [
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "ru": [
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "sv": [
@@ -1096,7 +1236,14 @@
     "exportAllDataDesc",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "tr": [
@@ -1211,7 +1358,14 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "uk": [
@@ -1286,7 +1440,14 @@
     "continueText",
     "deleteTag",
     "tagSubtitle",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "vi": [
@@ -1384,7 +1545,14 @@
     "resetAllData",
     "resetAllDataDesc",
     "reset",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "zh": [
@@ -1446,7 +1614,14 @@
     "stable",
     "currentSpending",
     "averageMonthly",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ],
 
   "zh_TW": [
@@ -1508,6 +1683,13 @@
     "stable",
     "currentSpending",
     "averageMonthly",
-    "topTags"
+    "topTags",
+    "filter",
+    "selectDateRange",
+    "dateRange",
+    "apply",
+    "selectedDays",
+    "accountDetails",
+    "spending"
   ]
 }
