@@ -391,6 +391,16 @@
         "description": "Delete expense message",
         "type": "text"
     },
+    "dialogDeleteBackupMessage": "Are you sure you want to delete {fileName}?",
+    "@dialogDeleteBackupMessage": {
+        "description": "Delete backup message",
+        "type": "text",
+        "placeholders": {
+            "fileName": {
+                "type": "String"
+            }
+        }
+    },
     "dialogDeleteTitle": "Permanently delete?",
     "@dialogDeleteTitle": {
         "description": "Permanently delete ",
@@ -686,7 +696,7 @@
         "description": "Text shown on the button biometric screen",
         "type": "text"
     },
-    "biometricMessage": "Touch the fingerprint sensor",
+    "biometricMessage": "To access the app, please authenticate using biometric",
     "@biometricMessage": {
         "description": "Text shown on the biometric screen below icon",
         "type": "text"
@@ -1026,7 +1036,7 @@
         "description": "Text shown on the setting page",
         "type": "text"
     },
-    "googleDriveBackup": "Google Drive",
+    "googleDriveBackup": "Google Drive Backup",
     "@googleDriveBackup": {
         "description": "Text shown on the setting page",
         "type": "text"
@@ -1036,7 +1046,7 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "exportImportCSVFile": "Export/Import CSV File",
+    "exportImportCSVFile": "Export/Import CSV",
     "@exportImportCSVFile": {
         "description": "Text shown on the export and import page",
         "type": "text"
@@ -1046,18 +1056,8 @@
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "exportData": "Export data",
-    "@exportData": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
     "exportAllData": "Export all data",
     "@exportAllData": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "exportAllDataDesc": "Export all your data to CSV file",
-    "@exportAllDataDesc": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
@@ -1633,6 +1633,379 @@
     "spending": "Spending",
     "@spending": {
         "description": "Text shown on the account details page",
+        "type": "text"
+    },
+    "export": "Export",
+    "@export": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "import": "Import",
+    "@import": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "exportCSV": "Export all transactions data to CSV, not recommended for importing data",
+    "@exportCSV": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "dataImportedExportCSV": "Import/Export CSV",
+    "@dataImportedExportCSV": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "paisaProDesc": "Get the pro version to unlock all the features",
+    "@paisaProDesc": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "information": "Information!",
+    "@information": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "subscriptionInfo": "Subscription automatically renews unless canceled at least 24 hours before the end of the current period. You can cancel anytime through your {store} settings. Payment will be charged to your {account} account.",
+    "@subscriptionInfo": {
+        "description": "Text shown on the paywall page",
+        "type": "text",
+        "placeholders": {
+            "store": {
+                "type": "String"
+            },
+            "account": {
+                "type": "String"
+            }
+        }
+    },
+    "notificationTitle1": "Track Your Spending 📝",
+    "@notificationTitle1": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody1": "Take a moment to log your expenses and stay on top of your finances!",
+    "@notificationBody1": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle2": "Money Check ✨",
+    "@notificationTitle2": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody2": "Did you make any purchases today? Log them now to maintain accurate records.",
+    "@notificationBody2": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle3": "Expense Update Time 🕒",
+    "@notificationTitle3": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody3": "Keep your financial goals on track by logging your daily expenses.",
+    "@notificationBody3": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle4": "Financial Wellness Check 💪",
+    "@notificationTitle4": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody4": "Stay in control of your money - log your expenses for the day.",
+    "@notificationBody4": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle5": "Quick Money Update 💰",
+    "@notificationTitle5": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody5": "A few seconds to log expenses now saves hours of tracking later!",
+    "@notificationBody5": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle6": "Budget Check-in 📊",
+    "@notificationTitle6": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody6": "Stay within your budget by tracking every expense. Log them now!",
+    "@notificationBody6": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle7": "Expense Logger Reminder 📱",
+    "@notificationTitle7": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody7": "Keep your finances organized - add today's expenses to Paisa.",
+    "@notificationBody7": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationTitle8": "Daily Finance Update ⭐",
+    "@notificationTitle8": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "notificationBody8": "Maintain your financial health by logging your daily expenses.",
+    "@notificationBody8": {
+        "description": "Text shown on the notification page",
+        "type": "text"
+    },
+    "welcomeLateNight1": "Still awake, {name}? Time to check those finances!",
+    "@welcomeLateNight1": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeLateNight2": "Midnight budgeting, {name}? That's dedication!",
+    "@welcomeLateNight2": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeLateNight3": "Hey night owl {name}! Managing money never sleeps, eh?",
+    "@welcomeLateNight3": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeLateNight4": "Late night money moves, {name}?",
+    "@welcomeLateNight4": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeMorning1": "Rise and shine, {name}! Let's make money moves!",
+    "@welcomeMorning1": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeMorning2": "Good morning, {name}! Ready to seize the day?",
+    "@welcomeMorning2": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeMorning3": "Morning, {name}! Your finances await!",
+    "@welcomeMorning3": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeMorning4": "Early bird {name}! Catching those financial worms?",
+    "@welcomeMorning4": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon1": "Having a good day, {name}?",
+    "@welcomeAfternoon1": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon2": "Afternoon check-in, {name}!",
+    "@welcomeAfternoon2": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon3": "Hey there {name}, tracking those expenses?",
+    "@welcomeAfternoon3": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon4": "Making progress, {name}?",
+    "@welcomeAfternoon4": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeEvening1": "Good evening, {name}! Time to review the day?",
+    "@welcomeEvening1": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeEvening2": "Evening, {name}! How're the finances looking?",
+    "@welcomeEvening2": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeEvening3": "Winding down, {name}? Let's check those numbers!",
+    "@welcomeEvening3": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeEvening4": "Evening check-in time, {name}!",
+    "@welcomeEvening4": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeNight1": "Wrapping up the day, {name}?",
+    "@welcomeNight1": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeNight2": "Evening review time, {name}!",
+    "@welcomeNight2": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeNight3": "Hey {name}, before you call it a day...",
+    "@welcomeNight3": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeNight4": "✨ Night-time number crunching, {name}?",
+    "@welcomeNight4": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "biometricAuthFailed": "Biometric authentication failed",
+    "@biometricAuthFailed": {
+        "description": "Text shown on the biometric page",
+        "type": "text"
+    },
+    "autoBackup": "Auto Backup",
+    "@autoBackup": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "autoBackupDescription": "Backup your data automatically when the app is opened",
+    "@autoBackupDescription": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "backupFrequency": "Backup Frequency",
+    "@backupFrequency": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "backupFrequencyDescription": "Backup your data automatically at a specific interval.",
+    "@backupFrequencyDescription": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "backupHistory": "Backup History",
+    "@backupHistory": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "backupFrequencyDays": "'Backup frequency set to {days} days'",
+    "@backupFrequencyDays": {
+        "description": "Text shown on the settings page",
+        "type": "text",
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
+    "noBackupFilesFound": "No backup files found",
+    "@noBackupFilesFound": {
+        "description": "Text shown on the backup page",
+        "type": "text"
+    },
+    "pleaseSelectABackupFile": "Please select a backup file",
+    "@pleaseSelectABackupFile": {
+        "description": "Text shown on the backup page",
         "type": "text"
     }
 }
