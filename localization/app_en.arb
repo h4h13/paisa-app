@@ -357,7 +357,7 @@
         "description": "Title text shown on settings page for github button ",
         "type": "text"
     },
-    "githubText": "Fork the project on GitHub",
+    "githubText": "Check out the releases and changelog",
     "@githubText": {
         "description": "Subtitle text shown on the github button",
         "type": "text"
@@ -2006,6 +2006,86 @@
     "pleaseSelectABackupFile": "Please select a backup file",
     "@pleaseSelectABackupFile": {
         "description": "Text shown on the backup page",
+        "type": "text"
+    },
+    "completed": "Completed",
+    "@completed": {
+        "description": "Text shown on the goals page",
+        "type": "text"
+    },
+    "active": "Active",
+    "@active": {
+        "description": "Text shown on the goals page",
+        "type": "text"
+    },
+    "from": "From: {date}",
+    "@from": {
+        "description": "Text shown on the goals page",
+        "type": "text",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "to": "To: {date}",
+    "@to": {
+        "description": "Text shown on the goals page",
+        "type": "text",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "dailyAmount": "Daily: {amount}",
+    "@dailyAmount": {
+        "description": "Text shown on the goals page",
+        "type": "text",
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "goalAchieved": "Goal Achieved! Tap to complete",
+    "@goalAchieved": {
+        "description": "Text shown on the goals page",
+        "type": "text"
+    },
+    "goalAchievedDialogTitle": "Goal Achieved!",
+    "@goalAchievedDialogTitle": {
+        "description": "Text shown on the goals page",
+        "type": "text"
+    },
+    "goalAchievedDialogContent": "Congratulations! You've reached your goal of {amount}. Would you like to mark this goal as completed?",
+    "@goalAchievedDialogContent": {
+        "description": "Text shown on the goals page",
+        "type": "text",
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "markAsCompleted": "Mark as Completed",
+    "@markAsCompleted": {
+        "description": "Text shown on the goals page",
+        "type": "text"
+    },
+    "welcomeWeekend": "Happy weekend, {name}! Don't forget to track those fun expenses!",
+    "@welcomeWeekend": {
+        "description": "Text shown on the welcome page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "copy": "Copy",
+    "@copy": {
+        "description": "Text shown on the transaction details page",
         "type": "text"
     }
 }

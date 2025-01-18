@@ -16,18 +16,6 @@
     "addRecurringTooltip": "Προσθήκη επαναλαμβανόμενων",
     "selectDateRangeTooltip": "Εύρος ημερομηνίας",
     "transactionSubTittleText": "{bankName} • {dateString}",
-    "@transactionSubTittleText": {
-        "description": "Tooltip shown on the overview fab button",
-        "type": "text",
-        "placeholders": {
-            "bankName": {
-                "type": "String"
-            },
-            "dateString": {
-                "type": "String"
-            }
-        }
-    },
     "addCategory": "Προσθήκη Κατηγορίας",
     "addCategoryEmptyTitle": "Καμία κατηγορία",
     "addCategoryEmptySubTitle": "Προσθέστε κατηγορίες για να επιλέξετε",
@@ -84,14 +72,6 @@
     "githubText": "Διαχωρίστε (Fork) το έργο στο GitHub",
     "version": "Έκδοση",
     "versionNumber": "v{version}",
-    "@versionNumber": {
-        "description": "Subtitle text shown on the settings page for button",
-        "placeholders": {
-            "version": {
-                "type": "String"
-            }
-        }
-    },
     "deleteAccount": "Η διαγραφή του λογαριασμού διαγράφει όλες τις δαπάνες που συνδέονται με αυτόν τον λογαριασμό ",
     "deleteCategory": "Η διαγραφή της κατηγορίας διαγράφει όλες τις δαπάνες που συνδέονται με αυτή την κατηγορία ",
     "deleteExpense": "Η δαπάνη θα αφαιρεθεί οριστικά από το λογαριασμό",
@@ -251,15 +231,6 @@
     "deleteBudget": "Διαγραφή προϋπολογισμού;",
     "deleteBudgetDesc": "Αυτό δεν θα επηρεάσει τις συναλλαγές που συνδέονται με αυτόν τον προϋπολογισμό.",
     "transactionsCount": "{count, plural,zero{Καμία συναλλαγή δεν προστέθηκε} one{1 Συναλλαγές} other{{count} συναλλαγές}}",
-    "@transactionsCount": {
-        "description": "Shows the count of transactions in category list",
-        "placeholders": {
-            "count": {
-                "type": "int",
-                "example": "1"
-            }
-        }
-    },
     "enableFeedback": "Ενεργοποίηση λειτουργίας ανατροφοδότησης",
     "enableFeedbackDesc": "Στείλτε σχόλια για να βοηθήσετε στη βελτίωση της εφαρμογής",
     "emptyGoalsMessageTitle": "Κανένας στόχος",
@@ -271,15 +242,6 @@
     "saved": "Εξοικονόμηση",
     "remaining": "Απομένει",
     "daysLeft": "{count, plural, zero{Καμία ημέρα} one{1 ημέρα} other{{count} ημέρες}}",
-    "@daysLeft": {
-        "description": "Text shown on the goal page",
-        "placeholders": {
-            "count": {
-                "type": "int",
-                "example": "1"
-            }
-        }
-    },
     "spent": "Ξοδεμένο",
     "scheduleNotification": "Προγραμματισμός ειδοποίησης",
     "scheduleNotificationDesc": "Ορίστε μια υπενθύμιση για να παρακολουθείτε τις καθημερινές σας συναλλαγές ",
@@ -293,36 +255,9 @@
     "editGoal": "Επεξεργασία στόχου",
     "editBudget": "Επεξεργασία προϋπολογισμού",
     "deleteGoal": "Διαγραφή {goalName} στόχου;",
-    "@deleteGoal": {
-        "description": "Delete goal message",
-        "placeholders": {
-            "goalName": {
-                "type": "String"
-            }
-        }
-    },
     "deletedGoal": "Στόχος διαγράφηκε",
     "subscriptionSubTitle": "{type} • {autoRenew}",
-    "@subscriptionSubTitle": {
-        "description": "Subtitle text shown on the subscription page",
-        "placeholders": {
-            "type": {
-                "type": "String"
-            },
-            "autoRenew": {
-                "type": "String"
-            }
-        }
-    },
     "subscriptionNextPayment": "Επόμενη πληρωμή: {date}",
-    "@subscriptionNextPayment": {
-        "description": "Text shown on the subscription page",
-        "placeholders": {
-            "date": {
-                "type": "String"
-            }
-        }
-    },
     "loans": "Δάνεια",
     "lending": "Δανεισμός",
     "borrowing": "Δανειοδότηση",
@@ -332,14 +267,6 @@
     "emptyLoansMessageTitle": "Κανένα δάνειο",
     "emptyLoansMessageSubTitle": "Προσθέστε ένα δάνειο για να το δείτε εδώ",
     "deleteSubscription": "Διαγραφή της συνδρομής {subscription};",
-    "@deleteSubscription": {
-        "description": "Delete goal message",
-        "placeholders": {
-            "subscription": {
-                "type": "String"
-            }
-        }
-    },
     "termsOfUse": "Όροι Χρήσης",
     "aboutPaisa": "Σχετικά με την Paisa",
     "restorePurchases": "Επαναφορά αγοράς",
@@ -366,5 +293,77 @@
     "notificationTitle": "Καθημερινή υπενθύμιση",
     "notificationDesc": "Ορίστε μια υπενθύμιση για να παρακολουθείτε τις καθημερινές σας συναλλαγές",
     "notificationTime": "Χρόνος ειδοποίησης",
-    "notificationTimeDesc": "Ορίστε την ώρα λήψης της ειδοποίησης"
+    "notificationTimeDesc": "Ορίστε την ώρα λήψης της ειδοποίησης",
+    "dialogDeleteBackupMessage": "Είστε σίγουροι ότι θέλετε να διαγράψετε το {fileName};",
+    "dynamicColorDesc": "Αλλάξτε το χρώμα του θέματος ανάλογα με την ταπετσαρία",
+    "deleteLoan": "Η διαγραφή του δανείου διαγράφει όλες τις εγγραφές που σχετίζονται με αυτό",
+    "upcoming": "Επόμενο",
+    "dueTransactions": "Ληξιπρόθεσμες συναλλαγές",
+    "dueTransaction": "Ληξιπρόθεσμη συναλλαγή",
+    "paidFromAccount": "Πληρώθηκε από: {accountName}",
+    "processNow": "Επεξεργασία τώρα",
+    "monthCompared": "Σε σύγκριση με το {amount} του προηγούμενου μήνα",
+    "deleteTag": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ετικέτα {tag};",
+    "tagSubtitle": "{tagCount} συναλλαγές - {transactionTotal}",
+    "topTags": "Κορυφαίες Ετικέτες",
+    "filter": "Φίλτρο",
+    "selectDateRange": "Επιλογή Εύρους Ημερομηνίας",
+    "dateRange": "{start} - {end}",
+    "apply": "Εφαρμογή",
+    "selectedDays": "{days} ημέρες",
+    "accountDetails": "Λεπτομέρειες Λογαριασμού",
+    "spending": "Καταναλώνοντας",
+    "export": "Εξαγωγή",
+    "import": "Εισαγωγή",
+    "exportCSV": "Εξαγωγή όλων των δεδομένων συναλλαγών σε CSV, δεν συνιστάται για εισαγωγή δεδομένων",
+    "dataImportedExportCSV": "Εισαγωγή/Εξαγωγή CSV",
+    "paisaProDesc": "Αποκτήστε την έκδοση Pro για να ξεκλειδώσετε όλα τα χαρακτηριστικά",
+    "information": "Πληροφορία!",
+    "subscriptionInfo": "Η συνδρομή ανανεώνεται αυτόματα εκτός αν ακυρωθεί τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. Μπορείτε να την ακυρώσετε ανά πάσα στιγμή μέσω των ρυθμίσεων του {store}. Η πληρωμή θα χρεωθεί στο λογαριασμό σας {account}.",
+    "notificationTitle1": "Παρακολουθήστε τις Δαπάνες σας 📝",
+    "notificationBody1": "Αφιερώστε λίγο χρόνο για να καταγράψετε τα έξοδά σας και να έχετε τον έλεγχο των οικονομικών σας!",
+    "notificationTitle2": "Χρμήματα Τσέκ ✨",
+    "notificationBody2": "Κάνατε αγορές σήμερα; Καταγράψτε τις τώρα για να διατηρήσετε ακριβή αρχεία.",
+    "notificationTitle3": "Ώρα για Ενημέρωση Δαπανών 🕒",
+    "notificationBody3": "Διατηρήστε τους οικονομικούς σας στόχους σε καλό δρόμο καταγράφοντας τις καθημερινές σας δαπάνες.",
+    "notificationTitle4": "Έλεγχος Οικονομικής Ευεξίας 💪",
+    "notificationBody4": "Μείνετε υπό έλεγχο των χρημάτων σας - καταγράψτε τα έξοδά σας για την ημέρα.",
+    "notificationTitle5": "Γρήγορη Ενημέρωση Χρημάτων 💰",
+    "notificationBody5": "Λίγα δευτερόλεπτα για την καταγραφή των εξόδων εξοικονομούν τώρα ώρες παρακολούθησης αργότερα!",
+    "notificationTitle6": "Check-in Προϋπολογισμού 📊",
+    "notificationBody6": "Μείνετε εντός του προϋπολογισμού σας παρακολουθώντας κάθε δαπάνη. Καταγράψτε τα τώρα!",
+    "notificationTitle7": "Υπενθύμιση Καταγραφέα Δαπανών 📱",
+    "notificationBody7": "Διατηρήστε τα οικονομικά σας οργανωμένα - προσθέστε τα σημερινά έξοδα στο Paisa.",
+    "notificationTitle8": "Καθημερινή Ενημέρωση Οικονομικών ⭐",
+    "notificationBody8": "Διατηρήστε την οικονομική σας υγεία καταγράφοντας τις καθημερινές σας δαπάνες.",
+    "welcomeLateNight1": "Είσαι ακόμα ξύπνιος, {name}; Ώρα να ελέγξεις τα οικονομικά σου!",
+    "welcomeLateNight2": "Προϋπολογισμός για τα μεσάνυχτα, {name}; Αυτό είναι αφοσίωση.!",
+    "welcomeLateNight3": "Γεια σου νυχτοπούλι {name}! Η διαχείριση του χρήματος δεν κοιμάται ποτέ, ε;",
+    "welcomeLateNight4": "Μετακινήσεις χρημάτων αργά τη νύχτα, {name};",
+    "welcomeMorning1": "Σήκω και λάμψε, {name}! Ας κάνουμε κινήσεις χρήματος!",
+    "welcomeMorning2": "Καλημέρα, {name}! Έτοιμος να εκμεταλλευτείς τη μέρα;",
+    "welcomeMorning3": "Καλημέρα, {name}! Τα οικονομικά σας περιμένουν!",
+    "welcomeMorning4": "Early bird {name}! Πιάνοντας αυτά τα οικονομικά σκουλήκια;",
+    "welcomeAfternoon1": "Έχεις καλή μέρα, {name};",
+    "welcomeAfternoon2": "Απογευματινό check-in, {name}!",
+    "welcomeAfternoon3": "Γεια σου {name}, παρακολουθείς αυτά τα έξοδα;",
+    "welcomeAfternoon4": "Προχωράμε, {name};",
+    "welcomeEvening1": "Καλησπέρα, {name}! Ώρα για ανασκόπηση της ημέρας;",
+    "welcomeEvening2": "Καλησπέρα, {name}! Πώς πάνε τα οικονομικά;",
+    "welcomeEvening3": "Κλείνεις, {name}; Ας ελέγξουμε τα νούμερα!",
+    "welcomeEvening4": "Απογευματινό check-in, {name}!",
+    "welcomeNight1": "Τελειώνει η μέρα, {name};",
+    "welcomeNight2": "Ώρα για απογευματινή ανασκόπηση, {name}!",
+    "welcomeNight3": "Γεια σου {name}, πριν φύγεις...",
+    "welcomeNight4": "✨ Νυχτερινή ανάλυση αριθμών, {name};",
+    "biometricAuthFailed": "Αποτυχία βιομετρικού ελέγχου",
+    "autoBackup": "Αυτόματα Αντίγραφα Ασφαλείας",
+    "autoBackupDescription": "Δημιουργία αντιγράφων ασφαλείας των δεδομένων σας αυτόματα όταν ανοίγει η εφαρμογή",
+    "backupFrequency": "Συχνότητα Αντιγράφων Ασφαλείας",
+    "backupFrequencyDescription": "Δημιουργία αντιγράφων ασφαλείας των δεδομένων σας αυτόματα σε συγκεκριμένο χρονικό διάστημα.",
+    "backupHistory": "Ιστορικό Αντιγράφων Ασφαλείας",
+    "backupFrequencyDays": "'Η συχνότητα δημιουργίας αντιγράφων ασφαλείας έχει οριστεί σε {days} ημέρες'",
+    "noBackupFilesFound": "Δεν βρέθηκαν αρχεία αντιγράφων ασφαλείας",
+    "pleaseSelectABackupFile": "Επιλέξτε ένα αρχείο αντιγράφων ασφαλείας",
+    "budgets": "Προϋπολογισμοί"
 }

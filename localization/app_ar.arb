@@ -17,16 +17,6 @@
     "addRecurringTooltip": "إضافة متكرر",
     "selectDateRangeTooltip": "نطاق التاريخ",
     "transactionSubTittleText": "{bankName} • {dateString}",
-    "@transactionSubTittleText": {
-        "placeholders": {
-            "bankName": {
-                "type": "String"
-            },
-            "dateString": {
-                "type": "String"
-            }
-        }
-    },
     "addCategory": "إضافة فئة",
     "addCategoryEmptyTitle": "لا توجد فئات",
     "addCategoryEmptySubTitle": "أضف فئات للاختيار",
@@ -83,13 +73,6 @@
     "githubText": "انسخ المشروع على جيثب",
     "version": "الإصدار",
     "versionNumber": "الإصدار {version}",
-    "@versionNumber": {
-        "placeholders": {
-            "version": {
-                "type": "String"
-            }
-        }
-    },
     "deleteAccount": "حذف الحساب سيؤدي إلى حذف جميع المصروفات المرتبطة به",
     "deleteCategory": "حذف الفئة سيؤدي إلى حذف جميع المصروفات المرتبطة بها",
     "deleteExpense": "سيتم حذف المصروف نهائياً من الحساب",
@@ -238,8 +221,8 @@
     "monthCompared": "مقارنة بالشهر السابق",
     "reorderAccounts": "إعادة ترتيب الحسابات",
     "historyDesc": "عرض سجل المعاملات",
-    "exportImportCSVFile": "Export/Import CSV File",
-    "dataBackupAndRestore": "Data Backup & Restore",
+    "exportImportCSVFile": "تصدير/استيراد ملف CSV",
+    "dataBackupAndRestore": "النسخ الاحتياطي واستعادة البيانات",
     "exportAllData": "تصدير كل البيانات",
     "exportAllDataSuccess": "تم تصدير البيانات بنجاح",
     "importAllData": "استيراد البيانات",
@@ -320,5 +303,9 @@
     "notificationTimeDesc": "تعيين وقت الإشعار",
     "dueTransactions": "المعاملات المستحقة",
     "dueTransaction": "معاملة مستحقة",
-    "paidFromAccount": "تم الدفع من الحساب"
+    "paidFromAccount": "تم الدفع من الحساب",
+    "welcomeWeekend": "مساء السبت، {name}! لا تنس تتبع تلك المصاريف الممتعة!",
+    "welcomeMorning": "صباح الخير، {name}!",
+    "welcomeAfternoon": "مساء الخير، {name}!",
+    "welcomeEvening": "مساء الخير، {name}!"
 }

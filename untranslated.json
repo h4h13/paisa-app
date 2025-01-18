@@ -62,7 +62,17 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "copy"
   ],
 
   "be": [
@@ -196,7 +206,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "cs": [
@@ -329,7 +350,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "da": [
@@ -427,7 +459,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "de": [
@@ -493,82 +536,32 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "el": [
-    "budgets",
-    "dialogDeleteBackupMessage",
-    "dynamicColorDesc",
-    "deleteLoan",
-    "upcoming",
-    "dueTransactions",
-    "dueTransaction",
-    "paidFromAccount",
-    "processNow",
-    "monthCompared",
-    "deleteTag",
-    "tagSubtitle",
-    "topTags",
-    "filter",
-    "selectDateRange",
-    "dateRange",
-    "apply",
-    "selectedDays",
-    "accountDetails",
-    "spending",
-    "export",
-    "import",
-    "exportCSV",
-    "dataImportedExportCSV",
-    "paisaProDesc",
-    "information",
-    "subscriptionInfo",
-    "notificationTitle1",
-    "notificationBody1",
-    "notificationTitle2",
-    "notificationBody2",
-    "notificationTitle3",
-    "notificationBody3",
-    "notificationTitle4",
-    "notificationBody4",
-    "notificationTitle5",
-    "notificationBody5",
-    "notificationTitle6",
-    "notificationBody6",
-    "notificationTitle7",
-    "notificationBody7",
-    "notificationTitle8",
-    "notificationBody8",
-    "welcomeLateNight1",
-    "welcomeLateNight2",
-    "welcomeLateNight3",
-    "welcomeLateNight4",
-    "welcomeMorning1",
-    "welcomeMorning2",
-    "welcomeMorning3",
-    "welcomeMorning4",
-    "welcomeAfternoon1",
-    "welcomeAfternoon2",
-    "welcomeAfternoon3",
-    "welcomeAfternoon4",
-    "welcomeEvening1",
-    "welcomeEvening2",
-    "welcomeEvening3",
-    "welcomeEvening4",
-    "welcomeNight1",
-    "welcomeNight2",
-    "welcomeNight3",
-    "welcomeNight4",
-    "biometricAuthFailed",
-    "autoBackup",
-    "autoBackupDescription",
-    "backupFrequency",
-    "backupFrequencyDescription",
-    "backupHistory",
-    "backupFrequencyDays",
-    "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "es": [
@@ -583,7 +576,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "fr": [
@@ -757,7 +761,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "he": [
@@ -931,7 +946,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "hi": [
@@ -1105,7 +1131,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "id": [
@@ -1171,7 +1208,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "it": [
@@ -1403,7 +1451,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "ja": [
@@ -1500,7 +1559,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "kn": [
@@ -1617,7 +1687,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "ko": [
@@ -1720,7 +1801,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "nl": [
@@ -1819,7 +1911,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "pl": [
@@ -1993,7 +2096,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "pt": [
@@ -2059,7 +2173,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "pt_BR": [
@@ -2125,7 +2250,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "ru": [
@@ -2191,7 +2327,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "sv": [
@@ -2288,7 +2435,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "tr": [
@@ -2462,7 +2620,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "uk": [
@@ -2595,7 +2764,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "vi": [
@@ -2751,7 +2931,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "zh": [
@@ -2872,7 +3063,18 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ],
 
   "zh_TW": [
@@ -2993,6 +3195,17 @@
     "backupHistory",
     "backupFrequencyDays",
     "noBackupFilesFound",
-    "pleaseSelectABackupFile"
+    "pleaseSelectABackupFile",
+    "completed",
+    "active",
+    "from",
+    "to",
+    "dailyAmount",
+    "goalAchieved",
+    "goalAchievedDialogTitle",
+    "goalAchievedDialogContent",
+    "markAsCompleted",
+    "welcomeWeekend",
+    "copy"
   ]
 }
