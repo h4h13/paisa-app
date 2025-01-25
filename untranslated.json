@@ -3,6 +3,7 @@
     "dialogDeleteBackupMessage",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -72,7 +73,11 @@
     "goalAchievedDialogTitle",
     "goalAchievedDialogContent",
     "markAsCompleted",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "be": [
@@ -147,6 +152,7 @@
     "continueText",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -217,7 +223,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "cs": [
@@ -291,6 +301,7 @@
     "continueText",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -361,7 +372,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "da": [
@@ -400,6 +415,7 @@
     "exportAllData",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -470,13 +486,18 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "de": [
     "dialogDeleteBackupMessage",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -547,10 +568,15 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "el": [
+    "tagDetailsSubtitle",
     "completed",
     "active",
     "from",
@@ -561,13 +587,18 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "es": [
     "dialogDeleteBackupMessage",
     "exportImportCSVFile",
     "dataBackupAndRestore",
+    "tagDetailsSubtitle",
     "biometricAuthFailed",
     "autoBackup",
     "autoBackupDescription",
@@ -587,7 +618,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "fr": [
@@ -702,6 +737,7 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -772,7 +808,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "he": [
@@ -887,6 +927,7 @@
     "predicted",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -957,7 +998,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "hi": [
@@ -1072,6 +1117,7 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1142,13 +1188,18 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "id": [
     "dialogDeleteBackupMessage",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1219,7 +1270,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "it": [
@@ -1392,6 +1447,7 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1462,7 +1518,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "ja": [
@@ -1500,6 +1560,7 @@
     "addGoal",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1570,7 +1631,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "kn": [
@@ -1628,6 +1693,7 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1698,7 +1764,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "ko": [
@@ -1742,6 +1812,7 @@
     "addGoal",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1812,7 +1883,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "nl": [
@@ -1852,6 +1927,7 @@
     "addGoal",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -1922,7 +1998,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "pl": [
@@ -2037,6 +2117,7 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2107,13 +2188,18 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "pt": [
     "dialogDeleteBackupMessage",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2184,13 +2270,18 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "pt_BR": [
     "dialogDeleteBackupMessage",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2261,13 +2352,18 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "ru": [
     "dialogDeleteBackupMessage",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2338,7 +2434,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "sv": [
@@ -2376,6 +2476,7 @@
     "exportAllData",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2446,7 +2547,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "tr": [
@@ -2561,6 +2666,7 @@
     "monthCompared",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2631,7 +2737,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "uk": [
@@ -2705,6 +2815,7 @@
     "continueText",
     "deleteTag",
     "tagSubtitle",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2775,7 +2886,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "vi": [
@@ -2872,6 +2987,7 @@
     "resetAllData",
     "resetAllDataDesc",
     "reset",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -2942,7 +3058,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "zh": [
@@ -3004,6 +3124,7 @@
     "stable",
     "currentSpending",
     "averageMonthly",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -3074,7 +3195,11 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ],
 
   "zh_TW": [
@@ -3136,6 +3261,7 @@
     "stable",
     "currentSpending",
     "averageMonthly",
+    "tagDetailsSubtitle",
     "topTags",
     "filter",
     "selectDateRange",
@@ -3206,6 +3332,10 @@
     "goalAchievedDialogContent",
     "markAsCompleted",
     "welcomeWeekend",
-    "copy"
+    "copy",
+    "loanInfo",
+    "loanInfoDescription",
+    "ivyImporter",
+    "ivyImporterDescription"
   ]
 }

@@ -1582,6 +1582,16 @@
             }
         }
     },
+    "tagDetailsSubtitle": "{tagCount} transactions",
+    "@tagDetailsSubtitle": {
+        "description": "Text shown on the delete tag dialog",
+        "type": "text",
+        "placeholders": {
+            "tagCount": {
+                "type": "int"
+            }
+        }
+    },
     "topTags": "Top Tags",
     "@topTags": {
         "description": "Text shown on the home page section title",
@@ -2086,6 +2096,26 @@
     "copy": "Copy",
     "@copy": {
         "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "loanInfo": "Loan lending & borrowing",
+    "@loanInfo": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "loanInfoDescription": "Loan lending is the act of giving money to another party with the expectation of repayment. Borrowing is the act of receiving money from a lender with the agreement to pay it back.",
+    "@loanInfoDescription": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "ivyImporter": "Ivy wallet",
+    "@ivyImporter": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "ivyImporterDescription": "Import your transactions from Ivy wallet app",
+    "@ivyImporterDescription": {
+        "description": "Text shown on the backup restore page",
         "type": "text"
     }
 }

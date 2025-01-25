@@ -119,7 +119,7 @@
     "enterAccountName": "Introduce nombre de la cuenta",
     "enterCardHolderName": "Introduce nombre del titular de la tarjeta",
     "search": "Buscar",
-    "delete": "Eliminar",
+    "delete": "Borrar",
     "noTransaction": "Transacción vacía",
     "introCTA": "Comenzar",
     "deleteLoan": "Eliminar el préstamo elimina todos los registros asociados",
