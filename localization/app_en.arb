@@ -1126,6 +1126,11 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
+    "trackBudget": "Track Budget",
+    "@trackBudget": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
     "onTrack": "On track",
     "@onTrack": {
         "description": "Text shown on the home page section title",
@@ -2117,5 +2122,33 @@
     "@ivyImporterDescription": {
         "description": "Text shown on the backup restore page",
         "type": "text"
+    },
+    "spendingTrend": "Spending Trend",
+    "@spendingTrend": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "categorySpendingTrend": "Category Spending Trends",
+    "@categorySpendingTrend": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "categoryBreakDown": "Category Breakdown",
+    "@categoryBreakDown": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "categorySubtitle": "{description}\n{transactionCount} transactions",
+    "@categorySubtitle": {
+        "description": "Text shown on the budget details section title",
+        "type": "text",
+        "placeholders": {
+            "description": {
+                "type": "String"
+            },
+            "transactionCount": {
+                "type": "int"
+            }
+        }
     }
 }

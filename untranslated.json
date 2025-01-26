@@ -1,6 +1,7 @@
 {
   "ar": [
     "dialogDeleteBackupMessage",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -77,7 +78,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "be": [
@@ -114,6 +119,7 @@
     "clear",
     "dataBackupAndRestore",
     "exportAllData",
+    "trackBudget",
     "onTrack",
     "enableFeedbackDesc",
     "addGoal",
@@ -227,7 +233,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "cs": [
@@ -264,6 +274,7 @@
     "clear",
     "dataBackupAndRestore",
     "exportAllData",
+    "trackBudget",
     "enableFeedbackDesc",
     "addGoal",
     "selectAImage",
@@ -376,7 +387,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "da": [
@@ -413,6 +428,7 @@
     "clear",
     "dataBackupAndRestore",
     "exportAllData",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -490,11 +506,16 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "de": [
     "dialogDeleteBackupMessage",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -572,10 +593,15 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "el": [
+    "trackBudget",
     "tagDetailsSubtitle",
     "completed",
     "active",
@@ -591,13 +617,18 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "es": [
     "dialogDeleteBackupMessage",
     "exportImportCSVFile",
     "dataBackupAndRestore",
+    "trackBudget",
     "tagDetailsSubtitle",
     "biometricAuthFailed",
     "autoBackup",
@@ -622,7 +653,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "fr": [
@@ -656,6 +691,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -812,7 +848,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "he": [
@@ -868,6 +908,7 @@
     "importAllData",
     "importAllDataDesc",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -1002,7 +1043,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "hi": [
@@ -1036,6 +1081,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -1192,11 +1238,16 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "id": [
     "dialogDeleteBackupMessage",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -1274,7 +1325,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "it": [
@@ -1366,6 +1421,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -1522,7 +1578,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "ja": [
@@ -1555,6 +1615,7 @@
     "resetAllData",
     "resetAllDataDesc",
     "reset",
+    "trackBudget",
     "emptyGoalsMessageTitle",
     "emptyGoalsMessageSubTitle",
     "addGoal",
@@ -1635,13 +1696,18 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "kn": [
     "dialogDeleteBackupMessage",
     "dynamicColorDesc",
     "deleteLoan",
+    "trackBudget",
     "editSubscription",
     "editGoal",
     "editBudget",
@@ -1768,7 +1834,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "ko": [
@@ -1807,6 +1877,7 @@
     "resetAllData",
     "resetAllDataDesc",
     "reset",
+    "trackBudget",
     "emptyGoalsMessageTitle",
     "emptyGoalsMessageSubTitle",
     "addGoal",
@@ -1887,7 +1958,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "nl": [
@@ -1924,6 +1999,7 @@
     "clear",
     "dataBackupAndRestore",
     "exportAllData",
+    "trackBudget",
     "addGoal",
     "deleteTag",
     "tagSubtitle",
@@ -2002,7 +2078,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "pl": [
@@ -2036,6 +2116,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -2192,11 +2273,16 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "pt": [
     "dialogDeleteBackupMessage",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -2274,11 +2360,16 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "pt_BR": [
     "dialogDeleteBackupMessage",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -2356,11 +2447,16 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "ru": [
     "dialogDeleteBackupMessage",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -2438,7 +2534,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "sv": [
@@ -2474,6 +2574,7 @@
     "clear",
     "dataBackupAndRestore",
     "exportAllData",
+    "trackBudget",
     "deleteTag",
     "tagSubtitle",
     "tagDetailsSubtitle",
@@ -2551,7 +2652,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "tr": [
@@ -2585,6 +2690,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -2741,7 +2847,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "uk": [
@@ -2778,6 +2888,7 @@
     "clear",
     "dataBackupAndRestore",
     "exportAllData",
+    "trackBudget",
     "enableFeedbackDesc",
     "addGoal",
     "selectAImage",
@@ -2890,7 +3001,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "vi": [
@@ -2987,6 +3102,7 @@
     "resetAllData",
     "resetAllDataDesc",
     "reset",
+    "trackBudget",
     "tagDetailsSubtitle",
     "topTags",
     "filter",
@@ -3062,7 +3178,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "zh": [
@@ -3082,6 +3202,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -3199,7 +3320,11 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ],
 
   "zh_TW": [
@@ -3219,6 +3344,7 @@
     "resetAllDataDesc",
     "reset",
     "trackBudgets",
+    "trackBudget",
     "onTrack",
     "overBudget",
     "warning",
@@ -3336,6 +3462,10 @@
     "loanInfo",
     "loanInfoDescription",
     "ivyImporter",
-    "ivyImporterDescription"
+    "ivyImporterDescription",
+    "spendingTrend",
+    "categorySpendingTrend",
+    "categoryBreakDown",
+    "categorySubtitle"
   ]
 }
