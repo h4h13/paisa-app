@@ -50,7 +50,7 @@
         "description": "Text shown on the switch in add account screen",
         "type": "text"
     },
-    "recurring": "Recurring",
+    "recurring": "Subscriptions/ Recurring",
     "@recurring": {
         "description": "Recurring text shown in the bottom navigation or drawer widget and recurring page toolbar title",
         "type": "text"
@@ -1051,7 +1051,7 @@
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "dataBackupAndRestore": "Data Backup & Restore",
+    "dataBackupAndRestore": "Backup & Restore",
     "@dataBackupAndRestore": {
         "description": "Text shown on the export and import page",
         "type": "text"
@@ -2150,5 +2150,35 @@
                 "type": "int"
             }
         }
+    },
+    "importExportData": "Import/Export Data",
+    "@importExportData": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "importExportDataDescription": "Import or export your data to another device",
+    "@importExportDataDescription": {
+        "description": "Text shown on the backup restore page",
+        "type": "text"
+    },
+    "today": "Today",
+    "@today": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "yesterday": "Yesterday",
+    "@yesterday": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "tomorrow": "Tomorrow", 
+    "@tomorrow": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "totalSubscriptions": "Total Subscriptions",
+    "@totalSubscriptions": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
     }
 }

@@ -82,7 +82,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "be": [
@@ -237,7 +243,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "cs": [
@@ -391,7 +403,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "da": [
@@ -510,7 +528,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "de": [
@@ -597,7 +621,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "el": [
@@ -621,7 +651,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "es": [
@@ -657,7 +693,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "fr": [
@@ -852,7 +894,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "he": [
@@ -1047,7 +1095,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "hi": [
@@ -1242,7 +1296,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "id": [
@@ -1329,7 +1389,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "it": [
@@ -1582,7 +1648,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "ja": [
@@ -1700,7 +1772,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "kn": [
@@ -1838,7 +1916,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "ko": [
@@ -1962,7 +2046,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "nl": [
@@ -2082,7 +2172,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "pl": [
@@ -2277,7 +2373,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "pt": [
@@ -2364,7 +2466,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "pt_BR": [
@@ -2451,7 +2559,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "ru": [
@@ -2538,7 +2652,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "sv": [
@@ -2656,7 +2776,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "tr": [
@@ -2851,7 +2977,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "uk": [
@@ -3005,7 +3137,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "vi": [
@@ -3182,7 +3320,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "zh": [
@@ -3324,7 +3468,13 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ],
 
   "zh_TW": [
@@ -3466,6 +3616,12 @@
     "spendingTrend",
     "categorySpendingTrend",
     "categoryBreakDown",
-    "categorySubtitle"
+    "categorySubtitle",
+    "importExportData",
+    "importExportDataDescription",
+    "today",
+    "yesterday",
+    "tomorrow",
+    "totalSubscriptions"
   ]
 }
