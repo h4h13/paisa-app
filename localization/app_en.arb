@@ -2180,5 +2180,41 @@
     "@totalSubscriptions": {
         "description": "Text shown on the home page section title",
         "type": "text"
+    },
+    "reports": "Reports",
+    "@reports": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "discord": "Discord",
+    "@discord": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "discordDesc": "Join our discord community to get help and support",
+    "@discordDesc": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "reportGeneratedSuccessfully": "Report generated successfully",
+    "@reportGeneratedSuccessfully": {
+        "description": "Text shown on the report page",
+        "type": "text"
+    },
+    "errorGeneratingReport": "Error generating report",
+    "@errorGeneratingReport": {
+        "description": "Text shown on the report page",
+        "type": "text"
+    },
+    "generateReport": "Generate report",
+    "@generateReport": {
+        "description": "Text shown on the report page",
+        "type": "text"
+    },
+    "download": "Download",    
+    "@download": {
+        "description": "Text shown on the report page",
+        "type": "text"
     }
+  
 }

@@ -88,7 +88,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "be": [
@@ -249,7 +256,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "cs": [
@@ -409,7 +423,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "da": [
@@ -534,7 +555,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "de": [
@@ -627,7 +655,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "el": [
@@ -657,7 +692,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "es": [
@@ -699,7 +741,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "fr": [
@@ -900,7 +949,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "he": [
@@ -1101,7 +1157,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "hi": [
@@ -1302,7 +1365,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "id": [
@@ -1395,7 +1465,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "it": [
@@ -1654,7 +1731,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "ja": [
@@ -1778,7 +1862,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "kn": [
@@ -1922,7 +2013,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "ko": [
@@ -2052,7 +2150,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "nl": [
@@ -2178,7 +2283,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "pl": [
@@ -2379,7 +2491,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "pt": [
@@ -2472,7 +2591,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "pt_BR": [
@@ -2565,7 +2691,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "ru": [
@@ -2658,7 +2791,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "sv": [
@@ -2782,7 +2922,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "tr": [
@@ -2983,7 +3130,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "uk": [
@@ -3143,7 +3297,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "vi": [
@@ -3326,7 +3487,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "zh": [
@@ -3474,7 +3642,14 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ],
 
   "zh_TW": [
@@ -3622,6 +3797,13 @@
     "today",
     "yesterday",
     "tomorrow",
-    "totalSubscriptions"
+    "totalSubscriptions",
+    "reports",
+    "discord",
+    "discordDesc",
+    "reportGeneratedSuccessfully",
+    "errorGeneratingReport",
+    "generateReport",
+    "download"
   ]
 }
