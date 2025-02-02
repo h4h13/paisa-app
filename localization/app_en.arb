@@ -332,11 +332,6 @@
         "description": "Text shown on the loan page when selecting start date",
         "type": "text"
     },
-    "socialLinks": "Social links",
-    "@socialLinks": {
-        "description": "Section title shown on the settings page",
-        "type": "text"
-    },
     "telegram": "Telegram",
     "@telegram": {
         "description": "Title text shown on settings page for telegram button",
@@ -453,11 +448,6 @@
     },
     "colors": "Colors",
     "@colors": {
-        "description": "Section title on settings page for theme",
-        "type": "text"
-    },
-    "others": "Others",
-    "@others": {
         "description": "Section title on settings page for theme",
         "type": "text"
     },
@@ -622,10 +612,6 @@
     "@delete": {
         "description": "Delete "
     },
-    "noTransaction": "Empty in transaction",
-    "@noTransaction": {
-        "description": "Empty in transaction"
-    },
     "introCTA": "Get started",
     "@introCTA": {
         "description": "Text shown on the intro screen button",
@@ -709,11 +695,6 @@
     "total": "Total",
     "@total": {
         "description": "Text shown on the home screen sub title on total card",
-        "type": "text"
-    },
-    "colorsUI": "Colors & UI",
-    "@colorsUI": {
-        "description": "Text shown on the section title on settings screen",
         "type": "text"
     },
     "more": "More",
@@ -804,21 +785,6 @@
     "goals": "Goals",
     "@goals": {
         "description": "Text shown on navigation drawer item",
-        "type": "text"
-    },
-    "addGoalTooltip": "Add Goal",
-    "@addGoalTooltip": {
-        "description": "Tooltip shown on the goals add button",
-        "type": "text"
-    },
-    "customize": "Customize",
-    "@customize": {
-        "description": "Subtitle text shown on the settings page section",
-        "type": "text"
-    },
-    "statistics": "Statistics",
-    "@statistics": {
-        "description": "Subtitle text shown on the overview page bar chat title",
         "type": "text"
     },
     "welcomeAppTitle": "Welcome to Paisa",
@@ -2171,13 +2137,8 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
-    "tomorrow": "Tomorrow", 
+    "tomorrow": "Tomorrow",
     "@tomorrow": {
-        "description": "Text shown on the home page section title",
-        "type": "text"
-    },
-    "totalSubscriptions": "Total Subscriptions",
-    "@totalSubscriptions": {
         "description": "Text shown on the home page section title",
         "type": "text"
     },
@@ -2211,10 +2172,45 @@
         "description": "Text shown on the report page",
         "type": "text"
     },
-    "download": "Download",    
+    "download": "Download",
     "@download": {
         "description": "Text shown on the report page",
         "type": "text"
-    }
-  
+    },
+    "noTags": "No Tags",
+    "@noTags": {
+        "description": "Text shown on the tag page",
+        "type": "text"
+    },
+    "noTagsDescription": "Add tags to your transactions to categorize them",
+    "@noTagsDescription": {
+        "description": "Text shown on the tag page",
+        "type": "text"
+    },
+    "quarterly": "Quarterly",
+    "@quarterly": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "selectLoan": "Select loan",
+    "@selectLoan": {
+        "description": "Text shown on the add transaction page",
+        "type": "text"
+    },
+    "biweekly": "Bi-weekly",
+    "@biweekly": {
+        "description": "Bi-weekly recurring period"
+    },
+    "bimonthly": "Bi-monthly",
+    "@bimonthly": {
+        "description": "Twice a month recurring period"
+    },
+    "netPosition": "Net Position",
+    "received": "Received",
+    "paid": "Paid",
+    "progress": "Payment Progress",
+    "loanSummaryInfo": "Loan Summary Information",
+    "loanSummaryDescription": "Net Position shows the difference between money you've lent and borrowed. A positive value means you're a net lender, negative means you're a net borrower.",
+    "overdue": "Overdue",
+    "defaulted": "Defaulted"
 }
