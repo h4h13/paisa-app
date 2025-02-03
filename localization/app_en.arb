@@ -2074,7 +2074,7 @@
         "description": "Text shown on the loan page",
         "type": "text"
     },
-    "loanInfoDescription": "Loan lending is the act of giving money to another party with the expectation of repayment. Borrowing is the act of receiving money from a lender with the agreement to pay it back.",
+    "loanInfoDescription": "Loan Lending is the act of giving money to another party with the expectation of repayment. Borrowing is the act of receiving money from a lender with the agreement to pay it back.\n\n Loans are calculated based on your selected account – only those loans linked to that account are factored into your total figures. Additionally, transactions associated with these loans  are processed as normal transactions but are tagged as loans. This tagging ensures that your net position accurately reflects both your current balances and your loan commitments.",
     "@loanInfoDescription": {
         "description": "Text shown on the loan page",
         "type": "text"
@@ -2209,8 +2209,7 @@
     "received": "Received",
     "paid": "Paid",
     "progress": "Payment Progress",
-    "loanSummaryInfo": "Loan Summary Information",
-    "loanSummaryDescription": "Net Position shows the difference between money you've lent and borrowed. A positive value means you're a net lender, negative means you're a net borrower.",
     "overdue": "Overdue",
-    "defaulted": "Defaulted"
+    "defaulted": "Defaulted",
+    "completedLoans": "Completed Loans"
 }

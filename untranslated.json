@@ -105,10 +105,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "be": [
@@ -283,10 +282,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "cs": [
@@ -460,10 +458,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "da": [
@@ -602,10 +599,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "de": [
@@ -715,10 +711,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "el": [
@@ -765,10 +760,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "es": [
@@ -827,10 +821,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "fr": [
@@ -1048,10 +1041,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "he": [
@@ -1266,10 +1258,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "hi": [
@@ -1487,10 +1478,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "id": [
@@ -1600,10 +1590,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "it": [
@@ -1876,10 +1865,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "ja": [
@@ -2020,10 +2008,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "kn": [
@@ -2184,10 +2171,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "ko": [
@@ -2331,10 +2317,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "nl": [
@@ -2474,10 +2459,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "pl": [
@@ -2695,10 +2679,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "pt": [
@@ -2808,10 +2791,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "pt_BR": [
@@ -2921,10 +2903,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "ru": [
@@ -3034,10 +3015,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "sv": [
@@ -3175,10 +3155,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "tr": [
@@ -3396,10 +3375,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "uk": [
@@ -3573,10 +3551,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "vi": [
@@ -3771,10 +3748,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "zh": [
@@ -3939,10 +3915,9 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ],
 
   "zh_TW": [
@@ -4107,9 +4082,8 @@
     "received",
     "paid",
     "progress",
-    "loanSummaryInfo",
-    "loanSummaryDescription",
     "overdue",
-    "defaulted"
+    "defaulted",
+    "completedLoans"
   ]
 }
