@@ -107,7 +107,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "be": [
@@ -284,7 +294,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "cs": [
@@ -460,7 +480,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "da": [
@@ -601,7 +631,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "de": [
@@ -713,7 +753,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "el": [
@@ -762,7 +812,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "es": [
@@ -823,7 +883,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "fr": [
@@ -1043,7 +1113,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "he": [
@@ -1260,7 +1340,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "hi": [
@@ -1480,7 +1570,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "id": [
@@ -1592,7 +1692,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "it": [
@@ -1627,7 +1737,6 @@
     "clear",
     "changeLog",
     "calenderHeatMap",
-    "accountIconError",
     "tags",
     "tagsToolTip",
     "selectTag",
@@ -1867,7 +1976,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "ja": [
@@ -2010,7 +2129,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "kn": [
@@ -2173,7 +2302,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "ko": [
@@ -2319,7 +2458,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "nl": [
@@ -2461,7 +2610,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "pl": [
@@ -2681,7 +2840,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "pt": [
@@ -2793,7 +2962,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "pt_BR": [
@@ -2905,7 +3084,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "ru": [
@@ -3017,7 +3206,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "sv": [
@@ -3157,7 +3356,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "tr": [
@@ -3377,7 +3586,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "uk": [
@@ -3553,7 +3772,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "vi": [
@@ -3618,7 +3847,6 @@
     "clear",
     "changeLog",
     "calenderHeatMap",
-    "accountIconError",
     "tags",
     "tagsToolTip",
     "selectTag",
@@ -3750,7 +3978,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "zh": [
@@ -3917,7 +4155,17 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ],
 
   "zh_TW": [
@@ -4084,6 +4332,16 @@
     "progress",
     "overdue",
     "defaulted",
-    "completedLoans"
+    "completedLoans",
+    "failedToAddAccount",
+    "failedToUpdateAccount",
+    "failedToDeleteAccount",
+    "failedToAddCategory",
+    "failedToUpdateCategory",
+    "accountNameError",
+    "categoryNameError",
+    "categoryIconError",
+    "categoryColorError",
+    "enterAccountNumberHint"
   ]
 }

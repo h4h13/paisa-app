@@ -817,11 +817,6 @@
         "description": "Subtitle text shown on the summary page in home",
         "type": "text"
     },
-    "accountIconError": "Set account icon",
-    "@accountIconError": {
-        "description": "Text shown on snackbar when adding account",
-        "type": "text"
-    },
     "tags": "Tags",
     "@tags": {
         "description": "Text shown on the tab",
@@ -2206,10 +2201,88 @@
         "description": "Twice a month recurring period"
     },
     "netPosition": "Net Position",
+    "@netPosition": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
     "received": "Received",
+    "@received": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
     "paid": "Paid",
+    "@paid": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
     "progress": "Payment Progress",
+    "@progress": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
     "overdue": "Overdue",
+    "@overdue": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
     "defaulted": "Defaulted",
-    "completedLoans": "Completed Loans"
+    "@defaulted": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "completedLoans": "Completed Loans",
+    "@completedLoans": {
+        "description": "Text shown on the loan page",
+        "type": "text"
+    },
+    "failedToAddAccount": "Failed to add account",
+    "@failedToAddAccount": {
+        "description": "Text shown on the account page",
+        "type": "text"
+    },
+    "failedToUpdateAccount": "Failed to update account",
+    "@failedToUpdateAccount": {
+        "description": "Text shown on the account page",
+        "type": "text"
+    },
+    "failedToDeleteAccount": "Failed to delete account",
+    "@failedToDeleteAccount": {
+        "description": "Text shown on the account page",
+        "type": "text"
+    },
+    "failedToAddCategory": "Failed to add category",
+    "@failedToAddCategory": {
+        "description": "Text shown on the category page",
+        "type": "text"
+    },
+    "failedToUpdateCategory": "Failed to update category",
+    "@failedToUpdateCategory": {
+        "description": "Text shown on the category page",
+        "type": "text"
+    },
+    "accountNameError": "Account name is required",
+    "@accountNameError": {
+        "description": "Text shown on the account page",
+        "type": "text"
+    },
+    "categoryNameError": "Category name is required",
+    "@categoryNameError": {
+        "description": "Text shown on the category page",
+        "type": "text"
+    },
+    "categoryIconError": "Category icon is required",
+    "@categoryIconError": {
+        "description": "Text shown on the category page",
+        "type": "text"
+    },
+    "categoryColorError": "Category color is required",
+    "@categoryColorError": {
+        "description": "Text shown on the category page",
+        "type": "text"
+    },
+    "enterAccountNumberHint": "Enter account number",
+    "@enterAccountNumberHint": {
+        "description": "Text shown on the account page",
+        "type": "text"
+    }
 }
