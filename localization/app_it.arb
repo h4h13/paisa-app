@@ -70,6 +70,7 @@
     "validAmount": "Inserisci quantità valida",
     "dueDate": "Data finale",
     "startDate": "Data iniziale",
+    "socialLinks": "Link ai social",
     "telegram": "Telegram",
     "telegramGroup": "Un gruppo dove condividere bug e proporre feature",
     "privacyPolicy": "Privacy & Policy",
@@ -97,6 +98,7 @@
     "dynamicColor": "Dinamico",
     "pickColor": "Scegli colore",
     "colors": "Colori",
+    "others": "Altro",
     "madeWithLoveInIndia": "Fatto col ♥ in India",
     "updateCategory": "Aggiorna categoria",
     "accountInformationTitle": "Informazioni",
@@ -134,6 +136,7 @@
     "enterCardHolderName": "Inserisci il nome del proprietario",
     "search": "Cerca",
     "delete": "Elimina",
+    "noTransaction": "Nulla tra le transazioni",
     "introCTA": "Iniziamo",
     "emptyBudgetMessageTitle": "Non hai impostato budget per alcuna categoria",
     "emptyBudgetMessageSubTitle": "Imposta un budget per una categoria, ed essa apparirà qui.",
@@ -149,6 +152,7 @@
     "authenticate": "Autenticati",
     "biometricMessage": "Tocca il sensore di impronte",
     "total": "Totale",
+    "colorsUI": "Colori ed interfaccia",
     "more": "Altro",
     "chooseIcon": "Scegli icona"
 }
