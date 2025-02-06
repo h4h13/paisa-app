@@ -96,7 +96,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "be": [
@@ -124,9 +133,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -265,7 +271,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "cs": [
@@ -293,9 +308,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -433,7 +445,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "da": [
@@ -461,9 +482,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -566,7 +584,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "de": [
@@ -667,7 +694,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "el": [
@@ -705,7 +741,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "es": [
@@ -755,7 +800,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "fr": [
@@ -964,7 +1018,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "he": [
@@ -1006,9 +1069,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -1173,7 +1233,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "hi": [
@@ -1382,7 +1451,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "id": [
@@ -1483,7 +1561,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "it": [
@@ -1512,9 +1599,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -1750,7 +1834,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "ja": [
@@ -1882,7 +1975,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "kn": [
@@ -2034,7 +2136,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "ko": [
@@ -2052,9 +2163,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -2172,7 +2280,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "nl": [
@@ -2200,9 +2317,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -2306,7 +2420,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "pl": [
@@ -2515,7 +2638,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "pt": [
@@ -2616,7 +2748,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "pt_BR": [
@@ -2717,7 +2858,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "ru": [
@@ -2818,7 +2968,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "sv": [
@@ -2845,9 +3004,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -2950,7 +3106,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "tr": [
@@ -3159,7 +3324,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "uk": [
@@ -3187,9 +3361,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -3327,7 +3498,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "vi": [
@@ -3363,13 +3543,11 @@
     "enterCardHolderName",
     "search",
     "delete",
-    "noTransaction",
     "introCTA",
     "authenticate",
     "biometricMessage",
     "back",
     "total",
-    "colorsUI",
     "more",
     "chooseIcon",
     "accountStyle",
@@ -3388,9 +3566,6 @@
     "justBlackText",
     "dateAndTime",
     "goals",
-    "addGoalTooltip",
-    "customize",
-    "statistics",
     "welcomeAppTitle",
     "welcomeAppSubTitle",
     "data",
@@ -3518,7 +3693,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "zh": [
@@ -3674,7 +3858,16 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ],
 
   "zh_TW": [
@@ -3830,6 +4023,15 @@
     "errorGeneratingReport",
     "generateReport",
     "download",
-    "accountNumber"
+    "accountNumber",
+    "appearance",
+    "notificationAndSecurity",
+    "dataManagement",
+    "externalLinksAndCommunity",
+    "legalInfo",
+    "customizeHomeScreen",
+    "customizeHomeScreenDesc",
+    "goalAdded",
+    "goalUpdated"
   ]
 }

@@ -332,11 +332,6 @@
         "description": "Text shown on the loan page when selecting start date",
         "type": "text"
     },
-    "socialLinks": "Social links",
-    "@socialLinks": {
-        "description": "Section title shown on the settings page",
-        "type": "text"
-    },
     "telegram": "Telegram",
     "@telegram": {
         "description": "Title text shown on settings page for telegram button",
@@ -453,11 +448,6 @@
     },
     "colors": "Colors",
     "@colors": {
-        "description": "Section title on settings page for theme",
-        "type": "text"
-    },
-    "others": "Others",
-    "@others": {
         "description": "Section title on settings page for theme",
         "type": "text"
     },
@@ -622,10 +612,6 @@
     "@delete": {
         "description": "Delete "
     },
-    "noTransaction": "Empty in transaction",
-    "@noTransaction": {
-        "description": "Empty in transaction"
-    },
     "introCTA": "Get started",
     "@introCTA": {
         "description": "Text shown on the intro screen button",
@@ -709,11 +695,6 @@
     "total": "Total",
     "@total": {
         "description": "Text shown on the home screen sub title on total card",
-        "type": "text"
-    },
-    "colorsUI": "Colors & UI",
-    "@colorsUI": {
-        "description": "Text shown on the section title on settings screen",
         "type": "text"
     },
     "more": "More",
@@ -804,21 +785,6 @@
     "goals": "Goals",
     "@goals": {
         "description": "Text shown on navigation drawer item",
-        "type": "text"
-    },
-    "addGoalTooltip": "Add Goal",
-    "@addGoalTooltip": {
-        "description": "Tooltip shown on the goals add button",
-        "type": "text"
-    },
-    "customize": "Customize",
-    "@customize": {
-        "description": "Subtitle text shown on the settings page section",
-        "type": "text"
-    },
-    "statistics": "Statistics",
-    "@statistics": {
-        "description": "Subtitle text shown on the overview page bar chat title",
         "type": "text"
     },
     "welcomeAppTitle": "Welcome to Paisa",
@@ -1549,7 +1515,7 @@
             }
         }
     },
-    "processNow": "Process now",
+    "processNow": "Process",
     "@processNow": {
         "description": "Text shown on the recurring page",
         "type": "text"
@@ -2220,5 +2186,48 @@
     "@accountNumber": {
         "description": "Text shown on the account details page",
         "type": "text"
+    },
+    "appearance": "Interface Settings",
+    "@appearance": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "notificationAndSecurity": "Notification & Security",
+    "@notificationAndSecurity": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "dataManagement": "Data Management",
+    "@dataManagement": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "externalLinksAndCommunity": "External Links & Community",
+    "@externalLinksAndCommunity": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "legalInfo": "Legal & Info",
+    "@legalInfo": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "customizeHomeScreen": "Customize Home Screen",
+    "@customizeHomeScreen": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "customizeHomeScreenDesc": "Customize the home screen to show the sections you want",
+    "@customizeHomeScreenDesc": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "goalAdded": "Goal added",
+    "@goalAdded": {
+        "description": "Snackbar message when goal is added"
+    },
+    "goalUpdated": "Goal updated",
+    "@goalUpdated": {
+        "description": "Snackbar message when goal is updated"
     }
 }
