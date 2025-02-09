@@ -105,7 +105,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "be": [
@@ -280,7 +282,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "cs": [
@@ -454,7 +458,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "da": [
@@ -593,7 +599,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "de": [
@@ -703,7 +711,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "el": [
@@ -750,7 +760,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "es": [
@@ -809,7 +821,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "fr": [
@@ -1027,7 +1041,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "he": [
@@ -1242,7 +1258,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "hi": [
@@ -1460,7 +1478,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "id": [
@@ -1570,7 +1590,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "it": [
@@ -1843,7 +1865,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "ja": [
@@ -1984,7 +2008,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "kn": [
@@ -2145,7 +2171,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "ko": [
@@ -2289,7 +2317,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "nl": [
@@ -2429,7 +2459,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "pl": [
@@ -2647,7 +2679,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "pt": [
@@ -2757,7 +2791,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "pt_BR": [
@@ -2867,7 +2903,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "ru": [
@@ -2977,7 +3015,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "sv": [
@@ -3115,7 +3155,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "tr": [
@@ -3333,7 +3375,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "uk": [
@@ -3507,7 +3551,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "vi": [
@@ -3702,7 +3748,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "zh": [
@@ -3867,7 +3915,9 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ],
 
   "zh_TW": [
@@ -4032,6 +4082,8 @@
     "customizeHomeScreen",
     "customizeHomeScreenDesc",
     "goalAdded",
-    "goalUpdated"
+    "goalUpdated",
+    "activeSubscriptions",
+    "monthlyPayment"
   ]
 }

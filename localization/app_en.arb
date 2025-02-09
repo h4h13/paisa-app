@@ -2229,5 +2229,15 @@
     "goalUpdated": "Goal updated",
     "@goalUpdated": {
         "description": "Snackbar message when goal is updated"
+    },
+    "activeSubscriptions": " active subscriptions",
+    "@activeSubscriptions": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "monthlyPayment": "Monthly Payment",
+    "@monthlyPayment": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
     }
 }
