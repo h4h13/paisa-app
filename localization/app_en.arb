@@ -2239,5 +2239,10 @@
     "@monthlyPayment": {
         "description": "Text shown on the home page section title",
         "type": "text"
+    },
+    "upcomingTransactions": "Upcoming transactions",
+    "@upcomingTransactions": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
     }
 }

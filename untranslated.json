@@ -107,7 +107,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "be": [
@@ -284,7 +285,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "cs": [
@@ -460,7 +462,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "da": [
@@ -601,7 +604,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "de": [
@@ -713,7 +717,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "el": [
@@ -762,7 +767,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "es": [
@@ -823,7 +829,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "fr": [
@@ -1043,7 +1050,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "he": [
@@ -1260,7 +1268,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "hi": [
@@ -1480,7 +1489,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "id": [
@@ -1592,7 +1602,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "it": [
@@ -1867,7 +1878,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "ja": [
@@ -2010,7 +2022,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "kn": [
@@ -2173,7 +2186,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "ko": [
@@ -2319,7 +2333,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "nl": [
@@ -2461,7 +2476,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "pl": [
@@ -2681,7 +2697,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "pt": [
@@ -2793,7 +2810,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "pt_BR": [
@@ -2905,7 +2923,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "ru": [
@@ -3017,7 +3036,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "sv": [
@@ -3157,7 +3177,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "tr": [
@@ -3377,7 +3398,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "uk": [
@@ -3553,7 +3575,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "vi": [
@@ -3750,7 +3773,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "zh": [
@@ -3917,7 +3941,8 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ],
 
   "zh_TW": [
@@ -4084,6 +4109,7 @@
     "goalAdded",
     "goalUpdated",
     "activeSubscriptions",
-    "monthlyPayment"
+    "monthlyPayment",
+    "upcomingTransactions"
   ]
 }
