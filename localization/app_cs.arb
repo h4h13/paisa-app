@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Přidat transakci",
     "addAccountTooltip": "Přidat účet",
     "addCategoryTooltip": "Přidat kategorii",
-    "addRecurringTooltip": "Přidat opakující se",
+    "addRecurring": "Přidat opakující se",
     "selectDateRangeTooltip": "Vybrat rozsah dat",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Přidat kategorii",

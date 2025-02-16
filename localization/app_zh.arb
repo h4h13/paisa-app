@@ -14,7 +14,7 @@
     "addTransactionTooltip": "新增交易",
     "addAccountTooltip": "新增账户",
     "addCategoryTooltip": "新增分类",
-    "addRecurringTooltip": "新增定期交易",
+    "addRecurring": "新增定期交易",
     "selectDateRangeTooltip": "日期范围",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {

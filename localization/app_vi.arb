@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Thêm giao dịch",
     "addAccountTooltip": "Thêm tài khoản",
     "addCategoryTooltip": "Thêm danh mục",
-    "addRecurringTooltip": "Thêm định kỳ",
+    "addRecurring": "Thêm định kỳ",
     "selectDateRangeTooltip": "Chọn khoảng thời gian",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Thêm danh mục",

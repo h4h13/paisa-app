@@ -14,7 +14,7 @@
     "addTransactionTooltip": "取引を追加",
     "addAccountTooltip": "アカウントを追加",
     "addCategoryTooltip": "カテゴリーを追加",
-    "addRecurringTooltip": "定期的な取引を追加",
+    "addRecurring": "定期的な取引を追加",
     "selectDateRangeTooltip": "期間を選択",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {

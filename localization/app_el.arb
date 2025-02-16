@@ -13,7 +13,7 @@
     "addTransactionTooltip": "Προσθήκη συναλλαγής",
     "addAccountTooltip": "Προσθήκη λογαριασμού",
     "addCategoryTooltip": "Προσθήκη κατηγορίας",
-    "addRecurringTooltip": "Προσθήκη επαναλαμβανόμενων",
+    "addRecurring": "Προσθήκη επαναλαμβανόμενων",
     "selectDateRangeTooltip": "Εύρος ημερομηνίας",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Προσθήκη Κατηγορίας",

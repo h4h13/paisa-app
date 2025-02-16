@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Transactie toevoegen",
     "addAccountTooltip": "Rekening toevoegen",
     "addCategoryTooltip": "Categorie toevoegen",
-    "addRecurringTooltip": "Terugkerende transactie toevoegen",
+    "addRecurring": "Terugkerende transactie toevoegen",
     "selectDateRangeTooltip": "Selecteer datumbereik",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Categorie toevoegen",

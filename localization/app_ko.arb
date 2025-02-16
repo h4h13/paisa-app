@@ -14,7 +14,7 @@
     "addTransactionTooltip": "거래 추가",
     "addAccountTooltip": "계좌 추가",
     "addCategoryTooltip": "카테고리 추가",
-    "addRecurringTooltip": "정기 거래 추가",
+    "addRecurring": "정기 거래 추가",
     "selectDateRangeTooltip": "날짜 범위",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "카테고리 추가",

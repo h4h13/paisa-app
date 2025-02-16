@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Lägg till transaktion",
     "addAccountTooltip": "Lägg till konto",
     "addCategoryTooltip": "Lägg till kategori",
-    "addRecurringTooltip": "Lägg till återkommande",
+    "addRecurring": "Lägg till återkommande",
     "selectDateRangeTooltip": "Välj datumintervall",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Lägg till kategori",

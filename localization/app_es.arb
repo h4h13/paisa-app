@@ -13,7 +13,7 @@
     "addTransactionTooltip": "Añadir transacción",
     "addAccountTooltip": "Añadir cuenta",
     "addCategoryTooltip": "Añadir categoría",
-    "addRecurringTooltip": "Añadir gasto recurrente",
+    "addRecurring": "Añadir gasto recurrente",
     "selectDateRangeTooltip": "Intervalo de fechas",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Añadir categoría",

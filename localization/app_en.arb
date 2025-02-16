@@ -50,7 +50,7 @@
         "description": "Text shown on the switch in add account screen",
         "type": "text"
     },
-    "recurring": "Subscriptions/ Recurring",
+    "recurring": "Recurring",
     "@recurring": {
         "description": "Recurring text shown in the bottom navigation or drawer widget and recurring page toolbar title",
         "type": "text"
@@ -70,8 +70,13 @@
         "description": "Tooltip shown on the category fab button",
         "type": "text"
     },
-    "addRecurringTooltip": "Add recurring",
-    "@addRecurringTooltip": {
+    "addRecurring": "Add recurring",
+    "@addRecurring": {
+        "description": "Tooltip shown on the category recurring button",
+        "type": "text"
+    },
+    "editRecurring": "Edit recurring",
+    "@editRecurring": {
         "description": "Tooltip shown on the category recurring button",
         "type": "text"
     },
@@ -1563,7 +1568,7 @@
             }
         }
     },
-    "topTags": "Top Tags",
+    "topTags": "Top tags",
     "@topTags": {
         "description": "Text shown on the home page section title",
         "type": "text"
@@ -2230,11 +2235,6 @@
     "@goalUpdated": {
         "description": "Snackbar message when goal is updated"
     },
-    "activeSubscriptions": " active subscriptions",
-    "@activeSubscriptions": {
-        "description": "Text shown on the home page section title",
-        "type": "text"
-    },
     "monthlyPayment": "Monthly Payment",
     "@monthlyPayment": {
         "description": "Text shown on the home page section title",
@@ -2244,5 +2244,60 @@
     "@upcomingTransactions": {
         "description": "Text shown on the home page section title",
         "type": "text"
+    },
+    "recurringDeleted": "Recurring deleted",
+    "@recurringDeleted": {
+        "description": "Snackbar message when recurring is deleted"
+    },
+    "recurringAdded": "Recurring added",
+    "@recurringAdded": {
+        "description": "Snackbar message when recurring is added"
+    },
+    "recurringUpdated": "Recurring updated",
+    "@recurringUpdated": {
+        "description": "Snackbar message when recurring is updated"
+    },
+    "noTags": "No tag",
+    "@noTags": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "noCategory": "No category",
+    "@noCategory": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "noAccount": "No account",
+    "@noAccount": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "noTagsDescription": "Add a tag to categorize your transactions",
+    "@noTagsDescription": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "goalCount": "{goalCount} active, {completedGoalCount} completed",
+    "@goalCount": {
+        "description": "Text shown on the home page section title",
+        "type": "text",
+        "placeholders": {
+            "goalCount": {
+                "type": "int"
+            },
+            "completedGoalCount": {
+                "type": "int"
+            }
+        }
+    },
+    "budgetCount": "{budgetCount} budgets",
+    "@budgetCount": {
+        "description": "Text shown on the home page section title",
+        "type": "text",
+        "placeholders": {
+            "budgetCount": {
+                "type": "int"
+            }
+        }
     }
 }

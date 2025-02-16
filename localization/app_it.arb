@@ -11,7 +11,7 @@
     "debits": "Debiti",
     "addTransactionTooltip": "Aggiungi transazione",
     "addCategoryTooltip": "Aggiungi categoria",
-    "addRecurringTooltip": "Aggiungi ricorrente",
+    "addRecurring": "Aggiungi ricorrente",
     "selectDateRangeTooltip": "Intervallo di date",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {

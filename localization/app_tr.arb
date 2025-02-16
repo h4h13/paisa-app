@@ -14,7 +14,7 @@
     "addTransactionTooltip": "İşlem ekle",
     "addAccountTooltip": "Hesap ekle",
     "addCategoryTooltip": "Kategori ekle",
-    "addRecurringTooltip": "Tekrarlayan işlem ekle",
+    "addRecurring": "Tekrarlayan işlem ekle",
     "selectDateRangeTooltip": "Tarih aralığı",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {

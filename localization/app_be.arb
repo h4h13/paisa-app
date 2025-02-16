@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Дадаць транзакцыю",
     "addAccountTooltip": "Дадаць рахунак",
     "addCategoryTooltip": "Дадаць катэгорыю",
-    "addRecurringTooltip": "Дадаць рэгулярную",
+    "addRecurring": "Дадаць рэгулярную",
     "selectDateRangeTooltip": "Выбраць перыяд",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Дадаць катэгорыю",

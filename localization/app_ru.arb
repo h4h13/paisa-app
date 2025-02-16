@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Добавить транзакцию",
     "addAccountTooltip": "Добавить счет",
     "addCategoryTooltip": "Добавить категорию",
-    "addRecurringTooltip": "Добавить повторяющуюся",
+    "addRecurring": "Добавить повторяющуюся",
     "selectDateRangeTooltip": "Диапазон дат",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Добавить категорию",

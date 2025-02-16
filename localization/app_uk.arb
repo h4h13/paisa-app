@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Додати транзакцію",
     "addAccountTooltip": "Додати рахунок",
     "addCategoryTooltip": "Додати категорію",
-    "addRecurringTooltip": "Додати регулярну",
+    "addRecurring": "Додати регулярну",
     "selectDateRangeTooltip": "Вибрати період",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Додати категорію",

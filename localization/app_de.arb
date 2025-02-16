@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Transaktion hinzufügen",
     "addAccountTooltip": "Konto hinzufügen",
     "addCategoryTooltip": "Kategorie hinzufügen",
-    "addRecurringTooltip": "Wiederkehrend hinzufügen",
+    "addRecurring": "Wiederkehrend hinzufügen",
     "selectDateRangeTooltip": "Datumsbereich",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {

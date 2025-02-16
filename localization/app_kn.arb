@@ -15,7 +15,7 @@
     "addTransactionTooltip": "ವಹಿವಾಟು ಸೇರಿಸಿ",
     "addAccountTooltip": "ಖಾತೆ ಸೇರಿಸಿ",
     "addCategoryTooltip": "ವರ್ಗ ಸೇರಿಸಿ",
-    "addRecurringTooltip": "ಆವರ್ತನೆ ಸೇರಿಸಿ",
+    "addRecurring": "ಆವರ್ತನೆ ಸೇರಿಸಿ",
     "selectDateRangeTooltip": "ದಿನಾಂಕ ವ್ಯಾಪ್ತಿ",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "ವರ್ಗ ಸೇರಿಸಿ",

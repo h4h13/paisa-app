@@ -14,7 +14,7 @@
     "addTransactionTooltip": "लेन-देन जोड़ें",
     "addAccountTooltip": "खाता जोड़ें",
     "addCategoryTooltip": "श्रेणी जोड़ें",
-    "addRecurringTooltip": "आवर्ती जोड़ें",
+    "addRecurring": "आवर्ती जोड़ें",
     "selectDateRangeTooltip": "तिथि सीमा",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {

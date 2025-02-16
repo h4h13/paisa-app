@@ -14,7 +14,7 @@
     "addTransactionTooltip": "Tilføj transaktion",
     "addAccountTooltip": "Tilføj konto",
     "addCategoryTooltip": "Tilføj kategori",
-    "addRecurringTooltip": "Tilføj tilbagevendende",
+    "addRecurring": "Tilføj tilbagevendende",
     "selectDateRangeTooltip": "Vælg datointerval",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "Tilføj kategori",

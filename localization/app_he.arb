@@ -14,7 +14,7 @@
     "addTransactionTooltip": "הוסף עסקה",
     "addAccountTooltip": "הוסף חשבון",
     "addCategoryTooltip": "הוסף קטגוריה",
-    "addRecurringTooltip": "הוסף תשלום קבוע",
+    "addRecurring": "הוסף תשלום קבוע",
     "selectDateRangeTooltip": "בחר טווח תאריכים",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "addCategory": "הוסף קטגוריה",

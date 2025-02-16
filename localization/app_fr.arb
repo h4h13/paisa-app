@@ -13,7 +13,7 @@
     "addTransactionTooltip": "Ajouter une transaction",
     "addAccountTooltip": "Ajouter un compte",
     "addCategoryTooltip": "Ajouter une catégorie",
-    "addRecurringTooltip": "Ajouter une souscription",
+    "addRecurring": "Ajouter une souscription",
     "selectDateRangeTooltip": "Période",
     "transactionSubTittleText": "{bankName} • {dateString}",
     "@transactionSubTittleText": {
