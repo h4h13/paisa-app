@@ -117,7 +117,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "be": [
@@ -304,7 +308,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "cs": [
@@ -490,7 +498,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "da": [
@@ -641,7 +653,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "de": [
@@ -763,7 +779,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "el": [
@@ -822,7 +842,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "es": [
@@ -893,7 +917,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "fr": [
@@ -1123,7 +1151,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "he": [
@@ -1350,7 +1382,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "hi": [
@@ -1580,7 +1616,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "id": [
@@ -1702,7 +1742,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "it": [
@@ -1987,7 +2031,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "ja": [
@@ -2140,7 +2188,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "kn": [
@@ -2313,7 +2365,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "ko": [
@@ -2469,7 +2525,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "nl": [
@@ -2621,7 +2681,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "pl": [
@@ -2851,7 +2915,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "pt": [
@@ -2973,7 +3041,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "pt_BR": [
@@ -3095,7 +3167,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "ru": [
@@ -3217,7 +3293,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "sv": [
@@ -3367,7 +3447,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "tr": [
@@ -3597,7 +3681,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "uk": [
@@ -3783,7 +3871,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "vi": [
@@ -3990,7 +4082,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "zh": [
@@ -4167,7 +4263,11 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ],
 
   "zh_TW": [
@@ -4344,6 +4444,10 @@
     "noAccount",
     "noTagsDescription",
     "goalCount",
-    "budgetCount"
+    "budgetCount",
+    "selectYourDefaultCategories",
+    "selectYourDefaultAccounts",
+    "noTransactions",
+    "noTransactionDescription"
   ]
 }

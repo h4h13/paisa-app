@@ -2299,5 +2299,25 @@
                 "type": "int"
             }
         }
+    },
+    "selectYourDefaultCategories": "Select your default categories",
+    "@selectYourDefaultCategories": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "selectYourDefaultAccounts": "Select your default accounts",
+    "@selectYourDefaultAccounts": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "noTransactions": "No transactions found",
+    "@noTransactions": {
+        "description": "Text shown on the transaction page",
+        "type": "text"
+    },
+    "noTransactionDescription": "Add a transaction to view it here",
+    "@noTransactionDescription": {
+        "description": "Text shown on the transaction page",
+        "type": "text"
     }
 }
