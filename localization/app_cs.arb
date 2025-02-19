@@ -228,6 +228,5 @@
     "whatsNew": "Co je nového",
     "googleDriveDesc": "Zálohovat a obnovit data na Google Drive",
     "googleDriveBackup": "Google Drive",
-    "historyDesc": "Zobrazit všechny vaše transakce",
-    "exportImportCSVFile": "CSV Záloha & Obnovení"
+    "historyDesc": "Zobrazit všechny vaše transakce"
 }

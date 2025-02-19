@@ -137,7 +137,6 @@
     "defaultCategory": "기본 카테고리",
     "selectGoal": "목표 선택",
     "seeAll": "전체 보기",
-    "editSubscription": "구독 수정",
     "editGoal": "목표 수정",
     "editBudget": "예산 수정",
     "deleteGoal": "{goalName} 목표를 삭제하시겠습니까?",
@@ -258,6 +257,5 @@
     "whatsNew": "새로운 기능",
     "googleDriveDesc": "Google Drive에 데이터 백업 및 복원",
     "googleDriveBackup": "Google Drive",
-    "historyDesc": "모든 거래 내역 보기",
-    "exportImportCSVFile": "CSV 파일 백업 & 복원"
+    "historyDesc": "모든 거래 내역 보기"
 }

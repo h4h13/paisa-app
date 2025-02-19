@@ -1017,11 +1017,6 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "exportImportCSVFile": "Export/Import CSV",
-    "@exportImportCSVFile": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
     "dataBackupAndRestore": "Backup & Restore",
     "@dataBackupAndRestore": {
         "description": "Text shown on the export and import page",
@@ -1260,11 +1255,6 @@
     "seeAll": "See all",
     "@seeAll": {
         "description": "Text shown on the home page section title",
-        "type": "text"
-    },
-    "editSubscription": "Edit subscription",
-    "@editSubscription": {
-        "description": "Text shown on the edit subscription page title",
         "type": "text"
     },
     "editGoal": "Edit goal",
@@ -2147,11 +2137,6 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
-    "totalSubscriptions": "Total Subscriptions",
-    "@totalSubscriptions": {
-        "description": "Text shown on the home page section title",
-        "type": "text"
-    },
     "reports": "Reports",
     "@reports": {
         "description": "Text shown on the home page section title",
@@ -2259,16 +2244,6 @@
     },
     "noTags": "No tag",
     "@noTags": {
-        "description": "Text shown on the transaction details page",
-        "type": "text"
-    },
-    "noCategory": "No category",
-    "@noCategory": {
-        "description": "Text shown on the transaction details page",
-        "type": "text"
-    },
-    "noAccount": "No account",
-    "@noAccount": {
         "description": "Text shown on the transaction details page",
         "type": "text"
     },

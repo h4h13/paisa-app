@@ -145,7 +145,6 @@
     "defaultCategory": "Standardkategori",
     "selectGoal": "Vælg mål",
     "seeAll": "Se alle",
-    "editSubscription": "Redigér abonnement",
     "editGoal": "Redigér mål",
     "editBudget": "Redigér budget",
     "deleteGoal": "Slet målet {goalName}?",
@@ -263,6 +262,5 @@
     "whatsNew": "Hvad er nyt",
     "googleDriveDesc": "Sikkerhedskopiér og gendan data på Google Drive",
     "googleDriveBackup": "Google Drive",
-    "historyDesc": "Se alle dine transaktioner",
-    "exportImportCSVFile": "CSV Backup & Gendannelse"
+    "historyDesc": "Se alle dine transaktioner"
 }

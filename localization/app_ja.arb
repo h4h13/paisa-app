@@ -235,7 +235,6 @@
     "defaultCategory": "デフォルトカテゴリー",
     "selectGoal": "目標を選択",
     "seeAll": "すべて表示",
-    "editSubscription": "サブスクリプションを編集",
     "editGoal": "目標を編集",
     "editBudget": "予算を編集",
     "deleteGoal": "{goalName}の目標を削除しますか？",

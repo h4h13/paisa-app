@@ -228,6 +228,5 @@
     "whatsNew": "Що нового",
     "googleDriveDesc": "Резервне копіювання та відновлення даних на Google Drive",
     "googleDriveBackup": "Google Drive",
-    "historyDesc": "Переглянути всі ваші транзакції",
-    "exportImportCSVFile": "CSV Резервне копіювання та відновлення"
+    "historyDesc": "Переглянути всі ваші транзакції"
 }

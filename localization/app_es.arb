@@ -242,7 +242,6 @@
     "defaultCategory": "Categoría predeterminada",
     "selectGoal": "Seleccionar objetivo",
     "seeAll": "Ver todo",
-    "editSubscription": "Editar suscripción",
     "editGoal": "Editar meta",
     "editBudget": "Editar presupuesto",
     "deleteGoal": "¿Eliminar el objetivo {goalName}?",

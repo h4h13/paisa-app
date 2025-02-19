@@ -201,7 +201,6 @@
     "googleDriveDesc": "ನಿಮ್ಮ ಡೇಟಾವನ್ನು Google Drive ಗೆ ಬ್ಯಾಕಪ್ ಮತ್ತು ಮರುಸ್ಥಾಪಿಸಿ",
     "googleDriveBackup": "Google Drive",
     "historyDesc": "ನಿಮ್ಮ ಎಲ್ಲಾ ವಹಿವಾಟುಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
-    "exportImportCSVFile": "CSV ಫೈಲ್‌ಗಳ ಬ್ಯಾಕಪ್ & ಮರುಸ್ಥಾಪನೆ",
     "dataBackupAndRestore": "JSON ಫೈಲ್‌ಗಳ ಬ್ಯಾಕಪ್ & ಮರುಸ್ಥಾಪನೆ",
     "exportAllData": "ಎಲ್ಲಾ ಡೇಟಾ ರಫ್ತು ಮಾಡಿ",
     "exportAllDataSuccess": "ಡೇಟಾ ಯಶಸ್ವಿಯಾಗಿ ರಫ್ತು ಮಾಡಲಾಗಿದೆ",

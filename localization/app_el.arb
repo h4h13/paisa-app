@@ -2,30 +2,41 @@
     "appTitle": "Paisa",
     "home": "Αρχική",
     "transactions": "Συναλλαγές",
-    "welcomeMessage": "Καλώς ήρθατε πίσω!",
+    "welcomeMessage": "Καλώς ήρθες ξανά!",
     "categories": "Κατηγορίες",
     "accounts": "Λογαριασμοί",
     "budget": "Προϋπολογισμός",
+    "budgets": "Προϋπολογισμοί",
     "overview": "Επισκόπηση",
-    "defaultAccount": "Προεπιλ. λογαριασμός",
-    "recurring": "Επαναλαμβανόμενο",
-    "debts": "Χρέη",
+    "defaultAccount": "Προεπιλεγμένος λογαριασμός",
+    "recurring": "Επαναλαμβανόμενες",
     "addTransactionTooltip": "Προσθήκη συναλλαγής",
     "addAccountTooltip": "Προσθήκη λογαριασμού",
     "addCategoryTooltip": "Προσθήκη κατηγορίας",
-    "addRecurring": "Προσθήκη επαναλαμβανόμενων",
+    "addRecurring": "Προσθήκη επαναλαμβανόμενης",
+    "editRecurring": "Επεξεργασία επαναλαμβανόμενης",
     "selectDateRangeTooltip": "Εύρος ημερομηνίας",
     "transactionSubTittleText": "{bankName} • {dateString}",
+    "@transactionSubTittleText": {
+        "placeholders": {
+            "bankName": {
+                "type": "String"
+            },
+            "dateString": {
+                "type": "String"
+            }
+        }
+    },
     "addCategory": "Προσθήκη Κατηγορίας",
-    "addCategoryEmptyTitle": "Καμία κατηγορία",
+    "addCategoryEmptyTitle": "Δεν υπάρχουν κατηγορίες",
     "addCategoryEmptySubTitle": "Προσθέστε κατηγορίες για να επιλέξετε",
     "addAccountEmptyTitle": "Κανένας λογαριασμός",
     "addAccountEmptySubTitle": "Προσθέστε λογαριασμό για να επιλέξετε",
     "addTransaction": "Προσθήκη συναλλαγής",
     "updateTransaction": "Ενημέρωση συναλλαγής",
-    "addedTransaction": "Συναλλαγή προστέθηκε",
-    "updatedTransaction": "Συναλλαγή ενημερώθηκε",
-    "deletedTransaction": "Συναλλαγή διαγράφηκε",
+    "addedTransaction": "Η συναλλαγή προστέθηκε",
+    "updatedTransaction": "Η συναλλαγή ενημερώθηκε",
+    "deletedTransaction": "Η συναλλαγή διαγράφηκε",
     "expenseName": "Όνομα δαπάνης",
     "description": "Περιγραφή",
     "selectAccount": "Επιλογή λογαριασμού",
@@ -46,100 +57,121 @@
     "bank": "Τράπεζα",
     "wallet": "Πορτοφόλι",
     "accountName": "Όνομα λογαριασμού",
-    "addedAccount": "Λογαριασμός προστέθηκε",
-    "updatedAccount": "Λογαριασμός ενημερώθηκε",
-    "deletedCategory": "Κατηγόρια διαγράφηκε",
-    "successAddCategory": "Κατηγορία προστέθηκε",
-    "validName": "Εισάγετε έγκυρο όνομα",
+    "addedAccount": "Ο λογαριασμός προστέθηκε",
+    "updatedAccount": "Ο λογαριασμός ενημερώθηκε",
+    "deletedCategory": "Η κατηγορία διαγράφηκε",
+    "successAddCategory": "Η κατηγορία προστέθηκε",
+    "validName": "Εισάγετε ένα έγκυρο όνομα",
     "profile": "Προφίλ",
     "chooseTheme": "Επιλογή θέματος",
     "selectCurrency": "Επιλογή νομίσματος",
-    "emptyAccountMessageSubTitle": "Προσθέστε έναν λογαριασμό για να τον εμφανίσετε εδώ",
-    "emptyCategoriesMessageTitle": "Δεν υπάρχουν διαθέσιμες κατηγορίες",
-    "emptyCategoriesMessageSubTitle": "Προσθέστε μια κατηγορία για να την εμφανίσετε εδώ",
+    "emptyAccountMessageSubTitle": "Προσθέστε έναν λογαριασμό για να τον δείτε εδώ",
+    "emptyCategoriesMessageTitle": "Δεν υπάρχουν διαθέσιμες κατηγορίες εδώ",
+    "emptyCategoriesMessageSubTitle": "Προσθέστε μία κατηγορία για να την εμφανίζετε εδώ",
     "emptyOverviewMessageTitle": "Δεν υπάρχουν δεδομένα επισκόπησης",
-    "emptyOverviewMessageSubtitle": "Για να δείτε την επισκόπηση των δαπανών σας, προσθέστε τις δαπάνες σας",
+    "emptyOverviewMessageSubtitle": "Για να δείτε την επισκόπηση των δαπανών σας, προσθέστε μερικές συναλλαγές",
     "amount": "Ποσό",
     "initialAmount": "Αρχικό ποσό",
-    "validAmount": "Εισάγετε έγκυρο ποσό",
+    "validAmount": "Εισάγετε ένα έγκυρο ποσό",
     "dueDate": "Ημερομηνία λήξης",
     "startDate": "Ημερομηνία έναρξης",
     "telegram": "Telegram",
     "telegramGroup": "Μια ομάδα για να ακολουθήσετε και να δημοσιεύσετε σφάλματα και αιτήματα χαρακτηριστικών",
     "privacyPolicy": "Απόρρητο & Πολιτική",
     "github": "GitHub",
-    "githubText": "Διαχωρίστε (Fork) το έργο στο GitHub",
+    "githubText": "Ελέγξτε τις εκδόσεις και τον κατάλογο αλλαγών",
     "version": "Έκδοση",
     "versionNumber": "v{version}",
-    "deleteAccount": "Η διαγραφή του λογαριασμού διαγράφει όλες τις δαπάνες που συνδέονται με αυτόν τον λογαριασμό ",
-    "deleteCategory": "Η διαγραφή της κατηγορίας διαγράφει όλες τις δαπάνες που συνδέονται με αυτή την κατηγορία ",
-    "deleteExpense": "Η δαπάνη θα αφαιρεθεί οριστικά από το λογαριασμό",
-    "dialogDeleteTitle": "Οριστική διαγραφή;",
-    "updatedCategory": "Κατηγορία ενημερώθηκε",
+    "@versionNumber": {
+        "placeholders": {
+            "version": {
+                "type": "String"
+            }
+        }
+    },
+    "deleteAccount": "Διαγράφοντας τον λογαριασμό διαγράφονται όλες οι δαπάνες που συνδέονται με αυτόν τον λογαριασμό ",
+    "deleteCategory": "Διαγράφοντας την κατηγορία, διαγράφονται όλες οι δαπάνες που συνδέονται με αυτή την κατηγορία ",
+    "deleteExpense": "Η δαπάνη θα αφαιρεθεί οριστικά από τον λογαριασμό",
+    "dialogDeleteBackupMessage": "Είστε σίγουροι ότι θέλετε να διαγράψετε το {fileName};",
+    "@dialogDeleteBackupMessage": {
+        "placeholders": {
+            "fileName": {
+                "type": "String"
+            }
+        }
+    },
+    "dialogDeleteTitle": "Μόνιμη διαγραφή;",
+    "updatedCategory": "Η κατηγορία ενημερώθηκε",
     "update": "Ενημέρωση",
     "add": "Προσθήκη",
     "done": "Τέλος",
     "cancel": "Ακύρωση",
     "custom": "Προσαρμογή",
-    "dynamicColor": "Δυναμικό",
+    "dynamicColor": "Δυναμικό χρώμα",
+    "dynamicColorDesc": "Αλλάξτε το χρώμα του θέματος με βάση την ταπετσαρία",
     "pickColor": "Επιλογή χρώματος",
     "colors": "Χρώματα",
     "madeWithLoveInIndia": "Φτιαγμένο με ♥ στην Ινδία",
-    "updateCategory": "Ενημέρωση Κατηγορία",
+    "updateCategory": "Ενημέρωση Κατηγορίας",
     "accountInformationTitle": "Πληροφορίες",
-    "accountInformationSubTitle": "Τα στοιχεία του λογαριασμού που καταχωρήσατε δεν κοινοποιούνται σε κανέναν, ούτε και σε εμάς. Χρησιμοποιείται μόνο για την οπτική αναπαράσταση των στοιχείων του λογαριασμού, μπορείτε να εισάγετε και ψευδείς πληροφορίες.",
+    "accountInformationSubTitle": "Τα στοιχεία του λογαριασμού που καταχωρήσατε δεν κοινοποιούνται σε κανέναν, ούτε και σε εμάς. Χρησιμοποιείται μόνο για την οπτική αναπαράσταση των στοιχείων του λογαριασμού, μπορείτε να εισάγετε και ψευδείς πληροφορίες",
     "next": "Επόμενο",
     "image": "Εικόνα",
-    "welcome": "Γεια σας, καλώς ήρθατε στο",
-    "welcomeDesc": "Πώς θα πρέπει να σας αποκαλούμε;",
+    "welcome": "Γεια σας, Καλώς ήρθατε στο",
+    "welcomeDesc": "Πώς να σας φωνάζουμε;",
     "nameHint": "Όνομα",
-    "enterNameHint": "Εισάγετε το όνομα",
+    "enterNameHint": "Εισαγωγή ονόματος",
     "imageDesc": "Ας ορίσουμε μια εικόνα σας",
     "income": "Εισόδημα",
-    "thisMonth": "Αυτόν τον μήνα",
+    "thisMonth": "Αυτό το μήνα",
     "totalBalance": "Συνολικό υπόλοιπο",
     "ok": "Εντάξει",
-    "searchMessage": "Ξεκινήστε να ψάχνετε κάτι!",
-    "emptySearchMessage": "Φαίνεται ότι δεν βρέθηκε τίποτα!",
+    "searchMessage": "Ξεκινήστε να αναζητείτε κάτι!",
+    "emptySearchMessage": "Φαίνεται ότι δε βρέθηκε τίποτα!",
     "selectIconTitle": "Επιλογή εικονιδίου",
     "selectIconSubTitle": "Πατήστε για να επιλέξετε εικονίδιο",
-    "incomeName": "Ονομασία εισοδήματος",
-    "currencySign": "Σήμα νομίσματος",
+    "incomeName": "Όνομα εισοδήματος",
+    "currencySign": "Σύμβολο νομίσματος",
     "calendarFormat": "Μορφή ημερολογίου",
-    "backupAndRestoreTitle": "Δημιουργία αντιγρ. ασφ. και επαναφορά",
-    "importData": "Εισαγωγή",
-    "appRate": "Αξιολόγιση της εφαρμογής",
-    "appRateDesc": "Σας αρέσει αυτή η εφαρμογή; Πείτε μας πώς μπορούμε να την κάνουμε καλύτερη στο Google Play Store",
+    "backupAndRestoreTitle": "Αντίγραφα ασφαλείας & επαναφορά",
+    "appRate": "Αξιολογήστε την εφαρμογή",
+    "appRateDesc": "Αγαπάτε την εφαρμογή; Πείτε μας πώς μπορούμε να την κάνουμε καλύτερή στο {store}",
+    "@appRateDesc": {
+        "placeholders": {
+            "store": {
+                "type": "String"
+            }
+        }
+    },
     "transferName": "Όνομα μεταφοράς",
-    "debt": "Χρέος",
-    "credit": "Πίστωση",
     "enterCategory": "Εισαγωγή κατηγορίας",
     "enterDescription": "Εισαγωγή περιγραφής",
-    "enterAmount": "Εισάγετε ποσό",
-    "enterAccountName": "Εισάγετε το όνομα λογαριασμού",
-    "enterCardHolderName": "Εισάγετε το όνομα κατόχου κάρτας",
+    "enterAmount": "Εισαγωγή ποσού",
+    "enterAccountName": "Εισαγωγή ονόματος λογαριασμού",
+    "enterCardHolderName": "Εισαγωγή όνομα κατόχου κάρτας",
     "search": "Αναζήτηση",
     "delete": "Διαγραφή",
-    "introCTA": "Έναρξη",
-    "emptyBudgetMessageTitle": "Δεν έχουν οριστεί προϋπολογισμοί για καμία κατηγορία",
-    "emptyBudgetMessageSubTitle": "Ορίστε έναν προϋπολογισμό για οποιαδήποτε κατηγορία και η κατηγορία αυτή θα εμφανίζεται εδώ.",
-    "recurringEmptyMessageTitle": "Καμία επαναλαμβανόμενη ενέργεια;",
-    "recurringEmptyMessageSubTitle": "Προσθέστε επαναλαμβανόμενες ενέργειες για να τις δείτε εδώ",
-    "smallSizeFab": "Μικρό μέγεθος Κουμπιού",
-    "smallSizeFabMessage": "Εμφάνιση κουμπιού δράσης μικρού μεγέθους σε όλες τις οθόνες",
+    "introCTA": "Ας ξεκινήσουμε",
+    "deleteLoan": "Διαγράφοντας το δάνειο διαγράφονται όλες οι εγγραφές που σχετίζονται με αυτό",
+    "emptyBudgetMessageTitle": "Δεν υπάρχουν προϋπολογισμοί",
+    "emptyBudgetMessageSubTitle": "Προσθέστε έναν προϋπολογισμό για να τον δείτε εδώ",
+    "recurringEmptyMessageTitle": "Δεν υπάρχουν επαναλαμβανόμενα συμβάντα;",
+    "recurringEmptyMessageSubTitle": "Προσθέστε επαναλαμβανόμενα συμβάντα για να τα δείτε εδώ",
+    "smallSizeFab": "Μικρό μέγεθος FAB",
+    "smallSizeFabMessage": "Εμφάνιση κουμπιού ενέργειας μικρού μεγέθους σε όλες τις οθόνες",
     "selectDateErrorMessage": "Επιλογή ημερομηνίας",
-    "edit": "Επεξεργασία",
+    "edit": "Επεξεργ.",
     "fromAccount": "Μεταφορά λογαριασμού από",
     "toAccount": "Μεταφορά λογαριασμού σε",
-    "paisaLocked": "Paisa Κλειδωμένη",
-    "authenticate": "Αυθεντικοποίηση",
-    "biometricMessage": "Αγγίξτε τον αισθητήρα δακτυλικών αποτυπωμάτων",
+    "paisaLocked": "Paisa Κλειδωμένο",
+    "authenticate": "Επαλήθευση",
+    "biometricMessage": "Για να αποκτήσετε πρόσβαση στην εφαρμογή, πιστοποιήστε τον εαυτό σας χρησιμοποιώντας βιομετρικά",
     "back": "Πίσω",
-    "total": "Σύνολο",
+    "total": "Συνολικά",
     "more": "Περισσότερα",
     "chooseIcon": "Επιλογή εικονιδίου",
     "accountStyle": "Στυλ λογαριασμού",
-    "accountStyleDescription": "Επιλέξτε το προτιμώμενο στυλ εμφάνισης λογαριασμού : κάθετο ή οριζόντιο",
+    "accountStyleDescription": "Επιλέξτε το προτιμώμενο στυλ εμφάνισης λογαριασμού κάθετο ή οριζόντιο",
     "supportMe": "Υποστηρίξτε με",
     "supportMeDescription": "Αν νομίζετε ότι αξίζω μια μικρή ανταμοιβή για τη σκληρή δουλειά μου, μπορείτε να με κεράσετε μια εικονική μπύρα",
     "lockAppDescription": "Όταν ενεργοποιηθεί, θα πρέπει να χρησιμοποιήσετε δακτυλικό αποτύπωμα για να ανοίξετε το Paisa.",
@@ -147,7 +179,7 @@
     "chooseAppLanguage": "Επιλογή γλώσσας",
     "appLanguage": "Γλώσσα εφαρμογής",
     "excludeAccount": "Εξαίρεση λογαριασμού",
-    "accountNotFound": "Δεν βρέθηκε λογαριασμός!",
+    "accountNotFound": "Ο λογαριασμός δε βρέθηκε!",
     "bankNameError": "Ορισμός ονόματος τράπεζας",
     "holderNameError": "Ορισμός ονόματος κατόχου λογαριασμού",
     "accountColorError": "Ορισμός ονόματος χρώματος λογαριασμού",
@@ -159,24 +191,24 @@
     "data": "Δεδομένα",
     "clear": "Εκκαθάριση",
     "changeLog": "Κατάλογος αλλαγών",
-    "calenderHeatMap": "Χάρτης θερμότητας ημερολογίου",
+    "calenderHeatMap": "Heatmap ημερολογίου",
     "accountIconError": "Ορισμός εικονιδίου λογαριασμού",
     "tags": "Ετικέτες",
     "tagsToolTip": "Προσθήκη ετικέτας",
     "selectTag": "Επιλογή ετικέτας",
     "tagName": "Όνομα ετικέτας",
-    "enterTagName": "Εισάγετε το όνομα της ετικέτας",
-    "addedDebit": "Χρέωση προστέθηκε",
-    "updatedDebit": "Χρέωση ενημερώθηκε",
+    "enterTagName": "Εισαγωγή ονόματος ετικέτας",
+    "addedDebit": "Η χρεωστική προστέθηκε",
+    "updatedDebit": "Η χρεωστική ενημερώθηκε",
     "contributors": "Συνεισφέροντες",
     "topAccounts": "Κορυφαίοι λογαριασμοί",
     "topCategories": "Κορυφαίες κατηγορίες",
     "recentTransactions": "Πρόσφατες συναλλαγές",
     "sortBy": "Ταξινόμηση κατά",
-    "createBackup": "Δημιουργία αντιγράφου ασφαλείας",
+    "createBackup": "Δημιουργία",
     "addBudget": "Προσθήκη προϋπολογισμού",
     "period": "Περίοδος",
-    "history": "Ιστορία",
+    "history": "Ιστορικό",
     "transaction": "Συναλλαγή",
     "debitTransaction": "Χρεωστική Συναλλαγή",
     "account": "Λογαριασμός",
@@ -184,9 +216,9 @@
     "tag": "Ετικέτα",
     "goal": "Στόχος",
     "overall": "Συνολικά",
-    "selectBudget": "Επιλέξτε προϋπολογισμό",
-    "budgetUpdated": "Προϋπολογισμός ενημερώθηκε",
-    "budgetAdded": "Προϋπολογισμός προστέθηκε",
+    "selectBudget": "Επιλογή προϋπολογισμού",
+    "budgetUpdated": "Ο προϋπολογισμός ενημερώθηκε",
+    "budgetAdded": "Ο προϋπολογισμός προστέθηκε",
     "name": "Όνομα",
     "nameAZ": "Όνομα (Α-Ω)",
     "nameZA": "Όνομα (Ω-Α)",
@@ -197,166 +229,534 @@
     "reorderAccounts": "Αναδιάταξη λογαριασμών",
     "whatsNew": "Τι νέο υπάρχει",
     "googleDriveDesc": "Δημιουργία αντιγράφων ασφαλείας και επαναφορά των δεδομένων σας στο Google Drive",
-    "googleDriveBackup": "Google Drive",
+    "googleDriveBackup": "Αντίγραφα Aσφαλείας του Google Drive",
     "historyDesc": "Προβολή όλων των συναλλαγών σας",
-    "exportImportCSVFile": "Δημιουργία αντιγράφων ασφαλείας & επαναφορά αρχείων CSV",
-    "dataBackupAndRestore": "Δημιουργία αντιγράφων ασφαλείας & επαναφορά αρχείων JSON",
+    "dataBackupAndRestore": "Αντίγραφα Ασφαλείας & Επαναφορά",
     "exportAllData": "Εξαγωγή όλων των δεδομένων",
-    "exportAllDataSuccess": "Επιτυχής εξαγωγή δεδομένων",
+    "exportAllDataSuccess": "Τα δεδομένα εξάγει επιτυχώς",
+    "importData": "Εισαγωγή δεδομένων",
     "importAllData": "Εισαγωγή αρχείου CSV",
     "importAllDataDesc": "Εισαγωγή όλων των δεδομένων σας από ένα αρχείο CSV",
-    "createBackupDesc": "Αποθηκεύστε τα τρέχοντα δεδομένα σας σε ένα αρχείο",
-    "restoreBackup": "Επαναφορά αντιγράφου ασφαλείας",
-    "restoreBackupDesc": "Επαναφορά των δεδομένων σας από ένα αρχείο",
+    "createBackupDesc": "Δημιουργήστε αντίγραφα ασφαλείας των συναλλαγών, των λογαριασμών, των κατηγοριών, των στόχων και άλλων",
+    "restoreBackup": "Επαναφορά",
+    "restoreBackupDesc": "Επαναφέρετε τις συναλλαγές, τους λογαριασμούς, τις κατηγορίες, τους στόχους και άλλα",
     "dangerZone": "Επικίνδυνη ζώνη",
     "deleteAllData": "Διαγράφει μόνιμα όλα τα δεδομένα",
     "resetAllData": "Επαναφορά όλων των δεδομένων",
     "resetAllDataDesc": "Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα δεδομένα σας;",
     "reset": "Επαναφορά",
     "trackBudgets": "Παρακολούθηση προϋπολογισμών",
-    "onTrack": "Σε καλό δρόμο",
-    "overBudget": "Υπέρβαση του προϋπολογισμού",
+    "trackBudget": "Παρακολούθηση",
+    "onTrack": "Eντός πορείας",
+    "overBudget": "Υπέρβαση",
     "warning": "Προσοχή",
     "dailyBudget": "Ημερήσιος προϋπολογισμός",
     "weeklyBudget": "Εβδομαδιαίος προϋπολογισμός",
     "monthlyBudget": "Μηνιαίος προϋπολογισμός",
     "yearlyBudget": "Ετήσιος προϋπολογισμός",
-    "deleteBudget": "Διαγραφή προϋπολογισμού;",
-    "deleteBudgetDesc": "Αυτό δεν θα επηρεάσει τις συναλλαγές που συνδέονται με αυτόν τον προϋπολογισμό.",
-    "transactionsCount": "{count, plural,zero{Καμία συναλλαγή δεν προστέθηκε} one{1 Συναλλαγές} other{{count} συναλλαγές}}",
+    "deleteBudget": "Διαγραφή του προϋπολογισμού;",
+    "deleteBudgetDesc": "Αυτό δε θα επηρεάσει τις συναλλαγές που συνδέονται με αυτόν τον προϋπολογισμό",
+    "transactionsCount": "{count, plural,zero{Δεν προστέθηκαν συναλλαγές} one{1 Συναλλαγές} other{{count} συναλλαγές}}",
+    "@transactionsCount": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
     "enableFeedback": "Ενεργοποίηση λειτουργίας ανατροφοδότησης",
     "enableFeedbackDesc": "Στείλτε σχόλια για να βοηθήσετε στη βελτίωση της εφαρμογής",
-    "emptyGoalsMessageTitle": "Κανένας στόχος",
+    "emptyGoalsMessageTitle": "Δεν υπάρχουν στόχοι",
     "emptyGoalsMessageSubTitle": "Προσθέστε έναν στόχο για να τον δείτε εδώ",
     "addGoal": "Προσθήκη στόχου",
-    "selectAImage": "Επιλέξτε μια εικόνα",
+    "selectAImage": "Επιλογή εικόνας",
     "overViewChartTitle": "Οικονομική επισκόπηση",
-    "overViewChartSubTitle": "Έσοδα έναντι Εξόδων ",
-    "saved": "Εξοικονόμηση",
-    "remaining": "Απομένει",
-    "daysLeft": "{count, plural, zero{Καμία ημέρα} one{1 ημέρα} other{{count} ημέρες}}",
-    "spent": "Ξοδεμένο",
-    "scheduleNotification": "Προγραμματισμός ειδοποίησης",
-    "scheduleNotificationDesc": "Ορίστε μια υπενθύμιση για να παρακολουθείτε τις καθημερινές σας συναλλαγές ",
+    "overViewChartSubTitle": "Έσοδα Vs. Δαπάνες",
+    "saved": "Αποθηκευμένες",
+    "remaining": "Απομένουν",
+    "daysLeft": "{count, plural, zero{Δεν υπάρχουν ημέρες} one{1 ημέρα} other{{count} ημέρες}}",
+    "@daysLeft": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "1"
+            }
+        }
+    },
+    "spent": "Δαπανήθηκαν",
+    "scheduleNotification": "Προγραμματισμένη ειδοποίηση",
+    "scheduleNotificationDesc": "Ορίστε μια υπενθύμιση για να παρακολουθείτε τις καθημερινές σας συναλλαγές",
     "subscription": "Συνδρομές",
     "website": "Ιστοσελίδα",
     "websiteDesc": "Επισκεφθείτε την ιστοσελίδα μας για περισσότερες πληροφορίες",
     "defaultCategory": "Προεπιλεγμένη κατηγορία",
-    "selectGoal": "Επιλέξτε στόχο",
+    "selectGoal": "Επιλογή στόχου",
     "seeAll": "Προβολή όλων",
-    "editSubscription": "Επεξεργασία συνδρομής",
     "editGoal": "Επεξεργασία στόχου",
     "editBudget": "Επεξεργασία προϋπολογισμού",
-    "deleteGoal": "Διαγραφή {goalName} στόχου;",
-    "deletedGoal": "Στόχος διαγράφηκε",
+    "deleteGoal": "Διαγραφή του στόχου {goalName};",
+    "@deleteGoal": {
+        "placeholders": {
+            "goalName": {
+                "type": "String"
+            }
+        }
+    },
+    "deletedGoal": "Ο στόχος διαγράφηκε",
     "subscriptionSubTitle": "{type} • {autoRenew}",
+    "@subscriptionSubTitle": {
+        "placeholders": {
+            "type": {
+                "type": "String"
+            },
+            "autoRenew": {
+                "type": "String"
+            }
+        }
+    },
     "subscriptionNextPayment": "Επόμενη πληρωμή: {date}",
+    "@subscriptionNextPayment": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
     "loans": "Δάνεια",
     "lending": "Δανεισμός",
-    "borrowing": "Δανειοδότηση",
+    "borrowing": "Δανεισμός",
     "addLoan": "Προσθήκη δανείου",
     "editLoan": "Επεξεργασία δανείου",
     "payLoan": "Πληρωμή δανείου",
-    "emptyLoansMessageTitle": "Κανένα δάνειο",
+    "emptyLoansMessageTitle": "Δεν υπάρχει κανένα δάνειο",
     "emptyLoansMessageSubTitle": "Προσθέστε ένα δάνειο για να το δείτε εδώ",
-    "deleteSubscription": "Διαγραφή της συνδρομής {subscription};",
+    "deleteSubscription": "Διαγραφή της {subscription} συνδρομής;",
+    "@deleteSubscription": {
+        "placeholders": {
+            "subscription": {
+                "type": "String"
+            }
+        }
+    },
     "termsOfUse": "Όροι Χρήσης",
     "aboutPaisa": "Σχετικά με την Paisa",
     "restorePurchases": "Επαναφορά αγοράς",
     "continueText": "Συνέχεια",
-    "featureIncluded": "Χαρακτηριστικό που περιλαμβάνεται",
-    "paywallText": "Αποκτήστε πρόσβαση σε όλα τα premium χαρακτηριστικά και υποστηρίξτε την ανάπτυξη",
-    "actionNeeded": "Απαιτούμενη ενέργεια",
-    "spendingAnalytics": "Ανάλυση Δαπανών",
+    "featureIncluded": "Συμπεριλαμβανόμενες λειτουργίες",
+    "paywallText": "Αποκτήσετε πρόσβαση σε όλες τις premium λειτουργίες και υποστηρίξετε την ανάπτυξη της εφαρμογής",
+    "actionNeeded": "Απαιτείται ενέργεια",
+    "spendingAnalytics": "Στατιστικά",
     "monthlyOverview": "Μηνιαία Επισκόπηση",
     "predictions": "Προβλέψεις Δαπανών",
     "unusualSpending": "Ασυνήθιστες Δαπάνες",
     "averageSpending": "Μέσος Όρος Δαπανών",
-    "predicted": "Προβλεπόμενο",
-    "increasing": "Αύξηση",
-    "decreasing": "Μείωση",
-    "stable": "Σταθερό",
-    "currentSpending": "Τρέχουσες Δαπάνες",
+    "predicted": "Προβλέπονται",
+    "increasing": "Αυξάνεται",
+    "decreasing": "Μειώνεται",
+    "stable": "Σταθερά",
+    "currentSpending": "Τρέχων Δαπάνες",
     "averageMonthly": "Μηνιαίος Μέσος Όρος",
-    "last6Months": "Τελευταίοι 6 Μήνες",
-    "trendingUp": "Ανοδική Τάση",
-    "trendingDown": "Κάτωδική Τάση",
+    "last6Months": "Τελευταίους 6 Μήνες",
+    "trendingUp": "Ανοδικές Τάσεις",
+    "trendingDown": "Κατωδικές Τάσεις",
     "overallSpending": "Συνολικές Δαπάνες",
     "paisaPro": "Paisa Pro",
     "notificationTitle": "Καθημερινή υπενθύμιση",
-    "notificationDesc": "Ορίστε μια υπενθύμιση για να παρακολουθείτε τις καθημερινές σας συναλλαγές",
-    "notificationTime": "Χρόνος ειδοποίησης",
+    "notificationDesc": "Ορίστε μια υπενθύμιση για να παρακολουθείτε τις καθημερινές συναλλαγές σας",
+    "notificationTime": "Ώρα ειδοποίησης",
     "notificationTimeDesc": "Ορίστε την ώρα λήψης της ειδοποίησης",
-    "dialogDeleteBackupMessage": "Είστε σίγουροι ότι θέλετε να διαγράψετε το {fileName};",
-    "dynamicColorDesc": "Αλλάξτε το χρώμα του θέματος ανάλογα με την ταπετσαρία",
-    "deleteLoan": "Η διαγραφή του δανείου διαγράφει όλες τις εγγραφές που σχετίζονται με αυτό",
-    "upcoming": "Επόμενο",
+    "upcoming": "Επερχόμενες",
     "dueTransactions": "Ληξιπρόθεσμες συναλλαγές",
     "dueTransaction": "Ληξιπρόθεσμη συναλλαγή",
     "paidFromAccount": "Πληρώθηκε από: {accountName}",
-    "processNow": "Επεξεργασία τώρα",
-    "monthCompared": "Σε σύγκριση με το {amount} του προηγούμενου μήνα",
-    "deleteTag": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ετικέτα {tag};",
-    "tagSubtitle": "{tagCount} συναλλαγές - {transactionTotal}",
-    "topTags": "Κορυφαίες Ετικέτες",
+    "@paidFromAccount": {
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "processNow": "Διεργασία",
+    "monthCompared": "Σε σύγκριση με {amount} τον τελευταίο μήνα",
+    "@monthCompared": {
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "deleteTag": "Είστε σίγουροι ότι θέλετε να διαγράψετε την ετικέτα {tag};",
+    "@deleteTag": {
+        "placeholders": {
+            "tag": {
+                "type": "String"
+            }
+        }
+    },
+    "tagSubtitle": "{tagCount} συναλλαγές • {transactionTotal}",
+    "@tagSubtitle": {
+        "placeholders": {
+            "tagCount": {
+                "type": "int"
+            },
+            "transactionTotal": {
+                "type": "String"
+            }
+        }
+    },
+    "tagDetailsSubtitle": "{tagCount} συναλλαγές",
+    "@tagDetailsSubtitle": {
+        "placeholders": {
+            "tagCount": {
+                "type": "int"
+            }
+        }
+    },
+    "topTags": "Κορυφαίες ετικέτες",
     "filter": "Φίλτρο",
-    "selectDateRange": "Επιλογή Εύρους Ημερομηνίας",
+    "selectDateRange": "Επιλογή Εύρος Ημερομηνίας",
     "dateRange": "{start} - {end}",
+    "@dateRange": {
+        "placeholders": {
+            "start": {
+                "type": "String"
+            },
+            "end": {
+                "type": "String"
+            }
+        }
+    },
     "apply": "Εφαρμογή",
     "selectedDays": "{days} ημέρες",
+    "@selectedDays": {
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
     "accountDetails": "Λεπτομέρειες Λογαριασμού",
-    "spending": "Καταναλώνοντας",
+    "spending": "Δαπάνες",
     "export": "Εξαγωγή",
     "import": "Εισαγωγή",
     "exportCSV": "Εξαγωγή όλων των δεδομένων συναλλαγών σε CSV, δεν συνιστάται για εισαγωγή δεδομένων",
     "dataImportedExportCSV": "Εισαγωγή/Εξαγωγή CSV",
     "paisaProDesc": "Αποκτήστε την έκδοση Pro για να ξεκλειδώσετε όλα τα χαρακτηριστικά",
-    "information": "Πληροφορία!",
-    "subscriptionInfo": "Η συνδρομή ανανεώνεται αυτόματα εκτός αν ακυρωθεί τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. Μπορείτε να την ακυρώσετε ανά πάσα στιγμή μέσω των ρυθμίσεων του {store}. Η πληρωμή θα χρεωθεί στο λογαριασμό σας {account}.",
-    "notificationTitle1": "Παρακολουθήστε τις Δαπάνες σας 📝",
+    "information": "Πληροφορίες!",
+    "subscriptionInfo": "Η συνδρομή ανανεώνεται αυτόματα εκτός αν ακυρωθεί τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. Μπορείτε να την ακυρώσετε ανά πάσα στιγμή μέσω των ρυθμίσεων του {store}. Η πληρωμή θα χρεωθεί στον λογαριασμό σας {account}.",
+    "@subscriptionInfo": {
+        "placeholders": {
+            "store": {
+                "type": "String"
+            },
+            "account": {
+                "type": "String"
+            }
+        }
+    },
+    "notificationTitle1": "Παρακολούθηση των Δαπανών σας 📝",
     "notificationBody1": "Αφιερώστε λίγο χρόνο για να καταγράψετε τα έξοδά σας και να έχετε τον έλεγχο των οικονομικών σας!",
-    "notificationTitle2": "Χρμήματα Τσέκ ✨",
+    "notificationTitle2": "Έλεγχος Χρημάτων ✨",
     "notificationBody2": "Κάνατε αγορές σήμερα; Καταγράψτε τις τώρα για να διατηρήσετε ακριβή αρχεία.",
-    "notificationTitle3": "Ώρα για Ενημέρωση Δαπανών 🕒",
+    "notificationTitle3": "Ώρα Ενημέρωσης Δαπανών 🕒",
     "notificationBody3": "Διατηρήστε τους οικονομικούς σας στόχους σε καλό δρόμο καταγράφοντας τις καθημερινές σας δαπάνες.",
     "notificationTitle4": "Έλεγχος Οικονομικής Ευεξίας 💪",
-    "notificationBody4": "Μείνετε υπό έλεγχο των χρημάτων σας - καταγράψτε τα έξοδά σας για την ημέρα.",
+    "notificationBody4": "Διατηρήστε τον έλεγχο των χρημάτων σας - καταγράψτε τα έξοδά σας για την ημέρα.",
     "notificationTitle5": "Γρήγορη Ενημέρωση Χρημάτων 💰",
-    "notificationBody5": "Λίγα δευτερόλεπτα για την καταγραφή των εξόδων εξοικονομούν τώρα ώρες παρακολούθησης αργότερα!",
-    "notificationTitle6": "Check-in Προϋπολογισμού 📊",
-    "notificationBody6": "Μείνετε εντός του προϋπολογισμού σας παρακολουθώντας κάθε δαπάνη. Καταγράψτε τα τώρα!",
+    "notificationBody5": "Λίγα δευτερόλεπτα για να καταγράψετε τα έξοδα τώρα εξοικονομούν ώρες παρακολούθησης αργότερα!",
+    "notificationTitle6": "Έλεγχος Προϋπολογισμού 📊",
+    "notificationBody6": "Μείνετε εντός του προϋπολογισμού σας παρακολουθώντας κάθε δαπάνη. Καταγράψτε τες τώρα!",
     "notificationTitle7": "Υπενθύμιση Καταγραφέα Δαπανών 📱",
     "notificationBody7": "Διατηρήστε τα οικονομικά σας οργανωμένα - προσθέστε τα σημερινά έξοδα στο Paisa.",
-    "notificationTitle8": "Καθημερινή Ενημέρωση Οικονομικών ⭐",
-    "notificationBody8": "Διατηρήστε την οικονομική σας υγεία καταγράφοντας τις καθημερινές σας δαπάνες.",
+    "notificationTitle8": "Καθημερινή Οικονομική Ενημέρωση ⭐",
+    "notificationBody8": "Διατηρήστε την οικονομική σας υγεία καταγράφοντας τα καθημερινά σας έξοδα.",
     "welcomeLateNight1": "Είσαι ακόμα ξύπνιος, {name}; Ώρα να ελέγξεις τα οικονομικά σου!",
-    "welcomeLateNight2": "Προϋπολογισμός για τα μεσάνυχτα, {name}; Αυτό είναι αφοσίωση.!",
+    "@welcomeLateNight1": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeLateNight2": "Προϋπολογισμός για τα μεσάνυχτα, {name}; Αυτό είναι αφοσίωση!",
+    "@welcomeLateNight2": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeLateNight3": "Γεια σου νυχτοπούλι {name}! Η διαχείριση του χρήματος δεν κοιμάται ποτέ, ε;",
+    "@welcomeLateNight3": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeLateNight4": "Μετακινήσεις χρημάτων αργά τη νύχτα, {name};",
+    "@welcomeLateNight4": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeMorning1": "Σήκω και λάμψε, {name}! Ας κάνουμε κινήσεις χρήματος!",
+    "@welcomeMorning1": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeMorning2": "Καλημέρα, {name}! Έτοιμος να εκμεταλλευτείς τη μέρα;",
+    "@welcomeMorning2": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeMorning3": "Καλημέρα, {name}! Τα οικονομικά σας περιμένουν!",
-    "welcomeMorning4": "Early bird {name}! Πιάνοντας αυτά τα οικονομικά σκουλήκια;",
+    "@welcomeMorning3": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeMorning4": "Πρώιμο πουλί {name}! Πιάνεις αυτά τα οικονομικά σκουλήκια;",
+    "@welcomeMorning4": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeAfternoon1": "Έχεις καλή μέρα, {name};",
-    "welcomeAfternoon2": "Απογευματινό check-in, {name}!",
-    "welcomeAfternoon3": "Γεια σου {name}, παρακολουθείς αυτά τα έξοδα;",
-    "welcomeAfternoon4": "Προχωράμε, {name};",
+    "@welcomeAfternoon1": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon2": "Απογευματινός έλεγχος, {name}!",
+    "@welcomeAfternoon2": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon3": "Γεια σου {name}, παρακολουθείς τις δαπάνες;",
+    "@welcomeAfternoon3": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeAfternoon4": "Κάνεις πρόοδο, {name};",
+    "@welcomeAfternoon4": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeEvening1": "Καλησπέρα, {name}! Ώρα για ανασκόπηση της ημέρας;",
+    "@welcomeEvening1": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeEvening2": "Καλησπέρα, {name}! Πώς πάνε τα οικονομικά;",
+    "@welcomeEvening2": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeEvening3": "Κλείνεις, {name}; Ας ελέγξουμε τα νούμερα!",
-    "welcomeEvening4": "Απογευματινό check-in, {name}!",
+    "@welcomeEvening3": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeEvening4": "Απογευματινός έλεγχος, {name}!",
+    "@welcomeEvening4": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeNight1": "Τελειώνει η μέρα, {name};",
+    "@welcomeNight1": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
     "welcomeNight2": "Ώρα για απογευματινή ανασκόπηση, {name}!",
-    "welcomeNight3": "Γεια σου {name}, πριν φύγεις...",
-    "welcomeNight4": "✨ Νυχτερινή ανάλυση αριθμών, {name};",
-    "biometricAuthFailed": "Αποτυχία βιομετρικού ελέγχου",
+    "@welcomeNight2": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeNight3": "Γεια σου {name}, πριν τελειώσεις την ημέρα σου...",
+    "@welcomeNight3": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "welcomeNight4": "✨ Νυχτερινό ψάξιμο αριθμών, {name};",
+    "@welcomeNight4": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "biometricAuthFailed": "Αποτυχία πιστοποίησης βιομετρικού ελέγχου",
     "autoBackup": "Αυτόματα Αντίγραφα Ασφαλείας",
     "autoBackupDescription": "Δημιουργία αντιγράφων ασφαλείας των δεδομένων σας αυτόματα όταν ανοίγει η εφαρμογή",
     "backupFrequency": "Συχνότητα Αντιγράφων Ασφαλείας",
-    "backupFrequencyDescription": "Δημιουργία αντιγράφων ασφαλείας των δεδομένων σας αυτόματα σε συγκεκριμένο χρονικό διάστημα.",
+    "backupFrequencyDescription": "Δημιουργήστε αυτόματα αντίγραφα ασφαλείας των δεδομένων σας ανά συγκεκριμένο χρονικό διάστημα.",
     "backupHistory": "Ιστορικό Αντιγράφων Ασφαλείας",
-    "backupFrequencyDays": "'Η συχνότητα δημιουργίας αντιγράφων ασφαλείας έχει οριστεί σε {days} ημέρες'",
-    "noBackupFilesFound": "Δεν βρέθηκαν αρχεία αντιγράφων ασφαλείας",
-    "pleaseSelectABackupFile": "Επιλέξτε ένα αρχείο αντιγράφων ασφαλείας",
-    "budgets": "Προϋπολογισμοί"
+    "backupFrequencyDays": "'Συχνότητα δημιουργίας αντιγράφων ασφαλείας ρυθμισμένη σε {days} ημέρες'",
+    "@backupFrequencyDays": {
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
+    },
+    "noBackupFilesFound": "Δε βρέθηκαν αντίγραφα ασφαλείας",
+    "pleaseSelectABackupFile": "Επιλέξτε ένα αρχείο αντιγράφου ασφαλείας",
+    "completed": "Ολοκληρώθηκε",
+    "active": "Ενεργό",
+    "from": "Από: {date}",
+    "@from": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "to": "Έως: {date}",
+    "@to": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "dailyAmount": "Καθημερινό: {amount}",
+    "@dailyAmount": {
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "goalAchieved": "Ο Στόχος Επετεύχθη! Πατήστε για ολοκλήρωση",
+    "goalAchievedDialogTitle": "Ο Στόχος Επετεύχθη!",
+    "goalAchievedDialogContent": "Συγχαρητήρια! Φτάσατε τον στόχο των {amount}. Θα θέλατε να επισημάνετε τον στόχο ως ολοκληρωμένο;",
+    "@goalAchievedDialogContent": {
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "markAsCompleted": "Σήμανση ως Ολοκληρώθηκε",
+    "welcomeWeekend": "Καλή εβδομάδα, {name}! Μην ξεχάσεις να καταγράψεις αυτές τις απίστευτες δαπάνες!",
+    "@welcomeWeekend": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "copy": "Αντιγραφή",
+    "loanInfo": "Δανειοδότηση & δανεισμός",
+    "loanInfoDescription": "Χρεωστικός δανεισμός είναι η πράξη της παροχής χρημάτων σε άλλον με την προσδοκία της αποπληρωμής. Πιστωτικός δανεισμός είναι η πράξη της λήψης χρημάτων από έναν δανειστή με τη συμφωνία να τα επιστρέψει.",
+    "ivyImporter": "Ivy wallet",
+    "ivyImporterDescription": "Εισάγετε τις συναλλαγές σας από την εφαρμογή Ivy wallet",
+    "spendingTrend": "Τάση Δαπανών",
+    "categorySpendingTrend": "Τάσεις Δαπανών Κατηγορίας",
+    "categoryBreakDown": "Κατανομή Κατηγοριών",
+    "categorySubtitle": "{description}\n{transactionCount} συναλλαγές",
+    "@categorySubtitle": {
+        "placeholders": {
+            "description": {
+                "type": "String"
+            },
+            "transactionCount": {
+                "type": "int"
+            }
+        }
+    },
+    "importExportData": "Εισαγωγή/Εξαγωγή Δεδομένων",
+    "importExportDataDescription": "Εισαγωγή ή εξαγωγή των δεδομένων σας σε άλλη συσκευή",
+    "today": "Σήμερα",
+    "yesterday": "Χθές",
+    "tomorrow": "Αύριο",
+    "reports": "Αναφορές",
+    "discord": "Discord",
+    "discordDesc": "Εγγραφείτε στην κοινότητα Discord για να λάβετε βοήθεια και υποστήριξη",
+    "reportGeneratedSuccessfully": "Η αναφορά δημιουργήθηκε επιτυχώς",
+    "errorGeneratingReport": "Σφάλμα δημιουργίας αναφοράς",
+    "generateReport": "Δημιουργία αναφοράς",
+    "download": "Λήψη",
+    "accountNumber": "Αριθμός λογαριασμού",
+    "appearance": "Ρυθμίσεις Διεπαφής",
+    "notificationAndSecurity": "Ειδοποίηση & Ασφάλεια",
+    "dataManagement": "Διαχείριση Δεδομένων",
+    "externalLinksAndCommunity": "Εξωτερικοί Σύνδεσμοι & Κοινότητα",
+    "legalInfo": "Νομικά & Πληροφορίες",
+    "customizeHomeScreen": "Προσαρμογή Αρχικής Οθόνης",
+    "customizeHomeScreenDesc": "Προσαρμόστε την αρχική οθόνη ώστε να εμφανίζει τις ενότητες που θέλετε",
+    "goalAdded": "Ο στόχος προστέθηκε",
+    "goalUpdated": "Ο στόχος ενημερώθηκε",
+    "monthlyPayment": "Μηνιαία Πληρωμή",
+    "upcomingTransactions": "Επικείμενες συναλλαγές",
+    "recurringDeleted": "Έγινε διαγραφή επαναλαμβανόμενης",
+    "recurringAdded": "Έγινε προσθήκη επαναλαμβανόμενης",
+    "recurringUpdated": "Έγινε ενημέρωση επαναλαμβανόμενης",
+    "noTags": "Καμία ετικέτα",
+    "noTagsDescription": "Προσθέστε μια ετικέτα για να κατηγοριοποιείτε τις συναλλαγές σας",
+    "goalCount": "{goalCount} ενεργοί, {completedGoalCount} ολοκληρώθηκαν",
+    "@goalCount": {
+        "placeholders": {
+            "goalCount": {
+                "type": "int"
+            },
+            "completedGoalCount": {
+                "type": "int"
+            }
+        }
+    },
+    "budgetCount": "{budgetCount} προϋπολογισμοί",
+    "@budgetCount": {
+        "placeholders": {
+            "budgetCount": {
+                "type": "int"
+            }
+        }
+    }
 }
