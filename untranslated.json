@@ -118,7 +118,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "be": [
@@ -305,7 +306,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "cs": [
@@ -491,7 +493,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "da": [
@@ -643,7 +646,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "de": [
@@ -766,14 +770,16 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "el": [
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "es": [
@@ -844,7 +850,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "fr": [
@@ -1073,7 +1080,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "he": [
@@ -1300,7 +1308,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "hi": [
@@ -1529,7 +1538,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "id": [
@@ -1652,7 +1662,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "it": [
@@ -1936,7 +1947,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "ja": [
@@ -2089,7 +2101,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "kn": [
@@ -2262,7 +2275,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "ko": [
@@ -2419,7 +2433,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "nl": [
@@ -2572,7 +2587,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "pl": [
@@ -2801,7 +2817,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "pt": [
@@ -2924,7 +2941,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "pt_BR": [
@@ -3047,7 +3065,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "ru": [
@@ -3170,7 +3189,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "sv": [
@@ -3321,7 +3341,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "tr": [
@@ -3550,7 +3571,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "uk": [
@@ -3736,7 +3758,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "vi": [
@@ -3944,7 +3967,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "zh": [
@@ -4121,7 +4145,8 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ],
 
   "zh_TW": [
@@ -4298,6 +4323,7 @@
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
-    "noTransactionDescription"
+    "noTransactionDescription",
+    "noFilters"
   ]
 }

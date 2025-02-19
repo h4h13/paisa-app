@@ -2294,5 +2294,10 @@
     "@noTransactionDescription": {
         "description": "Text shown on the transaction page",
         "type": "text"
+    },
+    "noFilters": "No transactions to add filter",
+    "@noFilters": {
+        "description": "Text shown on the filter page",
+        "type": "text"
     }
 }
