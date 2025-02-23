@@ -1,4 +1,7 @@
 {
+    "@@locale": "pl",
+    "@@author": "Hemanth Savarala",
+    "@@last_modified": "2021-10-17T14:00:00+00:00",
     "appTitle": "Paisa",
     "home": "Główna",
     "transactions": "Transakcje",

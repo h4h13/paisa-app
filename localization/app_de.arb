@@ -1,4 +1,7 @@
 {
+    "@@locale": "de",
+    "@@author": "Hemanth Savarala",
+    "@@last_modified": "2025-02-22",
     "appTitle": "Paisa",
     "home": "Startseite",
     "transactions": "Transaktionen",
@@ -17,16 +20,6 @@
     "addRecurring": "Wiederkehrend hinzufügen",
     "selectDateRangeTooltip": "Datumsbereich",
     "transactionSubTittleText": "{bankName} • {dateString}",
-    "@transactionSubTittleText": {
-        "placeholders": {
-            "bankName": {
-                "type": "String"
-            },
-            "dateString": {
-                "type": "String"
-            }
-        }
-    },
     "addCategory": "Kategorie hinzufügen",
     "addCategoryEmptyTitle": "Keine Kategorien",
     "addCategoryEmptySubTitle": "Kategorien zum Auswählen hinzufügen",
@@ -82,13 +75,6 @@
     "githubText": "Projekt auf GitHub forken",
     "version": "Version",
     "versionNumber": "v{version}",
-    "@versionNumber": {
-        "placeholders": {
-            "version": {
-                "type": "String"
-            }
-        }
-    },
     "deleteAccount": "Beim Löschen des Kontos werden alle damit verbundenen Ausgaben gelöscht",
     "deleteCategory": "Beim Löschen der Kategorie werden alle damit verbundenen Ausgaben gelöscht",
     "deleteExpense": "Die Ausgabe wird dauerhaft vom Konto entfernt",
@@ -244,14 +230,6 @@
     "deleteBudget": "Budget löschen?",
     "deleteBudgetDesc": "Dies hat keine Auswirkungen auf die mit diesem Budget verbundenen Transaktionen",
     "transactionsCount": "{count, plural,zero{Keine Transaktion hinzugefügt} one{1 Transaktion} other{{count} Transaktionen}}",
-    "@transactionsCount": {
-        "placeholders": {
-            "count": {
-                "type": "int",
-                "example": "1"
-            }
-        }
-    },
     "enableFeedback": "Feedbackmodus aktivieren",
     "enableFeedbackDesc": "Senden Sie Feedback, um die App zu verbessern",
     "emptyGoalsMessageTitle": "Keine Ziele",
@@ -263,14 +241,6 @@
     "saved": "Speichern",
     "remaining": "Verbleibend",
     "daysLeft": "{count, plural, zero{Keine Tage} one{1 Tag} other{{count} Tage}}",
-    "@daysLeft": {
-        "placeholders": {
-            "count": {
-                "type": "int",
-                "example": "1"
-            }
-        }
-    },
     "spent": "Ausgegeben",
     "scheduleNotification": "Benachrichtigungen planen",
     "scheduleNotificationDesc": "Setzen Sie eine Erinnerung, um ihre täglichen Transaktionen zu verfolgen",
@@ -283,33 +253,9 @@
     "editGoal": "Ziel bearbeiten",
     "editBudget": "Budget bearbeiten",
     "deleteGoal": "Ziel {goalName} löschen?",
-    "@deleteGoal": {
-        "placeholders": {
-            "goalName": {
-                "type": "String"
-            }
-        }
-    },
     "deletedGoal": "Ziel gelöscht",
     "subscriptionSubTitle": "{type} • {autoRenew}",
-    "@subscriptionSubTitle": {
-        "placeholders": {
-            "type": {
-                "type": "String"
-            },
-            "autoRenew": {
-                "type": "String"
-            }
-        }
-    },
     "subscriptionNextPayment": "Nächste Zahlung: {date}",
-    "@subscriptionNextPayment": {
-        "placeholders": {
-            "date": {
-                "type": "String"
-            }
-        }
-    },
     "loans": "Darlehen",
     "lending": "Verleihen",
     "borrowing": "Ausleihen",
@@ -319,13 +265,6 @@
     "emptyLoansMessageTitle": "Keine Darlehen",
     "emptyLoansMessageSubTitle": "Fügen Sie ein Darlehen hinzu, um es hier anzuzeigen",
     "deleteSubscription": "Abonnement {subscription} löschen?",
-    "@deleteSubscription": {
-        "placeholders": {
-            "subscription": {
-                "type": "String"
-            }
-        }
-    },
     "termsOfUse": "Nutzungsbedingungen",
     "aboutPaisa": "Über Paisa",
     "restorePurchases": "Käufe wiederherstellen",
@@ -357,20 +296,131 @@
     "dueTransactions": "Fällige Transaktionen",
     "dueTransaction": "Fällige Transaktion",
     "paidFromAccount": "Bezahlt von: {accountName}",
-    "@paidFromAccount": {
-        "placeholders": {
-            "accountName": {
-                "type": "String"
-            }
-        }
-    },
     "processNow": "Jetzt abrechnen",
     "monthCompared": "Im Vergleich zu {amount} im letzten Monat",
-    "@monthCompared": {
-        "placeholders": {
-            "amount": {
-                "type": "String"
-            }
-        }
-    }
+    "editRecurring": "Wiederkehrende Transaktion bearbeiten",
+    "dialogDeleteBackupMessage": "Möchten Sie das Backup wirklich löschen?",
+    "trackBudget": "Budget verfolgen",
+    "deleteTag": "Tag löschen",
+    "tagSubtitle": "Tag",
+    "tagDetailsSubtitle": "Tag-Details",
+    "topTags": "Top-Tags",
+    "filter": "Filter",
+    "selectDateRange": "Datumsbereich auswählen",
+    "dateRange": "Datumsbereich",
+    "apply": "Anwenden",
+    "selectedDays": "Ausgewählte Tage",
+    "accountDetails": "Kontodetails",
+    "spending": "Ausgaben",
+    "export": "Exportieren",
+    "import": "Importieren",
+    "exportCSV": "CSV exportieren",
+    "dataImportedExportCSV": "Daten aus CSV importiert/exportiert",
+    "paisaProDesc": "Zugriff auf alle Premium-Funktionen",
+    "information": "Informationen",
+    "subscriptionInfo": "Abonnementinformationen",
+    "notificationTitle1": "Verfolgen Sie Ihre Ausgaben 📝",
+    "notificationBody1": "Nehmen Sie sich einen Moment Zeit, um Ihre Ausgaben zu erfassen und Ihre Finanzen auf dem neuesten Stand zu halten!",
+    "notificationTitle2": "Geldverwaltung ✨",
+    "notificationBody2": "Haben Sie heute eingekauft? Erfassen Sie es jetzt, um genaue Aufzeichnungen zu führen.",
+    "notificationTitle3": "Zeit, Ihre Ausgaben zu aktualisieren 🕒",
+    "notificationBody3": "Erreichen Sie Ihre finanziellen Ziele, indem Sie Ihre täglichen Ausgaben erfassen.",
+    "notificationTitle4": "Sorgen Sie für finanzielle Gesundheit 💪",
+    "notificationBody4": "Übernehmen Sie die Kontrolle über Ihre Finanzen. Erfassen Sie noch heute Ihre Ausgaben.",
+    "notificationTitle5": "Schnelle Finanzaktualisierung 💰",
+    "notificationBody5": "Es dauert nur wenige Sekunden, Ihre Ausgaben zu erfassen, was Ihnen später stundenlange Nachverfolgung erspart!",
+    "notificationTitle6": "Budgetverwaltung 📊",
+    "notificationBody6": "Behalten Sie Ihr Budget im Auge, indem Sie alle Ihre Ausgaben verfolgen. Erfassen Sie es jetzt!",
+    "notificationTitle7": "Erinnerung zur Ausgabenerfassung 📱",
+    "notificationBody7": "Halten Sie Ihre Finanzen organisiert. Fügen Sie noch heute Ihre Ausgaben zu Paisa hinzu.",
+    "notificationTitle8": "Tägliche Finanzaktualisierung ⭐",
+    "notificationBody8": "Erhalten Sie Ihre finanzielle Gesundheit, indem Sie Ihre täglichen Ausgaben erfassen.",
+    "welcomeLateNight1": "{name}, immer noch wach? Zeit, Ihre Finanzen zu überprüfen!",
+    "welcomeLateNight2": "{name}, Budgetierung um Mitternacht? Sie sind engagiert!",
+    "welcomeLateNight3": "{name}, Guten Abend! Geldverwaltung schläft nie, oder?",
+    "welcomeLateNight4": "{name}, Spät nächtliche Geldverwaltung?",
+    "welcomeMorning1": "{name}, aufwachen! Beginnen wir mit der Geldverwaltung!",
+    "welcomeMorning2": "{name}, Guten Morgen! Ich wünsche Ihnen einen schönen Tag!",
+    "welcomeMorning3": "{name}, Es ist Morgen! Ihre Finanzen warten auf Sie!",
+    "welcomeMorning4": "{name}, Sie sind ein Morgenmensch! Beginnen wir mit der Geldverwaltung?",
+    "welcomeAfternoon1": "{name}, Schönen Tag!",
+    "welcomeAfternoon2": "{name}, Zeit für einen Mittagscheck!",
+    "welcomeAfternoon3": "{name}, Guten Nachmittag! Verfolgen Sie Ihre Ausgaben?",
+    "welcomeAfternoon4": "{name}, Sind Sie auf dem richtigen Weg, {name}?",
+    "welcomeEvening1": "{name}, Guten Abend! Ist es Zeit, den Tag zusammenzufassen?",
+    "welcomeEvening2": "{name}, Guten Abend, {name}! Wie läuft es mit den Finanzen?",
+    "welcomeEvening3": "{name}, Sind Sie fast fertig, {name}? Lassen Sie uns diese Zahlen überprüfen!",
+    "welcomeEvening4": "{name}, Es ist Zeit für einen Abendcheck, {name}!",
+    "welcomeNight1": "{name}, Beenden Sie Ihren Tag, {name}?",
+    "welcomeNight2": "{name}, Es ist Zeit für eine abendliche Zusammenfassung, {name}!",
+    "welcomeNight3": "{name}, Guten Abend, {name}, bevor Sie Ihren Tag beenden...",
+    "welcomeNight4": "{name}, ✨ Nächtliche Zahlenjonglage, {name}?",
+    "biometricAuthFailed": "Biometrische Authentifizierung fehlgeschlagen",
+    "autoBackup": "Automatische Sicherung",
+    "autoBackupDescription": "Daten automatisch sichern, wenn die App geöffnet wird",
+    "backupFrequency": "Sicherungshäufigkeit",
+    "backupFrequencyDescription": "Daten automatisch in bestimmten Intervallen sichern.",
+    "backupHistory": "Sicherungshistorie",
+    "backupFrequencyDays": "'Die Sicherungshäufigkeit ist auf {days} Tage eingestellt'",
+    "noBackupFilesFound": "Keine Sicherungsdateien gefunden",
+    "pleaseSelectABackupFile": "Bitte wählen Sie eine Sicherungsdatei aus",
+    "completed": "Abgeschlossen",
+    "active": "Aktiv",
+    "from": "Von: {date}",
+    "to": "Bis: {date}",
+    "dailyAmount": "Täglich: {amount}",
+    "goalAchieved": "Ziel erreicht! Zum Abschließen tippen",
+    "goalAchievedDialogTitle": "Ziel erreicht!",
+    "goalAchievedDialogContent": "Herzlichen Glückwunsch! Sie haben das Ziel {amount} erreicht. Möchten Sie dieses Ziel als abgeschlossen markieren?",
+    "markAsCompleted": "Als abgeschlossen markieren",
+    "welcomeWeekend": "Schönes Wochenende, {name}! Vergessen Sie nicht, die lustigen Ausgaben zu verfolgen!",
+    "copy": "Kopieren",
+    "loanInfo": "Leihen und Verleihen",
+    "loanInfoDescription": "Leihen bedeutet, Geld an eine andere Partei zu geben, mit der Erwartung, dass es zurückgezahlt wird. Verleihen bedeutet, Geld von einem Kreditgeber mit einer Vereinbarung zur Rückzahlung zu erhalten.",
+    "ivyImporter": "Ivy Wallet",
+    "ivyImporterDescription": "Transaktionen aus der Ivy Wallet-App importieren",
+    "spendingTrend": "Ausgabentrend",
+    "categorySpendingTrend": "Ausgabentrends nach Kategorien",
+    "categoryBreakDown": "Kategorieaufschlüsselung",
+    "categorySubtitle": "{description}\n{transactionCount} Transaktionen",
+    "importExportData": "Daten importieren/exportieren",
+    "importExportDataDescription": "Daten auf ein anderes Gerät importieren oder exportieren",
+    "today": "Heute",
+    "yesterday": "Gestern",
+    "tomorrow": "Morgen",
+    "reports": "Berichte",
+    "discord": "Discord",
+    "discordDesc": "Treten Sie unserer Discord-Community für Hilfe und Unterstützung bei",
+    "reportGeneratedSuccessfully": "Bericht erfolgreich generiert",
+    "errorGeneratingReport": "Fehler beim Generieren des Berichts",
+    "generateReport": "Bericht generieren",
+    "download": "Herunterladen",
+    "accountNumber": "Kontonummer",
+    "appearance": "Erscheinungsbild",
+    "notificationAndSecurity": "Benachrichtigung und Sicherheit",
+    "dataManagement": "Datenverwaltung",
+    "externalLinksAndCommunity": "Externe Links und Community",
+    "legalInfo": "Rechtliche Informationen",
+    "customizeHomeScreen": "Startbildschirm anpassen",
+    "customizeHomeScreenDesc": "Passen Sie den Startbildschirm an, um die gewünschten Abschnitte anzuzeigen",
+    "goalAdded": "Ziel hinzugefügt",
+    "goalUpdated": "Ziel aktualisiert",
+    "monthlyPayment": "Monatliche Zahlung",
+    "upcomingTransactions": "Bevorstehende Transaktionen",
+    "recurringDeleted": "Wiederkehrende Transaktion gelöscht",
+    "recurringAdded": "Wiederkehrende Transaktion hinzugefügt",
+    "recurringUpdated": "Wiederkehrende Transaktion aktualisiert",
+    "noTags": "Keine Tags",
+    "noTagsDescription": "Fügen Sie ein Tag hinzu, um Transaktionen zu kategorisieren",
+    "goalCount": "{goalCount} aktiv, {completedGoalCount} abgeschlossen",
+    "budgetCount": "{budgetCount} Budgets",
+    "selectYourDefaultCategories": "Wählen Sie Ihre Standardkategorien aus",
+    "selectYourDefaultAccounts": "Wählen Sie Ihre Standardkonten aus",
+    "noTransactions": "Keine Transaktionen gefunden",
+    "noTransactionDescription": "Fügen Sie eine Transaktion hinzu, um sie hier anzuzeigen",
+    "noFilters": "Keine Transaktionen zum Hinzufügen eines Filters",
+    "subscriptionStatus": "Abonnementstatus",
+    "manageSubscription": "Abonnement verwalten",
+    "activeSubscription": "Aktiv ({type})",
+    "noActiveSubscription": "Kein aktives Abonnement"
 }

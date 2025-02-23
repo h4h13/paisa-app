@@ -118,7 +118,7 @@
         "description": "Title text shown on the expense page when there is not accounts available",
         "type": "text"
     },
-    "addAccountEmptySubTitle": "Add account to select",
+    "addAccountEmptySubTitle": "Add an account to select",
     "@addAccountEmptySubTitle": {
         "description": "Subtitle text shown on the expense page when there is not accounts available",
         "type": "text"
@@ -288,7 +288,7 @@
         "description": "Toolbar title text shown on choosing the currency",
         "type": "text"
     },
-    "emptyAccountMessageSubTitle": "Add a account to view it here",
+    "emptyAccountMessageSubTitle": "Add an account to view it here",
     "@emptyAccountMessageSubTitle": {
         "description": "Message sub title text shown on the accounts page",
         "type": "text"
@@ -376,12 +376,12 @@
             }
         }
     },
-    "deleteAccount": "Deleting the account deletes all expenses which are tied to this account ",
+    "deleteAccount": "Deleting this account will remove all associated transactions.",
     "@deleteAccount": {
         "description": "Delete account message",
         "type": "text"
     },
-    "deleteCategory": "Deleting the category deletes all expenses which are tied to this category ",
+    "deleteCategory": "Deleting this category will remove all associated transactions.",
     "@deleteCategory": {
         "description": "Delete category message",
         "type": "text"
@@ -2298,6 +2298,31 @@
     "noFilters": "No transactions to add filter",
     "@noFilters": {
         "description": "Text shown on the filter page",
+        "type": "text"
+    },
+    "subscriptionStatus": "Subscription status",
+    "@subscriptionStatus": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "manageSubscription": "Manage subscription",
+    "@manageSubscription": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "activeSubscription": "Active ({type})",
+    "@activeSubscription": {
+        "description": "Text shown on the subscription page",
+        "type": "text",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "noActiveSubscription": "No active subscription",
+    "@noActiveSubscription": {
+        "description": "Text shown on the subscription page",
         "type": "text"
     }
 }
