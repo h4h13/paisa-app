@@ -2324,5 +2324,104 @@
     "@noActiveSubscription": {
         "description": "Text shown on the subscription page",
         "type": "text"
+    },
+    "modifyInstance": "Modify",
+    "@modifyInstance": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "skipInstance": "Skip",
+    "@skipInstance": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "save": "Save",
+    "@save": {
+        "description": "Text shown on the subscription page",
+        "type": "text"
+    },
+    "date": "Date",
+    "@date": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "recurringReminderTitle": "Upcoming {type}",
+    "@recurringReminderTitle": {
+        "description": "Text shown on the recurring page",
+        "type": "text",
+        "placeholders": {
+            "type": {
+                "type": "String"
+            }
+        }
+    },
+    "recurringReminderDescription": "{name} {amount} is due tomorrow",
+    "@recurringReminderDescription": {
+        "description": "Text shown on the recurring page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            },
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "rollingBudget": "Rolling Budget",
+    "@rollingBudget": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "rolloverEnabled": "Rollover enabled",
+    "@rolloverEnabled": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "approaching": "Approaching",
+    "@approaching": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "withinBudget": "Within",
+    "@withinBudget": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "tagNameRequired": "Tag name is required",
+    "@tagNameRequired": {
+        "description": "Text shown on the tag page",
+        "type": "text"
+    },
+    "addTag": "Add tag",
+    "@addTag": {
+        "description": "Text shown on the tag page",
+        "type": "text"
+    },
+    "tagAdded": "Tag added",
+    "@tagAdded": {
+        "description": "Snackbar message when tag is added"
+    },
+    "tagUpdated": "Tag updated",
+    "@tagUpdated": {
+        "description": "Snackbar message when tag is updated"
+    },
+    "tagDeleted": "Tag deleted",
+    "@tagDeleted": {
+        "description": "Snackbar message when tag is deleted"
+    },
+    "editTag": "Edit tag",
+    "@editTag": {
+        "description": "Text shown on the tag page",
+        "type": "text"
+    },
+    "transactionDeleted": "Transaction deleted",
+    "@transactionDeleted": {
+        "description": "Snackbar message when transaction is deleted"
+    },
+    "undo": "Undo",
+    "@undo": {
+        "description": "Text shown on the transaction page",
+        "type": "text"
     }
 }
