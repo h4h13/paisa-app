@@ -2423,5 +2423,60 @@
     "@undo": {
         "description": "Text shown on the transaction page",
         "type": "text"
+    },
+    "rolloverHistory": "Rollover History",
+    "@rolloverHistory": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "noRolloverHistoryYet": "No rollover history yet. Rollovers will appear here after the first budget period ends.",
+    "@noRolloverHistoryYet": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "rollover": "Rollover",
+    "@rollover": {
+        "description": "Text shown on the budget details section title",
+        "type": "text"
+    },
+    "addExpense": "Add Expense",
+    "@addExpense": {
+        "description": "Text shown on the transaction page",
+        "type": "text"
+    },
+    "addIncome": "Add Income",
+    "@addIncome": {
+        "description": "Text shown on the transaction page",
+        "type": "text"
+    },
+    "financialSummary": "Financial summary",
+    "@financialSummary": {
+        "description": "Text shown on the home page section title",
+        "type": "text"
+    },
+    "proFeature1": "Support the developer",
+    "@proFeature1": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature2": "Unlimited Subscriptions, Budgets, Recurring & Goals",
+    "@proFeature2": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature3": "Just black Theme",
+    "@proFeature3": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature4": "Google Drive Backup",
+    "@proFeature4": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature5": "Home Screen Widget",
+    "@proFeature5": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
     }
 }

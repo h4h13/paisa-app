@@ -17,7 +17,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "be": [
@@ -38,7 +49,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "cs": [
@@ -59,7 +81,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "da": [
@@ -80,7 +113,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "de": [
@@ -101,7 +145,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "el": [
@@ -131,7 +186,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "es": [
@@ -225,7 +291,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "fr": [
@@ -477,7 +554,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "he": [
@@ -498,7 +586,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "hi": [
@@ -519,7 +618,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "id": [
@@ -665,7 +775,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "it": [
@@ -687,7 +808,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "ja": [
@@ -708,7 +840,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "kn": [
@@ -729,7 +872,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "ko": [
@@ -750,7 +904,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "nl": [
@@ -926,7 +1091,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "pl": [
@@ -1178,7 +1354,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "pt": [
@@ -1324,7 +1511,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "pt_BR": [
@@ -1470,7 +1668,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "ru": [
@@ -1616,7 +1825,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "sv": [
@@ -1790,7 +2010,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "te": [
@@ -1815,7 +2046,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "tr": [
@@ -2067,7 +2309,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "uk": [
@@ -2276,7 +2529,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "vi": [
@@ -2507,7 +2771,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "zh": [
@@ -2707,7 +2982,18 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ],
 
   "zh_TW": [
@@ -2907,6 +3193,17 @@
     "tagDeleted",
     "editTag",
     "transactionDeleted",
-    "undo"
+    "undo",
+    "rolloverHistory",
+    "noRolloverHistoryYet",
+    "rollover",
+    "addExpense",
+    "addIncome",
+    "financialSummary",
+    "proFeature1",
+    "proFeature2",
+    "proFeature3",
+    "proFeature4",
+    "proFeature5"
   ]
 }
