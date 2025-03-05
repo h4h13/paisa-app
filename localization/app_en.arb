@@ -1142,16 +1142,6 @@
         "description": "Text shown on the delete budget dialog",
         "type": "text"
     },
-    "transactionsCount": "{count, plural,zero{No transactions added} one{1 Transactions} other{{count} transactions}}",
-    "@transactionsCount": {
-        "description": "Shows the count of transactions in category list",
-        "placeholders": {
-            "count": {
-                "type": "int",
-                "example": "1"
-            }
-        }
-    },
     "enableFeedback": "Enable feedback mode",
     "@enableFeedback": {
         "description": "Text shown on the setting option",
@@ -1535,16 +1525,13 @@
             }
         }
     },
-    "tagSubtitle": "{tagCount} transactions • {transactionTotal}",
-    "@tagSubtitle": {
+    "transactionsCount": "{count} {count, plural, other{transactions} zero{No transactions} one{transaction} two{transactions} few{transactions} many{transactions}}",
+    "@transactionsCount": {
         "description": "Text shown on the delete tag dialog",
         "type": "text",
         "placeholders": {
-            "tagCount": {
+            "count": {
                 "type": "int"
-            },
-            "transactionTotal": {
-                "type": "String"
             }
         }
     },
@@ -2477,6 +2464,106 @@
     "proFeature5": "Home Screen Widget",
     "@proFeature5": {
         "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "paidToAccount": "Paid to: {accountName}",
+    "@paidToAccount": {
+        "description": "Text shown on the recurring page",
+        "type": "text",
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "budgetInfo": "Budget Information",
+    "@budgetInfo": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "budgetBasics": "Budget Basics",
+    "@budgetBasics": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "budgetBasicsDescription": "Budgets help you track your spending in specific categories. Set a limit and monitor your expenses to stay within your financial goals.",
+    "@budgetBasicsDescription": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "budgetPeriods": "Budget Periods",
+    "@budgetPeriods": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "budgetPeriodsDescription": "Budgets can be set for different periods:\n• Daily: Resets every day\n• Weekly: Resets every week\n• Monthly: Resets every month\n• Yearly: Resets every year",
+    "@budgetPeriodsDescription": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "budgetRollover": "Budget Rollover",
+    "@budgetRollover": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "budgetRolloverDescription": "When enabled, unused budget amounts from the previous period will be added to your current period's budget. This helps you save more effectively by allowing your unused budget to accumulate.",
+    "@budgetRolloverDescription": {
+        "description": "Text shown on the budget page",
+        "type": "text"
+    },
+    "recurringInfo": "Recurring Transactions Info",
+    "@recurringInfo": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "recurringTotalCalculation": "Total Calculation",
+    "@recurringTotalCalculation": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "recurringTotalCalculationDescription": "The total shown at the top of the page is calculated by:\n• Income: Sum of all recurring income transactions\n• Expense: Sum of all recurring expense transactions\nThis gives you a quick overview of your recurring financial commitments.",
+    "@recurringTotalCalculationDescription": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "recurringDueTransactions": "Due Transactions",
+    "@recurringDueTransactions": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "recurringDueTransactionsDescription": "Transactions that are past their scheduled date are shown here. You can:\n• Process them now to record the transaction\n• Skip them to move to the next scheduled date\n• Edit them to modify future occurrences",
+    "@recurringDueTransactionsDescription": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "recurringUpcomingTransactions": "Upcoming Transactions",
+    "@recurringUpcomingTransactions": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "recurringUpcomingTransactionsDescription": "Future recurring transactions are listed here. They will automatically move to 'Due Transactions' when their scheduled date arrives. You can edit these transactions at any time.",
+    "@recurringUpcomingTransactionsDescription": {
+        "description": "Text shown on the recurring page",
+        "type": "text"
+    },
+    "signIn": "Sign in",
+    "@signIn": {
+        "description": "Text shown on the login page",
+        "type": "text"
+    },
+    "notSignedIn": "Not signed in",
+    "@notSignedIn": {
+        "description": "Text shown on the login page",
+        "type": "text"
+    },
+    "noAccountLinked": "No account linked",
+    "@noAccountLinked": {
+        "description": "Text shown on the login page",
+        "type": "text"
+    },
+    "signOut": "Sign out",
+    "@signOut": {
+        "description": "Text shown on the login page",
         "type": "text"
     }
 }
