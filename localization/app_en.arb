@@ -386,10 +386,18 @@
         "description": "Delete category message",
         "type": "text"
     },
-    "deleteExpense": "Expense will be permanently removed from account",
+    "deleteExpense": "Expense {name} will be permanently removed from account {accountName}",
     "@deleteExpense": {
         "description": "Delete expense message",
-        "type": "text"
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            },
+            "accountName": {
+                "type": "String"
+            }
+        }
     },
     "dialogDeleteBackupMessage": "Are you sure you want to delete {fileName}?",
     "@dialogDeleteBackupMessage": {
@@ -501,7 +509,7 @@
         "description": "Text input hint name",
         "type": "text"
     },
-    "enterNameHint": "Enter name",
+    "enterNameHint": "Enter user name",
     "@enterNameHint": {
         "description": "Text input hint name",
         "type": "text"
@@ -2441,13 +2449,23 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
-    "proFeature1": "Support the developer",
+    "proFeature1": "Multiple Accounts",
     "@proFeature1": {
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "proFeature2": "Unlimited Subscriptions, Budgets, Recurring & Goals",
+    "proFeature1Description": "Manage multiple user profiles with separate transactions and currencies",
+    "@proFeature1Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature2": "Unlimited",
     "@proFeature2": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature2Description": "Create unlimited subscriptions, budgets, recurring & goals",
+    "@proFeature2Description": {
         "description": "Text shown on the paywall page",
         "type": "text"
     },
@@ -2456,13 +2474,28 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
+    "proFeature3Description": "A simple and minimalistic theme with just black and white colors",
+    "@proFeature3Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
     "proFeature4": "Google Drive Backup",
     "@proFeature4": {
         "description": "Text shown on the paywall page",
         "type": "text"
     },
+    "proFeature4Description": "Backup your data to Google Drive for easy recovery",
+    "@proFeature4Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
     "proFeature5": "Home Screen Widget",
     "@proFeature5": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "proFeature5Description": "Add a widget to your home screen to easily access your finances",
+    "@proFeature5Description": {
         "description": "Text shown on the paywall page",
         "type": "text"
     },
@@ -2564,6 +2597,291 @@
     "signOut": "Sign out",
     "@signOut": {
         "description": "Text shown on the login page",
+        "type": "text"
+    },
+    "manageUsers": "Manage Users",
+    "@manageUsers": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "addUser": "Add User",
+    "@addUser": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "deleteUser": "Delete User",
+    "@deleteUser": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "areYouSureUserDelete": "Are you sure you want to delete {name}?. ",
+    "@areYouSureUserDelete": {
+        "description": "Text shown on the manage users page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "areYouSureUserDeleteDescription": "This will delete all transactions associated with this user.",
+    "@areYouSureUserDeleteDescription": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "noUserSelectedCreateNewUser": "No user selected, create a new user",
+    "@noUserSelectedCreateNewUser": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "selectUser": "Select a user profile",
+    "@selectUser": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "cannotDeleteOnlyUser": "Cannot delete the only user. Create another user first.",
+    "@cannotDeleteOnlyUser": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "cannotDeleteCurrentUser": "Cannot delete the current user. Switch to another user first.",
+    "@cannotDeleteCurrentUser": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "currencySymbol": "Currency: {currency}",
+    "@currencySymbol": {
+        "description": "Text shown on the manage users page",
+        "type": "text",
+        "placeholders": {
+            "currency": {
+                "type": "String"
+            }
+        }
+    },
+    "profilePhoto": "Profile Photo",
+    "@profilePhoto": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "currency": "Currency",
+    "@currency": {
+        "description": "Text shown on the manage users page",
+        "type": "text"
+    },
+    "searchCurrency": "Search Currency...",
+    "@searchCurrency": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "noCurrenciesFound": "No currencies found",
+    "@noCurrenciesFound": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "userName": "User Name",
+    "@userName": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "createNewUser": "Create New User",
+    "@createNewUser": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "users": "Users",
+    "@users": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "noUsers": "No users found",
+    "@noUsers": {
+        "description": "Text shown on the add user page",
+        "type": "text"
+    },
+    "loanSummary": "Loan Summary",
+    "@loanSummary": {
+        "description": "Title for loan summary section",
+        "type": "text"
+    },
+    "netLoanBalance": "Net Loan Balance",
+    "@netLoanBalance": {
+        "description": "Label for net loan balance",
+        "type": "text"
+    },
+    "netPositiveLoanMessage": "You're owed more than you owe",
+    "@netPositiveLoanMessage": {
+        "description": "Message when net loan balance is positive",
+        "type": "text"
+    },
+    "netNegativeLoanMessage": "You owe more than you're owed",
+    "@netNegativeLoanMessage": {
+        "description": "Message when net loan balance is negative",
+        "type": "text"
+    },
+    "addPayment": "Add Payment",
+    "@addPayment": {
+        "description": "Button text for adding a payment",
+        "type": "text"
+    },
+    "overdue": "Overdue",
+    "@overdue": {
+        "description": "Label for overdue loans",
+        "type": "text"
+    },
+    "dueToday": "Due Today",
+    "@dueToday": {
+        "description": "Label for loans due today",
+        "type": "text"
+    },
+    "lentTo": "Lent to",
+    "@lentTo": {
+        "description": "Label for who the money was lent to",
+        "type": "text"
+    },
+    "borrowedFrom": "Borrowed from",
+    "@borrowedFrom": {
+        "description": "Label for who the money was borrowed from",
+        "type": "text"
+    },
+    "notSpecified": "Not specified",
+    "@notSpecified": {
+        "description": "Label for unspecified values",
+        "type": "text"
+    },
+    "repaymentProgress": "Repayment Progress",
+    "@repaymentProgress": {
+        "description": "Label for repayment progress section",
+        "type": "text"
+    },
+    "paidAmount": "Paid",
+    "@paidAmount": {
+        "description": "Label for amount paid",
+        "type": "text"
+    },
+    "remainingAmount": "Remaining",
+    "@remainingAmount": {
+        "description": "Label for remaining amount",
+        "type": "text"
+    },
+    "totalAmount": "Total",
+    "@totalAmount": {
+        "description": "Label for total amount",
+        "type": "text"
+    },
+    "amountLent": "Amount Lent",
+    "@amountLent": {
+        "description": "Label for amount lent",
+        "type": "text"
+    },
+    "amountBorrowed": "Amount Borrowed",
+    "@amountBorrowed": {
+        "description": "Label for amount borrowed",
+        "type": "text"
+    },
+    "loanDetails": "Loan Details",
+    "@loanDetails": {
+        "description": "Label for loan details section",
+        "type": "text"
+    },
+    "notes": "Notes",
+    "@notes": {
+        "description": "Label for notes",
+        "type": "text"
+    },
+    "paymentHistory": "Payment History",
+    "@paymentHistory": {
+        "description": "Label for payment history section",
+        "type": "text"
+    },
+    "noPaymentsYet": "No payments yet",
+    "@noPaymentsYet": {
+        "description": "Message when there are no payments",
+        "type": "text"
+    },
+    "addPaymentPrompt": "Add a payment to track your progress",
+    "@addPaymentPrompt": {
+        "description": "Prompt to add a payment",
+        "type": "text"
+    },
+    "markAsPaid": "Mark as Paid",
+    "@markAsPaid": {
+        "description": "Button text for marking a loan as paid",
+        "type": "text"
+    },
+    "deleteLoanConfirmation": "Are you sure you want to delete this loan? This action cannot be undone.",
+    "@deleteLoanConfirmation": {
+        "description": "Confirmation message for deleting a loan",
+        "type": "text"
+    },
+    "paymentDate": "Payment Date",
+    "@paymentDate": {
+        "description": "Label for payment date",
+        "type": "text"
+    },
+    "pleaseEnterAmount": "Please enter an amount",
+    "@pleaseEnterAmount": {
+        "description": "Error message for empty amount",
+        "type": "text"
+    },
+    "pleaseEnterValidAmount": "Please enter a valid amount",
+    "@pleaseEnterValidAmount": {
+        "description": "Error message for invalid amount",
+        "type": "text"
+    },
+    "paymentAdded": "Payment added successfully",
+    "@paymentAdded": {
+        "description": "Success message for adding payment",
+        "type": "text"
+    },
+    "markLendingAsPaidConfirmation": "Are you sure you want to mark this loan as fully paid? This will record that you have received the full amount back.",
+    "@markLendingAsPaidConfirmation": {
+        "description": "Confirmation message for marking lending as paid",
+        "type": "text"
+    },
+    "markBorrowingAsPaidConfirmation": "Are you sure you want to mark this loan as fully paid? This will record that you have paid back the full amount.",
+    "@markBorrowingAsPaidConfirmation": {
+        "description": "Confirmation message for marking borrowing as paid",
+        "type": "text"
+    },
+    "loanMarkedAsPaid": "Loan marked as fully paid",
+    "@loanMarkedAsPaid": {
+        "description": "Success message for marking loan as paid",
+        "type": "text"
+    },
+    "receivingFrom": "Receiving from",
+    "@receivingFrom": {
+        "description": "Label for who the payment is being received from",
+        "type": "text"
+    },
+    "payingTo": "Paying to",
+    "@payingTo": {
+        "description": "Label for who the payment is being made to",
+        "type": "text"
+    },
+    "noNote": "No note",
+    "@noNote": {
+        "description": "Label for when there is no note",
+        "type": "text"
+    },
+    "recentActivity": "Recent Activity",
+    "@recentActivity": {
+        "description": "Label for recent activity section",
+        "type": "text"
+    },
+    "noRecentActivity": "No recent activity",
+    "@noRecentActivity": {
+        "description": "Message when there is no recent activity",
+        "type": "text"
+    },
+    "viewAll": "View All",
+    "@viewAll": {
+        "description": "Button text for viewing all items",
+        "type": "text"
+    },
+    "loanNotFound": "Loan not found",
+    "@loanNotFound": {
+        "description": "Message when a loan is not found",
         "type": "text"
     }
 }
