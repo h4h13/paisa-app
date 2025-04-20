@@ -124,7 +124,6 @@
     "incomeName": "收入名称",
     "currencySign": "货币符号",
     "calendarFormat": "日历格式",
-    "backupAndRestoreTitle": "备份与还原",
     "importData": "导入",
     "appRate": "评分应用",
     "appRateDesc": "喜欢这个应用吗？请在 Google Play Store 告诉我们如何改进",
@@ -256,6 +255,5 @@
     "paidFromAccount": "支付自: {accountName}",
     "processNow": "立即处理",
     "monthCompared": "与上个月的 {amount} 相比",
-    "deleteTag": "您确定要删除此 {tag} 标签吗？",
-    "tagSubtitle": "{tagCount} 笔交易 • {transactionTotal}"
+    "deleteTag": "您确定要删除此 {tag} 标签吗？"
 }

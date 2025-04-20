@@ -2893,5 +2893,15 @@
     "@backupRestoredSuccessfully": {
         "description": "Message shown when backup is restored successfully",
         "type": "text"
+    },
+    "migratingTransactions": "Migrating transactions",
+    "@migratingTransactions": {
+        "description": "Message shown when migrating transactions",
+        "type": "text"
+    },
+    "settingUpAccount": "Setting up account",
+    "@settingUpAccount": {
+        "description": "Message shown when setting up account",
+        "type": "text"
     }
 }

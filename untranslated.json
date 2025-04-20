@@ -110,7 +110,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "be": [
@@ -224,7 +226,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "cs": [
@@ -338,7 +342,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "da": [
@@ -452,7 +458,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "de": [
@@ -566,7 +574,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "el": [
@@ -689,7 +699,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "es": [
@@ -876,7 +888,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "fr": [
@@ -1220,7 +1234,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "he": [
@@ -1334,7 +1350,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "hi": [
@@ -1448,7 +1466,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "id": [
@@ -1686,7 +1706,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "it": [
@@ -1801,7 +1823,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "ja": [
@@ -1915,7 +1939,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "kn": [
@@ -2029,7 +2055,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "ko": [
@@ -2143,7 +2171,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "nl": [
@@ -2410,7 +2440,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "pl": [
@@ -2754,7 +2786,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "pt": [
@@ -2992,7 +3026,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "pt_BR": [
@@ -3230,7 +3266,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "ru": [
@@ -3468,7 +3506,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "sv": [
@@ -3733,7 +3773,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "te": [
@@ -3851,7 +3893,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "tr": [
@@ -4195,7 +4239,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "uk": [
@@ -4495,7 +4541,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "vi": [
@@ -4818,7 +4866,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "zh": [
@@ -5111,7 +5161,9 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ],
 
   "zh_TW": [
@@ -5404,6 +5456,8 @@
     "loanNotFound",
     "pickingFile",
     "restoringBackup",
-    "backupRestoredSuccessfully"
+    "backupRestoredSuccessfully",
+    "migratingTransactions",
+    "settingUpAccount"
   ]
 }

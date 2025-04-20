@@ -311,7 +311,6 @@
     "incomeName": "Назва даходу",
     "currencySign": "Сімвал валюты",
     "calendarFormat": "фармат календара",
-    "backupAndRestoreTitle": "Рэзервовае капіраванне і аднаўленне",
     "appRate": "Ацаніць дадатак",
     "appRateDesc": "Калі вам падабаецца дадатак, ацаніце яго",
     "transferName": "Перавод",
@@ -365,7 +364,6 @@
     "restorePurchases": "Аднавіць пакупкі",
     "continueText": "Працягнуць",
     "deleteTag": "Выдаліць тэг",
-    "tagSubtitle": "Тэгі",
     "tagDetailsSubtitle": "Падрабязнасці тэга",
     "topTags": "Топ тэгаў",
     "filter": "Фільтр",
@@ -418,8 +416,5 @@
     "welcomeNight2": "Час адпачыць і падумаць пра свае фінансы.",
     "welcomeNight3": "Не забудзьцеся запісаць свае выдаткі перад сном.",
     "welcomeNight4": "Салодкіх сноў і фінансавай стабільнасці!",
-    "welcomeWeekend": "Выдатных выходных, {name}!",
-    "welcomeWeekend1": "Не забудзьцеся запісаць свае выдаткі на выходных.",
-    "welcomeWeekend2": "Час адпачыць і падумаць пра свае фінансы.",
-    "welcomeWeekend3": "Жадаем вам выдатных выходных!"
+    "welcomeWeekend": "Выдатных выходных, {name}!"
 }

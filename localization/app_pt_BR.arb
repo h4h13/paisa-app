@@ -108,7 +108,6 @@
     "incomeName": "Nome da Receita",
     "currencySign": "Símbolo da Moeda",
     "calendarFormat": "Formato do Calendário",
-    "backupAndRestoreTitle": "Backup e Restauração",
     "appRate": "Avaliar App",
     "appRateDesc": "Gostando do app? Conte-nos como podemos melhorar na {store}",
     "transferName": "Nome da Transferência",

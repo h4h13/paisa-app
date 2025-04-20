@@ -205,6 +205,5 @@
     "emptyGoalsMessageTitle": "Không có mục tiêu",
     "emptyGoalsMessageSubTitle": "Thêm mục tiêu để xem tại đây",
     "addGoal": "Thêm mục tiêu",
-    "deleteTag": "Bạn có chắc chắn muốn xóa thẻ {tag} này không?",
-    "tagSubtitle": "{tagCount} giao dịch • {transactionTotal}"
+    "deleteTag": "Bạn có chắc chắn muốn xóa thẻ {tag} này không?"
 }

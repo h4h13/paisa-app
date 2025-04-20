@@ -108,7 +108,6 @@
     "incomeName": "Nama Pendapatan",
     "currencySign": "Simbol Mata Uang",
     "calendarFormat": "Format Kalender",
-    "backupAndRestoreTitle": "Cadangan & Pemulihan",
     "appRate": "Nilai Aplikasi",
     "appRateDesc": "Suka aplikasinya? Beri tahu kami bagaimana kami bisa meningkatkannya di {store}",
     "transferName": "Nama Transfer",

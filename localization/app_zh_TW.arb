@@ -124,7 +124,6 @@
     "incomeName": "收入名稱",
     "currencySign": "貨幣符號",
     "calendarFormat": "日曆格式",
-    "backupAndRestoreTitle": "備份與還原",
     "importData": "匯入",
     "appRate": "評分應用程式",
     "appRateDesc": "喜歡這個應用程式嗎？請在 Google Play Store 告訴我們如何改進",
@@ -256,6 +255,5 @@
     "paidFromAccount": "支付自: {accountName}",
     "processNow": "立即處理",
     "monthCompared": "與上個月的 {amount} 相比",
-    "deleteTag": "您確定要刪除此 {tag} 標籤嗎？",
-    "tagSubtitle": "{tagCount} 筆交易 • {transactionTotal}"
+    "deleteTag": "您確定要刪除此 {tag} 標籤嗎？"
 }
