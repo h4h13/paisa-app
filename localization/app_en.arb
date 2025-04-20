@@ -574,11 +574,6 @@
         "description": "Text shown on the button on settings screen",
         "type": "text"
     },
-    "backupAndRestoreTitle": "Backup & restore",
-    "@backupAndRestoreTitle": {
-        "description": "Text shown on the toolbar title",
-        "type": "text"
-    },
     "appRate": "Rate the app",
     "@appRate": {
         "description": "Rate "
@@ -2882,6 +2877,21 @@
     "loanNotFound": "Loan not found",
     "@loanNotFound": {
         "description": "Message when a loan is not found",
+        "type": "text"
+    },
+    "pickingFile": "Picking file...",
+    "@pickingFile": {
+        "description": "Message shown when picking a file",
+        "type": "text"
+    },
+    "restoringBackup": "Restoring backup...",
+    "@restoringBackup": {
+        "description": "Message shown when restoring a backup",
+        "type": "text"
+    },
+    "backupRestoredSuccessfully": "Backup restored successfully!",
+    "@backupRestoredSuccessfully": {
+        "description": "Message shown when backup is restored successfully",
         "type": "text"
     }
 }
