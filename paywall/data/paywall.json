@@ -1,0 +1,45 @@
+{
+    "reviews":{
+        "total": 100,
+        "average": 4.5,
+        "recent": [
+            {
+                "user": "John Doe",
+                "rating": 5,
+                "comment": "Great app, very useful!"
+            },
+            {
+                "user": "Jane Smith",
+                "rating": 4,
+                "comment": "Good app, but could use some improvements."
+            }
+        ]
+    },
+    "testimonials": [
+        {
+            "name": "Alice Johnson",
+            "feedback": "This app has changed my life for the better!"
+        },
+        {
+            "name": "Bob Brown",
+            "feedback": "I can't imagine my daily routine without it."
+        }
+    ],
+    "features": {
+        "basic": [
+            "Feature 1",
+            "Feature 2",
+            "Feature 3"
+        ],
+        "premium": [
+            "Feature 4",
+            "Feature 5",
+            "Feature 6"
+        ]
+    },
+    "pricing": {
+        "monthly": 9.99,
+        "yearly": 99.99,
+        "lifetime": 199.99
+    }
+}
