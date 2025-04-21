@@ -2889,6 +2889,11 @@
         "description": "Message shown when restoring a backup",
         "type": "text"
     },
+    "backupCreatedSuccessfully": "Backup created successfully!",
+    "@backupCreatedSuccessfully": {
+        "description": "Message shown when backup is created successfully",
+        "type": "text"
+    },
     "backupRestoredSuccessfully": "Backup restored successfully!",
     "@backupRestoredSuccessfully": {
         "description": "Message shown when backup is restored successfully",
@@ -2902,6 +2907,61 @@
     "settingUpAccount": "Setting up account",
     "@settingUpAccount": {
         "description": "Message shown when setting up account",
+        "type": "text"
+    },
+    "noUsersFoundDescription": "We couldn't find any users in your backup file, you can create one, or proceed with existing users",
+    "@noUsersFoundDescription": {
+        "description": "Message shown when no users are found",
+        "type": "text"
+    },
+    "noUsersTitle": "No Users Found",
+    "@noUsersTitle": {
+        "description": "Message shown when no users are found",
+        "type": "text"
+    },
+    "existingUsers": "Existing Users",
+    "@existingUsers": {
+        "description": "Message shown when existing users are found",
+        "type": "text"
+    },
+    "noLocalUsersFound": "No local users found",
+    "@noLocalUsersFound": {
+        "description": "Message shown when no local users are found",
+        "type": "text"
+    },
+    "foundUsers": "Users Found",
+    "@foundUsers": {
+        "description": "Message shown when users are found",
+        "type": "text"
+    },
+    "foundUsersDescription": "Select a user to restore. This will clear any existing transactions for the selected user and import their transactions.",
+    "@foundUsersDescription": {
+        "description": "Message shown when users are found",
+        "type": "text"
+    },
+    "restoreEverything": "Restore everything",
+    "@restoreEverything": {
+        "description": "Button text for restoring users",
+        "type": "text"
+    },
+    "existingUsersTitle": "Existing Users",
+    "@existingUsersTitle": {
+        "description": "Title for the users list section in backup/restore page",
+        "type": "text"
+    },
+    "existingUsersSubtitle": "Select a user to export their data, or export everything",
+    "@existingUsersSubtitle": {
+        "description": "Subtitle for the users list section in backup/restore page",
+        "type": "text"
+    },
+    "orDivider": "or",
+    "@orDivider": {
+        "description": "Text for divider between actions (e.g., 'or')",
+        "type": "text"
+    },
+    "exportEverything": "Export everything",
+    "@exportEverything": {
+        "description": "Button text for exporting all user data",
         "type": "text"
     }
 }
