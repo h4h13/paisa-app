@@ -1,45 +1,56 @@
 {
-    "reviews":{
-        "total": 100,
-        "average": 4.5,
-        "recent": [
-            {
-                "user": "John Doe",
-                "rating": 5,
-                "comment": "Great app, very useful!"
-            },
-            {
-                "user": "Jane Smith",
-                "rating": 4,
-                "comment": "Good app, but could use some improvements."
-            }
-        ]
-    },
-    "testimonials": [
-        {
-            "name": "Alice Johnson",
-            "feedback": "This app has changed my life for the better!"
+    "reviews": {
+        "android": {
+            "total": 500,
+            "average": 4.9,
+            "recent": [
+                {
+                    "user": "Jay Klz",
+                    "rating": 5,
+                    "comment": "I’m very selective when it comes to my finance management, and Paisa has by far been the best option. I’ve had the fortunate opportunity to see the code behind the app and can confirm the privacy and efficiency of the app. Definitely worth a try."
+                },
+                {
+                    "user": "Arya Vas",
+                    "rating": 5,
+                    "comment": "Elegant and feature packed app to manage for managing money. Best part is it’s stored on device for privacy!"
+                },
+                {
+                    "user": "Free yet Excellent",
+                    "rating": 5,
+                    "comment": "The app covers almost all aspects for a normal user. Kudos for keeping up the good work And thank you guys."
+                },
+                {
+                    "user": "SakamotoN",
+                    "rating": 5,
+                    "comment": "The design and functionality are great and still needs a improvements but overall a great application"
+                }
+            ]
         },
-        {
-            "name": "Bob Brown",
-            "feedback": "I can't imagine my daily routine without it."
+        "ios": {
+            "total": 72000,
+            "average": 4.4,
+            "recent": [
+                {
+                    "user": "Rithvik Arjun",
+                    "rating": 5,
+                    "comment": "The app is great, looks clean and minimalistic. Offers great customisation, and can be tailored to suit your needs exactly."
+                },
+                {
+                    "user": "Eyob Abebe",
+                    "rating": 5,
+                    "comment": "Always love what's come from Indian neat and clean as always.."
+                },
+                {
+                    "user": "Kent",
+                    "rating": 5,
+                    "comment": "Simple and easy to navigate the application for daily use, although there's some small bugs like can't change the date of the transaction when creating one, but overall a really great app."
+                },
+                {
+                    "user": "Gopala Reddy",
+                    "rating": 5,
+                    "comment": "Great app and impressed work from dev, Adding more features frequently 👍"
+                }
+            ]
         }
-    ],
-    "features": {
-        "basic": [
-            "Feature 1",
-            "Feature 2",
-            "Feature 3"
-        ],
-        "premium": [
-            "Feature 4",
-            "Feature 5",
-            "Feature 6"
-        ]
-    },
-    "pricing": {
-        "monthly": 9.99,
-        "yearly": 99.99,
-        "lifetime": 199.99
     }
 }
