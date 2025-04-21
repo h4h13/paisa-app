@@ -124,7 +124,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "be": [
@@ -252,7 +254,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "cs": [
@@ -380,7 +384,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "da": [
@@ -508,7 +514,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "de": [
@@ -636,7 +644,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "el": [
@@ -773,7 +783,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "es": [
@@ -974,7 +986,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "fr": [
@@ -1332,7 +1346,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "he": [
@@ -1460,7 +1476,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "hi": [
@@ -1588,7 +1606,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "id": [
@@ -1840,7 +1860,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "it": [
@@ -1969,7 +1991,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "ja": [
@@ -2097,7 +2121,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "kn": [
@@ -2225,7 +2251,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "ko": [
@@ -2353,7 +2381,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "nl": [
@@ -2634,7 +2664,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "pl": [
@@ -2992,7 +3024,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "pt": [
@@ -3244,7 +3278,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "pt_BR": [
@@ -3496,7 +3532,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "ru": [
@@ -3748,7 +3786,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "sv": [
@@ -4027,7 +4067,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "te": [
@@ -4159,7 +4201,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "tr": [
@@ -4517,7 +4561,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "uk": [
@@ -4831,7 +4877,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "vi": [
@@ -5168,7 +5216,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "zh": [
@@ -5475,7 +5525,9 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ],
 
   "zh_TW": [
@@ -5782,6 +5834,8 @@
     "existingUsersTitle",
     "existingUsersSubtitle",
     "orDivider",
-    "exportEverything"
+    "exportEverything",
+    "vibration",
+    "vibrationMessage"
   ]
 }

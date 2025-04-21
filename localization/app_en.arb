@@ -2963,5 +2963,15 @@
     "@exportEverything": {
         "description": "Button text for exporting all user data",
         "type": "text"
+    },
+    "vibration": "Vibration",
+    "@vibration": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "vibrationMessage": "Vibration when a new transaction is added",
+    "@vibrationMessage": {
+        "description": "Text shown on the settings page",
+        "type": "text"
     }
 }
