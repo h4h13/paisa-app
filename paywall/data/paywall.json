@@ -1,6 +1,6 @@
 {
     "reviews": {
-        "android": {
+        "ios": {
             "total": 500,
             "average": 4.9,
             "recent": [
@@ -26,7 +26,7 @@
                 }
             ]
         },
-        "ios": {
+        "android": {
             "total": 72000,
             "average": 4.4,
             "recent": [
