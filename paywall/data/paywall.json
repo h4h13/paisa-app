@@ -37,21 +37,25 @@
         {
           "user": "Rithvik Arjun",
           "rating": 5,
+          "title": "",
           "comment": "The app is great, looks clean and minimalistic. Offers great customisation, and can be tailored to suit your needs exactly."
         },
         {
           "user": "Eyob Abebe",
           "rating": 5,
+          "title": "",
           "comment": "Always love what's come from Indian neat and clean as always.."
         },
         {
           "user": "Kent",
           "rating": 5,
+          "title": "",
           "comment": "Simple and easy to navigate the application for daily use, although there's some small bugs like can't change the date of the transaction when creating one, but overall a really great app."
         },
         {
           "user": "Gopala Reddy",
           "rating": 5,
+          "title": "",
           "comment": "Great app and impressed work from dev, Adding more features frequently 👍"
         }
       ]
