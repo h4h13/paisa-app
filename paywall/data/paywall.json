@@ -52,5 +52,32 @@
                 }
             ]
         }
-    }
+    },
+    "features": [
+        {
+            "name": "Multiple Accounts",
+            "description": "Manage multiple user profiles with separate transactions and currencies",
+            "icon": "0xf7c6"
+        },
+        {
+            "name": "Unlimited",
+            "description": "Create unlimited account, subscriptions, budgets, recurring events & goals",
+            "icon": "0xf624"
+        },
+        {
+            "name": "Google Drive Backup",
+            "description": "Backup your data to Google Drive and restore it whenever needed.",
+            "icon": "0xf53a"
+        },
+        {
+            "name": "Home Screen Widget",
+            "description": "Add a widget to your home screen for quick access to your finances.",
+            "icon": "0xf02b9"
+        },
+        {
+            "name": "Just Black Theme",
+            "description": "A dark theme that is easy on the eyes and saves battery life.",
+            "icon": "0xf658"
+        }
+    ]
 }
