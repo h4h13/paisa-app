@@ -1,5 +1,7 @@
 {
   "ar": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -126,10 +128,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "be": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -256,10 +267,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "cs": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -386,10 +406,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "da": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -516,10 +545,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "de": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -646,10 +684,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "el": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "selectYourDefaultCategories",
     "selectYourDefaultAccounts",
     "noTransactions",
@@ -785,11 +832,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "es": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "dataBackupAndRestore",
     "trackBudget",
@@ -988,11 +1044,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "fr": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "dynamicColorDesc",
     "deleteLoan",
@@ -1348,10 +1413,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "he": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -1478,10 +1552,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "hi": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -1608,11 +1691,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "id": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "trackBudget",
     "deleteTag",
@@ -1862,11 +1954,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "it": [
     "emptyCategoriesMessageTitle",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -1993,10 +2094,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "ja": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -2123,10 +2233,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "kn": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -2253,10 +2372,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "ko": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "modifyInstance",
     "skipInstance",
     "save",
@@ -2383,11 +2511,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "nl": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "totalBalance",
     "ok",
@@ -2666,11 +2803,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "pl": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "dynamicColorDesc",
     "deleteLoan",
@@ -3026,11 +3172,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "pt": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "trackBudget",
     "deleteTag",
@@ -3280,11 +3435,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "pt_BR": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "trackBudget",
     "deleteTag",
@@ -3534,11 +3698,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "ru": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "trackBudget",
     "deleteTag",
@@ -3788,11 +3961,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "sv": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "ok",
     "searchMessage",
@@ -4069,10 +4251,19 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "te": [
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "subscriptionStatus",
     "manageSubscription",
     "activeSubscription",
@@ -4203,11 +4394,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "tr": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "dynamicColorDesc",
     "deleteLoan",
@@ -4563,11 +4763,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "uk": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "totalBalance",
     "ok",
@@ -4879,11 +5088,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "vi": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "accountInformationTitle",
     "accountInformationSubTitle",
@@ -5218,11 +5436,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "zh": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "dynamicColorDesc",
     "deleteLoan",
@@ -5527,11 +5754,20 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ],
 
   "zh_TW": [
     "editRecurring",
+    "emptyReportsMessageTitle",
+    "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
     "dynamicColorDesc",
     "deleteLoan",
@@ -5836,6 +6072,13 @@
     "orDivider",
     "exportEverything",
     "vibration",
-    "vibrationMessage"
+    "vibrationMessage",
+    "feedback",
+    "feedbackDesc",
+    "giveUsRating",
+    "ratingDesc",
+    "rateOn",
+    "ratingTitle",
+    "enjoyingAppTitle"
   ]
 }

@@ -303,13 +303,13 @@
         "description": "Message subtitle text shown on the categories page when no categories available",
         "type": "text"
     },
-    "emptyOverviewMessageTitle": "No overview data",
-    "@emptyOverviewMessageTitle": {
-        "description": "No overview data message",
+    "emptyReportsMessageTitle": "No reports data",
+    "@emptyReportsMessageTitle": {
+        "description": "No report data message",
         "type": "text"
     },
-    "emptyOverviewMessageSubtitle": "To see your spending overview, add some transactions",
-    "@emptyOverviewMessageSubtitle": {
+    "emptyReportsMessageSubtitle": "To see your spending report, add some transactions",
+    "@emptyReportsMessageSubtitle": {
         "description": "No budget overview description ",
         "type": "text"
     },
@@ -830,27 +830,27 @@
         "description": "Text shown on snackbar when adding account",
         "type": "text"
     },
-    "tags": "Tags",
+    "tags": "Labels",
     "@tags": {
         "description": "Text shown on the tab",
         "type": "text"
     },
-    "tagsToolTip": "Add tag",
+    "tagsToolTip": "Add label",
     "@tagsToolTip": {
         "description": "Text shown on the floating action buttons tooltip",
         "type": "text"
     },
-    "selectTag": "Select tag",
+    "selectTag": "Select label",
     "@selectTag": {
         "description": "Text shown on the floating action buttons tooltip",
         "type": "text"
     },
-    "tagName": "Tag name",
+    "tagName": "Label name",
     "@tagName": {
         "description": "Text shown on the floating action buttons tooltip",
         "type": "text"
     },
-    "enterTagName": "Enter tag name",
+    "enterTagName": "Enter label name",
     "@enterTagName": {
         "description": "Text shown on the floating action buttons tooltip",
         "type": "text"
@@ -930,7 +930,7 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "tag": "Tag",
+    "tag": "Label",
     "@tag": {
         "description": "Text shown on the history page",
         "type": "text"
@@ -1518,7 +1518,7 @@
             }
         }
     },
-    "deleteTag": "Are you sure you want to delete this {tag} tag?",
+    "deleteTag": "Are you sure you want to delete this {tag} label?",
     "@deleteTag": {
         "description": "Text shown on the delete tag dialog",
         "type": "text",
@@ -1548,7 +1548,7 @@
             }
         }
     },
-    "topTags": "Top tags",
+    "topTags": "Top labels",
     "@topTags": {
         "description": "Text shown on the home page section title",
         "type": "text"
@@ -2232,12 +2232,12 @@
     "@recurringUpdated": {
         "description": "Snackbar message when recurring is updated"
     },
-    "noTags": "No tag",
+    "noTags": "No label",
     "@noTags": {
         "description": "Text shown on the transaction details page",
         "type": "text"
     },
-    "noTagsDescription": "Add a tag to categorize your transactions",
+    "noTagsDescription": "Add a label to categorize your transactions",
     "@noTagsDescription": {
         "description": "Text shown on the transaction details page",
         "type": "text"
@@ -2378,25 +2378,25 @@
         "description": "Text shown on the budget details section title",
         "type": "text"
     },
-    "tagNameRequired": "Tag name is required",
+    "tagNameRequired": "Label name is required",
     "@tagNameRequired": {
         "description": "Text shown on the tag page",
         "type": "text"
     },
-    "addTag": "Add tag",
+    "addTag": "Add label",
     "@addTag": {
         "description": "Text shown on the tag page",
         "type": "text"
     },
-    "tagAdded": "Tag added",
+    "tagAdded": "Label added",
     "@tagAdded": {
         "description": "Snackbar message when tag is added"
     },
-    "tagUpdated": "Tag updated",
+    "tagUpdated": "Label updated",
     "@tagUpdated": {
         "description": "Snackbar message when tag is updated"
     },
-    "tagDeleted": "Tag deleted",
+    "tagDeleted": "Label deleted",
     "@tagDeleted": {
         "description": "Snackbar message when tag is deleted"
     },
@@ -2973,5 +2973,52 @@
     "@vibrationMessage": {
         "description": "Text shown on the settings page",
         "type": "text"
+    },
+    "feedback": "Feedback",
+    "@feedback": {
+        "description": "Title text shown on settings page for feedback button",
+        "type": "text"
+    },
+    "feedbackDesc": "Send us your feedback and suggestions",
+    "@feedbackDesc": {
+        "description": "Subtitle text shown on settings page for feedback button",
+        "type": "text"
+    },
+    "giveUsRating": "Give us a rating",
+    "@giveUsRating": {
+        "description": "Title text shown on settings page for feedback button",
+        "type": "text"
+    },
+    "ratingDesc": "We value your feedback! Please consider rating us 5 stars.",
+    "@ratingDesc": {
+        "description": "Subtitle text shown on settings page for feedback button",
+        "type": "text"
+    },
+    "rateOn": "Rate on {platform}",
+    "@rateOn": {
+        "description": "Button text for rating on app store or play store",
+        "type": "text",
+        "placeholders": {
+            "platform": {
+                "type": "String",
+                "description": "The platform name (e.g., 'App Store' or 'Play Store')"
+            }
+        }
+    },
+    "ratingTitle": "What users are saying around the world:",
+    "@ratingTitle": {
+        "description": "Title text shown on settings page for feedback button",
+        "type": "text"
+    },
+    "enjoyingAppTitle": "Enjoying {appTitle}?",
+    "@enjoyingAppTitle": {
+        "description": "Title text shown on settings page for feedback button",
+        "type": "text",
+        "placeholders": {
+            "appTitle": {
+                "type": "String",
+                "description": "The app title"
+            }
+        }
     }
 }
