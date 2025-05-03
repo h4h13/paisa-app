@@ -842,8 +842,7 @@
     "enjoyingAppTitle"
   ],
 
-  "es": {
-    "dataBackupAndRestore",
+  "es": [
     "trackBudget",
     "tagDetailsSubtitle",
     "biometricAuthFailed",
