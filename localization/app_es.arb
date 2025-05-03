@@ -342,4 +342,7 @@
     "welcomeNight3": "🎆 ¡Hola {name}, antes de que termines el día...",
     "welcomeNight4": "✨ ¿Números nocturnos, verdad {name}?",
     "editRecurring": "Editar Recurrente"
+    "emptyReportsMessageTitle": "No hay ningún reporte de progreso",
+    "emptyReportsMessageSubtitle": "Crea un nuevo reporte de progreso",
+    "dialogDeleteBackupMessage": "¿Deseas eliminar el respaldo?"
 }
