@@ -592,7 +592,7 @@
     "@transferName": {
         "description": "Transfer name "
     },
-    "enterCategory": "Enter category",
+    "enterCategory": "Enter category name",
     "@enterCategory": {
         "description": "Enter category "
     },
@@ -606,10 +606,6 @@
     },
     "enterAccountName": "Enter account name",
     "@enterAccountName": {
-        "description": "Enter account name "
-    },
-    "enterCardHolderName": "Enter cardholder name",
-    "@enterCardHolderName": {
         "description": "Enter account name "
     },
     "search": "Search",
@@ -945,7 +941,7 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "selectBudget": "Select budget",
+    "selectBudget": "Select a budget",
     "@selectBudget": {
         "description": "Text shown on the add transaction page",
         "type": "text"
@@ -1018,11 +1014,6 @@
     "historyDesc": "View all your transactions",
     "@historyDesc": {
         "description": "Text shown on the history page",
-        "type": "text"
-    },
-    "dataBackupAndRestore": "Backup & Restore",
-    "@dataBackupAndRestore": {
-        "description": "Text shown on the export and import page",
         "type": "text"
     },
     "exportAllData": "Export all data",
@@ -1240,7 +1231,7 @@
         "description": "Text shown on the category page",
         "type": "text"
     },
-    "selectGoal": "Select goal",
+    "selectGoal": "Select a goal",
     "@selectGoal": {
         "description": "Text shown on the add transaction page",
         "type": "text"
@@ -1611,12 +1602,12 @@
         "description": "Text shown on the backup restore page",
         "type": "text"
     },
-    "exportCSV": "Export all transactions data to CSV, not recommended for importing data",
+    "exportCSV": "Save and load your expenses in CSV format, not recommended for importing data",
     "@exportCSV": {
         "description": "Text shown on the backup restore page",
         "type": "text"
     },
-    "dataImportedExportCSV": "Import/Export CSV",
+    "dataImportedExportCSV": "CSV Backup & Restore",
     "@dataImportedExportCSV": {
         "description": "Text shown on the backup restore page",
         "type": "text"
@@ -2102,16 +2093,6 @@
             }
         }
     },
-    "importExportData": "Import/Export Data",
-    "@importExportData": {
-        "description": "Text shown on the backup restore page",
-        "type": "text"
-    },
-    "importExportDataDescription": "Import or export your data to another device",
-    "@importExportDataDescription": {
-        "description": "Text shown on the backup restore page",
-        "type": "text"
-    },
     "today": "Today",
     "@today": {
         "description": "Text shown on the home page section title",
@@ -2232,7 +2213,7 @@
     "@recurringUpdated": {
         "description": "Snackbar message when recurring is updated"
     },
-    "noTags": "No label",
+    "noTags": "No labels",
     "@noTags": {
         "description": "Text shown on the transaction details page",
         "type": "text"
@@ -3020,5 +3001,65 @@
                 "description": "The app title"
             }
         }
+    },
+    "loan": "Loan",
+    "@loan": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "selectLoan": "Select a loan",
+    "@selectLoan": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "enterValidAccountName": "Enter valid account name",
+    "@enterValidAccountName": {
+        "description": "Error message shown when entered account name is not valid",
+        "type": "text"
+    },
+    "enterName": "Enter name",
+    "@enterName": {
+        "description": "Error message shown when entered name is not valid",
+        "type": "text"
+    },
+    "selectColor": "Select color",
+    "@selectColor": {
+        "description": "Error message shown when color is not selected",
+        "type": "text"
+    },
+    "enterValidCategoryName": "Enter valid category name",
+    "@enterValidCategoryName": {
+        "description": "Error message shown when entered category name is not valid",
+        "type": "text"
+    },
+    "selectStartDate": "Select start date",
+    "@selectStartDate": {
+        "description": "Error message shown when start date is not selected",
+        "type": "text"
+    },
+    "selectExpiryDate": "Select expiry date",
+    "@selectExpiryDate": {
+        "description": "Error message shown when expiry date is not selected",
+        "type": "text"
+    },
+    "expiryDateShouldBeAfterStartDate": "Expiry date should be after start date",
+    "@expiryDateShouldBeAfterStartDate": {
+        "description": "Error message shown when expiry date is before start date",
+        "type": "text"
+    },
+    "dataBackupAndRestore": "Data Backup & Restore",
+    "@dataBackupAndRestore": {
+        "description": "Text shown on settings page",
+        "type": "text"
+    },
+    "dataBackupAndRestoreDescription": "Save and load your financial records",
+    "@dataBackupAndRestoreDescription": {
+        "description": "Text shown on settings page",
+        "type": "text"
+    },
+    "dataImportedExportCSVDescription": "Data Export/Import .csv file",
+    "@dataImportedExportCSVDescription": {
+        "description": "Text shown on settings page",
+        "type": "text"
     }
 }

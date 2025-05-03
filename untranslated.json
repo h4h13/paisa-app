@@ -135,7 +135,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "be": [
@@ -274,7 +285,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "cs": [
@@ -413,7 +435,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "da": [
@@ -552,7 +585,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "de": [
@@ -691,7 +735,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "el": [
@@ -839,7 +894,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "es": [
@@ -847,7 +913,6 @@
     "emptyReportsMessageTitle",
     "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
-    "dataBackupAndRestore",
     "trackBudget",
     "tagDetailsSubtitle",
     "biometricAuthFailed",
@@ -878,8 +943,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -1051,7 +1114,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "fr": [
@@ -1073,7 +1148,6 @@
     "googleDriveDesc",
     "googleDriveBackup",
     "historyDesc",
-    "dataBackupAndRestore",
     "exportAllData",
     "exportAllDataSuccess",
     "importAllData",
@@ -1247,8 +1321,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -1420,7 +1492,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "he": [
@@ -1559,7 +1643,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "hi": [
@@ -1698,7 +1793,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "id": [
@@ -1788,8 +1894,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -1961,7 +2065,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "it": [
@@ -2101,7 +2216,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "ja": [
@@ -2240,7 +2366,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "kn": [
@@ -2379,7 +2516,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "ko": [
@@ -2518,7 +2666,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "nl": [
@@ -2552,7 +2711,6 @@
     "welcomeAppSubTitle",
     "data",
     "clear",
-    "dataBackupAndRestore",
     "exportAllData",
     "trackBudget",
     "addGoal",
@@ -2637,8 +2795,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -2810,7 +2966,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "pl": [
@@ -2832,7 +3000,6 @@
     "googleDriveDesc",
     "googleDriveBackup",
     "historyDesc",
-    "dataBackupAndRestore",
     "exportAllData",
     "exportAllDataSuccess",
     "importAllData",
@@ -3006,8 +3173,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -3179,7 +3344,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "pt": [
@@ -3269,8 +3446,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -3442,7 +3617,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "pt_BR": [
@@ -3532,8 +3718,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -3705,7 +3889,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "ru": [
@@ -3795,8 +3990,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -3968,7 +4161,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "sv": [
@@ -4001,7 +4205,6 @@
     "welcomeAppSubTitle",
     "data",
     "clear",
-    "dataBackupAndRestore",
     "exportAllData",
     "trackBudget",
     "deleteTag",
@@ -4085,8 +4288,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -4258,7 +4459,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "te": [
@@ -4401,7 +4614,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "tr": [
@@ -4423,7 +4647,6 @@
     "googleDriveDesc",
     "googleDriveBackup",
     "historyDesc",
-    "dataBackupAndRestore",
     "exportAllData",
     "exportAllDataSuccess",
     "importAllData",
@@ -4597,8 +4820,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -4770,7 +4991,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "uk": [
@@ -4804,7 +5037,6 @@
     "welcomeAppSubTitle",
     "data",
     "clear",
-    "dataBackupAndRestore",
     "exportAllData",
     "trackBudget",
     "enableFeedbackDesc",
@@ -4922,8 +5154,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -5095,7 +5325,19 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestore",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "vi": [
@@ -5130,7 +5372,6 @@
     "enterDescription",
     "enterAmount",
     "enterAccountName",
-    "enterCardHolderName",
     "search",
     "delete",
     "introCTA",
@@ -5270,8 +5511,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -5443,7 +5682,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "zh": [
@@ -5588,8 +5838,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -5761,7 +6009,18 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ],
 
   "zh_TW": [
@@ -5906,8 +6165,6 @@
     "categorySpendingTrend",
     "categoryBreakDown",
     "categorySubtitle",
-    "importExportData",
-    "importExportDataDescription",
     "today",
     "yesterday",
     "tomorrow",
@@ -6079,6 +6336,17 @@
     "ratingDesc",
     "rateOn",
     "ratingTitle",
-    "enjoyingAppTitle"
+    "enjoyingAppTitle",
+    "loan",
+    "selectLoan",
+    "enterValidAccountName",
+    "enterName",
+    "selectColor",
+    "enterValidCategoryName",
+    "selectStartDate",
+    "selectExpiryDate",
+    "expiryDateShouldBeAfterStartDate",
+    "dataBackupAndRestoreDescription",
+    "dataImportedExportCSVDescription"
   ]
 }
