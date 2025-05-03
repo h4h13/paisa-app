@@ -340,5 +340,6 @@
     "welcomeNight1": "🌙 ¿Terminando el día, {name}?",
     "welcomeNight2": "🌠 ¡Hora de revisión nocturna, {name}!",
     "welcomeNight3": "🎆 ¡Hola {name}, antes de que termines el día...",
-    "welcomeNight4": "✨ ¿Números nocturnos, verdad {name}?"
+    "welcomeNight4": "✨ ¿Números nocturnos, verdad {name}?",
+    "editRecurring": "Editar Recurrente"
 }
