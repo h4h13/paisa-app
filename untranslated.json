@@ -842,8 +842,7 @@
     "enjoyingAppTitle"
   ],
 
-  "es": [
-    "editRecurring",
+  "es": {
     "emptyReportsMessageTitle",
     "emptyReportsMessageSubtitle",
     "dialogDeleteBackupMessage",
