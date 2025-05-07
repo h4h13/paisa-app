@@ -61,8 +61,6 @@
     "emptyAccountMessageSubTitle": "Προσθέστε έναν λογαριασμό για να τον δείτε εδώ",
     "emptyCategoriesMessageTitle": "Δεν υπάρχουν διαθέσιμες κατηγορίες εδώ",
     "emptyCategoriesMessageSubTitle": "Προσθέστε μία κατηγορία για να την εμφανίζετε εδώ",
-    "emptyOverviewMessageTitle": "Δεν υπάρχουν δεδομένα επισκόπησης",
-    "emptyOverviewMessageSubtitle": "Για να δείτε την επισκόπηση των δαπανών σας, προσθέστε μερικές συναλλαγές",
     "amount": "Ποσό",
     "initialAmount": "Αρχικό ποσό",
     "validAmount": "Εισάγετε ένα έγκυρο ποσό",
@@ -119,7 +117,6 @@
     "enterDescription": "Εισαγωγή περιγραφής",
     "enterAmount": "Εισαγωγή ποσού",
     "enterAccountName": "Εισαγωγή ονόματος λογαριασμού",
-    "enterCardHolderName": "Εισαγωγή όνομα κατόχου κάρτας",
     "search": "Αναζήτηση",
     "delete": "Διαγραφή",
     "introCTA": "Ας ξεκινήσουμε",
@@ -377,8 +374,6 @@
     "categorySpendingTrend": "Τάσεις Δαπανών Κατηγορίας",
     "categoryBreakDown": "Κατανομή Κατηγοριών",
     "categorySubtitle": "{description}\n{transactionCount} συναλλαγές",
-    "importExportData": "Εισαγωγή/Εξαγωγή Δεδομένων",
-    "importExportDataDescription": "Εισαγωγή ή εξαγωγή των δεδομένων σας σε άλλη συσκευή",
     "today": "Σήμερα",
     "yesterday": "Χθές",
     "tomorrow": "Αύριο",
@@ -407,5 +402,6 @@
     "noTags": "Καμία ετικέτα",
     "noTagsDescription": "Προσθέστε μια ετικέτα για να κατηγοριοποιείτε τις συναλλαγές σας",
     "goalCount": "{goalCount} ενεργοί, {completedGoalCount} ολοκληρώθηκαν",
-    "budgetCount": "{budgetCount} προϋπολογισμοί"
+    "budgetCount": "{budgetCount} προϋπολογισμοί",
+    "others": "Άλλοι"
 }

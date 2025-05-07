@@ -58,8 +58,6 @@
     "emptyAccountMessageSubTitle": "Thêm tài khoản để xem tại đây",
     "emptyCategoriesMessageTitle": "Không có danh mục",
     "emptyCategoriesMessageSubTitle": "Thêm danh mục để xem tại đây",
-    "emptyOverviewMessageTitle": "Không có dữ liệu tổng quan",
-    "emptyOverviewMessageSubtitle": "Thêm giao dịch để xem tổng quan chi tiêu",
     "amount": "Số tiền",
     "initialAmount": "Số tiền ban đầu",
     "validAmount": "Vui lòng nhập số tiền hợp lệ",

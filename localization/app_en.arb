@@ -1379,8 +1379,8 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
-    "predictions": "Spending Predictions",
-    "@predictions": {
+    "spendingPredictions": "Spending Predictions",
+    "@spendingPredictions": {
         "description": "Text shown on the home page section title",
         "type": "text"
     },
@@ -2050,7 +2050,7 @@
         "description": "Text shown on the loan page",
         "type": "text"
     },
-    "loanInfoDescription": "Loan lending is the act of giving money to another party with the expectation of repayment. Borrowing is the act of receiving money from a lender with the agreement to pay it back.",
+    "loanInfoDescription": "Lending: You pay now, and your friend will pay you back later.\nExample: You buy movie tickets for everyone. Your friends owe you money.\nBorrowing: Your friend pays, and you’ll pay them back later.\nExample: Your friend pays the restaurant bill. You owe them.",
     "@loanInfoDescription": {
         "description": "Text shown on the loan page",
         "type": "text"
@@ -3060,6 +3060,66 @@
     "dataImportedExportCSVDescription": "Data Export/Import .csv file",
     "@dataImportedExportCSVDescription": {
         "description": "Text shown on settings page",
+        "type": "text"
+    },
+    "user": "User",
+    "@user": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "participants": "Participants",
+    "@participants": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "quarterly": "Quarterly",
+    "@quarterly": {
+        "description": "Text shown on the history page",
+        "type": "text"
+    },
+    "iconStyle": "Icon Style",
+    "@iconStyle": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "iconStyleDescription": "Customize your preferred icon style",
+    "@iconStyleDescription": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "filled": "Filled",
+    "@filled": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "weight": "Weight",
+    "@weight": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "opticalSize": "Optical Size",
+    "@opticalSize": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "grade": "Grade",
+    "@grade": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "youOwedMoreThanYouOwe": "You're owed more than you owe",
+    "@youOwedMoreThanYouOwe": {
+        "description": "Text shown on the loan summary card",
+        "type": "text"
+    },
+    "youOweMoreThanYouAreOwed": "You owe more than you're owed",
+    "@youOweMoreThanYouAreOwed": {
+        "description": "Text shown on the loan summary card",
+        "type": "text"
+    },
+    "others": "Others",
+    "@others": {
+        "description": "Text shown on the settings page",
         "type": "text"
     }
 }
