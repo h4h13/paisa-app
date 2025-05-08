@@ -1,14 +1,23 @@
 {
   "ar": [
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "be": [
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "cs": [
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "da": [
@@ -153,7 +162,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "de": [
@@ -316,7 +328,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "el": [
@@ -487,7 +502,10 @@
     "opticalSize",
     "grade",
     "youOwedMoreThanYouOwe",
-    "youOweMoreThanYouAreOwed"
+    "youOweMoreThanYouAreOwed",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "es": [
@@ -569,7 +587,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "fr": [
@@ -959,7 +980,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "he": [
@@ -1122,7 +1146,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "hi": [
@@ -1285,7 +1312,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "id": [
@@ -1570,7 +1600,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "it": [
@@ -1734,7 +1767,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "ja": [
@@ -1897,7 +1933,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "kn": [
@@ -2060,7 +2099,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "ko": [
@@ -2223,7 +2265,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "nl": [
@@ -2537,7 +2582,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "pl": [
@@ -2927,7 +2975,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "pt": [
@@ -3212,7 +3263,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "pt_BR": [
@@ -3497,7 +3551,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "ru": [
@@ -3782,7 +3839,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "sv": [
@@ -4094,7 +4154,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "te": [
@@ -4261,7 +4324,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "tr": [
@@ -4288,7 +4354,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "uk": [
@@ -4635,7 +4704,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "vi": [
@@ -5004,7 +5076,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "zh": [
@@ -5343,7 +5418,10 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ],
 
   "zh_TW": [
@@ -5682,6 +5760,9 @@
     "grade",
     "youOwedMoreThanYouOwe",
     "youOweMoreThanYouAreOwed",
-    "others"
+    "others",
+    "about",
+    "revenueCatId",
+    "revenueCatIdCopied"
   ]
 }

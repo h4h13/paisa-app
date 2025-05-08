@@ -3121,5 +3121,20 @@
     "@others": {
         "description": "Text shown on the settings page",
         "type": "text"
+    },
+    "about": "About",
+    "@about": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "revenueCatId": "RevenueCat ID",
+    "@revenueCatId": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "revenueCatIdCopied": "RevenueCat ID copied",
+    "@revenueCatIdCopied": {
+        "description": "Text shown on the settings page",
+        "type": "text"
     }
 }
