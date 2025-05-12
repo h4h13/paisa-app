@@ -373,7 +373,7 @@
     "spendingTrend": "Harcama Trendi",
     "categorySpendingTrend": "Kategori Harcama Trendleri",
     "categoryBreakDown": "Kategori Dağılımı",
-    "categorySubtitle": "{description}\n{transactionCount} işlem",
+    "categorySubtitle": "{description}\n{transactionCount, plural, zero{İşlem yok} one{# işlem} other{{transactionCount} işlem}}",
     "today": "Bugün",
     "yesterday": "Dün",
     "tomorrow": "Yarın",

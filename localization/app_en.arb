@@ -2080,7 +2080,7 @@
         "description": "Text shown on the budget details section title",
         "type": "text"
     },
-    "categorySubtitle": "{description}\n{transactionCount} transactions",
+    "categorySubtitle": "{description}\n{transactionCount, plural, one{# transaction} other{{transactionCount} transactions}}",
     "@categorySubtitle": {
         "description": "Text shown on the budget details section title",
         "type": "text",
@@ -2223,7 +2223,7 @@
         "description": "Text shown on the transaction details page",
         "type": "text"
     },
-    "goalCount": "{goalCount} active, {completedGoalCount} completed",
+    "goalCount": "{goalCount, plural, one{1 active} other{{goalCount} active}}, {completedGoalCount, plural, one{1 completed} other{{completedGoalCount} completed}}",
     "@goalCount": {
         "description": "Text shown on the home page section title",
         "type": "text",
@@ -2955,12 +2955,12 @@
         "description": "Text shown on the settings page",
         "type": "text"
     },
-    "feedback": "Feedback",
+    "feedback": "Give Feedback",
     "@feedback": {
         "description": "Title text shown on settings page for feedback button",
         "type": "text"
     },
-    "feedbackDesc": "Send us your feedback and suggestions",
+    "feedbackDesc": "Something went wrong, have any thoughts or suggestions? Send us your feedback!",
     "@feedbackDesc": {
         "description": "Subtitle text shown on settings page for feedback button",
         "type": "text"
@@ -3134,6 +3134,11 @@
     },
     "revenueCatIdCopied": "RevenueCat ID copied",
     "@revenueCatIdCopied": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "selected": "Selected: ",
+    "@selected": {
         "description": "Text shown on the settings page",
         "type": "text"
     }
