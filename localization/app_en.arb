@@ -499,8 +499,8 @@
         "description": "Intro page message for name input",
         "type": "text"
     },
-    "welcomeDesc": "What should we call you?",
-    "@welcomeDesc": {
+    "whatShouldWeCallYou": "What should we call you?",
+    "@whatShouldWeCallYou": {
         "description": "Welcome desc ",
         "type": "text"
     },
@@ -796,7 +796,7 @@
         "description": "Title text shown on the welcome page",
         "type": "text"
     },
-    "welcomeAppSubTitle": "Your personal finance companion for smarter money management",
+    "welcomeAppSubTitle": "Effortlessly track your expenses, simply and securely.",
     "@welcomeAppSubTitle": {
         "description": "Subtitle text shown on the welcome page",
         "type": "text"
@@ -1211,8 +1211,18 @@
         "description": "Text shown on the setting page",
         "type": "text"
     },
-    "subscription": "Subscriptions",
+    "subscription": "Subscription",
     "@subscription": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "subscriptions": "Subscriptions",
+    "@subscriptions": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "subscribe": "Subscribe",
+    "@subscribe": {
         "description": "Text shown on the setting page",
         "type": "text"
     },
@@ -2173,7 +2183,7 @@
         "description": "Text shown on the settings page",
         "type": "text"
     },
-    "customizeHomeScreen": "Customize Home Screen",
+    "customizeHomeScreen": "Customize home screen",
     "@customizeHomeScreen": {
         "description": "Text shown on the settings page",
         "type": "text"
@@ -2635,7 +2645,7 @@
             }
         }
     },
-    "profilePhoto": "Profile Photo",
+    "profilePhoto": "Profile photo(optional)",
     "@profilePhoto": {
         "description": "Text shown on the add user page",
         "type": "text"
@@ -3140,6 +3150,156 @@
     "selected": "Selected: ",
     "@selected": {
         "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "licenses": "Licenses",
+    "@licenses": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "sendEmail": "Send Email",
+    "@sendEmail": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "light": "Light",
+    "@light": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "dark": "Dark",
+    "@dark": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "system": "System",
+    "@system": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "info": "Info",
+    "@info": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "infoDialog": "Paisa is a offline & privacy-first app, this info is stored locally on your device and helps personalize your app",
+    "@infoDialog": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "introStepTwoTitle": "Your Finances, Your Privacy",
+    "@introStepTwoTitle": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "introStepTwoSubTitle": "Paisa works completely offline. Your data stays on your device, always.",
+    "@introStepTwoSubTitle": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "introStepThreeTitle": "Understand Your Spending Habits",
+    "@introStepThreeTitle": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "introStepThreeSubTitle": "Track your expenses, savings, and investments in one place.",
+    "@introStepThreeSubTitle": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "yourCurrency": "Your currency",
+    "@yourCurrency": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "searchCurrencyByNameOrCode": "Search currency by name or code",
+    "@searchCurrencyByNameOrCode": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "returningUser": "Returning user, Restore from backup",
+    "@returningUser": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "selectValidBackupFile": "Select valid backup file",
+    "@selectValidBackupFile": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "fromAndToAccountSame": "From and to account cannot be same",
+    "@fromAndToAccountSame": {
+        "description": "Text shown on the intro page",
+        "type": "text"
+    },
+    "getLifetimeAccess": "Get Lifetime Access",
+    "@getLifetimeAccess": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "annually": "Annually",
+    "@annually": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "lifetime": "Lifetime",
+    "@lifetime": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "whatYouGet": "What you'll get",
+    "@whatYouGet": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_1_title": "Multiple Accounts",
+    "@feature_1_title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_1_description": "Manage multiple user profiles with separate transactions and currencies.",
+    "@feature_1_description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_2_title": "Unlimited",
+    "@feature_2_title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_2_description": "Create unlimited accounts, subscriptions, budgets, recurring events, and goals.",
+    "@feature_2_description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_3_title": "Google Drive Backup",
+    "@feature_3_title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_3_description": "Back up your data to Google Drive and restore it whenever needed.",
+    "@feature_3_description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_4_title": "Home Screen Widget",
+    "@feature_4_title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_4_description": "Add a widget to your home screen for quick access to your finances.",
+    "@feature_4_description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_5_title": "Just Black Theme",
+    "@feature_5_title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "feature_5_description": "A dark theme that is easy on the eyes and saves battery life.",
+    "@feature_5_description": {
+        "description": "Text shown on the paywall page",
         "type": "text"
     }
 }
