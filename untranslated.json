@@ -33,7 +33,49 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
+  ],
+
+  "be": [
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
+  ],
+
+  "cs": [
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
+  ],
+
+  "da": [
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
+  ],
+
+  "de": [
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "el": [
@@ -70,7 +112,22 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
+  ],
+
+  "es": [
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "fr": [
@@ -107,7 +164,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "he": [
@@ -144,7 +207,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "hi": [
@@ -181,7 +250,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "id": [
@@ -217,7 +292,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "it": [
@@ -254,7 +335,22 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
+  ],
+
+  "ja": [
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "kn": [
@@ -291,7 +387,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "ko": [
@@ -328,7 +430,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "nl": [
@@ -365,7 +473,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "pl": [
@@ -402,7 +516,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "pt": [
@@ -439,7 +559,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "pt_BR": [
@@ -476,7 +602,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "ru": [
@@ -513,7 +645,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "sv": [
@@ -550,7 +688,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "te": [
@@ -587,7 +731,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "tr": [
@@ -651,7 +801,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "uk": [
@@ -688,7 +844,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "vi": [
@@ -725,7 +887,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "zh": [
@@ -763,7 +931,13 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ],
 
   "zh_TW": [
@@ -801,6 +975,12 @@
     "feature_4_title",
     "feature_4_description",
     "feature_5_title",
-    "feature_5_description"
+    "feature_5_description",
+    "noActivityLastMonth",
+    "vsLastMonth",
+    "stableComparedToLastMonth",
+    "newSpendingActivity",
+    "noSpendingThisMonth",
+    "thisMonthSpending"
   ]
 }

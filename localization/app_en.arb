@@ -1286,7 +1286,7 @@
             }
         }
     },
-    "subscriptionNextPayment": "Next payment: {date}",
+    "subscriptionNextPayment": "Due on {date}",
     "@subscriptionNextPayment": {
         "description": "Text shown on the subscription page",
         "placeholders": {
@@ -3300,6 +3300,36 @@
     "feature_5_description": "A dark theme that is easy on the eyes and saves battery life.",
     "@feature_5_description": {
         "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "noActivityLastMonth": "No spending last month",
+    "@noActivityLastMonth": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "vsLastMonth": "vs last month",
+    "@vsLastMonth": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "stableComparedToLastMonth": "Stable compared to last month",
+    "@stableComparedToLastMonth": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "newSpendingActivity": "New spending activity",
+    "@newSpendingActivity": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "noSpendingThisMonth": "No spending this month",
+    "@noSpendingThisMonth": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "thisMonthSpending": "This month spending",
+    "@thisMonthSpending": {
+        "description": "Text shown on the spending pattern page",
         "type": "text"
     }
 }
