@@ -3331,5 +3331,139 @@
     "@thisMonthSpending": {
         "description": "Text shown on the spending pattern page",
         "type": "text"
+    },
+    "generatedOn": "Generated on",
+    "@generatedOn": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "totalIncome": "Total Income",
+    "@totalIncome": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "totalExpense": "Total Expense",
+    "@totalExpense": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "netBalance": "Net Balance",
+    "@netBalance": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "vsPreviousYear": "vs Previous Year",
+    "@vsPreviousYear": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "expenseCategories": "Expense Categories",
+    "@expenseCategories": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "incomeCategories": "Income Categories",
+    "@incomeCategories": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "percentage": "Percentage",
+    "@percentage": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "detailedTransactions": "Detailed Transactions",
+    "@detailedTransactions": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "uncategorized": "Uncategorized",
+    "@uncategorized": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "appNameForPdfFooter": "Paisa Expense Tracker",
+    "@appNameForPdfFooter": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "pageOfPages": "Page {pageNumber} of {totalPages}",
+    "@pageOfPages": {
+        "description": "Page number indication in PDF footer",
+        "placeholders": {
+            "pageNumber": {},
+            "totalPages": {}
+        }
+    },
+    "monthlyReportTitle": "Monthly Expense Report",
+    "@monthlyReportTitle": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "weeklySummary": "Weekly Summary",
+    "@weeklySummary": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "week": "Week",
+    "@week": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "net": "Net",
+    "@net": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "annualReportTitle": "Annual Expense Report",
+    "@annualReportTitle": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "annualExpenseCategories": "Annual Expense Categories",
+    "@annualExpenseCategories": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "annualIncomeCategories": "Annual Income Categories",
+    "@annualIncomeCategories": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "monthlyBreakdownForYear": "Monthly Breakdown - {year}",
+    "@monthlyBreakdownForYear": {
+        "placeholders": {
+            "year": {}
+        }
+    },
+    "quarter": "Quarter",
+    "@quarter": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "month": "Month",
+    "@month": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "topTransactionsOfTheYear": "Top Transactions of the Year",
+    "@topTransactionsOfTheYear": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "pageNumber": "Page Number",
+    "@pageNumber": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "pagesCount": "Pages Count",
+    "@pagesCount": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "noDataAvailable": "No data available for this period.",
+    "@noDataAvailable": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
     }
 }
