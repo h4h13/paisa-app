@@ -3465,5 +3465,20 @@
     "@noDataAvailable": {
         "description": "Text shown on the spending pattern page",
         "type": "text"
+    },
+    "enterValidPrompt": "Enter valid prompt",
+    "@enterValidPrompt": {
+        "description": "Text shown on the spending pattern page",
+        "type": "text"
+    },
+    "blurEffect": "Blur Effect",
+    "@blurEffect": {
+        "description": "Text shown on the settings page",
+        "type": "text"
+    },
+    "blurEffectDescription": "Blur effect on the app",
+    "@blurEffectDescription": {
+        "description": "Text shown on the settings page",
+        "type": "text"
     }
 }
