@@ -3480,5 +3480,58 @@
     "@blurEffectDescription": {
         "description": "Text shown on the settings page",
         "type": "text"
+    },
+    "dueDatePlaceholder": "Due {date}",
+    "@dueDatePlaceholder": {
+        "description": "Text shown on the loan page",
+        "type": "text",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "transferTo": "Transfer to {accountName}",
+    "@transferTo": {
+        "description": "Text shown on the transfer page",
+        "type": "text",
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "transferFrom": "Transfer from {accountName}",
+    "@transferFrom": {
+        "description": "Text shown on the transfer page",
+        "type": "text",
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "transferAccount": "Transfer {fromAccount} to {toAccount}",
+    "@transferAccount": {
+        "description": "Text shown on the transfer page",
+        "type": "text",
+        "placeholders": {
+            "fromAccount": {
+                "type": "String"
+            },
+            "toAccount": {
+                "type": "String"
+            }
+        }
+    },
+    "corruptedItem": "Corrupted item",
+    "@corruptedItem": {
+        "description": "Text shown on the transfer page",
+        "type": "text"
+    },
+    "corruptedItemMessage": "Please delete  or edit to fix the the item",
+    "@corruptedItemMessage": {
+        "description": "Text shown on the transfer page",
+        "type": "text"
     }
 }

@@ -68,7 +68,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "be": [
@@ -106,7 +112,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "cs": [
@@ -144,7 +156,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "da": [
@@ -182,7 +200,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "de": [
@@ -220,7 +244,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "el": [
@@ -292,7 +322,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "es": [
@@ -330,7 +366,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "fr": [
@@ -402,7 +444,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "he": [
@@ -474,7 +522,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "hi": [
@@ -546,7 +600,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "id": [
@@ -617,7 +677,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "it": [
@@ -689,7 +755,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "ja": [
@@ -727,7 +799,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "kn": [
@@ -799,7 +877,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "ko": [
@@ -871,7 +955,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "nl": [
@@ -943,7 +1033,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "pl": [
@@ -1015,7 +1111,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "pt": [
@@ -1087,7 +1189,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "pt_BR": [
@@ -1159,7 +1267,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "ru": [
@@ -1231,7 +1345,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "sv": [
@@ -1303,7 +1423,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "te": [
@@ -1375,7 +1501,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "tr": [
@@ -1474,7 +1606,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "uk": [
@@ -1546,7 +1684,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "vi": [
@@ -1618,7 +1762,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "zh": [
@@ -1691,7 +1841,13 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ],
 
   "zh_TW": [
@@ -1764,6 +1920,12 @@
     "noDataAvailable",
     "enterValidPrompt",
     "blurEffect",
-    "blurEffectDescription"
+    "blurEffectDescription",
+    "dueDatePlaceholder",
+    "transferTo",
+    "transferFrom",
+    "transferAccount",
+    "corruptedItem",
+    "corruptedItemMessage"
   ]
 }
