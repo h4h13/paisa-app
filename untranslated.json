@@ -74,7 +74,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "be": [
@@ -118,7 +120,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "cs": [
@@ -162,7 +166,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "da": [
@@ -206,7 +212,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "de": [
@@ -250,7 +258,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "el": [
@@ -328,7 +338,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "es": [
@@ -372,7 +384,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "fr": [
@@ -450,7 +464,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "he": [
@@ -528,7 +544,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "hi": [
@@ -606,7 +624,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "id": [
@@ -683,7 +703,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "it": [
@@ -761,7 +783,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "ja": [
@@ -805,7 +829,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "kn": [
@@ -883,7 +909,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "ko": [
@@ -961,7 +989,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "nl": [
@@ -1039,7 +1069,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "pl": [
@@ -1117,7 +1149,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "pt": [
@@ -1195,7 +1229,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "pt_BR": [
@@ -1273,7 +1309,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "ru": [
@@ -1351,7 +1389,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "sv": [
@@ -1429,7 +1469,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "te": [
@@ -1507,7 +1549,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "tr": [
@@ -1612,7 +1656,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "uk": [
@@ -1690,7 +1736,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "vi": [
@@ -1768,7 +1816,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "zh": [
@@ -1847,7 +1897,9 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ],
 
   "zh_TW": [
@@ -1926,6 +1978,8 @@
     "transferFrom",
     "transferAccount",
     "corruptedItem",
-    "corruptedItemMessage"
+    "corruptedItemMessage",
+    "noTransactionsForThisDay",
+    "calendar"
   ]
 }

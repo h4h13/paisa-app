@@ -3533,5 +3533,15 @@
     "@corruptedItemMessage": {
         "description": "Text shown on the transfer page",
         "type": "text"
+    },
+    "noTransactionsForThisDay": "No transactions for this day",
+    "@noTransactionsForThisDay": {
+        "description": "Text shown on the transfer page",
+        "type": "text"
+    },
+    "calendar": "Calendar",
+    "@calendar": {
+        "description": "Text shown on the calendar page",
+        "type": "text"
     }
 }
