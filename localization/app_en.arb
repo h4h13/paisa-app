@@ -3543,5 +3543,30 @@
     "@calendar": {
         "description": "Text shown on the calendar page",
         "type": "text"
+    },
+    "loanBalance": "Loan Balance",
+    "@loanBalance": {
+        "description": "Text shown on the calendar page",
+        "type": "text"
+    },
+    "biannually": "Biannually",
+    "@biannually": {
+        "description": "Text shown on the calendar page",
+        "type": "text"
+    },
+    "toolTipAddUserDescription": "You can add or switch users",
+    "@toolTipAddUserDescription": {
+        "description": "Text shown on the calendar page",
+        "type": "text"
+    },
+    "totalBalanceDescription": "Total balance of all accounts and this month summary",
+    "@totalBalanceDescription": {
+        "description": "Text shown on the calendar page",
+        "type": "text"
+    },
+    "addExpenseDescription": "You can add expenses, incomes, transfer money between accounts",
+    "@addExpenseDescription": {
+        "description": "Text shown on the calendar page",
+        "type": "text"
     }
 }
