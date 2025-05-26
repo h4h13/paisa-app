@@ -3596,5 +3596,15 @@
                 "type": "String"
             }
         }
+    },
+    "instagram": "Instagram",
+    "@instagram": {
+        "description": "Text shown on the setting page",
+        "type": "text"
+    },
+    "treads": "Treads",
+    "@treads": {
+        "description": "Text shown on the setting page",
+        "type": "text"
     }
 }

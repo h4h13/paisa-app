@@ -84,7 +84,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "be": [
@@ -138,7 +140,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "cs": [
@@ -192,7 +196,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "da": [
@@ -246,7 +252,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "de": [
@@ -300,7 +308,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "el": [
@@ -388,7 +398,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "es": [
@@ -442,7 +454,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "fr": [
@@ -530,7 +544,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "he": [
@@ -618,7 +634,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "hi": [
@@ -706,7 +724,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "id": [
@@ -793,7 +813,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "it": [
@@ -881,7 +903,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "ja": [
@@ -935,7 +959,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "kn": [
@@ -1023,7 +1049,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "ko": [
@@ -1111,7 +1139,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "nl": [
@@ -1199,7 +1229,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "pl": [
@@ -1287,7 +1319,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "pt": [
@@ -1375,7 +1409,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "pt_BR": [
@@ -1463,7 +1499,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "ru": [
@@ -1551,7 +1589,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "sv": [
@@ -1639,7 +1679,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "te": [
@@ -1727,7 +1769,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "tr": [
@@ -1842,7 +1886,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "uk": [
@@ -1930,7 +1976,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "vi": [
@@ -2018,7 +2066,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "zh": [
@@ -2107,7 +2157,9 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ],
 
   "zh_TW": [
@@ -2196,6 +2248,8 @@
     "addExpenseDescription",
     "createdOn",
     "transactionDetails",
-    "transactionTime"
+    "transactionTime",
+    "instagram",
+    "treads"
   ]
 }
