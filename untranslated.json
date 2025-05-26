@@ -81,7 +81,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "be": [
@@ -132,7 +135,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "cs": [
@@ -183,7 +189,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "da": [
@@ -234,7 +243,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "de": [
@@ -285,7 +297,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "el": [
@@ -370,7 +385,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "es": [
@@ -421,7 +439,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "fr": [
@@ -506,7 +527,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "he": [
@@ -591,7 +615,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "hi": [
@@ -676,7 +703,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "id": [
@@ -760,7 +790,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "it": [
@@ -845,7 +878,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "ja": [
@@ -896,7 +932,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "kn": [
@@ -981,7 +1020,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "ko": [
@@ -1066,7 +1108,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "nl": [
@@ -1151,7 +1196,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "pl": [
@@ -1236,7 +1284,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "pt": [
@@ -1321,7 +1372,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "pt_BR": [
@@ -1406,7 +1460,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "ru": [
@@ -1491,7 +1548,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "sv": [
@@ -1576,7 +1636,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "te": [
@@ -1661,7 +1724,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "tr": [
@@ -1773,7 +1839,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "uk": [
@@ -1858,7 +1927,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "vi": [
@@ -1943,7 +2015,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "zh": [
@@ -2029,7 +2104,10 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ],
 
   "zh_TW": [
@@ -2115,6 +2193,9 @@
     "biannually",
     "toolTipAddUserDescription",
     "totalBalanceDescription",
-    "addExpenseDescription"
+    "addExpenseDescription",
+    "createdOn",
+    "transactionDetails",
+    "transactionTime"
   ]
 }

@@ -3568,5 +3568,33 @@
     "@addExpenseDescription": {
         "description": "Text shown on the calendar page",
         "type": "text"
+    },
+    "createdOn": "Created on {date}",
+    "@createdOn": {
+        "description": "Text shown on the calendar page",
+        "type": "text",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "transactionDetails": "Transaction Details",
+    "@transactionDetails": {
+        "description": "Text shown on the transaction details page",
+        "type": "text"
+    },
+    "transactionTime": "{date} at {time}",
+    "@transactionTime": {
+        "description": "Text shown on the transaction details page",
+        "type": "text",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            },
+            "time": {
+                "type": "String"
+            }
+        }
     }
 }
