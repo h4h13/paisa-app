@@ -3391,8 +3391,12 @@
     "@pageOfPages": {
         "description": "Page number indication in PDF footer",
         "placeholders": {
-            "pageNumber": {},
-            "totalPages": {}
+            "pageNumber": {
+                "type": "String"
+            },
+            "totalPages": {
+                "type": "String"
+            }
         }
     },
     "monthlyReportTitle": "Monthly Expense Report",
@@ -3433,7 +3437,9 @@
     "monthlyBreakdownForYear": "Monthly Breakdown - {year}",
     "@monthlyBreakdownForYear": {
         "placeholders": {
-            "year": {}
+            "year": {
+                "type": "String"
+            }
         }
     },
     "quarter": "Quarter",
