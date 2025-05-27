@@ -3660,5 +3660,35 @@
     "@expired": {
         "description": "Text shown on the goal details page",
         "type": "text"
+    },
+    "noTransactionsThisWeek": "No transactions this week",
+    "@noTransactionsThisWeek": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
+    },
+    "noGoalsSet": "No goals set",
+    "@noGoalsSet": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
+    },
+    "noLoans": "No loans",
+    "@noLoans": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
+    },
+    "noCategoriesSet": "No categories",
+    "@noCategoriesSet": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
+    },
+    "noBudgetsSet": "No budgets set",
+    "@noBudgetsSet": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
+    },
+    "noRecurring": "No recurring events",
+    "@noRecurring": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
     }
 }

@@ -93,7 +93,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "be": [
@@ -156,7 +162,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "cs": [
@@ -219,7 +231,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "da": [
@@ -282,7 +300,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "de": [
@@ -345,7 +369,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "el": [
@@ -442,7 +472,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "es": [
@@ -505,7 +541,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "fr": [
@@ -602,7 +644,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "he": [
@@ -699,7 +747,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "hi": [
@@ -796,7 +850,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "id": [
@@ -892,7 +952,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "it": [
@@ -989,7 +1055,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "ja": [
@@ -1052,7 +1124,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "kn": [
@@ -1149,7 +1227,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "ko": [
@@ -1246,7 +1330,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "nl": [
@@ -1343,7 +1433,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "pl": [
@@ -1440,7 +1536,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "pt": [
@@ -1537,7 +1639,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "pt_BR": [
@@ -1634,7 +1742,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "ru": [
@@ -1731,7 +1845,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "sv": [
@@ -1828,7 +1948,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "te": [
@@ -1925,7 +2051,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "tr": [
@@ -2049,7 +2181,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "uk": [
@@ -2146,7 +2284,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "vi": [
@@ -2243,7 +2387,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "zh": [
@@ -2341,7 +2491,13 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ],
 
   "zh_TW": [
@@ -2439,6 +2595,12 @@
     "currentByTotal",
     "savingGoal",
     "expenseGoal",
-    "expired"
+    "expired",
+    "noTransactionsThisWeek",
+    "noGoalsSet",
+    "noLoans",
+    "noCategoriesSet",
+    "noBudgetsSet",
+    "noRecurring"
   ]
 }
