@@ -86,7 +86,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "be": [
@@ -142,7 +149,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "cs": [
@@ -198,7 +212,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "da": [
@@ -254,7 +275,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "de": [
@@ -310,7 +338,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "el": [
@@ -400,7 +435,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "es": [
@@ -456,7 +498,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "fr": [
@@ -546,7 +595,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "he": [
@@ -636,7 +692,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "hi": [
@@ -726,7 +789,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "id": [
@@ -815,7 +885,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "it": [
@@ -905,7 +982,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "ja": [
@@ -961,7 +1045,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "kn": [
@@ -1051,7 +1142,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "ko": [
@@ -1141,7 +1239,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "nl": [
@@ -1231,7 +1336,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "pl": [
@@ -1321,7 +1433,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "pt": [
@@ -1411,7 +1530,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "pt_BR": [
@@ -1501,7 +1627,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "ru": [
@@ -1591,7 +1724,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "sv": [
@@ -1681,7 +1821,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "te": [
@@ -1771,7 +1918,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "tr": [
@@ -1888,7 +2042,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "uk": [
@@ -1978,7 +2139,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "vi": [
@@ -2068,7 +2236,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "zh": [
@@ -2159,7 +2334,14 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ],
 
   "zh_TW": [
@@ -2250,6 +2432,13 @@
     "transactionDetails",
     "transactionTime",
     "instagram",
-    "treads"
+    "treads",
+    "started",
+    "stillNeeded",
+    "percentageCompleted",
+    "currentByTotal",
+    "savingGoal",
+    "expenseGoal",
+    "expired"
   ]
 }
