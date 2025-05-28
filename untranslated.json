@@ -99,7 +99,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "be": [
@@ -168,7 +176,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "cs": [
@@ -237,7 +253,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "da": [
@@ -306,7 +330,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "de": [
@@ -375,7 +407,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "el": [
@@ -478,7 +518,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "es": [
@@ -547,7 +595,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "fr": [
@@ -650,7 +706,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "he": [
@@ -753,7 +817,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "hi": [
@@ -856,7 +928,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "id": [
@@ -958,7 +1038,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "it": [
@@ -1061,7 +1149,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "ja": [
@@ -1130,7 +1226,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "kn": [
@@ -1233,7 +1337,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "ko": [
@@ -1336,7 +1448,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "nl": [
@@ -1439,7 +1559,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "pl": [
@@ -1542,7 +1670,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "pt": [
@@ -1645,7 +1781,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "pt_BR": [
@@ -1748,7 +1892,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "ru": [
@@ -1851,7 +2003,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "sv": [
@@ -1954,7 +2114,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "te": [
@@ -2057,7 +2225,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "tr": [
@@ -2187,7 +2363,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "uk": [
@@ -2290,7 +2474,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "vi": [
@@ -2393,7 +2585,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "zh": [
@@ -2497,7 +2697,15 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ],
 
   "zh_TW": [
@@ -2601,6 +2809,14 @@
     "noLoans",
     "noCategoriesSet",
     "noBudgetsSet",
-    "noRecurring"
+    "noRecurring",
+    "showBudget",
+    "exceeded",
+    "runningLow",
+    "good",
+    "periodBudget",
+    "rolloverAmount",
+    "percentageUsed",
+    "amountOfTotal"
   ]
 }

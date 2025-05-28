@@ -3690,5 +3690,68 @@
     "@noRecurring": {
         "description": "Text shown on the goal details page",
         "type": "text"
+    },
+    "showBudget": "Show Budget",
+    "@showBudget": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "exceeded": "Exceeded",
+    "@exceeded": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "runningLow": "Running low",
+    "@runningLow": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "good": "Good",
+    "@good": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "periodBudget": "{period} Budget",
+    "@periodBudget": {
+        "description": "Text shown on the budget details page",
+        "type": "text",
+        "placeholders": {
+            "period": {
+                "type": "String"
+            }
+        }
+    },
+    "rolloverAmount": "Rollover {amount}",
+    "@rolloverAmount": {
+        "description": "Text shown on the budget details page",
+        "type": "text",
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            }
+        }
+    },
+    "percentageUsed": "{percentage}% Used",
+    "@percentageUsed": {
+        "description": "Text shown on the budget details page",
+        "type": "text",
+        "placeholders": {
+            "percentage": {
+                "type": "String"
+            }
+        }
+    },
+    "amountOfTotal": "{amount} of {total}",
+    "@amountOfTotal": {
+        "description": "Text shown on the budget details page",
+        "type": "text",
+        "placeholders": {
+            "amount": {
+                "type": "String"
+            },
+            "total": {
+                "type": "String"
+            }
+        }
     }
 }
