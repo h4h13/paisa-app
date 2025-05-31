@@ -2435,7 +2435,7 @@
         "description": "Text shown on the home page section title",
         "type": "text"
     },
-    "proFeature1": "Multiple Accounts",
+    "proFeature1": "Track family & personal budgets separately with Multiple Accounts",
     "@proFeature1": {
         "description": "Text shown on the paywall page",
         "type": "text"
@@ -2450,7 +2450,7 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "proFeature2Description": "Create unlimited subscriptions, budgets, recurring & goals",
+    "proFeature2Description": "Create unlimited budgets, subscriptions, recurring events & goals — no limits",
     "@proFeature2Description": {
         "description": "Text shown on the paywall page",
         "type": "text"
@@ -2460,7 +2460,7 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "proFeature3Description": "A simple and minimalistic theme with just black and white colors",
+    "proFeature3Description": "Reduce eye strain & save battery with dark mode",
     "@proFeature3Description": {
         "description": "Text shown on the paywall page",
         "type": "text"
@@ -2470,7 +2470,7 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "proFeature4Description": "Backup your data to Google Drive for easy recovery",
+    "proFeature4Description": "Never lose data – sync with Google Drive",
     "@proFeature4Description": {
         "description": "Text shown on the paywall page",
         "type": "text"
@@ -2480,7 +2480,7 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "proFeature5Description": "Add a widget to your home screen to easily access your finances",
+    "proFeature5Description": "Check your spending instantly from your home screen",
     "@proFeature5Description": {
         "description": "Text shown on the paywall page",
         "type": "text"
@@ -3517,7 +3517,7 @@
             }
         }
     },
-    "transferAccount": "Transfer {fromAccount} to {toAccount}",
+    "transferAccount": "Transfer from {fromAccount} to {toAccount}",
     "@transferAccount": {
         "description": "Text shown on the transfer page",
         "type": "text",
@@ -3608,7 +3608,7 @@
         "description": "Text shown on the setting page",
         "type": "text"
     },
-    "treads": "Treads",
+    "treads": "Threads",
     "@treads": {
         "description": "Text shown on the setting page",
         "type": "text"
