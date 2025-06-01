@@ -3753,5 +3753,135 @@
                 "type": "String"
             }
         }
+    },
+    "monthlyAverage": "Monthly Average",
+    "@monthlyAverage": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "dueThisMonth": "Due This Month",
+    "@dueThisMonth": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "totalYearly": "Total Yearly",
+    "@totalYearly": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "archived": "Archived",
+    "@archived": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "subscriptionArchived": "Subscription Archived",
+    "@subscriptionArchived": {
+        "description": "Text shown on the budget details page",
+        "type": "text"
+    },
+    "recurringDetails": "Recurring Details",
+    "@recurringDetails": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "recurringNotFound": "Recurring not found",
+    "@recurringNotFound": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "nextOccurrence": "Next Occurrence",
+    "@nextOccurrence": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "daysUntilNext": "Days Until Next",
+    "@daysUntilNext": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "skipNext": "Skip Next",
+    "@skipNext": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "details": "Details",
+    "@details": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "startedOn": "Started On",
+    "@startedOn": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "frequency": "Frequency",
+    "@frequency": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "totalOccurrences": "Total Occurrences",
+    "@totalOccurrences": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "statistics": "Statistics",
+    "@statistics": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "noHistoryYet": "No history yet",
+    "@noHistoryYet": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "historyWillAppearHere": "History will appear here",
+    "@historyWillAppearHere": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "exportAllDataFailed": "Export failed",
+    "@exportAllDataFailed": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "transactionSkipped": "Transaction skipped",
+    "@transactionSkipped": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "failedToSkipTransaction": "Failed to skip transaction",
+    "@failedToSkipTransaction": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "failedToDeleteTransaction": "Failed to delete transaction",
+    "@failedToDeleteTransaction": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "transactionProcessedSuccess": "Transaction processed successfully",
+    "@transactionProcessedSuccess": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "failedToProcessTransaction": "Failed to process transaction",
+    "@failedToProcessTransaction": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "recurringError": "Recurring error",
+    "@recurringError": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "daysUntilNextCount": "{days} days until next",
+    "@daysUntilNextCount": {
+        "description": "Text shown on the recurring details page",
+        "type": "text",
+        "placeholders": {
+            "days": {
+                "type": "int"
+            }
+        }
     }
 }
