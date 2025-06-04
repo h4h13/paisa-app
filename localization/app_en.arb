@@ -45,7 +45,7 @@
         "description": "Accounts text shown in the bottom navigation or drawer widget",
         "type": "text"
     },
-    "defaultAccount": "Default account",
+    "defaultAccount": "Set default account",
     "@defaultAccount": {
         "description": "Text shown on the switch in add account screen",
         "type": "text"
@@ -2015,7 +2015,7 @@
             }
         }
     },
-    "goalAchieved": "Goal Achieved! Tap to complete",
+    "goalAchieved": "Goal Achieved!",
     "@goalAchieved": {
         "description": "Text shown on the goals page",
         "type": "text"
