@@ -3883,5 +3883,51 @@
                 "type": "int"
             }
         }
+    },
+    "confirmUnarchive": "Confirm Unarchive",
+    "@confirmUnarchive": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "confirmUnarchiveDescription": "Are you sure you want to unarchive {name}? This will make it active again.",
+    "@confirmUnarchiveDescription": {
+        "description": "Text shown on the recurring details page",
+        "type": "text",
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "unarchive": "Unarchive",
+    "@unarchive": {
+        "description": "Text shown on the recurring details page",
+        "type": "text"
+    },
+    "backupData": "Backup data",
+    "@backupData": {
+        "description": "Text shown on the settings page for backup data",
+        "type": "text"
+    },
+    "backupDataDescription": "Backup your data to local storage",
+    "@backupDataDescription": {
+        "description": "Text shown on the settings page for backup data",
+        "type": "text"
+    },
+    
+    "importDataDescription": "Restore your data from a backup file",
+    "@importDataDescription": {    
+        "description": "Text shown on the settings page for restore data",
+        "type": "text"
+    },
+    "exportToCSV": "Export to CSV",
+    "@exportToCSV": {   
+        "description": "Button text for exporting data to CSV file",
+        "type": "text"
+    },
+    "exportToCSVDescription": "Export your data to a CSV file, Not intended for backup purposes",
+    "@exportToCSVDescription": {
+        "description": "Text shown on the settings page for exporting data to CSV",
+        "type": "text"
     }
 }
