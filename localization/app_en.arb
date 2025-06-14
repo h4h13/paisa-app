@@ -3904,7 +3904,7 @@
         "description": "Text shown on the recurring details page",
         "type": "text"
     },
-    "backupData": "Backup data",
+    "backupData": "Backup data (local storage)",
     "@backupData": {
         "description": "Text shown on the settings page for backup data",
         "type": "text"
@@ -3914,20 +3914,54 @@
         "description": "Text shown on the settings page for backup data",
         "type": "text"
     },
-    
     "importDataDescription": "Restore your data from a backup file",
-    "@importDataDescription": {    
+    "@importDataDescription": {
         "description": "Text shown on the settings page for restore data",
         "type": "text"
     },
     "exportToCSV": "Export to CSV",
-    "@exportToCSV": {   
+    "@exportToCSV": {
         "description": "Button text for exporting data to CSV file",
         "type": "text"
     },
     "exportToCSVDescription": "Export your data to a CSV file, Not intended for backup purposes",
     "@exportToCSVDescription": {
         "description": "Text shown on the settings page for exporting data to CSV",
+        "type": "text"
+    },
+    "interfaceAndPersonalization": "Interface & Personalization",
+    "@interfaceAndPersonalization": {
+        "description": "Text shown on the settings page for interface and personalization",
+        "type": "text"
+    },
+    "dataAndBackup": "Data & Backup",
+    "@dataAndBackup": {
+        "description": "Text shown on the settings page for data and backup",
+        "type": "text"
+    },
+    "securityAndNotifications": "Security & Notifications",
+    "@securityAndNotifications": {
+        "description": "Text shown on the settings page for security and notifications",
+        "type": "text"
+    },
+    "communityAndSupport": "Community & Support",
+    "@communityAndSupport": {
+        "description": "Text shown on the settings page for community and support",
+        "type": "text"
+    },
+    "appInfo": "App Info",
+    "@appInfo": {
+        "description": "Text shown on the settings page for app info",
+        "type": "text"
+    },
+    "shareAndVersion": "Share & Version",
+    "@shareAndVersion": {
+        "description": "Text shown on the settings page for share and version",
+        "type": "text"
+    },
+    "highestSpending": "Highest Spending",
+    "@highestSpending": {
+        "description": "Text shown on the spending pattern page",
         "type": "text"
     }
 }
