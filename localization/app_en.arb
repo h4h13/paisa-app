@@ -3963,5 +3963,30 @@
     "@highestSpending": {
         "description": "Text shown on the spending pattern page",
         "type": "text"
+    },
+    "noTransactionsFoundAccountName": "No transactions found for {accountName}",
+    "@noTransactionsFoundAccountName": {
+        "description": "Text shown on the account details page when no transactions are found",
+        "type": "text",
+        "placeholders": {
+            "accountName": {
+                "type": "String"
+            }
+        }
+    },
+    "pleaseAddTransactionsAccount": "Please add transactions to this account",
+    "@pleaseAddTransactionsAccount": {
+        "description": "Text shown on the account details page when no accounts are found",
+        "type": "text"
+    },
+    "noTransactionsFoundCategoryName": "No transactions found for {categoryName}",
+    "@noTransactionsFoundCategoryName": {
+        "description": "Text shown on the category details page when no transactions are found",
+        "type": "text",
+        "placeholders": {
+            "categoryName": {
+                "type": "String"
+            }
+        }
     }
 }
