@@ -3988,5 +3988,20 @@
                 "type": "String"
             }
         }
+    },
+    "goalDetails": "Goal Details",
+    "@goalDetails": {
+        "description": "Text shown on the goal details page",
+        "type": "text"
+    },
+    "goalNotFound": "Goal not found",
+    "@goalNotFound": {
+        "description": "Text shown on the goal details page when no goal is found",
+        "type": "text"
+    },
+    "goalDescription": "The goal you are looking for does not exist.",
+    "@goalDescription": {
+        "description": "Text shown on the goal details page for goal description",
+        "type": "text"
     }
 }

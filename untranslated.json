@@ -9,7 +9,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "be": [
@@ -22,7 +25,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "bn": [
@@ -35,7 +41,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "cs": [
@@ -48,7 +57,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "da": [
@@ -61,7 +73,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "de": [
@@ -74,7 +89,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "el": [
@@ -87,7 +105,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "es": [
@@ -100,7 +121,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "fa": [
@@ -113,7 +137,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "fr": [
@@ -126,7 +153,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "he": [
@@ -139,7 +169,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "hi": [
@@ -152,7 +185,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "id": [
@@ -165,7 +201,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "it": [
@@ -178,7 +217,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "ja": [
@@ -191,7 +233,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "kn": [
@@ -204,7 +249,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "ko": [
@@ -217,7 +265,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "ml": [
@@ -230,7 +281,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "nl": [
@@ -243,7 +297,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "pl": [
@@ -256,7 +313,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "pt": [
@@ -269,7 +329,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "pt_BR": [
@@ -282,7 +345,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "ro": [
@@ -295,7 +361,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "ru": [
@@ -308,7 +377,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "sv": [
@@ -321,7 +393,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "sw": [
@@ -334,7 +409,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "te": [
@@ -347,7 +425,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "tr": [
@@ -360,7 +441,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "uk": [
@@ -373,7 +457,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "vi": [
@@ -386,7 +473,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "zh": [
@@ -399,7 +489,10 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ],
 
   "zh_TW": [
@@ -412,6 +505,9 @@
     "highestSpending",
     "noTransactionsFoundAccountName",
     "pleaseAddTransactionsAccount",
-    "noTransactionsFoundCategoryName"
+    "noTransactionsFoundCategoryName",
+    "goalDetails",
+    "goalNotFound",
+    "goalDescription"
   ]
 }
