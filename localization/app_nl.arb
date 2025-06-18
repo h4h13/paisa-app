@@ -711,5 +711,20 @@
     "backupDataDescription": "Maak een back-up van uw gegevens naar lokale opslag",
     "importDataDescription": "Herstel uw gegevens uit een back-upbestand",
     "exportToCSV": "Exporteren naar CSV",
-    "exportToCSVDescription": "Exporteer uw gegevens naar een CSV-bestand, niet bedoeld voor back-updoeleinden"
+    "exportToCSVDescription": "Exporteer uw gegevens naar een CSV-bestand, niet bedoeld voor back-updoeleinden",
+    "interfaceAndPersonalization": "Interface en Personalisatie",
+    "dataAndBackup": "Gegevens en Back-up",
+    "securityAndNotifications": "Beveiliging en Meldingen",
+    "communityAndSupport": "Gemeenschap en Ondersteuning",
+    "appInfo": "App-informatie",
+    "shareAndVersion": "Delen en Versie",
+    "highestSpending": "Hoogste Uitgaven",
+    "noTransactionsFoundAccountName": "Geen transacties gevonden voor {accountName}",
+    "pleaseAddTransactionsAccount": "Voeg transacties toe aan dit account",
+    "noTransactionsFoundCategoryName": "Geen transacties gevonden voor {categoryName}",
+    "goalDetails": "Doel Details",
+    "goalNotFound": "Doel niet gevonden",
+    "goalDescription": "Het doel dat u zoekt bestaat niet.",
+    "vsLastMonthPercentage": "{percentage}% vs vorige maand",
+    "categoryPercentageChange": "{percentage}% van totaal"
 }

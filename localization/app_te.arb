@@ -711,5 +711,20 @@
     "backupDataDescription": "మీ డేటాను స్థానిక నిల్వకు బ్యాకప్ చేయండి",
     "importDataDescription": "బ్యాకప్ ఫైల్ నుండి మీ డేటాను పునరుద్ధరించండి",
     "exportToCSV": "CSVకి ఎగుమతి చేయండి",
-    "exportToCSVDescription": "మీ డేటాను CSV ఫైల్‌కు ఎగుమతి చేయండి, బ్యాకప్ ప్రయోజనాల కోసం ఉద్దేశించినది కాదు"
+    "exportToCSVDescription": "మీ డేటాను CSV ఫైల్‌కు ఎగుమతి చేయండి, బ్యాకప్ ప్రయోజనాల కోసం ఉద్దేశించినది కాదు",
+    "interfaceAndPersonalization": "ఇంటర్‌ఫేస్ మరియు వ్యక్తిగతీకరణ",
+    "dataAndBackup": "డేటా మరియు బ్యాకప్",
+    "securityAndNotifications": "భద్రత మరియు నోటిఫికేషన్‌లు",
+    "communityAndSupport": "కమ్యూనిటీ మరియు మద్దతు",
+    "appInfo": "యాప్ సమాచారం",
+    "shareAndVersion": "షేర్ మరియు వెర్షన్",
+    "highestSpending": "అత్యధిక వ్యయం",
+    "noTransactionsFoundAccountName": "{accountName} కోసం లావాదేవీలు కనుగొనబడలేదు",
+    "pleaseAddTransactionsAccount": "దయచేసి ఈ ఖాతాకు లావాదేవీలను జోడించండి",
+    "noTransactionsFoundCategoryName": "{categoryName} కోసం లావాదేవీలు కనుగొనబడలేదు",
+    "goalDetails": "లక్ష్య వివరాలు",
+    "goalNotFound": "లక్ష్యం కనుగొనబడలేదు",
+    "goalDescription": "మీరు వెతుకుతున్న లక్ష్యం లేదు.",
+    "vsLastMonthPercentage": "గత నెలతో పోలిస్తే {percentage}%",
+    "categoryPercentageChange": "మొత్తంలో {percentage}%"
 }

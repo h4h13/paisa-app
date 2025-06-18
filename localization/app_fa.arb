@@ -711,5 +711,20 @@
     "backupDataDescription": "از داده‌های خود در حافظه محلی پشتیبان‌گیری کنید",
     "importDataDescription": "داده‌های خود را از یک فایل پشتیبان بازیابی کنید",
     "exportToCSV": "خروجی به CSV",
-    "exportToCSVDescription": "داده‌های خود را به یک فایل CSV خروجی بگیرید، برای اهداف پشتیبان‌گیری در نظر گرفته نشده است"
+    "exportToCSVDescription": "داده‌های خود را به یک فایل CSV خروجی بگیرید، برای اهداف پشتیبان‌گیری در نظر گرفته نشده است",
+    "interfaceAndPersonalization": "رابط کاربری و شخصی‌سازی",
+    "dataAndBackup": "داده‌ها و پشتیبان‌گیری",
+    "securityAndNotifications": "امنیت و اعلان‌ها",
+    "communityAndSupport": "انجمن و پشتیبانی",
+    "appInfo": "اطلاعات برنامه",
+    "shareAndVersion": "اشتراک‌گذاری و نسخه",
+    "highestSpending": "بالاترین مخارج",
+    "noTransactionsFoundAccountName": "هیچ تراکنشی برای {accountName} یافت نشد",
+    "pleaseAddTransactionsAccount": "لطفاً تراکنش به این حساب اضافه کنید",
+    "noTransactionsFoundCategoryName": "هیچ تراکنشی برای {categoryName} یافت نشد",
+    "goalDetails": "جزئیات هدف",
+    "goalNotFound": "هدف یافت نشد",
+    "goalDescription": "هدفی که دنبال آن هستید وجود ندارد.",
+    "vsLastMonthPercentage": "{percentage}% در مقایسه با ماه قبل",
+    "categoryPercentageChange": "{percentage}% از کل"
 }

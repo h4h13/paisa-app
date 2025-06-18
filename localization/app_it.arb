@@ -711,5 +711,20 @@
     "backupDataDescription": "Esegui il backup dei tuoi dati sull'archivio locale",
     "importDataDescription": "Ripristina i tuoi dati da un file di backup",
     "exportToCSV": "Esporta in CSV",
-    "exportToCSVDescription": "Esporta i tuoi dati in un file CSV, non destinato a scopi di backup"
+    "exportToCSVDescription": "Esporta i tuoi dati in un file CSV, non destinato a scopi di backup",
+    "interfaceAndPersonalization": "Interfaccia e Personalizzazione",
+    "dataAndBackup": "Dati e Backup",
+    "securityAndNotifications": "Sicurezza e Notifiche",
+    "communityAndSupport": "Comunità e Supporto",
+    "appInfo": "Info App",
+    "shareAndVersion": "Condividi e Versione",
+    "highestSpending": "Spesa Più Alta",
+    "noTransactionsFoundAccountName": "Nessuna transazione trovata per {accountName}",
+    "pleaseAddTransactionsAccount": "Aggiungi transazioni a questo account",
+    "noTransactionsFoundCategoryName": "Nessuna transazione trovata per {categoryName}",
+    "goalDetails": "Dettagli Obiettivo",
+    "goalNotFound": "Obiettivo non trovato",
+    "goalDescription": "L'obiettivo che stai cercando non esiste.",
+    "vsLastMonthPercentage": "{percentage}% vs mese scorso",
+    "categoryPercentageChange": "{percentage}% del totale"
 }

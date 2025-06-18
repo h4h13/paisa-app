@@ -713,5 +713,20 @@
     "backupDataDescription": "Utwórz kopię zapasową danych w pamięci lokalnej",
     "importDataDescription": "Przywróć dane z pliku kopii zapasowej",
     "exportToCSV": "Eksportuj do CSV",
-    "exportToCSVDescription": "Eksportuj swoje dane do pliku CSV, nieprzeznaczonego do celów kopii zapasowych"
+    "exportToCSVDescription": "Eksportuj swoje dane do pliku CSV, nieprzeznaczonego do celów kopii zapasowych",
+    "interfaceAndPersonalization": "Interfejs i Personalizacja",
+    "dataAndBackup": "Dane i Kopia zapasowa",
+    "securityAndNotifications": "Bezpieczeństwo i Powiadomienia",
+    "communityAndSupport": "Społeczność i Wsparcie",
+    "appInfo": "Informacje o aplikacji",
+    "shareAndVersion": "Udostępnij i Wersja",
+    "highestSpending": "Najwyższe wydatki",
+    "noTransactionsFoundAccountName": "Nie znaleziono transakcji dla {accountName}",
+    "pleaseAddTransactionsAccount": "Proszę dodać transakcje do tego konta",
+    "noTransactionsFoundCategoryName": "Nie znaleziono transakcji dla {categoryName}",
+    "goalDetails": "Szczegóły celu",
+    "goalNotFound": "Cel nie znaleziony",
+    "goalDescription": "Cel, którego szukasz, nie istnieje.",
+    "vsLastMonthPercentage": "{percentage}% w porównaniu z ubiegłym miesiącem",
+    "categoryPercentageChange": "{percentage}% z całości"
 }

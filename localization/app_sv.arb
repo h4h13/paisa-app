@@ -711,5 +711,20 @@
     "backupDataDescription": "Säkerhetskopiera dina data till lokal lagring",
     "importDataDescription": "Återställ dina data från en säkerhetskopia",
     "exportToCSV": "Exportera till CSV",
-    "exportToCSVDescription": "Exportera dina data till en CSV-fil, ej avsedd för säkerhetskopiering"
+    "exportToCSVDescription": "Exportera dina data till en CSV-fil, ej avsedd för säkerhetskopiering",
+    "interfaceAndPersonalization": "Gränssnitt och Personalisering",
+    "dataAndBackup": "Data och Säkerhetskopiering",
+    "securityAndNotifications": "Säkerhet och Aviseringar",
+    "communityAndSupport": "Gemenskap och Support",
+    "appInfo": "Appinformation",
+    "shareAndVersion": "Dela och Version",
+    "highestSpending": "Högsta utgifter",
+    "noTransactionsFoundAccountName": "Inga transaktioner hittades för {accountName}",
+    "pleaseAddTransactionsAccount": "Vänligen lägg till transaktioner till detta konto",
+    "noTransactionsFoundCategoryName": "Inga transaktioner hittades för {categoryName}",
+    "goalDetails": "Måldetaljer",
+    "goalNotFound": "Mål inte hittat",
+    "goalDescription": "Målet du letar efter existerar inte.",
+    "vsLastMonthPercentage": "{percentage}% vs förra månaden",
+    "categoryPercentageChange": "{percentage}% av totalt"
 }

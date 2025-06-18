@@ -711,5 +711,20 @@
     "backupDataDescription": "Резервне копіювання даних у локальне сховище",
     "importDataDescription": "Відновлення даних з файлу резервної копії",
     "exportToCSV": "Експорт у CSV",
-    "exportToCSVDescription": "Експорт даних у файл CSV, не призначений для цілей резервного копіювання"
+    "exportToCSVDescription": "Експорт даних у файл CSV, не призначений для цілей резервного копіювання",
+    "interfaceAndPersonalization": "Інтерфейс та Персоналізація",
+    "dataAndBackup": "Дані та Резервні копії",
+    "securityAndNotifications": "Безпека та Сповіщення",
+    "communityAndSupport": "Спільнота та Підтримка",
+    "appInfo": "Інформація про додаток",
+    "shareAndVersion": "Поділитися та Версія",
+    "highestSpending": "Найбільші витрати",
+    "noTransactionsFoundAccountName": "Транзакції для {accountName} не знайдено",
+    "pleaseAddTransactionsAccount": "Будь ласка, додайте транзакції до цього рахунку",
+    "noTransactionsFoundCategoryName": "Транзакції для {categoryName} не знайдено",
+    "goalDetails": "Деталі мети",
+    "goalNotFound": "Мета не знайдена",
+    "goalDescription": "Мета, яку ви шукаєте, не існує.",
+    "vsLastMonthPercentage": "{percentage}% порівняно з минулим місяцем",
+    "categoryPercentageChange": "{percentage}% від загальної суми"
 }

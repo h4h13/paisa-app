@@ -711,5 +711,20 @@
     "backupDataDescription": "將您的資料備份到本機儲存空間",
     "importDataDescription": "從備份檔案還原您的資料",
     "exportToCSV": "匯出為 CSV",
-    "exportToCSVDescription": "將您的資料匯出為 CSV 檔案，不適用於備份用途"
+    "exportToCSVDescription": "將您的資料匯出為 CSV 檔案，不適用於備份用途",
+    "interfaceAndPersonalization": "介面與個人化",
+    "dataAndBackup": "資料與備份",
+    "securityAndNotifications": "安全性與通知",
+    "communityAndSupport": "社群與支援",
+    "appInfo": "應用程式資訊",
+    "shareAndVersion": "分享與版本",
+    "highestSpending": "最高支出",
+    "noTransactionsFoundAccountName": "找不到 {accountName} 的交易",
+    "pleaseAddTransactionsAccount": "請為此帳戶新增交易",
+    "noTransactionsFoundCategoryName": "找不到 {categoryName} 的交易",
+    "goalDetails": "目標詳情",
+    "goalNotFound": "找不到目標",
+    "goalDescription": "您要尋找的目標不存在。",
+    "vsLastMonthPercentage": "相較上月 {percentage}%",
+    "categoryPercentageChange": "佔總額的 {percentage}%"
 }

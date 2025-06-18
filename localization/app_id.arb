@@ -711,5 +711,20 @@
     "backupDataDescription": "Cadangkan data Anda ke penyimpanan lokal",
     "importDataDescription": "Pulihkan data Anda dari file cadangan",
     "exportToCSV": "Ekspor ke CSV",
-    "exportToCSVDescription": "Ekspor data Anda ke file CSV, tidak dimaksudkan untuk tujuan pencadangan"
+    "exportToCSVDescription": "Ekspor data Anda ke file CSV, tidak dimaksudkan untuk tujuan pencadangan",
+    "interfaceAndPersonalization": "Antarmuka dan Personalisasi",
+    "dataAndBackup": "Data dan Cadangan",
+    "securityAndNotifications": "Keamanan dan Notifikasi",
+    "communityAndSupport": "Komunitas dan Dukungan",
+    "appInfo": "Info Aplikasi",
+    "shareAndVersion": "Bagikan dan Versi",
+    "highestSpending": "Pengeluaran Tertinggi",
+    "noTransactionsFoundAccountName": "Tidak ada transaksi ditemukan untuk {accountName}",
+    "pleaseAddTransactionsAccount": "Silakan tambahkan transaksi ke akun ini",
+    "noTransactionsFoundCategoryName": "Tidak ada transaksi ditemukan untuk {categoryName}",
+    "goalDetails": "Detail Tujuan",
+    "goalNotFound": "Tujuan tidak ditemukan",
+    "goalDescription": "Tujuan yang Anda cari tidak ada.",
+    "vsLastMonthPercentage": "{percentage}% vs bulan lalu",
+    "categoryPercentageChange": "{percentage}% dari total"
 }

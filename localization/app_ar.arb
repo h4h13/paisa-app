@@ -713,5 +713,20 @@
     "backupDataDescription": "انسخ بياناتك إلى التخزين المحلي",
     "importDataDescription": "استرجع بياناتك من ملف نسخ احتياطي",
     "exportToCSV": "تصدير إلى CSV",
-    "exportToCSVDescription": "صدّر بياناتك إلى ملف CSV، ليس للنسخ الاحتياطي"
+    "exportToCSVDescription": "صدّر بياناتك إلى ملف CSV، ليس للنسخ الاحتياطي",
+    "interfaceAndPersonalization": "الواجهة والتخصيص",
+    "dataAndBackup": "البيانات والنسخ الاحتياطي",
+    "securityAndNotifications": "الأمان والإشعارات",
+    "communityAndSupport": "المجتمع والدعم",
+    "appInfo": "معلومات التطبيق",
+    "shareAndVersion": "المشاركة والإصدار",
+    "highestSpending": "أعلى إنفاق",
+    "noTransactionsFoundAccountName": "لم يتم العثور على معاملات لـ {accountName}",
+    "pleaseAddTransactionsAccount": "يرجى إضافة معاملات إلى هذا الحساب",
+    "noTransactionsFoundCategoryName": "لم يتم العثور على معاملات لـ {categoryName}",
+    "goalDetails": "تفاصيل الهدف",
+    "goalNotFound": "الهدف غير موجود",
+    "goalDescription": "الهدف الذي تبحث عنه غير موجود.",
+    "vsLastMonthPercentage": "{percentage}% مقارنة بالشهر الماضي",
+    "categoryPercentageChange": "{percentage}% من الإجمالي"
 }

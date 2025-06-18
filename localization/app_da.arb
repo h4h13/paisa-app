@@ -713,5 +713,20 @@
     "backupDataDescription": "Sikkerhedskopier dine data til lokal lagring",
     "importDataDescription": "Gendan dine data fra en sikkerhedskopifil",
     "exportToCSV": "Eksporter til CSV",
-    "exportToCSVDescription": "Eksporter dine data til en CSV-fil, ikke beregnet til sikkerhedskopiering"
+    "exportToCSVDescription": "Eksporter dine data til en CSV-fil, ikke beregnet til sikkerhedskopiering",
+    "interfaceAndPersonalization": "Interface og Personalisering",
+    "dataAndBackup": "Data og Sikkerhedskopi",
+    "securityAndNotifications": "Sikkerhed og Notifikationer",
+    "communityAndSupport": "Fællesskab og Support",
+    "appInfo": "App Info",
+    "shareAndVersion": "Del og Version",
+    "highestSpending": "Højeste Forbrug",
+    "noTransactionsFoundAccountName": "Ingen transaktioner fundet for {accountName}",
+    "pleaseAddTransactionsAccount": "Tilføj venligst transaktioner til denne konto",
+    "noTransactionsFoundCategoryName": "Ingen transaktioner fundet for {categoryName}",
+    "goalDetails": "Mål Detaljer",
+    "goalNotFound": "Mål ikke fundet",
+    "goalDescription": "Det mål du leder efter eksisterer ikke.",
+    "vsLastMonthPercentage": "{percentage}% vs sidste måned",
+    "categoryPercentageChange": "{percentage}% af total"
 }

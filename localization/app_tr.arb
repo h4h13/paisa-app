@@ -712,5 +712,20 @@
     "about": "Hakkında",
     "revenueCatId": "RevenueCat Kimliği",
     "revenueCatIdCopied": "RevenueCat Kimliği kopyalandı",
-    "selected": "Seçildi: "
+    "selected": "Seçildi: ",
+    "interfaceAndPersonalization": "Arayüz ve Kişiselleştirme",
+    "dataAndBackup": "Veri ve Yedekleme",
+    "securityAndNotifications": "Güvenlik ve Bildirimler",
+    "communityAndSupport": "Topluluk ve Destek",
+    "appInfo": "Uygulama Bilgisi",
+    "shareAndVersion": "Paylaş ve Sürüm",
+    "highestSpending": "En Yüksek Harcama",
+    "noTransactionsFoundAccountName": "{accountName} için işlem bulunamadı",
+    "pleaseAddTransactionsAccount": "Lütfen bu hesaba işlem ekleyin",
+    "noTransactionsFoundCategoryName": "{categoryName} için işlem bulunamadı",
+    "goalDetails": "Hedef Detayları",
+    "goalNotFound": "Hedef bulunamadı",
+    "goalDescription": "Aradığınız hedef mevcut değil.",
+    "vsLastMonthPercentage": "Geçen aya göre %{percentage}",
+    "categoryPercentageChange": "Toplamın %{percentage}'i"
 }

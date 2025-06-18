@@ -711,5 +711,20 @@
     "backupDataDescription": "Sao lưu dữ liệu của bạn vào bộ nhớ cục bộ",
     "importDataDescription": "Khôi phục dữ liệu của bạn từ tệp sao lưu",
     "exportToCSV": "Xuất ra CSV",
-    "exportToCSVDescription": "Xuất dữ liệu của bạn sang tệp CSV, không dùng cho mục đích sao lưu"
+    "exportToCSVDescription": "Xuất dữ liệu của bạn sang tệp CSV, không dùng cho mục đích sao lưu",
+    "interfaceAndPersonalization": "Giao diện và Cá nhân hóa",
+    "dataAndBackup": "Dữ liệu và Sao lưu",
+    "securityAndNotifications": "Bảo mật và Thông báo",
+    "communityAndSupport": "Cộng đồng và Hỗ trợ",
+    "appInfo": "Thông tin Ứng dụng",
+    "shareAndVersion": "Chia sẻ và Phiên bản",
+    "highestSpending": "Chi tiêu Cao nhất",
+    "noTransactionsFoundAccountName": "Không tìm thấy giao dịch nào cho {accountName}",
+    "pleaseAddTransactionsAccount": "Vui lòng thêm giao dịch vào tài khoản này",
+    "noTransactionsFoundCategoryName": "Không tìm thấy giao dịch nào cho {categoryName}",
+    "goalDetails": "Chi tiết Mục tiêu",
+    "goalNotFound": "Không tìm thấy mục tiêu",
+    "goalDescription": "Mục tiêu bạn đang tìm kiếm không tồn tại.",
+    "vsLastMonthPercentage": "{percentage}% so với tháng trước",
+    "categoryPercentageChange": "{percentage}% của tổng số"
 }

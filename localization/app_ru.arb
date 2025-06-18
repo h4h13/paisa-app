@@ -711,5 +711,20 @@
     "backupDataDescription": "Резервное копирование данных в локальное хранилище",
     "importDataDescription": "Восстановление данных из файла резервной копии",
     "exportToCSV": "Экспорт в CSV",
-    "exportToCSVDescription": "Экспорт данных в файл CSV, не предназначенный для целей резервного копирования"
+    "exportToCSVDescription": "Экспорт данных в файл CSV, не предназначенный для целей резервного копирования",
+    "interfaceAndPersonalization": "Интерфейс и Персонализация",
+    "dataAndBackup": "Данные и Резервное копирование",
+    "securityAndNotifications": "Безопасность и Уведомления",
+    "communityAndSupport": "Сообщество и Поддержка",
+    "appInfo": "Информация о приложении",
+    "shareAndVersion": "Поделиться и Версия",
+    "highestSpending": "Наибольшие расходы",
+    "noTransactionsFoundAccountName": "Транзакции для {accountName} не найдены",
+    "pleaseAddTransactionsAccount": "Пожалуйста, добавьте транзакции к этому счету",
+    "noTransactionsFoundCategoryName": "Транзакции для {categoryName} не найдены",
+    "goalDetails": "Детали цели",
+    "goalNotFound": "Цель не найдена",
+    "goalDescription": "Цель, которую вы ищете, не существует.",
+    "vsLastMonthPercentage": "{percentage}% по сравнению с прошлым месяцем",
+    "categoryPercentageChange": "{percentage}% от общего количества"
 }

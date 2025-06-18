@@ -712,5 +712,20 @@
     "backupDataDescription": "גבה את הנתונים שלך לאחסון מקומי",
     "importDataDescription": "שחזר את הנתונים שלך מקובץ גיבוי",
     "exportToCSV": "ייצוא ל-CSV",
-    "exportToCSVDescription": "ייצא את הנתונים שלך לקובץ CSV, לא מיועד למטרות גיבוי"
+    "exportToCSVDescription": "ייצא את הנתונים שלך לקובץ CSV, לא מיועד למטרות גיבוי",
+    "interfaceAndPersonalization": "ממשק ואישיות",
+    "dataAndBackup": "נתונים וגיבוי",
+    "securityAndNotifications": "אבטחה והתראות",
+    "communityAndSupport": "קהילה ותמיכה",
+    "appInfo": "מידע על היישומון",
+    "shareAndVersion": "שתף וגרסה",
+    "highestSpending": "הוצאות גבוהות ביותר",
+    "noTransactionsFoundAccountName": "לא נמצאו עסקאות עבור {accountName}",
+    "pleaseAddTransactionsAccount": "אנא הוסף עסקאות לחשבון זה",
+    "noTransactionsFoundCategoryName": "לא נמצאו עסקאות עבור {categoryName}",
+    "goalDetails": "פרטי מטרה",
+    "goalNotFound": "מטרה לא נמצאה",
+    "goalDescription": "המטרה שאתה מחפש לא קיימת.",
+    "vsLastMonthPercentage": "{percentage}% לעומת חודש שעבר",
+    "categoryPercentageChange": "{percentage}% מהסך הכל"
 }

@@ -711,5 +711,20 @@
     "backupDataDescription": "স্থানীয় স্টোরেজে আপনার ডেটা ব্যাকআপ করুন",
     "importDataDescription": "একটি ব্যাকআপ ফাইল থেকে আপনার ডেটা পুনরুদ্ধার করুন",
     "exportToCSV": "CSV-তে এক্সপোর্ট করুন",
-    "exportToCSVDescription": "আপনার ডেটা একটি CSV ফাইলে এক্সপোর্ট করুন, ব্যাকআপের উদ্দেশ্যে নয়"
+    "exportToCSVDescription": "আপনার ডেটা একটি CSV ফাইলে এক্সপোর্ট করুন, ব্যাকআপের উদ্দেশ্যে নয়",
+    "interfaceAndPersonalization": "ইন্টারফেস এবং ব্যক্তিগতকরণ",
+    "dataAndBackup": "ডেটা এবং ব্যাকআপ",
+    "securityAndNotifications": "নিরাপত্তা এবং বিজ্ঞপ্তি",
+    "communityAndSupport": "কমিউনিটি এবং সহায়তা",
+    "appInfo": "অ্যাপ তথ্য",
+    "shareAndVersion": "শেয়ার এবং সংস্করণ",
+    "highestSpending": "সর্বোচ্চ খরচ",
+    "noTransactionsFoundAccountName": "{accountName} এর জন্য কোন লেনদেন পাওয়া যায়নি",
+    "pleaseAddTransactionsAccount": "অনুগ্রহ করে এই অ্যাকাউন্টে লেনদেন যোগ করুন",
+    "noTransactionsFoundCategoryName": "{categoryName} এর জন্য কোন লেনদেন পাওয়া যায়নি",
+    "goalDetails": "লক্ষ্যের বিবরণ",
+    "goalNotFound": "লক্ষ্য পাওয়া যায়নি",
+    "goalDescription": "আপনি যে লক্ষ্যটি খোঁজেন তা বিদ্যমান নেই।",
+    "vsLastMonthPercentage": "গত মাসের তুলনায় {percentage}%",
+    "categoryPercentageChange": "মোটের {percentage}%"
 }

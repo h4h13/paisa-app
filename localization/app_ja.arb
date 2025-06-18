@@ -711,5 +711,20 @@
     "backupDataDescription": "データをローカルストレージにバックアップする",
     "importDataDescription": "バックアップファイルからデータを復元する",
     "exportToCSV": "CSVにエクスポート",
-    "exportToCSVDescription": "データをCSVファイルにエクスポートします。バックアップ目的ではありません。"
+    "exportToCSVDescription": "データをCSVファイルにエクスポートします。バックアップ目的ではありません。",
+    "interfaceAndPersonalization": "インターフェースとパーソナライゼーション",
+    "dataAndBackup": "データとバックアップ",
+    "securityAndNotifications": "セキュリティと通知",
+    "communityAndSupport": "コミュニティとサポート",
+    "appInfo": "アプリ情報",
+    "shareAndVersion": "共有とバージョン",
+    "highestSpending": "最高支出",
+    "noTransactionsFoundAccountName": "{accountName}の取引が見つかりません",
+    "pleaseAddTransactionsAccount": "このアカウントに取引を追加してください",
+    "noTransactionsFoundCategoryName": "{categoryName}の取引が見つかりません",
+    "goalDetails": "目標の詳細",
+    "goalNotFound": "目標が見つかりません",
+    "goalDescription": "お探しの目標は存在しません。",
+    "vsLastMonthPercentage": "先月比{percentage}%",
+    "categoryPercentageChange": "全体の{percentage}%"
 }

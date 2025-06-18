@@ -711,5 +711,20 @@
     "backupDataDescription": "Hifadhi data yako kwenye hifadhi ya ndani",
     "importDataDescription": "Rejesha data yako kutoka kwenye faili ya nakala",
     "exportToCSV": "Hamisha kwenda CSV",
-    "exportToCSVDescription": "Hamisha data yako kwenda faili ya CSV, si kwa madhumuni ya kuhifadhi nakala"
+    "exportToCSVDescription": "Hamisha data yako kwenda faili ya CSV, si kwa madhumuni ya kuhifadhi nakala",
+    "interfaceAndPersonalization": "Kiolesura na Ubinafsi",
+    "dataAndBackup": "Data na Nakala za Hifadhi",
+    "securityAndNotifications": "Usalama na Arifa",
+    "communityAndSupport": "Jumuiya na Msaada",
+    "appInfo": "Maelezo ya Programu",
+    "shareAndVersion": "Shiriki na Toleo",
+    "highestSpending": "Matumizi Makubwa zaidi",
+    "noTransactionsFoundAccountName": "Hakuna shughuli zilizopatikana kwa {accountName}",
+    "pleaseAddTransactionsAccount": "Tafadhali ongeza shughuli kwenye akaunti hii",
+    "noTransactionsFoundCategoryName": "Hakuna shughuli zilizopatikana kwa {categoryName}",
+    "goalDetails": "Maelezo ya Lengo",
+    "goalNotFound": "Lengo halijapatikana",
+    "goalDescription": "Lengo unalolitafuta halipo.",
+    "vsLastMonthPercentage": "{percentage}% dhidi ya mwezi uliopita",
+    "categoryPercentageChange": "{percentage}% ya jumla"
 }

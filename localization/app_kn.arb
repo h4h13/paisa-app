@@ -711,5 +711,20 @@
     "backupDataDescription": "ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಸ್ಥಳೀಯ ಸಂಗ್ರಹಣೆಗೆ ಬ್ಯಾಕಪ್ ಮಾಡಿ",
     "importDataDescription": "ಬ್ಯಾಕಪ್ ಫೈಲ್‌ನಿಂದ ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಮರುಸ್ಥಾಪಿಸಿ",
     "exportToCSV": "CSV ಗೆ ರಫ್ತು ಮಾಡಿ",
-    "exportToCSVDescription": "ನಿಮ್ಮ ಡೇಟಾವನ್ನು CSV ಫೈಲ್‌ಗೆ ರಫ್ತು ಮಾಡಿ, ಬ್ಯಾಕಪ್ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಉದ್ದೇಶಿಸಿಲ್ಲ"
+    "exportToCSVDescription": "ನಿಮ್ಮ ಡೇಟಾವನ್ನು CSV ಫೈಲ್‌ಗೆ ರಫ್ತು ಮಾಡಿ, ಬ್ಯಾಕಪ್ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಉದ್ದೇಶಿಸಿಲ್ಲ",
+    "interfaceAndPersonalization": "ಇಂಟರ್ಫೇಸ್ ಮತ್ತು ವೈಯಕ್ತೀಕರಣ",
+    "dataAndBackup": "ಡೇಟಾ ಮತ್ತು ಬ್ಯಾಕಪ್",
+    "securityAndNotifications": "ಭದ್ರತೆ ಮತ್ತು ಅಧಿಸೂಚನೆಗಳು",
+    "communityAndSupport": "ಸಮುದಾಯ ಮತ್ತು ಬೆಂಬಲ",
+    "appInfo": "ಅಪ್ಲಿಕೇಶನ್ ಮಾಹಿತಿ",
+    "shareAndVersion": "ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಆವೃತ್ತಿ",
+    "highestSpending": "ಅತ್ಯಧಿಕ ಖರ್ಚು",
+    "noTransactionsFoundAccountName": "{accountName} ಗಾಗಿ ಯಾವುದೇ ವಹಿವಾಟುಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+    "pleaseAddTransactionsAccount": "ದಯವಿಟ್ಟು ಈ ಖಾತೆಗೆ ವಹಿವಾಟುಗಳನ್ನು ಸೇರಿಸಿ",
+    "noTransactionsFoundCategoryName": "{categoryName} ಗಾಗಿ ಯಾವುದೇ ವಹಿವಾಟುಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+    "goalDetails": "ಗುರಿಯ ವಿವರಗಳು",
+    "goalNotFound": "ಗುರಿ ಕಂಡುಬಂದಿಲ್ಲ",
+    "goalDescription": "ನೀವು ಹುಡುಕುತ್ತಿರುವ ಗುರಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+    "vsLastMonthPercentage": "ಕಳೆದ ತಿಂಗಳಿಗೆ ಹೋಲಿಸಿದರೆ {percentage}%",
+    "categoryPercentageChange": "ಒಟ್ಟು {percentage}%"
 }

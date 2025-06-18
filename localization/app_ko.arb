@@ -711,5 +711,20 @@
     "backupDataDescription": "데이터를 로컬 저장소에 백업합니다",
     "importDataDescription": "백업 파일에서 데이터를 복원합니다",
     "exportToCSV": "CSV로 내보내기",
-    "exportToCSVDescription": "데이터를 CSV 파일로 내보냅니다. 백업 목적으로는 권장되지 않습니다."
+    "exportToCSVDescription": "데이터를 CSV 파일로 내보냅니다. 백업 목적으로는 권장되지 않습니다.",
+    "interfaceAndPersonalization": "인터페이스 및 개인화",
+    "dataAndBackup": "데이터 및 백업",
+    "securityAndNotifications": "보안 및 알림",
+    "communityAndSupport": "커뮤니티 및 지원",
+    "appInfo": "앱 정보",
+    "shareAndVersion": "공유 및 버전",
+    "highestSpending": "최고 지출",
+    "noTransactionsFoundAccountName": "{accountName}에 대한 거래가 없습니다",
+    "pleaseAddTransactionsAccount": "이 계정에 거래를 추가해 주세요",
+    "noTransactionsFoundCategoryName": "{categoryName}에 대한 거래가 없습니다",
+    "goalDetails": "목표 세부사항",
+    "goalNotFound": "목표를 찾을 수 없음",
+    "goalDescription": "찾고 있는 목표가 존재하지 않습니다.",
+    "vsLastMonthPercentage": "지난달 대비 {percentage}%",
+    "categoryPercentageChange": "전체의 {percentage}%"
 }

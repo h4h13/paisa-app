@@ -713,5 +713,20 @@
     "backupDataDescription": "Αποθηκεύστε τα δεδομένα σας τοπικά",
     "importDataDescription": "Επαναφέρετε τα δεδομένα σας από αρχείο αντιγράφου ασφαλείας",
     "exportToCSV": "Εξαγωγή σε CSV",
-    "exportToCSVDescription": "Εξαγάγετε τα δεδομένα σας σε CSV, όχι για αντίγραφα ασφαλείας"
+    "exportToCSVDescription": "Εξαγάγετε τα δεδομένα σας σε CSV, όχι για αντίγραφα ασφαλείας",
+    "interfaceAndPersonalization": "Περιβάλλον εργασίας και Εξατομίκευση",
+    "dataAndBackup": "Δεδομένα και Αντίγραφα ασφαλείας",
+    "securityAndNotifications": "Ασφάλεια και Ειδοποιήσεις",
+    "communityAndSupport": "Κοινότητα και Υποστήριξη",
+    "appInfo": "Πληροφορίες εφαρμογής",
+    "shareAndVersion": "Κοινοποίηση και Έκδοση",
+    "highestSpending": "Μεγαλύτερες δαπάνες",
+    "noTransactionsFoundAccountName": "Δεν βρέθηκαν συναλλαγές για {accountName}",
+    "pleaseAddTransactionsAccount": "Παρακαλώ προσθέστε συναλλαγές σε αυτό το λογαριασμό",
+    "noTransactionsFoundCategoryName": "Δεν βρέθηκαν συναλλαγές για {categoryName}",
+    "goalDetails": "Λεπτομέρειες στόχου",
+    "goalNotFound": "Στόχος δεν βρέθηκε",
+    "goalDescription": "Ο στόχος που ψάχνετε δεν υπάρχει.",
+    "vsLastMonthPercentage": "{percentage}% σε σχέση με τον προηγούμενο μήνα",
+    "categoryPercentageChange": "{percentage}% του συνόλου"
 }

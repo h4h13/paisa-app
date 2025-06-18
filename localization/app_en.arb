@@ -4003,5 +4003,25 @@
     "@goalDescription": {
         "description": "Text shown on the goal details page for goal description",
         "type": "text"
+    },
+    "vsLastMonthPercentage": "{percentage}% vs last month",
+    "@vsLastMonthPercentage": {
+        "description": "Text shown on the spending pattern page for percentage vs last month",
+        "type": "text",
+        "placeholders": {
+            "percentage": {
+                "type": "String"
+            }
+        }
+    },
+    "categoryPercentageChange": "{percentage}% of total",
+    "@categoryPercentageChange": {
+        "description": "Text shown on the spending pattern page for percentage change",
+        "type": "text",
+        "placeholders": {
+            "percentage": {
+                "type": "String"
+            }
+        }
     }
 }

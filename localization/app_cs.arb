@@ -713,5 +713,20 @@
     "totalOccurrences": "Celkem výskytů",
     "statistics": "Statistiky",
     "noHistoryYet": "Zatím žádná historie",
-    "historyWillAppearHere": "Historie se zobrazí zde"
+    "historyWillAppearHere": "Historie se zobrazí zde",
+    "interfaceAndPersonalization": "Rozhraní a Personalizace",
+    "dataAndBackup": "Data a Zálohování",
+    "securityAndNotifications": "Zabezpečení a Oznámení",
+    "communityAndSupport": "Komunita a Podpora",
+    "appInfo": "Informace o aplikaci",
+    "shareAndVersion": "Sdílení a Verze",
+    "highestSpending": "Nejvyšší výdaje",
+    "noTransactionsFoundAccountName": "Pro {accountName} nebyly nalezeny žádné transakce",
+    "pleaseAddTransactionsAccount": "Přidejte transakce k tomuto účtu",
+    "noTransactionsFoundCategoryName": "Pro {categoryName} nebyly nalezeny žádné transakce",
+    "goalDetails": "Podrobnosti cíle",
+    "goalNotFound": "Cíl nenalezen",
+    "goalDescription": "Cíl, který hledáte, neexistuje.",
+    "vsLastMonthPercentage": "{percentage}% oproti minulému měsíci",
+    "categoryPercentageChange": "{percentage}% z celkové částky"
 }

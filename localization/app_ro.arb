@@ -711,5 +711,20 @@
     "backupDataDescription": "Fă backup datelor tale în stocarea locală",
     "importDataDescription": "Restaurează datele tale dintr-un fișier de backup",
     "exportToCSV": "Exportă în CSV",
-    "exportToCSVDescription": "Exportă datele tale într-un fișier CSV, nu este destinat scopurilor de backup"
+    "exportToCSVDescription": "Exportă datele tale într-un fișier CSV, nu este destinat scopurilor de backup",
+    "interfaceAndPersonalization": "Interfață și Personalizare",
+    "dataAndBackup": "Date și Backup",
+    "securityAndNotifications": "Securitate și Notificări",
+    "communityAndSupport": "Comunitate și Suport",
+    "appInfo": "Informații Aplicație",
+    "shareAndVersion": "Distribuie și Versiune",
+    "highestSpending": "Cea mai mare cheltuială",
+    "noTransactionsFoundAccountName": "Nu s-au găsit tranzacții pentru {accountName}",
+    "pleaseAddTransactionsAccount": "Vă rugăm să adăugați tranzacții la acest cont",
+    "noTransactionsFoundCategoryName": "Nu s-au găsit tranzacții pentru {categoryName}",
+    "goalDetails": "Detalii Obiectiv",
+    "goalNotFound": "Obiectiv negăsit",
+    "goalDescription": "Obiectivul pe care îl căutați nu există.",
+    "vsLastMonthPercentage": "{percentage}% vs luna trecută",
+    "categoryPercentageChange": "{percentage}% din total"
 }

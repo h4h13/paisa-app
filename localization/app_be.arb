@@ -713,5 +713,20 @@
     "totalOccurrences": "Усяго паўтарэнняў",
     "statistics": "Статыстыка",
     "noHistoryYet": "Пакуль няма гісторыі",
-    "historyWillAppearHere": "Гісторыя з'явіцца тут"
+    "historyWillAppearHere": "Гісторыя з'явіцца тут",
+    "interfaceAndPersonalization": "Інтэрфейс і Персаналізацыя",
+    "dataAndBackup": "Даныя і Рэзервовы капіяванне",
+    "securityAndNotifications": "Бяспека і Апавяшчэнні",
+    "communityAndSupport": "Супольнасць і Падтрымка",
+    "appInfo": "Інфармацыя пра праграму",
+    "shareAndVersion": "Падзяліцца і Версія",
+    "highestSpending": "Найбольшыя траты",
+    "noTransactionsFoundAccountName": "Транзакцый для {accountName} не знойдзена",
+    "pleaseAddTransactionsAccount": "Калі ласка, дадайце транзакцыі да гэтага рахунка",
+    "noTransactionsFoundCategoryName": "Транзакцый для {categoryName} не знойдзена",
+    "goalDetails": "Падрабязнасці мэты",
+    "goalNotFound": "Мэта не знойдзена",
+    "goalDescription": "Мэта, якую вы шукаеце, не існуе.",
+    "vsLastMonthPercentage": "{percentage}% у параўнанні з мінулым месяцам",
+    "categoryPercentageChange": "{percentage}% ад агульнай сумы"
 }

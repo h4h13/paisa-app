@@ -711,5 +711,20 @@
     "backupDataDescription": "നിങ്ങളുടെ ഡാറ്റ ലോക്കൽ സ്റ്റോറേജിലേക്ക് ബാക്കപ്പ് ചെയ്യുക",
     "importDataDescription": "ഒരു ബാക്കപ്പ് ഫയലിൽ നിന്ന് നിങ്ങളുടെ ഡാറ്റ പുനഃസ്ഥാപിക്കുക",
     "exportToCSV": "CSV-യിലേക്ക് കയറ്റുമതി ചെയ്യുക",
-    "exportToCSVDescription": "നിങ്ങളുടെ ഡാറ്റ ഒരു CSV ഫയലിലേക്ക് കയറ്റുമതി ചെയ്യുക, ബാക്കപ്പ് ആവശ്യങ്ങൾക്കായി ഉദ്ദേശിച്ചുള്ളതല്ല"
+    "exportToCSVDescription": "നിങ്ങളുടെ ഡാറ്റ ഒരു CSV ഫയലിലേക്ക് കയറ്റുമതി ചെയ്യുക, ബാക്കപ്പ് ആവശ്യങ്ങൾക്കായി ഉദ്ദേശിച്ചുള്ളതല്ല",
+    "interfaceAndPersonalization": "ഇൻറർഫേസും വ്യക്തിഗതമാക്കലും",
+    "dataAndBackup": "ഡാറ്റയും ബാക്കപ്പും",
+    "securityAndNotifications": "സുരക്ഷയും അറിയിപ്പുകളും",
+    "communityAndSupport": "കമ്മ്യൂണിറ്റിയും പിന്തുണയും",
+    "appInfo": "ആപ്പ് വിവരങ്ങൾ",
+    "shareAndVersion": "പങ്കിടലും പതിപ്പും",
+    "highestSpending": "ഏറ്റവും ഉയർന്ന ചെലവ്",
+    "noTransactionsFoundAccountName": "{accountName}-നുള്ള ഇടപാടുകൾ കണ്ടെത്തിയില്ല",
+    "pleaseAddTransactionsAccount": "ദയവായി ഈ അക്കൗണ്ടിൽ ഇടപാടുകൾ ചേർക്കുക",
+    "noTransactionsFoundCategoryName": "{categoryName}-നുള്ള ഇടപാടുകൾ കണ്ടെത്തിയില്ല",
+    "goalDetails": "ലക്ഷ്യ വിശദാംശങ്ങൾ",
+    "goalNotFound": "ലക്ഷ്യം കണ്ടെത്തിയില്ല",
+    "goalDescription": "നിങ്ങൾ തിരയുന്ന ലക്ഷ്യം നിലവിലില്ല.",
+    "vsLastMonthPercentage": "കഴിഞ്ഞ മാസവുമായി താരതമ്യപ്പെടുത്തുമ്പോൾ {percentage}%",
+    "categoryPercentageChange": "മൊത്തത്തിന്റെ {percentage}%"
 }
