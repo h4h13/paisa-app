@@ -2965,7 +2965,7 @@
         "description": "Text shown on the settings page",
         "type": "text"
     },
-    "feedback": "Give Feedback",
+    "feedback": "Feedback & Beta",
     "@feedback": {
         "description": "Title text shown on settings page for feedback button",
         "type": "text"
