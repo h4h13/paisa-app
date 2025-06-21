@@ -4023,5 +4023,15 @@
                 "type": "String"
             }
         }
+    },
+    "archive": "Archive",
+    "@archive": {
+        "description": "Text shown on the settings page for archiving items",
+        "type": "text"
+    },
+    "archiveThisRecurring": "Archive this recurring transaction",
+    "@archiveThisRecurring": {
+        "description": "Text shown on the recurring details page for archiving a recurring transaction",
+        "type": "text"
     }
 }
