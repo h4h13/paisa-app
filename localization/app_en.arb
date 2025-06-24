@@ -4033,5 +4033,10 @@
     "@archiveThisRecurring": {
         "description": "Text shown on the recurring details page for archiving a recurring transaction",
         "type": "text"
+    },
+    "selectYourPreferenceLanguage": "Select your preferred language to personalize your experience",
+    "@selectYourPreferenceLanguage": {
+        "description": "Text shown on the settings page for selecting language preference",
+        "type": "text"
     }
 }

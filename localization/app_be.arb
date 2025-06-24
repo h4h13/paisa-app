@@ -518,7 +518,7 @@
     "noNote": "Няма нататкі",
     "recentActivity": "Апошняя актыўнасць",
     "noRecentActivity": "Апошняй актыўнасці няма",
-    "viewAll": "Паказаць усе",
+    "viewAll": "Паказаць ўсе",
     "loanNotFound": "Пазыка не знойдзена",
     "pickingFile": "Выбар файла...",
     "restoringBackup": "Аднаўленне рэзервовай копіі...",
@@ -616,7 +616,7 @@
     "recurringError": "Памылка рэгулярнай транзакцыі",
     "daysUntilNextCount": "{days} дзён да наступнай",
     "confirmUnarchive": "Пацвердзіце разархівацыю",
-    "confirmUnarchiveDescription": "Вы ўпэўнены, што хочаце разархіваваць {name}? Яна стане актыўнай ізноў.",
+    "confirmUnarchiveDescription": "Вы ўпэўнены, што хочаце разархіраваць {name}? Яна стане актыўнай ізноў.",
     "unarchive": "Разархіваваць",
     "backupData": "Рэзервовае капіраванне",
     "backupDataDescription": "Захавайце даныя лакальна",
@@ -715,7 +715,7 @@
     "noHistoryYet": "Пакуль няма гісторыі",
     "historyWillAppearHere": "Гісторыя з'явіцца тут",
     "interfaceAndPersonalization": "Інтэрфейс і Персаналізацыя",
-    "dataAndBackup": "Даныя і Рэзервовы капіяванне",
+    "dataAndBackup": "Даныя і Рэзервовы капіраванне",
     "securityAndNotifications": "Бяспека і Апавяшчэнні",
     "communityAndSupport": "Супольнасць і Падтрымка",
     "appInfo": "Інфармацыя пра праграму",
@@ -728,5 +728,8 @@
     "goalNotFound": "Мэта не знойдзена",
     "goalDescription": "Мэта, якую вы шукаеце, не існуе.",
     "vsLastMonthPercentage": "{percentage}% у параўнанні з мінулым месяцам",
-    "categoryPercentageChange": "{percentage}% ад агульнай сумы"
+    "categoryPercentageChange": "{percentage}% ад агульнай сумы",
+    "archive": "Архіваваць",
+    "archiveThisRecurring": "Архіваваць гэтае рэгулярнае плацяж",
+    "selectYourPreferenceLanguage": "Выберыце пераважную мову для персаналізацыі вашага досведу"
 }

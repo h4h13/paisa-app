@@ -726,5 +726,8 @@
     "goalNotFound": "Цель не найдена",
     "goalDescription": "Цель, которую вы ищете, не существует.",
     "vsLastMonthPercentage": "{percentage}% по сравнению с прошлым месяцем",
-    "categoryPercentageChange": "{percentage}% от общего количества"
+    "categoryPercentageChange": "{percentage}% от общего количества",
+    "archive": "Архивировать",
+    "archiveThisRecurring": "Архивировать эту повторяющуюся транзакцию",
+    "selectYourPreferenceLanguage": "Выберите предпочитаемый язык для персонализации опыта"
 }

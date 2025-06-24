@@ -726,5 +726,8 @@
     "goalNotFound": "未找到目标",
     "goalDescription": "您要查找的目标不存在。",
     "vsLastMonthPercentage": "相比上月 {percentage}%",
-    "categoryPercentageChange": "占总额的 {percentage}%"
+    "categoryPercentageChange": "占总额的 {percentage}%",
+    "archive": "归档",
+    "archiveThisRecurring": "归档此定期交易",
+    "selectYourPreferenceLanguage": "选择您的首选语言以个性化您的体验"
 }

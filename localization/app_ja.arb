@@ -726,5 +726,8 @@
     "goalNotFound": "目標が見つかりません",
     "goalDescription": "お探しの目標は存在しません。",
     "vsLastMonthPercentage": "先月比{percentage}%",
-    "categoryPercentageChange": "全体の{percentage}%"
+    "categoryPercentageChange": "全体の{percentage}%",
+    "archive": "アーカイブ",
+    "archiveThisRecurring": "この定期的な取引をアーカイブする",
+    "selectYourPreferenceLanguage": "ご希望の言語を選択して体験をパーソナライズしてください"
 }

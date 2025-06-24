@@ -728,5 +728,8 @@
     "goalNotFound": "Cíl nenalezen",
     "goalDescription": "Cíl, který hledáte, neexistuje.",
     "vsLastMonthPercentage": "{percentage}% oproti minulému měsíci",
-    "categoryPercentageChange": "{percentage}% z celkové částky"
+    "categoryPercentageChange": "{percentage}% z celkové částky",
+    "archive": "Archivovat",
+    "archiveThisRecurring": "Archivovat tuto opakující se transakci",
+    "selectYourPreferenceLanguage": "Vyberte si preferovaný jazyk pro přizpůsobení svého zážitku"
 }

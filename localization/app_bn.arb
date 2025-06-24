@@ -726,5 +726,8 @@
     "goalNotFound": "লক্ষ্য পাওয়া যায়নি",
     "goalDescription": "আপনি যে লক্ষ্যটি খোঁজেন তা বিদ্যমান নেই।",
     "vsLastMonthPercentage": "গত মাসের তুলনায় {percentage}%",
-    "categoryPercentageChange": "মোটের {percentage}%"
+    "categoryPercentageChange": "মোটের {percentage}%",
+    "archive": "আর্কাইভ",
+    "archiveThisRecurring": "এই পুনরাবৃত্ত লেনদেনটি আর্কাইভ করুন",
+    "selectYourPreferenceLanguage": "আপনার অভিজ্ঞতা ব্যক্তিগতকরণের জন্য আপনার পছন্দের ভাষা নির্বাচন করুন"
 }

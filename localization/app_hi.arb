@@ -727,5 +727,8 @@
     "goalDescription": "आप जो लक्ष्य खोज रहे हैं वह मौजूद नहीं है।",
     "vsLastMonthPercentage": "पिछले महीने की तुलना में {percentage}%",
     "categoryPercentageChange": "कुल का {percentage}%",
-    "whatShouldWeCallYou": "हम आपको क्या कहकर बुलाएँ?"
+    "whatShouldWeCallYou": "हम आपको क्या कहकर बुलाएँ?",
+    "archive": "आर्काइव करें",
+    "archiveThisRecurring": "इस आवर्ती लेन-देन को आर्काइव करें",
+    "selectYourPreferenceLanguage": "अपने अनुभव को वैयक्तिकृत करने के लिए अपनी पसंदीदा भाषा चुनें"
 }

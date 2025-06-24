@@ -727,5 +727,8 @@
     "goalNotFound": "מטרה לא נמצאה",
     "goalDescription": "המטרה שאתה מחפש לא קיימת.",
     "vsLastMonthPercentage": "{percentage}% לעומת חודש שעבר",
-    "categoryPercentageChange": "{percentage}% מהסך הכל"
+    "categoryPercentageChange": "{percentage}% מהסך הכל",
+    "archive": "ארכיון",
+    "archiveThisRecurring": "ארכב את העסקה החוזרת הזו",
+    "selectYourPreferenceLanguage": "בחר את השפה המועדפת עליך להתאמת החוויה שלך"
 }

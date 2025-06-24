@@ -726,5 +726,8 @@
     "goalNotFound": "Lengo halijapatikana",
     "goalDescription": "Lengo unalolitafuta halipo.",
     "vsLastMonthPercentage": "{percentage}% dhidi ya mwezi uliopita",
-    "categoryPercentageChange": "{percentage}% ya jumla"
+    "categoryPercentageChange": "{percentage}% ya jumla",
+    "archive": "Hifadhi kwenye kumbukumbu",
+    "archiveThisRecurring": "Hifadhi muamala huu unaojirudia kwenye kumbukumbu",
+    "selectYourPreferenceLanguage": "Chagua lugha unayopendelea kubinafsisha matumizi yako"
 }

@@ -726,5 +726,8 @@
     "goalNotFound": "Meta não encontrada",
     "goalDescription": "A meta que você está procurando não existe.",
     "vsLastMonthPercentage": "{percentage}% vs mês passado",
-    "categoryPercentageChange": "{percentage}% do total"
+    "categoryPercentageChange": "{percentage}% do total",
+    "archive": "Arquivar",
+    "archiveThisRecurring": "Arquivar esta transação recorrente",
+    "selectYourPreferenceLanguage": "Selecione seu idioma preferido para personalizar sua experiência"
 }

@@ -726,5 +726,8 @@
     "goalNotFound": "ಗುರಿ ಕಂಡುಬಂದಿಲ್ಲ",
     "goalDescription": "ನೀವು ಹುಡುಕುತ್ತಿರುವ ಗುರಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
     "vsLastMonthPercentage": "ಕಳೆದ ತಿಂಗಳಿಗೆ ಹೋಲಿಸಿದರೆ {percentage}%",
-    "categoryPercentageChange": "ಒಟ್ಟು {percentage}%"
+    "categoryPercentageChange": "ಒಟ್ಟು {percentage}%",
+    "archive": "ಆರ್ಕೈವ್ ಮಾಡಿ",
+    "archiveThisRecurring": "ಈ ಪುನರಾವರ್ತಿತ ವಹಿವಾಟನ್ನು ಆರ್ಕೈವ್ ಮಾಡಿ",
+    "selectYourPreferenceLanguage": "ನಿಮ್ಮ ಅನುಭವವನ್ನು ವೈಯಕ್ತೀಕರಿಸಲು ನಿಮ್ಮ ಇಷ್ಟದ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 }

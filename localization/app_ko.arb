@@ -726,5 +726,8 @@
     "goalNotFound": "목표를 찾을 수 없음",
     "goalDescription": "찾고 있는 목표가 존재하지 않습니다.",
     "vsLastMonthPercentage": "지난달 대비 {percentage}%",
-    "categoryPercentageChange": "전체의 {percentage}%"
+    "categoryPercentageChange": "전체의 {percentage}%",
+    "archive": "보관",
+    "archiveThisRecurring": "이 반복 거래를 보관",
+    "selectYourPreferenceLanguage": "경험을 개인화하려면 선호하는 언어를 선택하세요"
 }

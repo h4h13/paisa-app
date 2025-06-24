@@ -727,5 +727,8 @@
     "goalNotFound": "Hedef bulunamadı",
     "goalDescription": "Aradığınız hedef mevcut değil.",
     "vsLastMonthPercentage": "Geçen aya göre %{percentage}",
-    "categoryPercentageChange": "Toplamın %{percentage}'i"
+    "categoryPercentageChange": "Toplamın %{percentage}'i",
+    "archive": "Arşivle",
+    "archiveThisRecurring": "Bu yinelenen işlemi arşivle",
+    "selectYourPreferenceLanguage": "Deneyiminizi kişiselleştirmek için tercih ettiğiniz dili seçin"
 }

@@ -726,5 +726,8 @@
     "goalNotFound": "Mål inte hittat",
     "goalDescription": "Målet du letar efter existerar inte.",
     "vsLastMonthPercentage": "{percentage}% vs förra månaden",
-    "categoryPercentageChange": "{percentage}% av totalt"
+    "categoryPercentageChange": "{percentage}% av totalt",
+    "archive": "Arkivera",
+    "archiveThisRecurring": "Arkivera denna återkommande transaktion",
+    "selectYourPreferenceLanguage": "Välj ditt föredragna språk för att anpassa din upplevelse"
 }

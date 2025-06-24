@@ -726,5 +726,8 @@
     "goalNotFound": "Obiectiv negăsit",
     "goalDescription": "Obiectivul pe care îl căutați nu există.",
     "vsLastMonthPercentage": "{percentage}% vs luna trecută",
-    "categoryPercentageChange": "{percentage}% din total"
+    "categoryPercentageChange": "{percentage}% din total",
+    "archive": "Arhivează",
+    "archiveThisRecurring": "Arhivează această tranzacție recurentă",
+    "selectYourPreferenceLanguage": "Selectează limba preferată pentru a-ți personaliza experiența"
 }

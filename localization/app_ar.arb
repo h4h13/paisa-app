@@ -728,5 +728,8 @@
     "goalNotFound": "الهدف غير موجود",
     "goalDescription": "الهدف الذي تبحث عنه غير موجود.",
     "vsLastMonthPercentage": "{percentage}% مقارنة بالشهر الماضي",
-    "categoryPercentageChange": "{percentage}% من الإجمالي"
+    "categoryPercentageChange": "{percentage}% من الإجمالي",
+    "archive": "أرشفة",
+    "archiveThisRecurring": "أرشفة هذه المعاملة المتكررة",
+    "selectYourPreferenceLanguage": "اختر لغتك المفضلة لتخصيص تجربتك"
 }

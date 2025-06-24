@@ -728,5 +728,8 @@
     "goalNotFound": "Ziel nicht gefunden",
     "goalDescription": "Das gesuchte Ziel existiert nicht.",
     "vsLastMonthPercentage": "{percentage}% vs letzter Monat",
-    "categoryPercentageChange": "{percentage}% der Gesamtsumme"
+    "categoryPercentageChange": "{percentage}% der Gesamtsumme",
+    "archive": "Archivieren",
+    "archiveThisRecurring": "Diese wiederkehrende Transaktion archivieren",
+    "selectYourPreferenceLanguage": "Wählen Sie Ihre bevorzugte Sprache zur Personalisierung Ihrer Erfahrung"
 }

@@ -726,5 +726,8 @@
     "goalNotFound": "Мета не знайдена",
     "goalDescription": "Мета, яку ви шукаєте, не існує.",
     "vsLastMonthPercentage": "{percentage}% порівняно з минулим місяцем",
-    "categoryPercentageChange": "{percentage}% від загальної суми"
+    "categoryPercentageChange": "{percentage}% від загальної суми",
+    "archive": "Архівувати",
+    "archiveThisRecurring": "Архівувати цю регулярну транзакцію",
+    "selectYourPreferenceLanguage": "Виберіть бажану мову для персоналізації досвіду"
 }

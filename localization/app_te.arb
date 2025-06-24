@@ -429,7 +429,7 @@
     "transactionDeleted": "లావాదేవీ తొలగించబడింది",
     "undo": "రద్దు చేయి",
     "rolloverHistory": "రోల్‌ఓవర్ చరిత్ర",
-    "noRolloverHistoryYet": "ఇంకా రోల్‌ఓವರ್ చరిత్ర లేదు. మొదటి బడ్జెట్ వ్యవధి ముగిసిన తర్వాత రోల్‌ఓవర్లు ఇక్కడ కనిపిస్తాయి.",
+    "noRolloverHistoryYet": "ఇంకా రోల్‌ఓవర్ చరిత్ర లేదు. మొదటి బడ్జెట్ వ్యవధి ముగిసిన తర్వాత రోల్‌ఓవర్లు ఇక్కడ కనిపిస్తాయి.",
     "rollover": "రోల్‌ఓవర్",
     "addExpense": "ఖర్చును జోడించు",
     "addIncome": "ఆదాయాన్ని జోడించు",
@@ -726,5 +726,8 @@
     "goalNotFound": "లక్ష్యం కనుగొనబడలేదు",
     "goalDescription": "మీరు వెతుకుతున్న లక్ష్యం లేదు.",
     "vsLastMonthPercentage": "గత నెలతో పోలిస్తే {percentage}%",
-    "categoryPercentageChange": "మొత్తంలో {percentage}%"
+    "categoryPercentageChange": "మొత్తంలో {percentage}%",
+    "archive": "ఆర్కైవ్ చేయి",
+    "archiveThisRecurring": "ఈ పునరావృత లావాదేవీని ఆర్కైవ్ చేయి",
+    "selectYourPreferenceLanguage": "మీ అనుభవాన్ని వ్యక్తిగతీకరించడానికి మీ ఇష్టమైన భాషను ఎంచుకోండి"
 }

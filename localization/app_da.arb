@@ -197,7 +197,7 @@
     "dateNewestFirst": "Dato (nyeste først)",
     "reorderAccounts": "Omarranger konti",
     "whatsNew": "Hvad er nyt",
-    "googleDriveDesc": "Sikkerhedskopiér og gendan dine data til Google Drive",
+    "googleDriveDesc": "Sikkerhedskopér og gendan dine data til Google Drive",
     "googleDriveBackup": "Google Drive-sikkerhedskopi",
     "historyDesc": "Se alle dine transaktioner",
     "exportAllData": "Eksporter alle data",
@@ -728,5 +728,8 @@
     "goalNotFound": "Mål ikke fundet",
     "goalDescription": "Det mål du leder efter eksisterer ikke.",
     "vsLastMonthPercentage": "{percentage}% vs sidste måned",
-    "categoryPercentageChange": "{percentage}% af total"
+    "categoryPercentageChange": "{percentage}% af total",
+    "archive": "Arkivér",
+    "archiveThisRecurring": "Arkivér denne tilbagevendende transaktion",
+    "selectYourPreferenceLanguage": "Vælg dit foretrukne sprog for at tilpasse din oplevelse"
 }

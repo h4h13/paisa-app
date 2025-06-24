@@ -726,5 +726,8 @@
     "goalNotFound": "هدف یافت نشد",
     "goalDescription": "هدفی که دنبال آن هستید وجود ندارد.",
     "vsLastMonthPercentage": "{percentage}% در مقایسه با ماه قبل",
-    "categoryPercentageChange": "{percentage}% از کل"
+    "categoryPercentageChange": "{percentage}% از کل",
+    "archive": "بایگانی",
+    "archiveThisRecurring": "این تراکنش تکرارشونده را بایگانی کن",
+    "selectYourPreferenceLanguage": "زبان مورد علاقه خود را برای شخصی‌سازی تجربه انتخاب کنید"
 }

@@ -728,5 +728,8 @@
     "goalNotFound": "Στόχος δεν βρέθηκε",
     "goalDescription": "Ο στόχος που ψάχνετε δεν υπάρχει.",
     "vsLastMonthPercentage": "{percentage}% σε σχέση με τον προηγούμενο μήνα",
-    "categoryPercentageChange": "{percentage}% του συνόλου"
+    "categoryPercentageChange": "{percentage}% του συνόλου",
+    "archive": "Αρχειοθέτηση",
+    "archiveThisRecurring": "Αρχειοθέτηση αυτής της επαναλαμβανόμενης συναλλαγής",
+    "selectYourPreferenceLanguage": "Επιλέξτε την προτιμώμενη γλώσσα σας για να εξατομικεύσετε την εμπειρία σας"
 }

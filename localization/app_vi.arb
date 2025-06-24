@@ -726,5 +726,8 @@
     "goalNotFound": "Không tìm thấy mục tiêu",
     "goalDescription": "Mục tiêu bạn đang tìm kiếm không tồn tại.",
     "vsLastMonthPercentage": "{percentage}% so với tháng trước",
-    "categoryPercentageChange": "{percentage}% của tổng số"
+    "categoryPercentageChange": "{percentage}% của tổng số",
+    "archive": "Lưu trữ",
+    "archiveThisRecurring": "Lưu trữ giao dịch định kỳ này",
+    "selectYourPreferenceLanguage": "Chọn ngôn ngữ bạn muốn để cá nhân hóa trải nghiệm của mình"
 }

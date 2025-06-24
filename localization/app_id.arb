@@ -726,5 +726,8 @@
     "goalNotFound": "Tujuan tidak ditemukan",
     "goalDescription": "Tujuan yang Anda cari tidak ada.",
     "vsLastMonthPercentage": "{percentage}% vs bulan lalu",
-    "categoryPercentageChange": "{percentage}% dari total"
+    "categoryPercentageChange": "{percentage}% dari total",
+    "archive": "Arsipkan",
+    "archiveThisRecurring": "Arsipkan transaksi berulang ini",
+    "selectYourPreferenceLanguage": "Pilih bahasa pilihan Anda untuk menyesuaikan pengalaman Anda"
 }

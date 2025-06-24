@@ -726,5 +726,8 @@
     "goalNotFound": "Doel niet gevonden",
     "goalDescription": "Het doel dat u zoekt bestaat niet.",
     "vsLastMonthPercentage": "{percentage}% vs vorige maand",
-    "categoryPercentageChange": "{percentage}% van totaal"
+    "categoryPercentageChange": "{percentage}% van totaal",
+    "archive": "Archiveren",
+    "archiveThisRecurring": "Deze terugkerende transactie archiveren",
+    "selectYourPreferenceLanguage": "Kies je voorkeurstaal om je ervaring te personaliseren"
 }

@@ -726,5 +726,8 @@
     "goalNotFound": "Obiettivo non trovato",
     "goalDescription": "L'obiettivo che stai cercando non esiste.",
     "vsLastMonthPercentage": "{percentage}% vs mese scorso",
-    "categoryPercentageChange": "{percentage}% del totale"
+    "categoryPercentageChange": "{percentage}% del totale",
+    "archive": "Archivia",
+    "archiveThisRecurring": "Archivia questa transazione ricorrente",
+    "selectYourPreferenceLanguage": "Seleziona la tua lingua preferita per personalizzare la tua esperienza"
 }
