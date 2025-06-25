@@ -4038,5 +4038,48 @@
     "@selectYourPreferenceLanguage": {
         "description": "Text shown on the settings page for selecting language preference",
         "type": "text"
+    },
+    "percentageOfTotalBudgetSpend": "{percentage}% of total budget spent",
+    "@percentageOfTotalBudgetSpend": {
+        "description": "Text shown on the budget details page for percentage of total budget spent",
+        "type": "text",
+        "placeholders": {
+            "percentage": {
+                "type": "String"
+            }
+        }
+    },
+    "progressTowardsGoal": "Progress: {progress}",
+    "@progressTowardsGoal": {
+        "description": "Text shown on the goal details page for progress towards goal",
+        "type": "text",
+        "placeholders": {
+            "progress": {
+                "type": "String"
+            }
+        }
+    },
+    "topCategoryName": "Top: {categoryName}",
+    "@topCategoryName": {
+        "description": "Text shown on the spending pattern page for top category name",
+        "type": "text",
+        "placeholders": {
+            "categoryName": {
+                "type": "String"
+            }
+        }
+    },
+    "spendWith": "Spend with {categoryName}: {amount}",
+    "@spendWith": {
+        "description": "Text shown on the spending pattern page for spend with category",
+        "type": "text",
+        "placeholders": {
+            "categoryName": {
+                "type": "String"
+            },
+            "amount": {
+                "type": "String"
+            }
+        }
     }
 }
