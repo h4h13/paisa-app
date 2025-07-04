@@ -4081,5 +4081,90 @@
                 "type": "String"
             }
         }
+    },
+    "yearlyPlan": "Yearly Plan",
+    "@yearlyPlan": {
+        "description": "Text shown on the paywall page for yearly plan",
+        "type": "text"
+    },
+    "pricePerYear": " {price} per year",
+    "@pricePerYear": {
+        "description": "Text shown on the paywall page for per year",
+        "type": "text",
+        "placeholders": {
+            "price": {
+                "type": "String"
+            }
+        }
+    },
+    "thenPricePerWeek": "then {price} per week",
+    "@thenPricePerWeek": {
+        "description": "Text shown on the paywall page for then price per week",
+        "type": "text",
+        "placeholders": {
+            "price": {
+                "type": "String"
+            }
+        }
+    },
+    "threeDayFreeTrial": "3-Day Free Trial",
+    "@threeDayFreeTrial": {
+        "description": "Text shown on the paywall page for 3-day free trial",
+        "type": "text"
+    },
+    "limitUpdate": "Limit Update",
+    "@limitUpdate": {
+        "description": "Text shown on the paywall page for limit update",
+        "type": "text"
+    },
+    "limitUpdateDescription": "We've updated our feature limits to provide a better experience:",
+    "@limitUpdateDescription": {
+        "description": "Text shown on the paywall page for limit update description",
+        "type": "text"
+    },
+    "limitUpdateBulletPoint1": "New users can create up to 2 budgets, goals, loans, and recurring items for free",
+    "@limitUpdateBulletPoint1": {
+        "description": "Text shown on the paywall page for limit update bullet point 1",
+        "type": "text"
+    },
+    "limitUpdateBulletPoint2": "Existing users can create up to 2 budgets, goals, loans, and recurring items for free",
+    "@limitUpdateBulletPoint2": {
+        "description": "Text shown on the paywall page for limit update bullet point 2",
+        "type": "text"
+    },
+    "limitUpdateBulletPoint3": "Upgrade to Pro for unlimited features and more",
+    "@limitUpdateBulletPoint3": {
+        "description": "Text shown on the paywall page for limit update bullet point 3",
+        "type": "text"
+    },
+    "upgradeNow": "Upgrade Now",
+    "@upgradeNow": {
+        "description": "Text shown on the paywall page for upgrade now",
+        "type": "text"
+    },
+    "share": "Share Paisa",
+    "@share": {
+        "description": "Text shown on the paywall page for share",
+        "type": "text"
+    },
+    "weeklyPlan": "Weekly Plan",
+    "@weeklyPlan": {
+        "description": "Text shown on the paywall page for weekly plan",
+        "type": "text"
+    },
+    "pricePerWeek": "{price} per week",
+    "@pricePerWeek": {
+        "description": "Text shown on the paywall page for price per week",
+        "type": "text",
+        "placeholders": {
+            "price": {
+                "type": "String"
+            }
+        }
+    },
+    "threeDayFree": "3-Day Free",
+    "@threeDayFree": {
+        "description": "Text shown on the paywall page for 3-day free",
+        "type": "text"
     }
 }
