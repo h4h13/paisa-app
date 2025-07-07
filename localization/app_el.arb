@@ -749,5 +749,50 @@
     "share": "Μοιραστείτε το Paisa",
     "weeklyPlan": "Εβδομαδιαίο Πλάνο",
     "pricePerWeek": "{price} την εβδομάδα",
-    "threeDayFree": "3 Ημέρες Δωρεάν"
+    "threeDayFree": "3 Ημέρες Δωρεάν",
+    "premiumFeature1Title": "Απεριόριστα Προφίλ Χρηστών",
+    "premiumFeature1Description": "Διαχειριστείτε πολλαπλά προφίλ χρηστών με ξεχωριστές συναλλαγές και νομίσματα.",
+    "premiumFeature2Title": "Απεριόριστα",
+    "premiumFeature2Description": "Δημιουργήστε απεριόριστους προϋπολογισμούς, συνδρομές, επαναλαμβανόμενα γεγονότα και στόχους.",
+    "premiumFeature3Title": "Αντίγραφο Ασφαλείας Cloud",
+    "premiumFeature3Description": "Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας στο cloud και επαναφέρετέ τα όταν χρειάζεται.",
+    "premiumFeature4Title": "Premium Widgets",
+    "premiumFeature4Description": "Προσθέστε premium widgets στην αρχική οθόνη σας για γρήγορη πρόσβαση στα οικονομικά σας.",
+    "premiumFeature5Title": "Καθαρό Μαύρο Θέμα",
+    "premiumFeature5Description": "Ένα σκούρο θέμα που είναι ήπιο στα μάτια και εξοικονομεί μπαταρία.",
+    "whatOurUsersSay": "Τι λένε οι χρήστες μας",
+    "lovedByThousands": "• Αγαπημένο από χιλιάδες",
+    "chooseYourPlan": "Επιλέξτε το Πλάνο σας",
+    "freeTrialNotAvailable": "Δωρεάν δοκιμή μη διαθέσιμη",
+    "freeTrialAvailable": "Δωρεάν δοκιμή διαθέσιμη",
+    "cancelAnytime": "Ακυρώστε οποτεδήποτε εντός 3 ημερών",
+    "savePercentage": "Εξοικονομήστε {percentage}%",
+    "paywallDescription": "Ξεκλειδώστε όλες τις δυνατότητες της οικονομικής σας διαχείρισης",
+    "annualPlan": "Ετήσιο Πλάνο",
+    "monthlyPlan": "Μηνιαίο Πλάνο",
+    "premiumPlan": "Premium Πλάνο",
+    "lifetimeAccess": "Πρόσβαση Ζωής",
+    "perWeek": "/εβδομάδα",
+    "perMonth": "/μήνα",
+    "perYear": "/έτος",
+    "premiumFeatures": "Premium Χαρακτηριστικά",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "Έναρξη Δωρεάν Δοκιμής",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "Έναρξη Ετήσιου Πλάνου",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "Έναρξη Εβδομαδιαίου Πλάνου",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "Επιλέξτε ένα Πλάνο",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

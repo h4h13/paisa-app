@@ -749,5 +749,50 @@
     "share": "Sdílet Paisa",
     "weeklyPlan": "Týdenní plán",
     "pricePerWeek": "{price} za týden",
-    "threeDayFree": "3 dny zdarma"
+    "threeDayFree": "3 dny zdarma",
+    "premiumFeature1Title": "Neomezené uživatelské profily",
+    "premiumFeature1Description": "Spravujte více uživatelských profilů s oddělenými transakcemi a měnami.",
+    "premiumFeature2Title": "Neomezené",
+    "premiumFeature2Description": "Vytvářejte neomezené rozpočty, předplatné, opakující se události a cíle.",
+    "premiumFeature3Title": "Cloudové zálohování",
+    "premiumFeature3Description": "Zálohujte svá data do cloudu a obnovte je podle potřeby.",
+    "premiumFeature4Title": "Premium widgety",
+    "premiumFeature4Description": "Přidejte premium widgety na domovskou obrazovku pro rychlý přístup k financím.",
+    "premiumFeature5Title": "Čistě černé téma",
+    "premiumFeature5Description": "Tmavé téma šetrné k očím a šetřící baterii.",
+    "whatOurUsersSay": "Co říkají naši uživatelé",
+    "lovedByThousands": "• Milované tisíci",
+    "chooseYourPlan": "Vyberte svůj plán",
+    "freeTrialNotAvailable": "Bezplatná zkušební verze není k dispozici",
+    "freeTrialAvailable": "Bezplatná zkušební verze je k dispozici",
+    "cancelAnytime": "Zrušte kdykoli do 3 dnů",
+    "savePercentage": "Ušetřete {percentage}%",
+    "paywallDescription": "Odemkněte plný potenciál správy vašich financí",
+    "annualPlan": "Roční plán",
+    "monthlyPlan": "Měsíční plán",
+    "premiumPlan": "Premium plán",
+    "lifetimeAccess": "Doživotní přístup",
+    "perWeek": "/týden",
+    "perMonth": "/měsíc",
+    "perYear": "/rok",
+    "premiumFeatures": "Premium funkce",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "Začít zkušební verzi",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "Začít roční plán",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "Začít týdenní plán",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "Vybrat plán",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

@@ -4166,5 +4166,160 @@
     "@threeDayFree": {
         "description": "Text shown on the paywall page for 3-day free",
         "type": "text"
+    },
+    "savePercentage": "Save {percentage}%",
+    "@savePercentage": {
+        "description": "Text shown on the paywall page for save percentage",
+        "type": "text",
+        "placeholders": {
+            "percentage": {
+                "type": "String"
+            }
+        }
+    },
+    "paywallDescription": "Unlock the full potential of your financial management",
+    "@paywallDescription": {
+        "description": "Text shown on the paywall page for description",
+        "type": "text"
+    },
+    "premiumFeature1Title": "Unlimited User Profiles",
+    "@premiumFeature1Title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature1Description": "Manage multiple user profiles with separate transactions and currencies.",
+    "@premiumFeature1Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature2Title": "Unlimited",
+    "@premiumFeature2Title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature2Description": "Create unlimited budgets, subscriptions, recurring events, and goals.",
+    "@premiumFeature2Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature3Title": "Cloud Backup",
+    "@premiumFeature3Title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature3Description": "Back up your data to the cloud and restore it whenever needed.",
+    "@premiumFeature3Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature4Title": "Premium Widgets",
+    "@premiumFeature4Title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature4Description": "Add premium widgets to your home screen for quick access to your finances.",
+    "@premiumFeature4Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature5Title": "Just Black Theme",
+    "@premiumFeature5Title": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "premiumFeature5Description": "A dark theme that is easy on the eyes and saves battery life.",
+    "@premiumFeature5Description": {
+        "description": "Text shown on the paywall page",
+        "type": "text"
+    },
+    "whatOurUsersSay": "What our users say",
+    "@whatOurUsersSay": {
+        "description": "Text shown on the paywall page for user testimonials",
+        "type": "text"
+    },
+    "lovedByThousands": "• Loved by thousands",
+    "@lovedByThousands": {
+        "description": "Text shown on the paywall page for user count",
+        "type": "text"
+    },
+    "chooseYourPlan": "Choose Your Plan",
+    "@chooseYourPlan": {
+        "description": "Text shown on the paywall page for choosing a plan",
+        "type": "text"
+    },
+    "freeTrialNotAvailable": "Free trial not available",
+    "@freeTrialNotAvailable": {
+        "description": "Text shown on the paywall page when free trial is not available",
+        "type": "text"
+    },
+    "freeTrialAvailable": "Free trial available",
+    "@freeTrialAvailable": {
+        "description": "Text shown on the paywall page when free trial is available",
+        "type": "text"
+    },
+    "cancelAnytime": "Cancel anytime within 3 days",
+    "@cancelAnytime": {
+        "description": "Text shown on the paywall page for cancel anytime",
+        "type": "text"
+    },
+    "annualPlan": "Annual Plan",
+    "@annualPlan": {
+        "description": "Text shown on the paywall page for annual plan",
+        "type": "text"
+    },
+    "monthlyPlan": "Monthly Plan",
+    "@monthlyPlan": {
+        "description": "Text shown on the paywall page for monthly plan",
+        "type": "text"
+    },
+    "premiumPlan": "Premium Plan",
+    "@premiumPlan": {
+        "description": "Text shown on the paywall page for premium plan",
+        "type": "text"
+    },
+    "lifetimeAccess": "Lifetime Access",
+    "@lifetimeAccess": {
+        "description": "Text shown on the paywall page for lifetime access",
+        "type": "text"
+    },
+    "perWeek": "/week",
+    "@perWeek": {
+        "description": "Text shown on the paywall page for per week",
+        "type": "text"
+    },
+    "perMonth": "/month",
+    "@perMonth": {
+        "description": "Text shown on the paywall page for per month",
+        "type": "text"
+    },
+    "perYear": "/year",
+    "@perYear": {
+        "description": "Text shown on the paywall page for per year",
+        "type": "text"
+    },
+    "premiumFeatures": "Premium Features",
+    "@premiumFeatures": {
+        "description": "Text shown on the paywall page for premium features",
+        "type": "text"
+    },
+    "startFreeTrial": "Start Free Trial",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial",
+        "type": "text"
+    },
+    "startAnnualPlan": "Start Annual Plan",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan",
+        "type": "text"
+    },
+    "startWeeklyPlan": "Start Weekly Plan",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan",
+        "type": "text"
+    },
+    "selectAPlan": "Select a Plan",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan",
+        "type": "text"
     }
 }

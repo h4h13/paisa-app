@@ -749,5 +749,50 @@
     "share": "Del Paisa",
     "weeklyPlan": "Ugentlig plan",
     "pricePerWeek": "{price} pr. uge",
-    "threeDayFree": "3 dage gratis"
+    "threeDayFree": "3 dage gratis",
+    "premiumFeature1Title": "Ubegrænsede brugerprofiler",
+    "premiumFeature1Description": "Administrer flere brugerprofiler med separate transaktioner og valutaer.",
+    "premiumFeature2Title": "Ubegrænset",
+    "premiumFeature2Description": "Opret ubegrænsede budgetter, abonnementer, tilbagevendende begivenheder og mål.",
+    "premiumFeature3Title": "Cloud backup",
+    "premiumFeature3Description": "Sikkerhedskopier dine data til skyen og gendan dem når det er nødvendigt.",
+    "premiumFeature4Title": "Premium widgets",
+    "premiumFeature4Description": "Tilføj premium widgets til din hjemmeskærm for hurtig adgang til din økonomi.",
+    "premiumFeature5Title": "Rent sort tema",
+    "premiumFeature5Description": "Et mørkt tema der er skånsomt for øjnene og sparer batteri.",
+    "whatOurUsersSay": "Hvad vores brugere siger",
+    "lovedByThousands": "• Elsket af tusinder",
+    "chooseYourPlan": "Vælg din plan",
+    "freeTrialNotAvailable": "Gratis prøveperiode ikke tilgængelig",
+    "freeTrialAvailable": "Gratis prøveperiode tilgængelig",
+    "cancelAnytime": "Annuller når som helst inden for 3 dage",
+    "savePercentage": "Spar {percentage}%",
+    "paywallDescription": "Frigør det fulde potentiale i din økonomiske styring",
+    "annualPlan": "Årsplan",
+    "monthlyPlan": "Månedlig Plan",
+    "premiumPlan": "Premium Plan",
+    "lifetimeAccess": "Livstidsadgang",
+    "perWeek": "/uge",
+    "perMonth": "/måned",
+    "perYear": "/år",
+    "premiumFeatures": "Premium Funktioner",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "Start Gratis Prøveperiode",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "Start Årlig Plan",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "Start Ugentlig Plan",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "Vælg en Plan",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

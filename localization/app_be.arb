@@ -749,5 +749,50 @@
     "share": "Падзяліцца Paisa",
     "weeklyPlan": "Тыднёвы план",
     "pricePerWeek": "{price} на тыдзень",
-    "threeDayFree": "3 дні бясплатна"
+    "threeDayFree": "3 дні бясплатна",
+    "premiumFeature1Title": "Неабмежаваныя профілі карыстальнікаў",
+    "premiumFeature1Description": "Кіруйце некалькімі профілямі карыстальнікаў з асобнымі транзакцыямі і валютамі.",
+    "premiumFeature2Title": "Неабмежавана",
+    "premiumFeature2Description": "Стварайце неабмежаваныя бюджэты, падпіскі, паўтаральныя падзеі і мэты.",
+    "premiumFeature3Title": "Воблачнае рэзервовае капіраванне",
+    "premiumFeature3Description": "Стварайце рэзервовыя копіі вашых даных у воблаку і аднаўляйце іх пры неабходнасці.",
+    "premiumFeature4Title": "Прэміум віджэты",
+    "premiumFeature4Description": "Дадайце прэміум віджэты на галоўны экран для хуткага доступу да фінансаў.",
+    "premiumFeature5Title": "Чыста чорная тэма",
+    "premiumFeature5Description": "Цёмная тэма, якая шчадзіць вочы і эканоміць зарад батарэі.",
+    "whatOurUsersSay": "Што кажуць нашы карыстальнікі",
+    "lovedByThousands": "• Любімы тысячамі",
+    "chooseYourPlan": "Выберыце свой план",
+    "freeTrialNotAvailable": "Бясплатная пробная версія недаступная",
+    "freeTrialAvailable": "Бясплатная пробная версія даступная",
+    "cancelAnytime": "Адмяніце ў любы час на працягу 3 дзён",
+    "savePercentage": "Зэканомце {percentage}%",
+    "paywallDescription": "Раскрыйце ўвесь патэнцыял кіравання фінансамі",
+    "annualPlan": "Гадавы план",
+    "monthlyPlan": "Месячны план",
+    "premiumPlan": "Прэміум план",
+    "lifetimeAccess": "Доўгавечны доступ",
+    "perWeek": "/тыдзень",
+    "perMonth": "/месяц",
+    "perYear": "/год",
+    "premiumFeatures": "Прэміум функцыі",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "Пачаць бясплатную пробную версію",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "Пачаць гадавы план",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "Пачаць тыднёвы план",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "Выбраць план",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

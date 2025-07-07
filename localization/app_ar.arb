@@ -749,5 +749,50 @@
     "share": "مشاركة بايسا",
     "weeklyPlan": "الخطة الأسبوعية",
     "pricePerWeek": "{price} في الأسبوع",
-    "threeDayFree": "3 أيام مجاناً"
+    "threeDayFree": "3 أيام مجاناً",
+    "premiumFeature1Title": "ملفات مستخدمين غير محدودة",
+    "premiumFeature1Description": "إدارة ملفات مستخدمين متعددة مع معاملات وعملات منفصلة.",
+    "premiumFeature2Title": "غير محدود",
+    "premiumFeature2Description": "إنشاء ميزانيات واشتراكات وأحداث متكررة وأهداف غير محدودة.",
+    "premiumFeature3Title": "النسخ الاحتياطي السحابي",
+    "premiumFeature3Description": "قم بعمل نسخة احتياطية من بياناتك إلى السحابة واستعدها عند الحاجة.",
+    "premiumFeature4Title": "ودجات مميزة",
+    "premiumFeature4Description": "أضف ودجات مميزة إلى شاشتك الرئيسية للوصول السريع إلى أموالك.",
+    "premiumFeature5Title": "سمة سوداء خالصة",
+    "premiumFeature5Description": "سمة داكنة سهلة على العينين وتوفر البطارية.",
+    "whatOurUsersSay": "ما يقوله مستخدمونا",
+    "lovedByThousands": "• محبوب من قبل الآلاف",
+    "chooseYourPlan": "اختر خطتك",
+    "freeTrialNotAvailable": "التجربة المجانية غير متاحة",
+    "freeTrialAvailable": "التجربة المجانية متاحة",
+    "cancelAnytime": "إلغاء في أي وقت خلال 3 أيام",
+    "savePercentage": "وفر {percentage}%",
+    "paywallDescription": "اطلق العنان للإمكانيات الكاملة لإدارة أموالك",
+    "annualPlan": "الخطة السنوية",
+    "monthlyPlan": "الخطة الشهرية",
+    "premiumPlan": "الخطة المميزة",
+    "lifetimeAccess": "الوصول مدى الحياة",
+    "perWeek": "/أسبوع",
+    "perMonth": "/شهر",
+    "perYear": "/سنة",
+    "premiumFeatures": "الميزات المميزة",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "ابدأ التجربة المجانية",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "ابدأ الخطة السنوية",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "ابدأ الخطة الأسبوعية",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "اختر خطة",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

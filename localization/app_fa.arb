@@ -747,5 +747,50 @@
     "share": "اشتراک‌گذاری Paisa",
     "weeklyPlan": "طرح هفتگی",
     "pricePerWeek": "{price} در هفته",
-    "threeDayFree": "3 روز رایگان"
+    "threeDayFree": "3 روز رایگان",
+    "premiumFeature1Title": "پروفایل‌های کاربری نامحدود",
+    "premiumFeature1Description": "مدیریت چندین پروفایل کاربری با تراکنش‌ها و ارزهای جداگانه.",
+    "premiumFeature2Title": "نامحدود",
+    "premiumFeature2Description": "ایجاد بودجه، اشتراک، رویدادهای تکراری و اهداف نامحدود.",
+    "premiumFeature3Title": "پشتیبان‌گیری ابری",
+    "premiumFeature3Description": "از داده‌های خود در ابر پشتیبان‌گیری کنید و در صورت نیاز بازیابی کنید.",
+    "premiumFeature4Title": "ویجت‌های پریمیوم",
+    "premiumFeature4Description": "ویجت‌های پریمیوم را به صفحه اصلی خود اضافه کنید تا سریع به امور مالی‌تان دسترسی داشته باشید.",
+    "premiumFeature5Title": "تم سیاه خالص",
+    "premiumFeature5Description": "تمی تیره که برای چشم‌ها راحت است و باتری را ذخیره می‌کند.",
+    "whatOurUsersSay": "نظر کاربران ما",
+    "lovedByThousands": "• محبوب هزاران نفر",
+    "chooseYourPlan": "پلان خود را انتخاب کنید",
+    "freeTrialNotAvailable": "آزمایش رایگان در دسترس نیست",
+    "freeTrialAvailable": "آزمایش رایگان در دسترس است",
+    "cancelAnytime": "در هر زمان طی 3 روز لغو کنید",
+    "savePercentage": "{percentage}% صرفه‌جویی کنید",
+    "paywallDescription": "تمام پتانسیل مدیریت مالی خود را آزاد کنید",
+    "annualPlan": "پلان سالانه",
+    "monthlyPlan": "پلان ماهانه",
+    "premiumPlan": "پلان پریمیوم",
+    "lifetimeAccess": "دسترسی مادام‌العمر",
+    "perWeek": "/هفته",
+    "perMonth": "/ماه",
+    "perYear": "/سال",
+    "premiumFeatures": "ویژگی‌های پریمیوم",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "شروع آزمایش رایگان",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "شروع طرح سالانه",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "شروع طرح هفتگی",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "انتخاب طرح",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

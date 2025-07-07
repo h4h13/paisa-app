@@ -749,5 +749,50 @@
     "share": "Paisa teilen",
     "weeklyPlan": "Wöchentlicher Plan",
     "pricePerWeek": "{price} pro Woche",
-    "threeDayFree": "3 Tage kostenlos"
+    "threeDayFree": "3 Tage kostenlos",
+    "premiumFeature1Title": "Unbegrenzte Benutzerprofile",
+    "premiumFeature1Description": "Verwalten Sie mehrere Benutzerprofile mit separaten Transaktionen und Währungen.",
+    "premiumFeature2Title": "Unbegrenzt",
+    "premiumFeature2Description": "Erstellen Sie unbegrenzte Budgets, Abonnements, wiederkehrende Ereignisse und Ziele.",
+    "premiumFeature3Title": "Cloud-Backup",
+    "premiumFeature3Description": "Sichern Sie Ihre Daten in der Cloud und stellen Sie sie bei Bedarf wieder her.",
+    "premiumFeature4Title": "Premium-Widgets",
+    "premiumFeature4Description": "Fügen Sie Premium-Widgets zu Ihrem Startbildschirm hinzu für schnellen Zugriff auf Ihre Finanzen.",
+    "premiumFeature5Title": "Tiefschwarzes Theme",
+    "premiumFeature5Description": "Ein dunkles Theme, das augenschonend ist und Akku spart.",
+    "whatOurUsersSay": "Was unsere Nutzer sagen",
+    "lovedByThousands": "• Von Tausenden geliebt",
+    "chooseYourPlan": "Wählen Sie Ihren Plan",
+    "freeTrialNotAvailable": "Kostenlose Testversion nicht verfügbar",
+    "freeTrialAvailable": "Kostenlose Testversion verfügbar",
+    "cancelAnytime": "Jederzeit innerhalb von 3 Tagen kündigen",
+    "savePercentage": "Sparen Sie {percentage}%",
+    "paywallDescription": "Entfesseln Sie das volle Potenzial Ihrer Finanzverwaltung",
+    "annualPlan": "Jahresplan",
+    "monthlyPlan": "Monatsplan",
+    "premiumPlan": "Premium-Plan",
+    "lifetimeAccess": "Lebenslanger Zugang",
+    "perWeek": "/Woche",
+    "perMonth": "/Monat",
+    "perYear": "/Jahr",
+    "premiumFeatures": "Premium-Funktionen",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "Kostenlose Testversion starten",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "Jahresplan starten",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "Wochenplan starten",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "Plan auswählen",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }

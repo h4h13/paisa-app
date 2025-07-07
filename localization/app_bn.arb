@@ -747,5 +747,50 @@
     "share": "Paisa শেয়ার করুন",
     "weeklyPlan": "সাপ্তাহিক পরিকল্পনা",
     "pricePerWeek": "সপ্তাহে {price}",
-    "threeDayFree": "৩ দিন বিনামূল্যে"
+    "threeDayFree": "৩ দিন বিনামূল্যে",
+    "premiumFeature1Title": "সীমাহীন ব্যবহারকারী প্রোফাইল",
+    "premiumFeature1Description": "পৃথক লেনদেন এবং মুদ্রা সহ একাধিক ব্যবহারকারী প্রোফাইল পরিচালনা করুন।",
+    "premiumFeature2Title": "সীমাহীন",
+    "premiumFeature2Description": "সীমাহীন বাজেট, সাবস্ক্রিপশন, পুনরাবৃত্ত ইভেন্ট এবং লক্ষ্য তৈরি করুন।",
+    "premiumFeature3Title": "ক্লাউড ব্যাকআপ",
+    "premiumFeature3Description": "আপনার ডেটা ক্লাউডে ব্যাকআপ করুন এবং প্রয়োজনে পুনরুদ্ধার করুন।",
+    "premiumFeature4Title": "প্রিমিয়াম উইজেট",
+    "premiumFeature4Description": "আপনার আর্থিক বিষয়ে দ্রুত অ্যাক্সেসের জন্য আপনার হোম স্ক্রিনে প্রিমিয়াম উইজেট যোগ করুন।",
+    "premiumFeature5Title": "খাঁটি কালো থিম",
+    "premiumFeature5Description": "একটি গাঢ় থিম যা চোখের জন্য সহজ এবং ব্যাটারি সাশ্রয় করে।",
+    "whatOurUsersSay": "আমাদের ব্যবহারকারীরা কী বলেন",
+    "lovedByThousands": "• হাজার হাজার মানুষের প্রিয়",
+    "chooseYourPlan": "আপনার প্ল্যান বেছে নিন",
+    "freeTrialNotAvailable": "বিনামূল্যে পরীক্ষা উপলব্ধ নয়",
+    "freeTrialAvailable": "বিনামূল্যে পরীক্ষা উপলব্ধ",
+    "cancelAnytime": "৩ দিনের মধ্যে যে কোনো সময় বাতিল করুন",
+    "savePercentage": "{percentage}% সাশ্রয় করুন",
+    "paywallDescription": "আপনার আর্থিক ব্যবস্থাপনার সম্পূর্ণ সম্ভাবনা আনলক করুন",
+    "annualPlan": "বার্ষিক পরিকল্পনা",
+    "monthlyPlan": "মাসিক পরিকল্পনা",
+    "premiumPlan": "প্রিমিয়াম পরিকল্পনা",
+    "lifetimeAccess": "আজীবন অ্যাক্সেস",
+    "perWeek": "/সপ্তাহ",
+    "perMonth": "/মাস",
+    "perYear": "/বছর",
+    "premiumFeatures": "প্রিমিয়াম বৈশিষ্ট্য",
+    "@premiumFeatures": {
+        "description": "Premium Features header"
+    },
+    "startFreeTrial": "বিনামূল্যে ট্রায়াল শুরু করুন",
+    "@startFreeTrial": {
+        "description": "Text shown on the paywall page for starting free trial"
+    },
+    "startAnnualPlan": "বার্ষিক প্ল্যান শুরু করুন",
+    "@startAnnualPlan": {
+        "description": "Text shown on the paywall page for starting annual plan"
+    },
+    "startWeeklyPlan": "সাপ্তাহিক প্ল্যান শুরু করুন",
+    "@startWeeklyPlan": {
+        "description": "Text shown on the paywall page for starting weekly plan"
+    },
+    "selectAPlan": "একটি প্ল্যান নির্বাচন করুন",
+    "@selectAPlan": {
+        "description": "Text shown on the paywall page for selecting a plan"
+    }
 }
