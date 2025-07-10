@@ -4107,6 +4107,16 @@
             }
         }
     },
+    "thenPricePerYear": "{price} per year",
+    "@thenPricePerYear": {
+        "description": "Text shown on the paywall page for then price per week",
+        "type": "text",
+        "placeholders": {
+            "price": {
+                "type": "String"
+            }
+        }
+    },
     "threeDayFreeTrial": "3-Day Free Trial",
     "@threeDayFreeTrial": {
         "description": "Text shown on the paywall page for 3-day free trial",
@@ -4360,6 +4370,11 @@
     "exitDemoModeDescription": "This will remove all demo data and you can start adding your own transactions.",
     "@exitDemoModeDescription": {
         "description": "Text shown on the demo mode page for active description",
+        "type": "text"
+    },
+    "cancelAnytimeText": "Cancel anytime",
+    "@cancelAnytimeText": {
+        "description": "Text shown on the paywall page for cancel anytime",
         "type": "text"
     }
 }

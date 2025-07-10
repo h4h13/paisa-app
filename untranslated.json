@@ -1,5 +1,6 @@
 {
   "ar": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -7,10 +8,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "be": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -18,10 +21,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "bn": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -29,10 +34,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "cs": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -40,10 +47,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "da": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -51,10 +60,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "de": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -62,10 +73,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "el": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -73,10 +86,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "es": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -84,10 +99,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "fa": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -95,10 +112,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "fr": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -106,10 +125,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "he": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -117,10 +138,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "hi": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -128,10 +151,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "id": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -139,10 +164,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "it": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -150,10 +177,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "ja": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -161,10 +190,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "kn": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -172,10 +203,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "ko": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -183,10 +216,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "ml": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -194,10 +229,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "nl": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -205,10 +242,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "pl": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -216,10 +255,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "pt": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -227,10 +268,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "pt_BR": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -238,10 +281,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "ro": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -249,10 +294,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "ru": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -260,10 +307,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "sv": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -271,10 +320,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "sw": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -282,10 +333,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "te": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -293,10 +346,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "th": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -304,10 +359,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "tl": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -315,10 +372,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "tr": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -326,10 +385,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "uk": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -337,10 +398,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "vi": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -348,10 +411,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "zh": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -359,10 +424,12 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ],
 
   "zh_TW": [
+    "thenPricePerYear",
     "tryDemo",
     "tryDemoMode",
     "demoModeDescription",
@@ -370,6 +437,7 @@
     "exitDemo",
     "demoModeActive",
     "exitDemoMode",
-    "exitDemoModeDescription"
+    "exitDemoModeDescription",
+    "cancelAnytimeText"
   ]
 }
