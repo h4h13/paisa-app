@@ -4321,5 +4321,45 @@
     "@selectAPlan": {
         "description": "Text shown on the paywall page for selecting a plan",
         "type": "text"
+    },
+    "tryDemo": "Try Demo",
+    "@tryDemo": {
+        "description": "Text shown on the demo widget on summary page",
+        "type": "text"
+    },
+    "tryDemoMode": "Try Demo Mode",
+    "@tryDemoMode": {
+        "description": "",
+        "type": "text"
+    },
+    "demoModeDescription": "New to Paisa? Explore with sample transactions, budgets, and goals to see how it works before adding your own data.",
+    "@demoModeDescription": {
+        "description": "Text shown on the demo mode page for description",
+        "type": "text"
+    },
+    "startFresh": "Start Fresh",
+    "@startFresh": {
+        "description": "Text shown on the demo mode page for starting fresh",
+        "type": "text"
+    },
+    "exitDemo": "Exit Demo",
+    "@exitDemo": {
+        "description": "Text shown on the demo mode page for exiting demo mode",
+        "type": "text"
+    },
+    "demoModeActive": "Demo Mode Active",
+    "@demoModeActive": {
+        "description": "Text shown on the demo mode page when demo mode is active",
+        "type": "text"
+    },
+    "exitDemoMode": "Exit Demo Mode",
+    "@exitDemoMode": {
+        "description": "Text shown on the demo mode page for exiting demo mode",
+        "type": "text"
+    },
+    "exitDemoModeDescription": "This will remove all demo data and you can start adding your own transactions.",
+    "@exitDemoModeDescription": {
+        "description": "Text shown on the demo mode page for active description",
+        "type": "text"
     }
 }

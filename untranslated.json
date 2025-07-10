@@ -1,1 +1,375 @@
-{}
+{
+  "ar": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "be": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "bn": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "cs": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "da": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "de": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "el": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "es": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "fa": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "fr": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "he": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "hi": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "id": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "it": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "ja": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "kn": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "ko": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "ml": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "nl": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "pl": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "pt": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "pt_BR": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "ro": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "ru": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "sv": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "sw": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "te": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "th": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "tl": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "tr": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "uk": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "vi": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "zh": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ],
+
+  "zh_TW": [
+    "tryDemo",
+    "tryDemoMode",
+    "demoModeDescription",
+    "startFresh",
+    "exitDemo",
+    "demoModeActive",
+    "exitDemoMode",
+    "exitDemoModeDescription"
+  ]
+}
