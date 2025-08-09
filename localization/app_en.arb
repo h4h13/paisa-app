@@ -263,11 +263,6 @@
         "description": "Error message shown when entered name is not valid",
         "type": "text"
     },
-    "profile": "Profile",
-    "@profile": {
-        "description": "Text shown on the bottom sheet dialog",
-        "type": "text"
-    },
     "selectCurrency": "Select currency",
     "@selectCurrency": {
         "description": "Toolbar title text shown on choosing the currency",
@@ -474,11 +469,6 @@
         "description": "Text shown on the intro page",
         "type": "text"
     },
-    "welcome": "Hi, Welcome to",
-    "@welcome": {
-        "description": "Intro page message for name input",
-        "type": "text"
-    },
     "whatShouldWeCallYou": "What should we call you?",
     "@whatShouldWeCallYou": {
         "description": "Welcome desc ",
@@ -632,11 +622,6 @@
         "description": "Text shown on the biometric screen below icon",
         "type": "text"
     },
-    "back": "Back",
-    "@back": {
-        "description": "Text shown on the button on intro page",
-        "type": "text"
-    },
     "total": "Total",
     "@total": {
         "description": "Text shown on the home screen sub title on total card",
@@ -760,11 +745,6 @@
     "updatedDebit": "Debit updated",
     "@updatedDebit": {
         "description": "Successful message when debit updated",
-        "type": "text"
-    },
-    "contributors": "Contributors",
-    "@contributors": {
-        "description": "Text shown on setting page for contributors options",
         "type": "text"
     },
     "topCategories": "Top categories",
@@ -912,11 +892,6 @@
         "description": "Text shown on the history page",
         "type": "text"
     },
-    "exportAllData": "Export all data",
-    "@exportAllData": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
     "exportAllDataSuccess": "Data exported successfully",
     "@exportAllDataSuccess": {
         "description": "Text shown on the export and import page",
@@ -955,11 +930,6 @@
     "trackBudgets": "Track budgets",
     "@trackBudgets": {
         "description": "Text shown on the home page section title",
-        "type": "text"
-    },
-    "trackBudget": "Track Budget",
-    "@trackBudget": {
-        "description": "Text shown on the budget details page",
         "type": "text"
     },
     "onTrack": "On track",
@@ -1128,15 +1098,6 @@
                 "type": "String"
             },
             "autoRenew": {
-                "type": "String"
-            }
-        }
-    },
-    "subscriptionNextPayment": "Due on {date}",
-    "@subscriptionNextPayment": {
-        "description": "Text shown on the subscription page",
-        "placeholders": {
-            "date": {
                 "type": "String"
             }
         }
@@ -1405,11 +1366,6 @@
     },
     "export": "Export",
     "@export": {
-        "description": "Text shown on the backup restore page",
-        "type": "text"
-    },
-    "import": "Import",
-    "@import": {
         "description": "Text shown on the backup restore page",
         "type": "text"
     },
@@ -1926,11 +1882,6 @@
         "description": "Text shown on the account details page",
         "type": "text"
     },
-    "appearance": "Interface Settings",
-    "@appearance": {
-        "description": "Text shown on the settings page",
-        "type": "text"
-    },
     "notificationAndSecurity": "Notification & Security",
     "@notificationAndSecurity": {
         "description": "Text shown on the settings page",
@@ -2020,16 +1971,6 @@
     "@subscriptionStatus": {
         "description": "Text shown on the subscription page",
         "type": "text"
-    },
-    "activeSubscription": "Active ({type})",
-    "@activeSubscription": {
-        "description": "Text shown on the subscription page",
-        "type": "text",
-        "placeholders": {
-            "type": {
-                "type": "String"
-            }
-        }
     },
     "skipInstance": "Skip",
     "@skipInstance": {
@@ -2333,11 +2274,6 @@
     },
     "users": "Users",
     "@users": {
-        "description": "Text shown on the add user page",
-        "type": "text"
-    },
-    "noUsers": "No users found",
-    "@noUsers": {
         "description": "Text shown on the add user page",
         "type": "text"
     },
@@ -2868,11 +2804,6 @@
         "description": "Text shown on the spending pattern page",
         "type": "text"
     },
-    "quarter": "Quarter",
-    "@quarter": {
-        "description": "Text shown on the spending pattern page",
-        "type": "text"
-    },
     "month": "Month",
     "@month": {
         "description": "Text shown on the spending pattern page",
@@ -3197,11 +3128,6 @@
     },
     "nextOccurrence": "Next Occurrence",
     "@nextOccurrence": {
-        "description": "Text shown on the recurring details page",
-        "type": "text"
-    },
-    "daysUntilNext": "Days Until Next",
-    "@daysUntilNext": {
         "description": "Text shown on the recurring details page",
         "type": "text"
     },
@@ -3543,11 +3469,6 @@
             }
         }
     },
-    "threeDayFree": "3-Day Free",
-    "@threeDayFree": {
-        "description": "Text shown on the paywall page for 3-day free",
-        "type": "text"
-    },
     "savePercentage": "Save {percentage}%",
     "@savePercentage": {
         "description": "Text shown on the paywall page for save percentage",
@@ -3626,11 +3547,6 @@
     "freeTrialAvailable": "Free trial available",
     "@freeTrialAvailable": {
         "description": "Text shown on the paywall page when free trial is available",
-        "type": "text"
-    },
-    "cancelAnytime": "Cancel anytime within 3 days",
-    "@cancelAnytime": {
-        "description": "Text shown on the paywall page for cancel anytime",
         "type": "text"
     },
     "monthlyPlan": "Monthly Plan",
@@ -3731,11 +3647,6 @@
     "cancelAnytimeText": "Cancel anytime",
     "@cancelAnytimeText": {
         "description": "Text shown on the paywall page for cancel anytime",
-        "type": "text"
-    },
-    "migrationComplete": "Migration complete! Redirecting...",
-    "@migrationComplete": {
-        "description": "Text shown on the migration page when migration is complete",
         "type": "text"
     },
     "progress": "Progress",
@@ -4057,5 +3968,21 @@
                 "type": "String"
             }
         }
+    },
+    "dueOnDate": "Due on {date}",
+    "@dueOnDate": {
+        "description": "Text shown for the due date",
+        "type": "text",
+        "placeholders": {
+            "date": {
+                "description": "The due date",
+                "type": "String"
+            }
+        }
+    },
+    "floatingBottomNavigationBar": "Floating Bottom Navigation Bar",
+    "@floatingBottomNavigationBar": {
+        "description": "Text shown for the floating bottom navigation bar",
+        "type": "text"
     }
 }
