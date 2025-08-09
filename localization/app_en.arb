@@ -15,11 +15,6 @@
         "description": "Section title shown on the home page",
         "type": "text"
     },
-    "welcomeMessage": "Welcome back!",
-    "@welcomeMessage": {
-        "description": "Text shown on the home screen under the user name",
-        "type": "text"
-    },
     "categories": "Categories",
     "@categories": {
         "description": "Categories text shown in the bottom navigation or drawer widget",
@@ -223,11 +218,6 @@
         "description": "Add account text shown on the transactions page as toolbar title",
         "type": "text"
     },
-    "transactionHistory": "Transaction history",
-    "@transactionHistory": {
-        "description": "Title text shown on accounts page as section header title",
-        "type": "text"
-    },
     "cash": "Cash",
     "@cash": {
         "description": "Text shown on the account page chip button",
@@ -276,11 +266,6 @@
     "profile": "Profile",
     "@profile": {
         "description": "Text shown on the bottom sheet dialog",
-        "type": "text"
-    },
-    "chooseTheme": "Choose theme",
-    "@chooseTheme": {
-        "description": "Title text shown on the settings page theme for theme chooser",
         "type": "text"
     },
     "selectCurrency": "Select currency",
@@ -355,11 +340,6 @@
     "github": "GitHub",
     "@github": {
         "description": "Title text shown on settings page for github button ",
-        "type": "text"
-    },
-    "githubText": "Check out the releases and changelog",
-    "@githubText": {
-        "description": "Subtitle text shown on the github button",
         "type": "text"
     },
     "version": "Version",
@@ -514,11 +494,6 @@
         "description": "Text input hint name",
         "type": "text"
     },
-    "imageDesc": "Let's set an image of you",
-    "@imageDesc": {
-        "description": "Image desc ",
-        "type": "text"
-    },
     "income": "Income",
     "@income": {
         "description": "Text shown on multiple places",
@@ -564,29 +539,10 @@
         "description": "Text shown on the input hint",
         "type": "text"
     },
-    "currencySign": "Currency sign",
-    "@currencySign": {
-        "description": "Text shown on the button on settings screen",
-        "type": "text"
-    },
     "calendarFormat": "Calendar format",
     "@calendarFormat": {
         "description": "Text shown on the button on settings screen",
         "type": "text"
-    },
-    "appRate": "Rate the app",
-    "@appRate": {
-        "description": "Rate "
-    },
-    "appRateDesc": "Love this app? Let us know how we can make it better on the {store}",
-    "@appRateDesc": {
-        "description": "Text shown on the settings page",
-        "type": "text",
-        "placeholders": {
-            "store": {
-                "type": "String"
-            }
-        }
     },
     "transferName": "Transfer name",
     "@transferName": {
@@ -644,21 +600,6 @@
     "recurringEmptyMessageSubTitle": "Add recurring events to view them here",
     "@recurringEmptyMessageSubTitle": {
         "description": "Subtitle text shown on the recurring page when no events available",
-        "type": "text"
-    },
-    "smallSizeFab": "Small size FAB",
-    "@smallSizeFab": {
-        "description": "Title text shown on the settings page for FAB size option",
-        "type": "text"
-    },
-    "smallSizeFabMessage": "Show small size action button on all screens",
-    "@smallSizeFabMessage": {
-        "description": "Title text shown on the settings page for FAB size option",
-        "type": "text"
-    },
-    "selectDateErrorMessage": "Select date",
-    "@selectDateErrorMessage": {
-        "description": "Message shown when the date is not select on debt payout ",
         "type": "text"
     },
     "edit": "Edit",
@@ -721,23 +662,8 @@
         "description": "Text shown on settings page",
         "type": "text"
     },
-    "supportMe": "Support me",
-    "@supportMe": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
-    "supportMeDescription": "If you think I deserve a little treat for my hard work, you can buy me a virtual beer",
-    "@supportMeDescription": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
     "lockAppDescription": "When enabled, you'll need to use fingerprint to open Paisa.",
     "@lockAppDescription": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
-    "fontStyle": "Font style",
-    "@fontStyle": {
         "description": "Text shown on settings page",
         "type": "text"
     },
@@ -759,21 +685,6 @@
     "accountNotFound": "Account not found!",
     "@accountNotFound": {
         "description": "Text shown on snackbar when account not found",
-        "type": "text"
-    },
-    "bankNameError": "Set bank name",
-    "@bankNameError": {
-        "description": "Text shown on snackbar when adding account",
-        "type": "text"
-    },
-    "holderNameError": "Set account holder name",
-    "@holderNameError": {
-        "description": "Text shown on snackbar when adding account",
-        "type": "text"
-    },
-    "accountColorError": "Set account color name",
-    "@accountColorError": {
-        "description": "Text shown on snackbar when adding account",
         "type": "text"
     },
     "justBlackText": "Just black",
@@ -821,19 +732,9 @@
         "description": "Subtitle text shown on the summary page in home",
         "type": "text"
     },
-    "accountIconError": "Set account icon",
-    "@accountIconError": {
-        "description": "Text shown on snackbar when adding account",
-        "type": "text"
-    },
     "tags": "Labels",
     "@tags": {
         "description": "Text shown on the tab",
-        "type": "text"
-    },
-    "tagsToolTip": "Add label",
-    "@tagsToolTip": {
-        "description": "Text shown on the floating action buttons tooltip",
         "type": "text"
     },
     "selectTag": "Select label",
@@ -864,11 +765,6 @@
     "contributors": "Contributors",
     "@contributors": {
         "description": "Text shown on setting page for contributors options",
-        "type": "text"
-    },
-    "topAccounts": "Top accounts",
-    "@topAccounts": {
-        "description": "Text shown on home page section title",
         "type": "text"
     },
     "topCategories": "Top categories",
@@ -1031,33 +927,8 @@
         "description": "Text shown on the export and import page",
         "type": "text"
     },
-    "importAllData": "Import CSV file",
-    "@importAllData": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "importAllDataDesc": "Import all your data from a CSV file",
-    "@importAllDataDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "createBackupDesc": "Backup your transactions, accounts, categories, goals, and more",
-    "@createBackupDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
     "restoreBackup": "Restore backup",
     "@restoreBackup": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "restoreBackupDesc": "Restore your transactions, accounts, categories, goals, and more",
-    "@restoreBackupDesc": {
-        "description": "Text shown on the export and import page",
-        "type": "text"
-    },
-    "dangerZone": "Danger zone",
-    "@dangerZone": {
         "description": "Text shown on the export and import page",
         "type": "text"
     },
@@ -1136,16 +1007,6 @@
         "description": "Text shown on the delete budget dialog",
         "type": "text"
     },
-    "enableFeedback": "Enable feedback mode",
-    "@enableFeedback": {
-        "description": "Text shown on the setting option",
-        "type": "text"
-    },
-    "enableFeedbackDesc": "Send feedback to help improve the app",
-    "@enableFeedbackDesc": {
-        "description": "Text shown on the setting option",
-        "type": "text"
-    },
     "emptyGoalsMessageTitle": "No goals",
     "@emptyGoalsMessageTitle": {
         "description": "Title text shown on the goals page when no goals are available",
@@ -1159,16 +1020,6 @@
     "addGoal": "Add goal",
     "@addGoal": {
         "description": "Text shown on the add goal page title",
-        "type": "text"
-    },
-    "selectAImage": "Select a image",
-    "@selectAImage": {
-        "description": "Text shown on the add goal page",
-        "type": "text"
-    },
-    "overViewChartTitle": "Financial overview",
-    "@overViewChartTitle": {
-        "description": "Title text shown on the overview page",
         "type": "text"
     },
     "overViewChartSubTitle": "Income vs Expenses",
@@ -1218,11 +1069,6 @@
     },
     "subscriptions": "Subscriptions",
     "@subscriptions": {
-        "description": "Text shown on the setting page",
-        "type": "text"
-    },
-    "subscribe": "Subscribe",
-    "@subscribe": {
         "description": "Text shown on the setting page",
         "type": "text"
     },
@@ -1320,11 +1166,6 @@
         "description": "Text shown on the edit loan page title",
         "type": "text"
     },
-    "payLoan": "Pay loan",
-    "@payLoan": {
-        "description": "Text shown on the pay loan page title",
-        "type": "text"
-    },
     "emptyLoansMessageTitle": "No loans",
     "@emptyLoansMessageTitle": {
         "description": "Title text shown on the loans page when no loans are available",
@@ -1349,11 +1190,6 @@
         "description": "Text shown on the setting page",
         "type": "text"
     },
-    "aboutPaisa": "About Paisa",
-    "@aboutPaisa": {
-        "description": "Text shown on the setting page",
-        "type": "text"
-    },
     "restorePurchases": "Restore purchases",
     "@restorePurchases": {
         "description": "Text shown on the paywall page",
@@ -1361,16 +1197,6 @@
     },
     "continueText": "Continue",
     "@continueText": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "featureIncluded": "Feature included",
-    "@featureIncluded": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "paywallText": "Get access to all premium features and support the development",
-    "@paywallText": {
         "description": "Text shown on the paywall page",
         "type": "text"
     },
@@ -1484,16 +1310,6 @@
         "description": "Text shown on the recurring page section title",
         "type": "text"
     },
-    "dueTransactions": "Due transactions",
-    "@dueTransactions": {
-        "description": "Text shown on the recurring page section title",
-        "type": "text"
-    },
-    "dueTransaction": "Due transaction",
-    "@dueTransaction": {
-        "description": "Text shown on the recurring page section title",
-        "type": "text"
-    },
     "paidFromAccount": "Paid from: {accountName}",
     "@paidFromAccount": {
         "description": "Text shown on the recurring page",
@@ -1538,21 +1354,6 @@
                 "type": "int"
             }
         }
-    },
-    "tagDetailsSubtitle": "{tagCount} transactions",
-    "@tagDetailsSubtitle": {
-        "description": "Text shown on the delete tag dialog",
-        "type": "text",
-        "placeholders": {
-            "tagCount": {
-                "type": "int"
-            }
-        }
-    },
-    "topTags": "Top labels",
-    "@topTags": {
-        "description": "Text shown on the home page section title",
-        "type": "text"
     },
     "filter": "Filter",
     "@filter": {
@@ -1612,16 +1413,6 @@
         "description": "Text shown on the backup restore page",
         "type": "text"
     },
-    "exportCSV": "Save and load your expenses in CSV format, not recommended for importing data",
-    "@exportCSV": {
-        "description": "Text shown on the backup restore page",
-        "type": "text"
-    },
-    "dataImportedExportCSV": "CSV Backup & Restore",
-    "@dataImportedExportCSV": {
-        "description": "Text shown on the backup restore page",
-        "type": "text"
-    },
     "paisaProDesc": "Get the pro version to unlock all the features",
     "@paisaProDesc": {
         "description": "Text shown on the settings page",
@@ -1631,19 +1422,6 @@
     "@information": {
         "description": "Text shown on the paywall page",
         "type": "text"
-    },
-    "subscriptionInfo": "Subscription automatically renews unless canceled at least 24 hours before the end of the current period. You can cancel anytime through your {store} settings. Payment will be charged to your {account} account.",
-    "@subscriptionInfo": {
-        "description": "Text shown on the paywall page",
-        "type": "text",
-        "placeholders": {
-            "store": {
-                "type": "String"
-            },
-            "account": {
-                "type": "String"
-            }
-        }
     },
     "notificationTitle1": "Track Your Spending 📝",
     "@notificationTitle1": {
@@ -1950,11 +1728,6 @@
         "description": "Text shown on the settings page",
         "type": "text"
     },
-    "backupHistory": "Backup History",
-    "@backupHistory": {
-        "description": "Text shown on the settings page",
-        "type": "text"
-    },
     "backupFrequencyDays": "'Backup frequency set to {days} days'",
     "@backupFrequencyDays": {
         "description": "Text shown on the settings page",
@@ -1967,11 +1740,6 @@
     },
     "noBackupFilesFound": "No backup files found",
     "@noBackupFilesFound": {
-        "description": "Text shown on the backup page",
-        "type": "text"
-    },
-    "pleaseSelectABackupFile": "Please select a backup file",
-    "@pleaseSelectABackupFile": {
         "description": "Text shown on the backup page",
         "type": "text"
     },
@@ -2233,39 +2001,6 @@
         "description": "Text shown on the transaction details page",
         "type": "text"
     },
-    "goalCount": "{goalCount, plural, one{1 active} other{{goalCount} active}}, {completedGoalCount, plural, one{1 completed} other{{completedGoalCount} completed}}",
-    "@goalCount": {
-        "description": "Text shown on the home page section title",
-        "type": "text",
-        "placeholders": {
-            "goalCount": {
-                "type": "int"
-            },
-            "completedGoalCount": {
-                "type": "int"
-            }
-        }
-    },
-    "budgetCount": "{budgetCount} budgets",
-    "@budgetCount": {
-        "description": "Text shown on the home page section title",
-        "type": "text",
-        "placeholders": {
-            "budgetCount": {
-                "type": "int"
-            }
-        }
-    },
-    "selectYourDefaultCategories": "Select your default categories",
-    "@selectYourDefaultCategories": {
-        "description": "Text shown on the settings page",
-        "type": "text"
-    },
-    "selectYourDefaultAccounts": "Select your default accounts",
-    "@selectYourDefaultAccounts": {
-        "description": "Text shown on the settings page",
-        "type": "text"
-    },
     "noTransactions": "No transactions found",
     "@noTransactions": {
         "description": "Text shown on the transaction page",
@@ -2286,11 +2021,6 @@
         "description": "Text shown on the subscription page",
         "type": "text"
     },
-    "manageSubscription": "Manage subscription",
-    "@manageSubscription": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
-    },
     "activeSubscription": "Active ({type})",
     "@activeSubscription": {
         "description": "Text shown on the subscription page",
@@ -2300,16 +2030,6 @@
                 "type": "String"
             }
         }
-    },
-    "noActiveSubscription": "No active subscription",
-    "@noActiveSubscription": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
-    },
-    "modifyInstance": "Modify",
-    "@modifyInstance": {
-        "description": "Text shown on the subscription page",
-        "type": "text"
     },
     "skipInstance": "Skip",
     "@skipInstance": {
@@ -2354,11 +2074,6 @@
         "description": "Text shown on the budget details section title",
         "type": "text"
     },
-    "rolloverEnabled": "Rollover enabled",
-    "@rolloverEnabled": {
-        "description": "Text shown on the budget details section title",
-        "type": "text"
-    },
     "approaching": "Approaching",
     "@approaching": {
         "description": "Text shown on the budget details section title",
@@ -2386,10 +2101,6 @@
     "tagUpdated": "Label updated",
     "@tagUpdated": {
         "description": "Snackbar message when tag is updated"
-    },
-    "tagDeleted": "Label deleted",
-    "@tagDeleted": {
-        "description": "Snackbar message when tag is deleted"
     },
     "editTag": "Edit tag",
     "@editTag": {
@@ -2433,56 +2144,6 @@
     "financialSummary": "Financial summary",
     "@financialSummary": {
         "description": "Text shown on the home page section title",
-        "type": "text"
-    },
-    "proFeature1": "Track family & personal budgets separately with Multiple Accounts",
-    "@proFeature1": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature1Description": "Manage multiple user profiles with separate transactions and currencies",
-    "@proFeature1Description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature2": "Unlimited",
-    "@proFeature2": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature2Description": "Create unlimited budgets, subscriptions, recurring events & goals — no limits",
-    "@proFeature2Description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature3": "Just black Theme",
-    "@proFeature3": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature3Description": "Reduce eye strain & save battery with dark mode",
-    "@proFeature3Description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature4": "Google Drive Backup",
-    "@proFeature4": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature4Description": "Never lose data – sync with Google Drive",
-    "@proFeature4Description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature5": "Home Screen Widget",
-    "@proFeature5": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "proFeature5Description": "Check your spending instantly from your home screen",
-    "@proFeature5Description": {
-        "description": "Text shown on the paywall page",
         "type": "text"
     },
     "paidToAccount": "Paid to: {accountName}",
@@ -2585,11 +2246,6 @@
         "description": "Text shown on the login page",
         "type": "text"
     },
-    "manageUsers": "Manage Users",
-    "@manageUsers": {
-        "description": "Text shown on the manage users page",
-        "type": "text"
-    },
     "addUser": "Add User",
     "@addUser": {
         "description": "Text shown on the manage users page",
@@ -2685,24 +2341,9 @@
         "description": "Text shown on the add user page",
         "type": "text"
     },
-    "loanSummary": "Loan Summary",
-    "@loanSummary": {
-        "description": "Title for loan summary section",
-        "type": "text"
-    },
     "netLoanBalance": "Net Loan Balance",
     "@netLoanBalance": {
         "description": "Label for net loan balance",
-        "type": "text"
-    },
-    "netPositiveLoanMessage": "You're owed more than you owe",
-    "@netPositiveLoanMessage": {
-        "description": "Message when net loan balance is positive",
-        "type": "text"
-    },
-    "netNegativeLoanMessage": "You owe more than you're owed",
-    "@netNegativeLoanMessage": {
-        "description": "Message when net loan balance is negative",
         "type": "text"
     },
     "addPayment": "Add Payment",
@@ -2790,81 +2431,6 @@
         "description": "Prompt to add a payment",
         "type": "text"
     },
-    "markAsPaid": "Mark as Paid",
-    "@markAsPaid": {
-        "description": "Button text for marking a loan as paid",
-        "type": "text"
-    },
-    "deleteLoanConfirmation": "Are you sure you want to delete this loan? This action cannot be undone.",
-    "@deleteLoanConfirmation": {
-        "description": "Confirmation message for deleting a loan",
-        "type": "text"
-    },
-    "paymentDate": "Payment Date",
-    "@paymentDate": {
-        "description": "Label for payment date",
-        "type": "text"
-    },
-    "pleaseEnterAmount": "Please enter an amount",
-    "@pleaseEnterAmount": {
-        "description": "Error message for empty amount",
-        "type": "text"
-    },
-    "pleaseEnterValidAmount": "Please enter a valid amount",
-    "@pleaseEnterValidAmount": {
-        "description": "Error message for invalid amount",
-        "type": "text"
-    },
-    "paymentAdded": "Payment added successfully",
-    "@paymentAdded": {
-        "description": "Success message for adding payment",
-        "type": "text"
-    },
-    "markLendingAsPaidConfirmation": "Are you sure you want to mark this loan as fully paid? This will record that you have received the full amount back.",
-    "@markLendingAsPaidConfirmation": {
-        "description": "Confirmation message for marking lending as paid",
-        "type": "text"
-    },
-    "markBorrowingAsPaidConfirmation": "Are you sure you want to mark this loan as fully paid? This will record that you have paid back the full amount.",
-    "@markBorrowingAsPaidConfirmation": {
-        "description": "Confirmation message for marking borrowing as paid",
-        "type": "text"
-    },
-    "loanMarkedAsPaid": "Loan marked as fully paid",
-    "@loanMarkedAsPaid": {
-        "description": "Success message for marking loan as paid",
-        "type": "text"
-    },
-    "receivingFrom": "Receiving from",
-    "@receivingFrom": {
-        "description": "Label for who the payment is being received from",
-        "type": "text"
-    },
-    "payingTo": "Paying to",
-    "@payingTo": {
-        "description": "Label for who the payment is being made to",
-        "type": "text"
-    },
-    "noNote": "No note",
-    "@noNote": {
-        "description": "Label for when there is no note",
-        "type": "text"
-    },
-    "recentActivity": "Recent Activity",
-    "@recentActivity": {
-        "description": "Label for recent activity section",
-        "type": "text"
-    },
-    "noRecentActivity": "No recent activity",
-    "@noRecentActivity": {
-        "description": "Message when there is no recent activity",
-        "type": "text"
-    },
-    "viewAll": "View All",
-    "@viewAll": {
-        "description": "Button text for viewing all items",
-        "type": "text"
-    },
     "loanNotFound": "Loan not found",
     "@loanNotFound": {
         "description": "Message when a loan is not found",
@@ -2888,11 +2454,6 @@
     "backupRestoredSuccessfully": "Backup restored successfully!",
     "@backupRestoredSuccessfully": {
         "description": "Message shown when backup is restored successfully",
-        "type": "text"
-    },
-    "migratingTransactions": "Migrating transactions",
-    "@migratingTransactions": {
-        "description": "Message shown when migrating transactions",
         "type": "text"
     },
     "settingUpAccount": "Setting up account",
@@ -3057,21 +2618,6 @@
         "description": "Error message shown when expiry date is before start date",
         "type": "text"
     },
-    "dataBackupAndRestore": "Data Backup & Restore",
-    "@dataBackupAndRestore": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
-    "dataBackupAndRestoreDescription": "Save and load your financial records",
-    "@dataBackupAndRestoreDescription": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
-    "dataImportedExportCSVDescription": "Data Export/Import .csv file",
-    "@dataImportedExportCSVDescription": {
-        "description": "Text shown on settings page",
-        "type": "text"
-    },
     "user": "User",
     "@user": {
         "description": "Text shown on the history page",
@@ -3134,16 +2680,6 @@
     },
     "about": "About",
     "@about": {
-        "description": "Text shown on the settings page",
-        "type": "text"
-    },
-    "revenueCatId": "RevenueCat ID",
-    "@revenueCatId": {
-        "description": "Text shown on the settings page",
-        "type": "text"
-    },
-    "revenueCatIdCopied": "RevenueCat ID copied",
-    "@revenueCatIdCopied": {
         "description": "Text shown on the settings page",
         "type": "text"
     },
@@ -3237,74 +2773,9 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "annually": "Annually",
-    "@annually": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
     "lifetime": "Lifetime",
     "@lifetime": {
         "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "whatYouGet": "What you'll get",
-    "@whatYouGet": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_1_title": "Multiple Accounts",
-    "@feature_1_title": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_1_description": "Manage multiple user profiles with separate transactions and currencies.",
-    "@feature_1_description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_2_title": "Unlimited",
-    "@feature_2_title": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_2_description": "Create unlimited accounts, subscriptions, budgets, recurring events, and goals.",
-    "@feature_2_description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_3_title": "Google Drive Backup",
-    "@feature_3_title": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_3_description": "Back up your data to Google Drive and restore it whenever needed.",
-    "@feature_3_description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_4_title": "Home Screen Widget",
-    "@feature_4_title": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_4_description": "Add a widget to your home screen for quick access to your finances.",
-    "@feature_4_description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_5_title": "Just Black Theme",
-    "@feature_5_title": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "feature_5_description": "A dark theme that is easy on the eyes and saves battery life.",
-    "@feature_5_description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
-    "noActivityLastMonth": "No spending last month",
-    "@noActivityLastMonth": {
-        "description": "Text shown on the spending pattern page",
         "type": "text"
     },
     "vsLastMonth": "vs last month",
@@ -3314,16 +2785,6 @@
     },
     "stableComparedToLastMonth": "Stable compared to last month",
     "@stableComparedToLastMonth": {
-        "description": "Text shown on the spending pattern page",
-        "type": "text"
-    },
-    "newSpendingActivity": "New spending activity",
-    "@newSpendingActivity": {
-        "description": "Text shown on the spending pattern page",
-        "type": "text"
-    },
-    "noSpendingThisMonth": "No spending this month",
-    "@noSpendingThisMonth": {
         "description": "Text shown on the spending pattern page",
         "type": "text"
     },
@@ -3382,28 +2843,6 @@
         "description": "Text shown on the spending pattern page",
         "type": "text"
     },
-    "appNameForPdfFooter": "Paisa Expense Tracker",
-    "@appNameForPdfFooter": {
-        "description": "Text shown on the spending pattern page",
-        "type": "text"
-    },
-    "pageOfPages": "Page {pageNumber} of {totalPages}",
-    "@pageOfPages": {
-        "description": "Page number indication in PDF footer",
-        "placeholders": {
-            "pageNumber": {
-                "type": "String"
-            },
-            "totalPages": {
-                "type": "String"
-            }
-        }
-    },
-    "monthlyReportTitle": "Monthly Expense Report",
-    "@monthlyReportTitle": {
-        "description": "Text shown on the spending pattern page",
-        "type": "text"
-    },
     "weeklySummary": "Weekly Summary",
     "@weeklySummary": {
         "description": "Text shown on the spending pattern page",
@@ -3419,11 +2858,6 @@
         "description": "Text shown on the spending pattern page",
         "type": "text"
     },
-    "annualReportTitle": "Annual Expense Report",
-    "@annualReportTitle": {
-        "description": "Text shown on the spending pattern page",
-        "type": "text"
-    },
     "annualExpenseCategories": "Annual Expense Categories",
     "@annualExpenseCategories": {
         "description": "Text shown on the spending pattern page",
@@ -3433,14 +2867,6 @@
     "@annualIncomeCategories": {
         "description": "Text shown on the spending pattern page",
         "type": "text"
-    },
-    "monthlyBreakdownForYear": "Monthly Breakdown - {year}",
-    "@monthlyBreakdownForYear": {
-        "placeholders": {
-            "year": {
-                "type": "String"
-            }
-        }
     },
     "quarter": "Quarter",
     "@quarter": {
@@ -3570,11 +2996,6 @@
         "description": "Text shown on the calendar page",
         "type": "text"
     },
-    "addExpenseDescription": "You can add expenses, incomes, transfer money between accounts",
-    "@addExpenseDescription": {
-        "description": "Text shown on the calendar page",
-        "type": "text"
-    },
     "createdOn": "Created on {date}",
     "@createdOn": {
         "description": "Text shown on the calendar page",
@@ -3602,16 +3023,6 @@
                 "type": "String"
             }
         }
-    },
-    "instagram": "Instagram",
-    "@instagram": {
-        "description": "Text shown on the setting page",
-        "type": "text"
-    },
-    "treads": "Threads",
-    "@treads": {
-        "description": "Text shown on the setting page",
-        "type": "text"
     },
     "started": "Started",
     "@started": {
@@ -3653,11 +3064,6 @@
     },
     "expenseGoal": "Expense Goal",
     "@expenseGoal": {
-        "description": "Text shown on the goal details page",
-        "type": "text"
-    },
-    "expired": "Expired",
-    "@expired": {
         "description": "Text shown on the goal details page",
         "type": "text"
     },
@@ -3829,16 +3235,6 @@
         "description": "Text shown on the recurring details page",
         "type": "text"
     },
-    "noHistoryYet": "No history yet",
-    "@noHistoryYet": {
-        "description": "Text shown on the recurring details page",
-        "type": "text"
-    },
-    "historyWillAppearHere": "History will appear here",
-    "@historyWillAppearHere": {
-        "description": "Text shown on the recurring details page",
-        "type": "text"
-    },
     "exportAllDataFailed": "Export failed",
     "@exportAllDataFailed": {
         "description": "Text shown on the recurring details page",
@@ -3954,11 +3350,6 @@
         "description": "Text shown on the settings page for app info",
         "type": "text"
     },
-    "shareAndVersion": "Share & Version",
-    "@shareAndVersion": {
-        "description": "Text shown on the settings page for share and version",
-        "type": "text"
-    },
     "highestSpending": "Highest Spending",
     "@highestSpending": {
         "description": "Text shown on the spending pattern page",
@@ -3978,16 +3369,6 @@
     "@pleaseAddTransactionsAccount": {
         "description": "Text shown on the account details page when no accounts are found",
         "type": "text"
-    },
-    "noTransactionsFoundCategoryName": "No transactions found for {categoryName}",
-    "@noTransactionsFoundCategoryName": {
-        "description": "Text shown on the category details page when no transactions are found",
-        "type": "text",
-        "placeholders": {
-            "categoryName": {
-                "type": "String"
-            }
-        }
     },
     "goalDetails": "Goal Details",
     "@goalDetails": {
@@ -4086,16 +3467,6 @@
     "@yearlyPlan": {
         "description": "Text shown on the paywall page for yearly plan",
         "type": "text"
-    },
-    "pricePerYear": " {price} per year",
-    "@pricePerYear": {
-        "description": "Text shown on the paywall page for per year",
-        "type": "text",
-        "placeholders": {
-            "price": {
-                "type": "String"
-            }
-        }
     },
     "thenPricePerWeek": "then {price} per week",
     "@thenPricePerWeek": {
@@ -4217,11 +3588,6 @@
         "description": "Text shown on the paywall page",
         "type": "text"
     },
-    "premiumFeature3Description": "Back up your data to the cloud and restore it whenever needed.",
-    "@premiumFeature3Description": {
-        "description": "Text shown on the paywall page",
-        "type": "text"
-    },
     "premiumFeature4Title": "Premium Widgets",
     "@premiumFeature4Title": {
         "description": "Text shown on the paywall page",
@@ -4257,11 +3623,6 @@
         "description": "Text shown on the paywall page for choosing a plan",
         "type": "text"
     },
-    "freeTrialNotAvailable": "Free trial not available",
-    "@freeTrialNotAvailable": {
-        "description": "Text shown on the paywall page when free trial is not available",
-        "type": "text"
-    },
     "freeTrialAvailable": "Free trial available",
     "@freeTrialAvailable": {
         "description": "Text shown on the paywall page when free trial is available",
@@ -4270,11 +3631,6 @@
     "cancelAnytime": "Cancel anytime within 3 days",
     "@cancelAnytime": {
         "description": "Text shown on the paywall page for cancel anytime",
-        "type": "text"
-    },
-    "annualPlan": "Annual Plan",
-    "@annualPlan": {
-        "description": "Text shown on the paywall page for annual plan",
         "type": "text"
     },
     "monthlyPlan": "Monthly Plan",
@@ -4376,5 +3732,330 @@
     "@cancelAnytimeText": {
         "description": "Text shown on the paywall page for cancel anytime",
         "type": "text"
+    },
+    "migrationComplete": "Migration complete! Redirecting...",
+    "@migrationComplete": {
+        "description": "Text shown on the migration page when migration is complete",
+        "type": "text"
+    },
+    "progress": "Progress",
+    "@progress": {
+        "description": "Text shown when a setting is saved",
+        "type": "text"
+    },
+    "due": "Due",
+    "@due": {
+        "description": "Text shown for due status",
+        "type": "text"
+    },
+    "noArchivedTransactions": "No Archived Transactions",
+    "@noArchivedTransactions": {
+        "description": "Text shown when there are no archived transactions",
+        "type": "text"
+    },
+    "noArchivedTransactionsDescription": "You have no archived transactions at this time.",
+    "@noArchivedTransactionsDescription": {
+        "description": "Text shown when there are no archived transactions",
+        "type": "text"
+    },
+    "noUpcomingTransactions": "No Upcoming Transactions",
+    "@noUpcomingTransactions": {
+        "description": "Text shown when there are no upcoming transactions",
+        "type": "text"
+    },
+    "noUpcomingTransactionsDescription": "You have no upcoming transactions at this time.",
+    "@noUpcomingTransactionsDescription": {
+        "description": "Text shown when there are no upcoming transactions",
+        "type": "text"
+    },
+    "noOverdueTransactions": "No Overdue Transactions",
+    "@noOverdueTransactions": {
+        "description": "Text shown when there are no overdue transactions",
+        "type": "text"
+    },
+    "noOverdueTransactionsDescription": "You have no overdue transactions at this time.",
+    "@noOverdueTransactionsDescription": {
+        "description": "Text shown when there are no overdue transactions",
+        "type": "text"
+    },
+    "clearAllData": "Clear All Data",
+    "@clearAllData": {
+        "description": "Text shown on the settings page for clearing all data",
+        "type": "text"
+    },
+    "clearAllDataDescription": "Permanently delete all your data from the app. This action cannot be undone.",
+    "@clearAllDataDescription": {
+        "description": "Text shown on the settings page for clearing all data description",
+        "type": "text"
+    },
+    "clearAllDataDialogDescription": "This will permanently delete ALL your data from the app. This action cannot be undone and requires an app restart to take effect.\n\nAre you absolutely sure you want to continue?",
+    "@clearAllDataDialogDescription": {
+        "description": "Text shown on the settings page for clearing all data dialog description",
+        "type": "text"
+    },
+    "clearAllDataSuccess": "All data cleared successfully! Please restart the app to see changes.",
+    "@clearAllDataSuccess": {
+        "description": "Text shown when all data is cleared successfully",
+        "type": "text"
+    },
+    "clearingAllData": "Clearing all data...",
+    "@clearingAllData": {
+        "description": "Text shown when clearing all data",
+        "type": "text"
+    },
+    "localBackup": "Local Backup",
+    "@localBackup": {
+        "description": "Text shown on the settings page for local backup",
+        "type": "text"
+    },
+    "createLocalBackup": "Create Local Backup",
+    "@createLocalBackup": {
+        "description": "Text shown on the settings page for creating a local backup",
+        "type": "text"
+    },
+    "createLocalBackupDescription": "Save all your data to a backup file",
+    "@createLocalBackupDescription": {
+        "description": "Text shown on the settings page for local backup description",
+        "type": "text"
+    },
+    "creatingLocalBackup": "Creating local backup...",
+    "@creatingLocalBackup": {
+        "description": "Text shown when creating a local backup",
+        "type": "text"
+    },
+    "restoreLocalBackup": "Restore Local Backup",
+    "@restoreLocalBackup": {
+        "description": "Text shown on the settings page for restoring a local backup",
+        "type": "text"
+    },
+    "restoreLocalBackupDialogDescription": "This will replace all your current data with the backup data. This action cannot be undone and requires an app restart to take effect.\n\nAre you sure you want to continue?",
+    "@restoreLocalBackupDialogDescription": {
+        "description": "Text shown on the settings page for restoring local backup dialog description",
+        "type": "text"
+    },
+    "paisaDataBackup": "Paisa Data Backup",
+    "@paisaDataBackup": {
+        "description": "Text shown on the settings page for Paisa data backup",
+        "type": "text"
+    },
+    "paisaDataBackupSuccess": "Database backup created and shared successfully",
+    "@paisaDataBackupSuccess": {
+        "description": "Text shown when Paisa data backup is created and shared successfully",
+        "type": "text"
+    },
+    "paisaDataBackupFailed": "Error sharing database backup: {error}",
+    "@paisaDataBackupFailed": {
+        "description": "Text shown when Paisa data backup creation and sharing fails",
+        "type": "text",
+        "placeholders": {
+            "error": {
+                "type": "String"
+            }
+        }
+    },
+    "restore": "Restore",
+    "@restore": {
+        "description": "Text shown on the settings page for restoring data",
+        "type": "text"
+    },
+    "selectingLocalBackupFile": "Selecting backup file...",
+    "@selectingLocalBackupFile": {
+        "description": "Text shown when selecting a backup file for restoration",
+        "type": "text"
+    },
+    "restoringLocalBackup": "Restoring your data...",
+    "@restoringLocalBackup": {
+        "description": "Text shown when restoring a backup",
+        "type": "text"
+    },
+    "restoreLocalBackupSuccess": "Backup restored successfully! Please restart the app to see changes.",
+    "@restoreLocalBackupSuccess": {
+        "description": "Text shown when backup restoration is successful",
+        "type": "text"
+    },
+    "restoreLocalBackupDescription": "Restore your data from a backup file",
+    "@restoreLocalBackupDescription": {
+        "description": "Text shown on the settings page for restoring local backup description",
+        "type": "text"
+    },
+    "categoryNotFound": "Category not found",
+    "@categoryNotFound": {
+        "description": "Text shown when a category is not found",
+        "type": "text"
+    },
+    "categoryDetails": "Category Details",
+    "@categoryDetails": {
+        "description": "Text shown on the category details page",
+        "type": "text"
+    },
+    "userAgreementText1": "I'm responsible for making regular backups of my financial data to protect my information.",
+    "@userAgreementText1": {
+        "description": "First user agreement statement about backup responsibility",
+        "type": "text"
+    },
+    "userAgreementText2": "I understand the developers aren't responsible for any data loss. Backup and recovery are my responsibility.",
+    "@userAgreementText2": {
+        "description": "Second user agreement statement about developer liability",
+        "type": "text"
+    },
+    "generatingReport": "Generating report...",
+    "@generatingReport": {
+        "description": "Text shown when generating a report",
+        "type": "text"
+    },
+    "close": "Close",
+    "@close": {
+        "description": "Text shown on the close button",
+        "type": "text"
+    },
+    "retry": "Retry",
+    "@retry": {
+        "description": "Text shown on the retry button",
+        "type": "text"
+    },
+    "financialReports": "Financial Reports",
+    "@financialReports": {
+        "description": "Title for the financial reports screen",
+        "type": "text"
+    },
+    "chooseBackupFormat": "Choose your backup format to restore your data",
+    "@chooseBackupFormat": {
+        "description": "Text shown when selecting a backup format",
+        "type": "text"
+    },
+    "newBackupFormat": "New Backup Format",
+    "@newBackupFormat": {
+        "description": "Text shown for the new backup format option",
+        "type": "text"
+    },
+    "newBackupFormatDescription": "Restore from ZIP backup file (recommended)",
+    "@newBackupFormatDescription": {
+        "description": "Text shown for the new backup format description",
+        "type": "text"
+    },
+    "legacyBackupFormat": "Legacy Backup Format",
+    "@legacyBackupFormat": {
+        "description": "Text shown for the legacy backup format option",
+        "type": "text"
+    },
+    "legacyBackupFormatDescription": "Restore from JSON backup file (deprecated in upcoming versions)",
+    "@legacyBackupFormatDescription": {
+        "description": "Text shown for the legacy backup format description",
+        "type": "text"
+    },
+    "backupFormatDescription": "This will restore your data from the selected backup file.",
+    "@backupFormatDescription": {
+        "description": "Text shown for the ObjectBox backup format description",
+        "type": "text"
+    },
+    "welcomeTitle": "Welcome to Paisa 🎉",
+    "@welcomeTitle": {
+        "description": "Text shown on the welcome screen",
+        "type": "text"
+    },
+    "welcomeSubtitle": "Let's make money tracking simple and stress-free.",
+    "@welcomeSubtitle": {
+        "description": "Text shown on the welcome screen subtitle",
+        "type": "text"
+    },
+    "welcomeActionTitle": "Track. Budget. Save.",
+    "@welcomeActionTitle": {
+        "description": "Text shown on the welcome screen action button",
+        "type": "text"
+    },
+    "benefitsTitle": "Why you'll love Paisa",
+    "@benefitsTitle": {
+        "description": "Text shown on the benefits screen",
+        "type": "text"
+    },
+    "benefitsSubtitle": "A few ways we make managing money easier.",
+    "@benefitsSubtitle": {
+        "description": "Text shown on the benefits screen subtitle",
+        "type": "text"
+    },
+    "benefitOneTitle": "Track your expenses effortlessly",
+    "@benefitOneTitle": {
+        "description": "Title for the first benefit card",
+        "type": "text"
+    },
+    "benefitOneSubtitle": "Log transactions in seconds with smart defaults.",
+    "@benefitOneSubtitle": {
+        "description": "Subtitle for the first benefit card",
+        "type": "text"
+    },
+    "benefitTwoTitle": "Stay on budget with ease",
+    "@benefitTwoTitle": {
+        "description": "Title for the second benefit card",
+        "type": "text"
+    },
+    "benefitTwoSubtitle": "Set budgets and keep an eye on progress.",
+    "@benefitTwoSubtitle": {
+        "description": "Subtitle for the second benefit card",
+        "type": "text"
+    },
+    "benefitThreeTitle": "Get insights that save you money",
+    "@benefitThreeTitle": {
+        "description": "Title for the third benefit card",
+        "type": "text"
+    },
+    "benefitThreeSubtitle": "See where your money goes and spot patterns.",
+    "@benefitThreeSubtitle": {
+        "description": "Subtitle for the third benefit card",
+        "type": "text"
+    },
+    "benefitFourTitle": "Your data stays private",
+    "@benefitFourTitle": {
+        "description": "Title for the fourth benefit card",
+        "type": "text"
+    },
+    "benefitFourSubtitle": "Everything remains on your device by default.",
+    "@benefitFourSubtitle": {
+        "description": "Subtitle for the fourth benefit card",
+        "type": "text"
+    },
+    "backupAgreementTitle": "Your Data, Your Control",
+    "@backupAgreementTitle": {
+        "description": "Title for the backup agreement screen",
+        "type": "text"
+    },
+    "backupAgreementSubtitle": "Paisa doesn't store your data online. Please backup your data regularly to keep it safe.",
+    "@backupAgreementSubtitle": {
+        "description": "Subtitle for the backup agreement screen",
+        "type": "text"
+    },
+    "iAgreeButton": "I Agree",
+    "@iAgreeButton": {
+        "description": "Text shown on the backup agreement confirmation button",
+        "type": "text"
+    },
+    "profileSetupTitle": "Set up your profile",
+    "@profileSetupTitle": {
+        "description": "Text shown on the setup your profile screen",
+        "type": "text"
+    },
+    "profileSetupSubtitle": "Add your profile so we can tailor your budgets and reports",
+    "@profileSetupSubtitle": {
+        "description": "Subtitle for the setup your profile screen",
+        "type": "text"
+    },
+    "letsGetStarted": "Let's Get Started",
+    "@letsGetStarted": {
+        "description": "Text shown on the lets get started button",
+        "type": "text"
+    },
+    "stepCount": "Step {currentStep} of {totalSteps}",
+    "@stepCount": {
+        "description": "Text shown for the step count indicator",
+        "type": "text",
+        "placeholders": {
+            "currentStep": {
+                "description": "The current step number",
+                "type": "String"
+            },
+            "totalSteps": {
+                "description": "The total number of steps",
+                "type": "String"
+            }
+        }
     }
 }
