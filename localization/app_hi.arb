@@ -717,5 +717,18 @@
   "letsGetStarted": "शुरू करें",
   "stepCount": "चरण {currentStep} / {totalSteps}",
   "dueOnDate": "{date} को देय",
-  "floatingBottomNavigationBar": "फ्लोटिंग बॉटम नेविगेशन बार"
+  "floatingBottomNavigationBar": "फ्लोटिंग बॉटम नेविगेशन बार",
+  "monthSummary": "मासिक सारांश",
+  "monthSummaryDesc": "वर्तमान महीने के लिए आय, खर्च और शुद्ध शेष का त्वरित अवलोकन",
+  "yearlySummary": "वार्षिक सारांश",
+  "yearlySummaryDesc": "मासिक ब्रेकडाउन के साथ व्यापक वार्षिक वित्तीय सारांश",
+  "categoryBreakdown": "श्रेणी ब्रेकडाउन",
+  "categoryBreakdownDesc": "दृश्य चार्ट के साथ श्रेणीवार खर्च का विस्तृत विश्लेषण",
+  "budgetPerformance": "बजट प्रदर्शन",
+  "budgetPerformanceDesc": "प्रदर्शन संकेतकों के साथ बजट बनाम वास्तविक खर्च को ट्रैक करें",
+  "cashFlowAnalysis": "कैश फ्लो विश्लेषण",
+  "cashFlowAnalysisDesc": "समय के साथ धन प्रवाह की प्रवृत्तियाँ और पैटर्न",
+  "goalProgress": "लक्ष्य प्रगति",
+  "goalProgressDesc": "मील के पत्थर की प्रगति के साथ वित्तीय लक्ष्यों की ट्रैकिंग",
+  "transactionDetailsDesc": "फ़िल्टरिंग विकल्पों के साथ पूर्ण लेनदेन इतिहास"
 }

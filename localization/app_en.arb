@@ -3984,5 +3984,70 @@
     "@floatingBottomNavigationBar": {
         "description": "Text shown for the floating bottom navigation bar",
         "type": "text"
+    },
+    "monthSummary": "Month Summary",
+    "@monthSummary": {
+        "description": "Text shown for the month summary",
+        "type": "text"
+    },
+    "monthSummaryDesc": "Quick overview of income, expenses, and net balance for the current month",
+    "@monthSummaryDesc": {
+        "description": "Description shown for the month summary",
+        "type": "text"
+    },
+    "yearlySummary": "Yearly Summary",
+    "@yearlySummary": {
+        "description": "Text shown for the yearly summary",
+        "type": "text"
+    },
+    "yearlySummaryDesc": "Comprehensive annual financial summary with monthly breakdowns",
+    "@yearlySummaryDesc": {
+        "description": "Description shown for the yearly summary",
+        "type": "text"
+    },
+    "categoryBreakdown": "Category Breakdown",
+    "@categoryBreakdown": {
+        "description": "Text shown for the category breakdown",
+        "type": "text"
+    },
+    "categoryBreakdownDesc": "Detailed spending analysis by category with visual charts",
+    "@categoryBreakdownDesc": {
+        "description": "Description shown for the category breakdown",
+        "type": "text"
+    },
+    "budgetPerformance": "Budget Performance",
+    "@budgetPerformance": {
+        "description": "Text shown for the budget performance",
+        "type": "text"
+    },
+    "budgetPerformanceDesc": "Track budget vs actual spending with performance indicators",
+    "@budgetPerformanceDesc": {
+        "description": "Description shown for the budget performance",
+        "type": "text"
+    },
+    "cashFlowAnalysis": "Cash Flow Analysis",
+    "@cashFlowAnalysis": {
+        "description": "Text shown for the cash flow analysis",
+        "type": "text"
+    },
+    "cashFlowAnalysisDesc": "Money flow trends and patterns over time",
+    "@cashFlowAnalysisDesc": {
+        "description": "Description shown for the cash flow analysis",
+        "type": "text"
+    },
+    "goalProgress": "Goal Progress",
+    "@goalProgress": {
+        "description": "Text shown for the goal progress",
+        "type": "text"
+    },
+    "goalProgressDesc": "Financial goals tracking with milestone progress",
+    "@goalProgressDesc": {
+        "description": "Description shown for the goal progress",
+        "type": "text"
+    },
+    "transactionDetailsDesc": "Complete transaction history with filtering options",
+    "@transactionDetailsDesc": {
+        "description": "Description shown for the transaction details",
+        "type": "text"
     }
 }

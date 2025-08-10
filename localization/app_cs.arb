@@ -718,5 +718,18 @@
   "letsGetStarted": "Začínáme",
   "stepCount": "Krok {currentStep} z {totalSteps}",
   "dueOnDate": "Splatné {date}",
-  "floatingBottomNavigationBar": "Plovoucí spodní navigační lišta"
+  "floatingBottomNavigationBar": "Plovoucí spodní navigační lišta",
+  "monthSummary": "Měsíční souhrn",
+  "monthSummaryDesc": "Quick overview of income, expenses, and net balance for the current month",
+  "yearlySummary": "Yearly Summary",
+  "yearlySummaryDesc": "Comprehensive annual financial summary with monthly breakdowns",
+  "categoryBreakdown": "Category Breakdown",
+  "categoryBreakdownDesc": "Detailed spending analysis by category with visual charts",
+  "budgetPerformance": "Budget Performance",
+  "budgetPerformanceDesc": "Track budget vs actual spending with performance indicators",
+  "cashFlowAnalysis": "Cash Flow Analysis",
+  "cashFlowAnalysisDesc": "Money flow trends and patterns over time",
+  "goalProgress": "Goal Progress",
+  "goalProgressDesc": "Financial goals tracking with milestone progress",
+  "transactionDetailsDesc": "Complete transaction history with filtering options"
 }

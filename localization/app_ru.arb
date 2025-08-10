@@ -716,5 +716,18 @@
   "letsGetStarted": "Начнем",
   "stepCount": "Шаг {currentStep} из {totalSteps}",
   "dueOnDate": "Срок {date}",
-  "floatingBottomNavigationBar": "Плавающая нижняя панель навигации"
+  "floatingBottomNavigationBar": "Плавающая нижняя панель навигации",
+  "monthSummary": "Сводка за месяц",
+  "monthSummaryDesc": "Быстрый обзор доходов, расходов и чистого баланса за текущий месяц",
+  "yearlySummary": "Годовая сводка",
+  "yearlySummaryDesc": "Подробная годовая финансовая сводка с разбивкой по месяцам",
+  "categoryBreakdown": "Разбивка по категориям",
+  "categoryBreakdownDesc": "Детальный анализ расходов по категориям с визуальными диаграммами",
+  "budgetPerformance": "Эффективность бюджета",
+  "budgetPerformanceDesc": "Отслеживайте бюджет и фактические расходы с помощью индикаторов эффективности",
+  "cashFlowAnalysis": "Анализ денежного потока",
+  "cashFlowAnalysisDesc": "Тенденции и шаблоны движения денег со временем",
+  "goalProgress": "Прогресс целей",
+  "goalProgressDesc": "Отслеживание финансовых целей с прогрессом по этапам",
+  "transactionDetailsDesc": "Полная история транзакций с возможностью фильтрации"
 }

@@ -718,5 +718,18 @@
   "letsGetStarted": "لنبدأ",
   "stepCount": "الخطوة {currentStep} من {totalSteps}",
   "dueOnDate": "مستحق في {date}",
-  "floatingBottomNavigationBar": "شريط التنقل السفلي العائم"
+  "floatingBottomNavigationBar": "شريط التنقل السفلي العائم",
+  "monthSummary": "ملخص الشهر",
+  "monthSummaryDesc": "نظرة سريعة على الدخل والمصروفات وصافي الرصيد لهذا الشهر",
+  "yearlySummary": "ملخص سنوي",
+  "yearlySummaryDesc": "ملخص مالي سنوي شامل مع تفاصيل شهرية",
+  "categoryBreakdown": "تحليل الفئة",
+  "categoryBreakdownDesc": "تحليل مفصل للإنفاق حسب الفئة مع رسوم بيانية مرئية",
+  "budgetPerformance": "أداء الميزانية",
+  "budgetPerformanceDesc": "تتبع الميزانية مقابل الإنفاق الفعلي مع مؤشرات الأداء",
+  "cashFlowAnalysis": "تحليل التدفق النقدي",
+  "cashFlowAnalysisDesc": "اتجاهات وأنماط تدفق الأموال مع مرور الوقت",
+  "goalProgress": "تقدم الأهداف",
+  "goalProgressDesc": "تتبع الأهداف المالية مع تقدم الإنجازات",
+  "transactionDetailsDesc": "سجل كامل للمعاملات مع خيارات التصفية"
 }

@@ -716,5 +716,18 @@
   "letsGetStarted": "Tuanze",
   "stepCount": "Hatua {currentStep} kati ya {totalSteps}",
   "dueOnDate": "Inadaiwa tarehe {date}",
-  "floatingBottomNavigationBar": "Upau wa chini unaoelea"
+  "floatingBottomNavigationBar": "Upau wa chini unaoelea",
+  "monthSummary": "Muhtasari wa Mwezi",
+  "monthSummaryDesc": "Muhtasari wa haraka wa mapato, matumizi, na salio halisi kwa mwezi huu",
+  "yearlySummary": "Muhtasari wa Mwaka",
+  "yearlySummaryDesc": "Muhtasari kamili wa kifedha wa mwaka na mgawanyo wa kila mwezi",
+  "categoryBreakdown": "Uchanganuzi wa Kategoria",
+  "categoryBreakdownDesc": "Uchanganuzi wa kina wa matumizi kwa kategoria na chati za kuona",
+  "budgetPerformance": "Utendaji wa Bajeti",
+  "budgetPerformanceDesc": "Fuatilia bajeti dhidi ya matumizi halisi na viashiria vya utendaji",
+  "cashFlowAnalysis": "Uchambuzi wa Mtiririko wa Fedha",
+  "cashFlowAnalysisDesc": "Mwenendo na mifumo ya mtiririko wa pesa kwa muda",
+  "goalProgress": "Maendeleo ya Malengo",
+  "goalProgressDesc": "Ufuatiliaji wa malengo ya kifedha na maendeleo ya hatua",
+  "transactionDetailsDesc": "Historia kamili ya miamala na chaguo za kuchuja"
 }

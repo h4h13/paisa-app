@@ -716,5 +716,18 @@
   "letsGetStarted": "Başlayalım",
   "stepCount": "Adım {currentStep} / {totalSteps}",
   "dueOnDate": "{date} tarihinde vadesi doluyor",
-  "floatingBottomNavigationBar": "Yüzen Alt Navigasyon Çubuğu"
+  "floatingBottomNavigationBar": "Yüzen Alt Navigasyon Çubuğu",
+  "monthSummary": "Aylık Özet",
+  "monthSummaryDesc": "Mevcut ay için gelir, gider ve net bakiye hakkında hızlı genel bakış",
+  "yearlySummary": "Yıllık Özet",
+  "yearlySummaryDesc": "Aylık dökümlerle kapsamlı yıllık finansal özet",
+  "categoryBreakdown": "Kategori Dağılımı",
+  "categoryBreakdownDesc": "Görsel grafiklerle kategori bazında ayrıntılı harcama analizi",
+  "budgetPerformance": "Bütçe Performansı",
+  "budgetPerformanceDesc": "Performans göstergeleriyle bütçe ve gerçekleşen harcamaları takip edin",
+  "cashFlowAnalysis": "Nakit Akışı Analizi",
+  "cashFlowAnalysisDesc": "Zaman içindeki para akışı eğilimleri ve kalıpları",
+  "goalProgress": "Hedef İlerlemesi",
+  "goalProgressDesc": "Kilometre taşı ilerlemesiyle finansal hedef takibi",
+  "transactionDetailsDesc": "Filtreleme seçenekleriyle eksiksiz işlem geçmişi"
 }

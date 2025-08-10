@@ -716,5 +716,18 @@
   "letsGetStarted": "เริ่มต้นกันเลย",
   "stepCount": "ขั้นตอน {currentStep} จาก {totalSteps}",
   "dueOnDate": "ครบกำหนด {date}",
-  "floatingBottomNavigationBar": "แถบนำทางลอยด้านล่าง"
+  "floatingBottomNavigationBar": "แถบนำทางลอยด้านล่าง",
+  "monthSummary": "สรุปประจำเดือน",
+  "monthSummaryDesc": "ภาพรวมรายรับ รายจ่าย และยอดสุทธิของเดือนปัจจุบันอย่างรวดเร็ว",
+  "yearlySummary": "สรุปรายปี",
+  "yearlySummaryDesc": "สรุปการเงินประจำปีพร้อมรายละเอียดรายเดือน",
+  "categoryBreakdown": "แยกตามหมวดหมู่",
+  "categoryBreakdownDesc": "วิเคราะห์การใช้จ่ายโดยละเอียดตามหมวดหมู่พร้อมกราฟแสดงผล",
+  "budgetPerformance": "ประสิทธิภาพงบประมาณ",
+  "budgetPerformanceDesc": "ติดตามงบประมาณเทียบกับการใช้จ่ายจริงพร้อมตัวชี้วัดประสิทธิภาพ",
+  "cashFlowAnalysis": "วิเคราะห์กระแสเงินสด",
+  "cashFlowAnalysisDesc": "แนวโน้มและรูปแบบการไหลของเงินในช่วงเวลาต่างๆ",
+  "goalProgress": "ความคืบหน้าเป้าหมาย",
+  "goalProgressDesc": "ติดตามเป้าหมายทางการเงินพร้อมความคืบหน้าตามหมุดหมาย",
+  "transactionDetailsDesc": "ประวัติธุรกรรมทั้งหมดพร้อมตัวเลือกการกรอง"
 }

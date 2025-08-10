@@ -716,5 +716,18 @@
   "letsGetStarted": "Aan de slag",
   "stepCount": "Stap {currentStep} van {totalSteps}",
   "dueOnDate": "Vervalt op {date}",
-  "floatingBottomNavigationBar": "Zwevende onderste navigatiebalk"
+  "floatingBottomNavigationBar": "Zwevende onderste navigatiebalk",
+  "monthSummary": "Maandoverzicht",
+  "monthSummaryDesc": "Snel overzicht van inkomsten, uitgaven en nettosaldo voor de huidige maand",
+  "yearlySummary": "Jaaroverzicht",
+  "yearlySummaryDesc": "Uitgebreid jaarlijks financieel overzicht met maandelijkse uitsplitsingen",
+  "categoryBreakdown": "Categorie-uitsplitsing",
+  "categoryBreakdownDesc": "Gedetailleerde uitgavenanalyse per categorie met visuele grafieken",
+  "budgetPerformance": "Budgetprestatie",
+  "budgetPerformanceDesc": "Volg budget versus werkelijke uitgaven met prestatie-indicatoren",
+  "cashFlowAnalysis": "Kasstroomanalyse",
+  "cashFlowAnalysisDesc": "Trends en patronen in geldstromen in de loop van de tijd",
+  "goalProgress": "Doelvoortgang",
+  "goalProgressDesc": "Financiële doelen bijhouden met mijlpaalvoortgang",
+  "transactionDetailsDesc": "Volledige transactiegeschiedenis met filteropties"
 }

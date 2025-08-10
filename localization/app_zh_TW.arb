@@ -716,5 +716,18 @@
   "letsGetStarted": "開始使用",
   "stepCount": "步驟 {currentStep}/{totalSteps}",
   "dueOnDate": "到期日 {date}",
-  "floatingBottomNavigationBar": "浮動底部導覽列"
+  "floatingBottomNavigationBar": "浮動底部導覽列",
+  "monthSummary": "月度摘要",
+  "monthSummaryDesc": "快速總覽本月收入、支出與淨餘額",
+  "yearlySummary": "年度摘要",
+  "yearlySummaryDesc": "包含每月明細的年度財務總結",
+  "categoryBreakdown": "分類明細",
+  "categoryBreakdownDesc": "依分類詳細分析支出，並提供視覺化圖表",
+  "budgetPerformance": "預算執行情況",
+  "budgetPerformanceDesc": "追蹤預算與實際支出的差異及表現指標",
+  "cashFlowAnalysis": "現金流分析",
+  "cashFlowAnalysisDesc": "資金流動趨勢與模式分析",
+  "goalProgress": "目標進度",
+  "goalProgressDesc": "財務目標追蹤與里程碑進度",
+  "transactionDetailsDesc": "完整交易紀錄，支援篩選功能"
 }

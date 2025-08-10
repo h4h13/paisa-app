@@ -716,5 +716,18 @@
   "letsGetStarted": "Ayo Mulai",
   "stepCount": "Langkah {currentStep} dari {totalSteps}",
   "dueOnDate": "Jatuh tempo pada {date}",
-  "floatingBottomNavigationBar": "Navigasi Bawah Mengambang"
+  "floatingBottomNavigationBar": "Navigasi Bawah Mengambang",
+  "monthSummary": "Ringkasan Bulanan",
+  "monthSummaryDesc": "Ikhtisar cepat pemasukan, pengeluaran, dan saldo bersih bulan ini",
+  "yearlySummary": "Ringkasan Tahunan",
+  "yearlySummaryDesc": "Ringkasan keuangan tahunan lengkap dengan rincian bulanan",
+  "categoryBreakdown": "Rincian Kategori",
+  "categoryBreakdownDesc": "Analisis pengeluaran terperinci per kategori dengan grafik visual",
+  "budgetPerformance": "Performa Anggaran",
+  "budgetPerformanceDesc": "Lacak anggaran vs pengeluaran aktual dengan indikator performa",
+  "cashFlowAnalysis": "Analisis Arus Kas",
+  "cashFlowAnalysisDesc": "Tren dan pola arus uang dari waktu ke waktu",
+  "goalProgress": "Progres Tujuan",
+  "goalProgressDesc": "Pelacakan tujuan keuangan dengan progres pencapaian",
+  "transactionDetailsDesc": "Riwayat transaksi lengkap dengan opsi penyaringan"
 }

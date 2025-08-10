@@ -716,5 +716,18 @@
   "letsGetStarted": "চলুন শুরু করি",
   "stepCount": "ধাপ {currentStep} / {totalSteps}",
   "dueOnDate": "{date} তারিখে প্রদেয়",
-  "floatingBottomNavigationBar": "ফ্লোটিং বটম নেভিগেশন বার"
+  "floatingBottomNavigationBar": "ফ্লোটিং বটম নেভিগেশন বার",
+  "monthSummary": "মাসিক সারাংশ",
+  "monthSummaryDesc": "বর্তমান মাসের আয়, খরচ এবং নেট ব্যালেন্সের দ্রুত সংক্ষিপ্ত বিবরণ",
+  "yearlySummary": "বার্ষিক সারাংশ",
+  "yearlySummaryDesc": "মাসভিত্তিক বিশ্লেষণসহ বিস্তৃত বার্ষিক আর্থিক সারাংশ",
+  "categoryBreakdown": "বিভাগ অনুযায়ী বিশ্লেষণ",
+  "categoryBreakdownDesc": "ভিজ্যুয়াল চার্টসহ বিভাগের ভিত্তিতে বিস্তারিত খরচ বিশ্লেষণ",
+  "budgetPerformance": "বাজেটের কার্যকারিতা",
+  "budgetPerformanceDesc": "কার্যকারিতা সূচকসহ বাজেট বনাম প্রকৃত খরচ ট্র্যাক করুন",
+  "cashFlowAnalysis": "ক্যাশ ফ্লো বিশ্লেষণ",
+  "cashFlowAnalysisDesc": "সময়ের সাথে অর্থ প্রবাহের প্রবণতা ও প্যাটার্ন",
+  "goalProgress": "লক্ষ্যের অগ্রগতি",
+  "goalProgressDesc": "মাইলস্টোন অগ্রগতিসহ আর্থিক লক্ষ্য ট্র্যাকিং",
+  "transactionDetailsDesc": "ফিল্টারিং অপশনসহ সম্পূর্ণ লেনদেনের ইতিহাস"
 }

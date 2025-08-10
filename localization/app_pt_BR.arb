@@ -716,5 +716,18 @@
   "letsGetStarted": "Vamos começar",
   "stepCount": "Etapa {currentStep} de {totalSteps}",
   "dueOnDate": "Vence em {date}",
-  "floatingBottomNavigationBar": "Barra de Navegação Inferior Flutuante"
+  "floatingBottomNavigationBar": "Barra de Navegação Inferior Flutuante",
+  "monthSummary": "Resumo do Mês",
+  "monthSummaryDesc": "Visão rápida de receitas, despesas e saldo líquido do mês atual",
+  "yearlySummary": "Resumo Anual",
+  "yearlySummaryDesc": "Resumo financeiro anual abrangente com detalhamento mensal",
+  "categoryBreakdown": "Detalhamento por Categoria",
+  "categoryBreakdownDesc": "Análise detalhada de gastos por categoria com gráficos visuais",
+  "budgetPerformance": "Desempenho do Orçamento",
+  "budgetPerformanceDesc": "Acompanhe o orçamento versus os gastos reais com indicadores de desempenho",
+  "cashFlowAnalysis": "Análise de Fluxo de Caixa",
+  "cashFlowAnalysisDesc": "Tendências e padrões do fluxo de dinheiro ao longo do tempo",
+  "goalProgress": "Progresso da Meta",
+  "goalProgressDesc": "Acompanhamento de metas financeiras com progresso de marcos",
+  "transactionDetailsDesc": "Histórico completo de transações com opções de filtragem"
 }

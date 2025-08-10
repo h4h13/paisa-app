@@ -718,5 +718,18 @@
   "letsGetStarted": "Пачнем",
   "stepCount": "Крок {currentStep} з {totalSteps}",
   "dueOnDate": "Да аплаты {date}",
-  "floatingBottomNavigationBar": "Плаваючая ніжняя навігацыйная панэль"
+  "floatingBottomNavigationBar": "Плаваючая ніжняя навігацыйная панэль",
+  "monthSummary": "Месячны звод",
+  "monthSummaryDesc": "Хуткі агляд даходаў, выдаткаў і чыстага балансу за бягучы месяц",
+  "yearlySummary": "Гадавы звод",
+  "yearlySummaryDesc": "Падрабязны фінансавы звод за год з разбіўкай па месяцах",
+  "categoryBreakdown": "Разбор па катэгорыях",
+  "categoryBreakdownDesc": "Падрабязны аналіз выдаткаў па катэгорыях з візуальнымі дыяграмамі",
+  "budgetPerformance": "Выконанне бюджэту",
+  "budgetPerformanceDesc": "Адсочвайце бюджэт у параўнанні з фактычнымі выдаткамі з паказчыкамі эфектыўнасці",
+  "cashFlowAnalysis": "Аналіз грашовага патоку",
+  "cashFlowAnalysisDesc": "Тэндэнцыі і заканамернасці руху грошай з цягам часу",
+  "goalProgress": "Прагрэс мэтаў",
+  "goalProgressDesc": "Адсочванне фінансавых мэтаў з прагрэсам па этапах",
+  "transactionDetailsDesc": "Поўная гісторыя транзакцый з магчымасцю фільтрацыі"
 }

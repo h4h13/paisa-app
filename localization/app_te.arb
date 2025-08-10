@@ -716,5 +716,18 @@
   "letsGetStarted": "ప్రారంభిద్దాం",
   "stepCount": "దశ {currentStep} / {totalSteps}",
   "dueOnDate": "{date}న గడువు",
-  "floatingBottomNavigationBar": "ఫ్లోటింగ్ బాటమ్ నావిగేషన్ బార్"
+  "floatingBottomNavigationBar": "ఫ్లోటింగ్ బాటమ్ నావిగేషన్ బార్",
+  "monthSummary": "నెల సారాంశం",
+  "monthSummaryDesc": "ప్రస్తుత నెలకు ఆదాయం, ఖర్చులు, నికర బ్యాలెన్స్ యొక్క త్వరిత అవలోకనం",
+  "yearlySummary": "వార్షిక సారాంశం",
+  "yearlySummaryDesc": "నెలవారీ విభజనలతో సమగ్ర వార్షిక ఆర్థిక సారాంశం",
+  "categoryBreakdown": "వర్గ విభజన",
+  "categoryBreakdownDesc": "విజువల్ చార్టులతో వర్గం వారీగా ఖర్చుల వివరమైన విశ్లేషణ",
+  "budgetPerformance": "బడ్జెట్ పనితీరు",
+  "budgetPerformanceDesc": "పనితీరు సూచికలతో బడ్జెట్ మరియు వాస్తవ ఖర్చును ట్రాక్ చేయండి",
+  "cashFlowAnalysis": "నగదు ప్రవాహ విశ్లేషణ",
+  "cashFlowAnalysisDesc": "సమయానుసారం డబ్బు ప్రవాహ ధోరణులు మరియు నమూనాలు",
+  "goalProgress": "లక్ష్య పురోగతి",
+  "goalProgressDesc": "మైలురాళ్ల పురోగతితో ఆర్థిక లక్ష్యాల ట్రాకింగ్",
+  "transactionDetailsDesc": "ఫిల్టరింగ్ ఎంప్షన్‌లతో పూర్తి లావాదేవీ చరిత్ర"
 }

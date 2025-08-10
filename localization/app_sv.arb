@@ -716,5 +716,18 @@
   "letsGetStarted": "Kom igång",
   "stepCount": "Steg {currentStep} av {totalSteps}",
   "dueOnDate": "Förfaller den {date}",
-  "floatingBottomNavigationBar": "Flytande bottennavigeringsfält"
+  "floatingBottomNavigationBar": "Flytande bottennavigeringsfält",
+  "monthSummary": "Månadssammanfattning",
+  "monthSummaryDesc": "Snabb översikt över inkomst, utgifter och nettobalans för innevarande månad",
+  "yearlySummary": "Årssammanfattning",
+  "yearlySummaryDesc": "Omfattande årlig ekonomisk sammanfattning med månadsuppdelning",
+  "categoryBreakdown": "Kategoriuppdelning",
+  "categoryBreakdownDesc": "Detaljerad utgiftsanalys per kategori med visuella diagram",
+  "budgetPerformance": "Budgetprestation",
+  "budgetPerformanceDesc": "Spåra budget jämfört med faktiska utgifter med prestationsindikatorer",
+  "cashFlowAnalysis": "Kassaflödesanalys",
+  "cashFlowAnalysisDesc": "Pengaflödestrender och mönster över tid",
+  "goalProgress": "Måluppföljning",
+  "goalProgressDesc": "Spårning av ekonomiska mål med milstolpsframsteg",
+  "transactionDetailsDesc": "Fullständig transaktionshistorik med filtreringsalternativ"
 }

@@ -716,5 +716,18 @@
   "letsGetStarted": "Bắt đầu",
   "stepCount": "Bước {currentStep} / {totalSteps}",
   "dueOnDate": "Đến hạn {date}",
-  "floatingBottomNavigationBar": "Thanh điều hướng dưới nổi"
+  "floatingBottomNavigationBar": "Thanh điều hướng dưới nổi",
+  "monthSummary": "Tóm tắt tháng",
+  "monthSummaryDesc": "Tổng quan nhanh về thu nhập, chi phí và số dư ròng trong tháng hiện tại",
+  "yearlySummary": "Tóm tắt năm",
+  "yearlySummaryDesc": "Tóm tắt tài chính hàng năm toàn diện với phân tích theo từng tháng",
+  "categoryBreakdown": "Phân tích danh mục",
+  "categoryBreakdownDesc": "Phân tích chi tiêu chi tiết theo danh mục với biểu đồ trực quan",
+  "budgetPerformance": "Hiệu suất ngân sách",
+  "budgetPerformanceDesc": "Theo dõi ngân sách so với chi tiêu thực tế với các chỉ số hiệu suất",
+  "cashFlowAnalysis": "Phân tích dòng tiền",
+  "cashFlowAnalysisDesc": "Xu hướng và mô hình dòng tiền theo thời gian",
+  "goalProgress": "Tiến độ mục tiêu",
+  "goalProgressDesc": "Theo dõi mục tiêu tài chính với tiến trình các cột mốc",
+  "transactionDetailsDesc": "Lịch sử giao dịch đầy đủ với các tùy chọn lọc"
 }

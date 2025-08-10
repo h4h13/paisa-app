@@ -716,5 +716,18 @@
   "letsGetStarted": "شروع کنیم",
   "stepCount": "مرحله {currentStep} از {totalSteps}",
   "dueOnDate": "سررسید در {date}",
-  "floatingBottomNavigationBar": "نوار ناوبری پایین شناور"
+  "floatingBottomNavigationBar": "نوار ناوبری پایین شناور",
+  "monthSummary": "خلاصه ماه",
+  "monthSummaryDesc": "نمای کلی سریع از درآمد، هزینه‌ها و موجودی خالص ماه جاری",
+  "yearlySummary": "خلاصه سالانه",
+  "yearlySummaryDesc": "خلاصه مالی جامع سالانه با تفکیک ماهانه",
+  "categoryBreakdown": "تفکیک دسته‌بندی",
+  "categoryBreakdownDesc": "تحلیل دقیق هزینه‌ها بر اساس دسته‌بندی با نمودارهای بصری",
+  "budgetPerformance": "عملکرد بودجه",
+  "budgetPerformanceDesc": "پیگیری بودجه در مقابل هزینه واقعی با شاخص‌های عملکرد",
+  "cashFlowAnalysis": "تحلیل جریان نقدی",
+  "cashFlowAnalysisDesc": "روندها و الگوهای جریان پول در طول زمان",
+  "goalProgress": "پیشرفت هدف",
+  "goalProgressDesc": "پیگیری اهداف مالی با پیشرفت مرحله‌ای",
+  "transactionDetailsDesc": "تاریخچه کامل تراکنش‌ها با گزینه‌های فیلتر"
 }

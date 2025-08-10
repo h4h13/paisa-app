@@ -716,5 +716,18 @@
   "letsGetStarted": "Iniziamo",
   "stepCount": "Passo {currentStep} di {totalSteps}",
   "dueOnDate": "Scadenza il {date}",
-  "floatingBottomNavigationBar": "Barra di navigazione inferiore flottante"
+  "floatingBottomNavigationBar": "Barra di navigazione inferiore flottante",
+  "monthSummary": "Riepilogo mensile",
+  "monthSummaryDesc": "Panoramica rapida di entrate, spese e saldo netto per il mese corrente",
+  "yearlySummary": "Riepilogo annuale",
+  "yearlySummaryDesc": "Riepilogo finanziario annuale completo con suddivisione mensile",
+  "categoryBreakdown": "Analisi per categoria",
+  "categoryBreakdownDesc": "Analisi dettagliata delle spese per categoria con grafici visivi",
+  "budgetPerformance": "Prestazioni del budget",
+  "budgetPerformanceDesc": "Monitora il budget rispetto alle spese effettive con indicatori di performance",
+  "cashFlowAnalysis": "Analisi del flusso di cassa",
+  "cashFlowAnalysisDesc": "Andamenti e modelli del flusso di denaro nel tempo",
+  "goalProgress": "Progresso degli obiettivi",
+  "goalProgressDesc": "Monitoraggio degli obiettivi finanziari con avanzamento delle tappe",
+  "transactionDetailsDesc": "Storico completo delle transazioni con opzioni di filtro"
 }

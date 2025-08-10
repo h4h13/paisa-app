@@ -716,5 +716,18 @@
   "letsGetStarted": "ಪ್ರಾರಂಭಿಸೋಣ",
   "stepCount": "ಹಂತ {currentStep} / {totalSteps}",
   "dueOnDate": "{date} ರಂದು ಬಾಕಿ",
-  "floatingBottomNavigationBar": "ಫ್ಲೋಟಿಂಗ್ ಬಾಟಮ್ ನ್ಯಾವಿಗೇಶನ್ ಬಾರ್"
+  "floatingBottomNavigationBar": "ಫ್ಲೋಟಿಂಗ್ ಬಾಟಮ್ ನ್ಯಾವಿಗೇಶನ್ ಬಾರ್",
+  "monthSummary": "ತಿಂಗಳ ಸಾರಾಂಶ",
+  "monthSummaryDesc": "ಪ್ರಸ್ತುತ ತಿಂಗಳ ಆದಾಯ, ವೆಚ್ಚ ಮತ್ತು ನಿವ್ವಳ ಬಾಕಿಯ ತ್ವರಿತ ಅವಲೋಕನ",
+  "yearlySummary": "ವಾರ್ಷಿಕ ಸಾರಾಂಶ",
+  "yearlySummaryDesc": "ಮಾಸಿಕ ವಿಭಜನೆಯೊಂದಿಗೆ ಸಮಗ್ರ ವಾರ್ಷಿಕ ಹಣಕಾಸು ಸಾರಾಂಶ",
+  "categoryBreakdown": "ವರ್ಗ ವಿಭಜನೆ",
+  "categoryBreakdownDesc": "ವಿಜುವಲ್ ಚಾರ್ಟ್‌ಗಳೊಂದಿಗೆ ವರ್ಗವಾರು ವಿವರವಾದ ಖರ್ಚು ವಿಶ್ಲೇಷಣೆ",
+  "budgetPerformance": "ಬಜೆಟ್ ಕಾರ್ಯಕ್ಷಮತೆ",
+  "budgetPerformanceDesc": "ಕಾರ್ಯಕ್ಷಮತೆ ಸೂಚಕಗಳೊಂದಿಗೆ ಬಜೆಟ್ ಮತ್ತು ನಿಜವಾದ ಖರ್ಚನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ",
+  "cashFlowAnalysis": "ಹಣದ ಹರಿವಿನ ವಿಶ್ಲೇಷಣೆ",
+  "cashFlowAnalysisDesc": "ಸಮಯದೊಂದಿಗೆ ಹಣದ ಹರಿವಿನ ಪ್ರವೃತ್ತಿಗಳು ಮತ್ತು ಮಾದರಿಗಳು",
+  "goalProgress": "ಗುರಿ ಪ್ರಗತಿ",
+  "goalProgressDesc": "ಮೈಲಿಗಲ್ಲು ಪ್ರಗತಿಯೊಂದಿಗೆ ಹಣಕಾಸು ಗುರಿಗಳ ಟ್ರ್ಯಾಕಿಂಗ್",
+  "transactionDetailsDesc": "ಫಿಲ್ಟರ್ ಆಯ್ಕೆಗಳೊಂದಿಗೆ ಸಂಪೂರ್ಣ ವಹಿವಾಟು ಇತಿಹಾಸ"
 }

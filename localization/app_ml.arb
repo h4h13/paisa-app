@@ -716,5 +716,18 @@
   "letsGetStarted": "തുടങ്ങാം",
   "stepCount": "{currentStep} / {totalSteps} ഘട്ടം",
   "dueOnDate": "{date} ന് അടയ്‌ക്കേണ്ടത്",
-  "floatingBottomNavigationBar": "ഫ്ലോട്ടിംഗ് ബോട്ടം നാവിഗേഷൻ ബാർ"
+  "floatingBottomNavigationBar": "ഫ്ലോട്ടിംഗ് ബോട്ടം നാവിഗേഷൻ ബാർ",
+  "monthSummary": "മാസ സംഗ്രഹം",
+  "monthSummaryDesc": "നിലവിലെ മാസത്തിലെ വരുമാനം, ചെലവ്, നെറ്റ് ബാലൻസ് എന്നിവയുടെ ദ്രുത അവലോകനം",
+  "yearlySummary": "വാർഷിക സംഗ്രഹം",
+  "yearlySummaryDesc": "മാസവാരിയായ വിഭജനത്തോടെ സമഗ്രമായ വാർഷിക സാമ്പത്തിക സംഗ്രഹം",
+  "categoryBreakdown": "വിഭാഗം തിരിച്ച്",
+  "categoryBreakdownDesc": "വിഭാഗം അടിസ്ഥാനത്തിലുള്ള ചെലവുകളുടെ വിശദമായ വിശകലനം ദൃശ്യ ചാർട്ടുകളോടെ",
+  "budgetPerformance": "ബഡ്ജറ്റ് പ്രകടനം",
+  "budgetPerformanceDesc": "ബഡ്ജറ്റ് vs യഥാർത്ഥ ചെലവ് പ്രകടന സൂചികകളോടെ ട്രാക്ക് ചെയ്യുക",
+  "cashFlowAnalysis": "ക്യാഷ് ഫ്ലോ വിശകലനം",
+  "cashFlowAnalysisDesc": "സമയംതോറും പണത്തിന്റെ പ്രവാഹ പ്രവണതകളും മാതൃകകളും",
+  "goalProgress": "ലക്ഷ്യ പുരോഗതി",
+  "goalProgressDesc": "മൈൽസ്റ്റോൺ പുരോഗതിയോടെ സാമ്പത്തിക ലക്ഷ്യങ്ങൾ ട്രാക്ക് ചെയ്യുക",
+  "transactionDetailsDesc": "ഫിൽറ്റർ ഓപ്ഷനുകളോടെ സമ്പൂർണ്ണ ഇടപാട് ചരിത്രം"
 }

@@ -718,5 +718,18 @@
   "letsGetStarted": "Kom i gang",
   "stepCount": "Trin {currentStep} af {totalSteps}",
   "dueOnDate": "Forfalder den {date}",
-  "floatingBottomNavigationBar": "Flydende bundnavigationslinje"
+  "floatingBottomNavigationBar": "Flydende bundnavigationslinje",
+  "monthSummary": "Månedsoversigt",
+  "monthSummaryDesc": "Hurtigt overblik over indkomst, udgifter og nettosaldo for den aktuelle måned",
+  "yearlySummary": "Årsoversigt",
+  "yearlySummaryDesc": "Omfattende årlig økonomisk oversigt med månedlige opdelinger",
+  "categoryBreakdown": "Kategorifordeling",
+  "categoryBreakdownDesc": "Detaljeret forbrugsanalyse efter kategori med visuelle diagrammer",
+  "budgetPerformance": "Budgetpræstation",
+  "budgetPerformanceDesc": "Spor budget vs faktisk forbrug med præstationsindikatorer",
+  "cashFlowAnalysis": "Likviditetsanalyse",
+  "cashFlowAnalysisDesc": "Pengestrømstendenser og -mønstre over tid",
+  "goalProgress": "Målfremskridt",
+  "goalProgressDesc": "Sporing af økonomiske mål med milepælsfremskridt",
+  "transactionDetailsDesc": "Komplet transaktionshistorik med filtreringsmuligheder"
 }

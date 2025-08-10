@@ -716,5 +716,18 @@
   "letsGetStarted": "Empecemos",
   "stepCount": "Paso {currentStep} de {totalSteps}",
   "dueOnDate": "Vence el {date}",
-  "floatingBottomNavigationBar": "Barra de navegación inferior flotante"
+  "floatingBottomNavigationBar": "Barra de navegación inferior flotante",
+  "monthSummary": "Month Summary",
+  "monthSummaryDesc": "Quick overview of income, expenses, and net balance for the current month",
+  "yearlySummary": "Yearly Summary",
+  "yearlySummaryDesc": "Comprehensive annual financial summary with monthly breakdowns",
+  "categoryBreakdown": "Category Breakdown",
+  "categoryBreakdownDesc": "Detailed spending analysis by category with visual charts",
+  "budgetPerformance": "Budget Performance",
+  "budgetPerformanceDesc": "Track budget vs actual spending with performance indicators",
+  "cashFlowAnalysis": "Cash Flow Analysis",
+  "cashFlowAnalysisDesc": "Money flow trends and patterns over time",
+  "goalProgress": "Goal Progress",
+  "goalProgressDesc": "Financial goals tracking with milestone progress",
+  "transactionDetailsDesc": "Complete transaction history with filtering options"
 }

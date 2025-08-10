@@ -716,5 +716,18 @@
   "letsGetStarted": "Să începem",
   "stepCount": "Pasul {currentStep} din {totalSteps}",
   "dueOnDate": "Scadent la {date}",
-  "floatingBottomNavigationBar": "Bară de navigare inferioară plutitoare"
+  "floatingBottomNavigationBar": "Bară de navigare inferioară plutitoare",
+  "monthSummary": "Rezumat lunar",
+  "monthSummaryDesc": "Prezentare rapidă a veniturilor, cheltuielilor și soldului net pentru luna curentă",
+  "yearlySummary": "Rezumat anual",
+  "yearlySummaryDesc": "Rezumat financiar anual cu detaliere lunară",
+  "categoryBreakdown": "Detaliere pe categorii",
+  "categoryBreakdownDesc": "Analiză detaliată a cheltuielilor pe categorii cu grafice vizuale",
+  "budgetPerformance": "Performanța bugetului",
+  "budgetPerformanceDesc": "Urmărește bugetul față de cheltuielile reale cu indicatori de performanță",
+  "cashFlowAnalysis": "Analiză flux de numerar",
+  "cashFlowAnalysisDesc": "Tendințe și modele ale fluxului de bani în timp",
+  "goalProgress": "Progres obiective",
+  "goalProgressDesc": "Urmărirea obiectivelor financiare cu progres pe etape",
+  "transactionDetailsDesc": "Istoric complet al tranzacțiilor cu opțiuni de filtrare"
 }

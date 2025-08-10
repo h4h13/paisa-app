@@ -718,5 +718,18 @@
   "letsGetStarted": "Ας ξεκινήσουμε",
   "stepCount": "Βήμα {currentStep} από {totalSteps}",
   "dueOnDate": "Λήγει στις {date}",
-  "floatingBottomNavigationBar": "Επιπλέουσα κάτω γραμμή πλοήγησης"
+  "floatingBottomNavigationBar": "Επιπλέουσα κάτω γραμμή πλοήγησης",
+  "monthSummary": "Μηνιαία Σύνοψη",
+  "monthSummaryDesc": "Γρήγορη επισκόπηση εσόδων, εξόδων και καθαρού υπολοίπου για τον τρέχοντα μήνα",
+  "yearlySummary": "Ετήσια Σύνοψη",
+  "yearlySummaryDesc": "Αναλυτική ετήσια οικονομική σύνοψη με μηνιαίες αναλύσεις",
+  "categoryBreakdown": "Κατανομή Κατηγοριών",
+  "categoryBreakdownDesc": "Λεπτομερής ανάλυση δαπανών ανά κατηγορία με οπτικά γραφήματα",
+  "budgetPerformance": "Απόδοση Προϋπολογισμού",
+  "budgetPerformanceDesc": "Παρακολούθηση προϋπολογισμού έναντι πραγματικών δαπανών με δείκτες απόδοσης",
+  "cashFlowAnalysis": "Ανάλυση Ταμειακών Ροών",
+  "cashFlowAnalysisDesc": "Τάσεις και μοτίβα ροής χρημάτων με την πάροδο του χρόνου",
+  "goalProgress": "Πρόοδος Στόχου",
+  "goalProgressDesc": "Παρακολούθηση οικονομικών στόχων με ορόσημα προόδου",
+  "transactionDetailsDesc": "Πλήρες ιστορικό συναλλαγών με επιλογές φιλτραρίσματος"
 }

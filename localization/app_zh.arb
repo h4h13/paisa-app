@@ -716,5 +716,18 @@
   "letsGetStarted": "开始使用",
   "stepCount": "第 {currentStep} 步，共 {totalSteps} 步",
   "dueOnDate": "到期日 {date}",
-  "floatingBottomNavigationBar": "浮动底部导航栏"
+  "floatingBottomNavigationBar": "浮动底部导航栏",
+  "monthSummary": "月度摘要",
+  "monthSummaryDesc": "快速查看本月的收入、支出和净余额",
+  "yearlySummary": "年度摘要",
+  "yearlySummaryDesc": "包含每月明细的年度财务总结",
+  "categoryBreakdown": "分类明细",
+  "categoryBreakdownDesc": "按分类的详细支出分析及可视化图表",
+  "budgetPerformance": "预算执行情况",
+  "budgetPerformanceDesc": "通过绩效指标跟踪预算与实际支出",
+  "cashFlowAnalysis": "现金流分析",
+  "cashFlowAnalysisDesc": "资金流动趋势和模式分析",
+  "goalProgress": "目标进度",
+  "goalProgressDesc": "财务目标跟踪及里程碑进展",
+  "transactionDetailsDesc": "完整的交易历史及筛选选项"
 }

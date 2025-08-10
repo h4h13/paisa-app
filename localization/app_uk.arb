@@ -716,5 +716,18 @@
   "letsGetStarted": "Почнемо",
   "stepCount": "Крок {currentStep} з {totalSteps}",
   "dueOnDate": "Термін {date}",
-  "floatingBottomNavigationBar": "Плаваюча нижня панель навігації"
+  "floatingBottomNavigationBar": "Плаваюча нижня панель навігації",
+  "monthSummary": "Місячний звіт",
+  "monthSummaryDesc": "Швидкий огляд доходів, витрат і чистого балансу за поточний місяць",
+  "yearlySummary": "Річний звіт",
+  "yearlySummaryDesc": "Детальний річний фінансовий звіт з помісячним розподілом",
+  "categoryBreakdown": "Розбивка за категоріями",
+  "categoryBreakdownDesc": "Детальний аналіз витрат за категоріями з візуальними діаграмами",
+  "budgetPerformance": "Виконання бюджету",
+  "budgetPerformanceDesc": "Відстеження бюджету та фактичних витрат з індикаторами ефективності",
+  "cashFlowAnalysis": "Аналіз грошових потоків",
+  "cashFlowAnalysisDesc": "Тенденції та динаміка руху грошей з часом",
+  "goalProgress": "Прогрес цілей",
+  "goalProgressDesc": "Відстеження фінансових цілей з етапами досягнення",
+  "transactionDetailsDesc": "Повна історія транзакцій з можливістю фільтрації"
 }

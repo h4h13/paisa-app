@@ -718,5 +718,18 @@
   "letsGetStarted": "Zaczynamy",
   "stepCount": "Krok {currentStep} z {totalSteps}",
   "dueOnDate": "Termin płatności {date}",
-  "floatingBottomNavigationBar": "Pływający dolny pasek nawigacyjny"
+  "floatingBottomNavigationBar": "Pływający dolny pasek nawigacyjny",
+  "monthSummary": "Podsumowanie miesiąca",
+  "monthSummaryDesc": "Szybki przegląd przychodów, wydatków i salda netto za bieżący miesiąc",
+  "yearlySummary": "Podsumowanie roczne",
+  "yearlySummaryDesc": "Kompleksowe roczne podsumowanie finansowe z podziałem na miesiące",
+  "categoryBreakdown": "Podział na kategorie",
+  "categoryBreakdownDesc": "Szczegółowa analiza wydatków według kategorii z wykresami",
+  "budgetPerformance": "Wydajność budżetu",
+  "budgetPerformanceDesc": "Śledź budżet w porównaniu do rzeczywistych wydatków z wskaźnikami wydajności",
+  "cashFlowAnalysis": "Analiza przepływów pieniężnych",
+  "cashFlowAnalysisDesc": "Trendy i wzorce przepływu pieniędzy w czasie",
+  "goalProgress": "Postęp celu",
+  "goalProgressDesc": "Śledzenie celów finansowych z kamieniami milowymi",
+  "transactionDetailsDesc": "Pełna historia transakcji z opcjami filtrowania"
 }

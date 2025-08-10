@@ -717,5 +717,18 @@
   "letsGetStarted": "בוא נתחיל",
   "stepCount": "שלב {currentStep} מתוך {totalSteps}",
   "dueOnDate": "לתשלום ב-{date}",
-  "floatingBottomNavigationBar": "סרגל ניווט תחתון צף"
+  "floatingBottomNavigationBar": "סרגל ניווט תחתון צף",
+  "monthSummary": "סיכום חודשי",
+  "monthSummaryDesc": "סקירה מהירה של הכנסות, הוצאות ויתרה נטו לחודש הנוכחי",
+  "yearlySummary": "סיכום שנתי",
+  "yearlySummaryDesc": "סיכום פיננסי שנתי מקיף עם פירוט חודשי",
+  "categoryBreakdown": "פירוט לפי קטגוריה",
+  "categoryBreakdownDesc": "ניתוח הוצאות מפורט לפי קטגוריה עם תרשימים חזותיים",
+  "budgetPerformance": "ביצועי תקציב",
+  "budgetPerformanceDesc": "עקוב אחר תקציב לעומת הוצאות בפועל עם מדדי ביצועים",
+  "cashFlowAnalysis": "ניתוח תזרים מזומנים",
+  "cashFlowAnalysisDesc": "מגמות ודפוסי תזרים מזומנים לאורך זמן",
+  "goalProgress": "התקדמות יעדים",
+  "goalProgressDesc": "מעקב אחר יעדים פיננסיים עם התקדמות אבני דרך",
+  "transactionDetailsDesc": "היסטוריית עסקאות מלאה עם אפשרויות סינון"
 }

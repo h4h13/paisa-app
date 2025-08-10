@@ -716,5 +716,18 @@
   "letsGetStarted": "Simulan na",
   "stepCount": "Hakbang {currentStep} ng {totalSteps}",
   "dueOnDate": "Due sa {date}",
-  "floatingBottomNavigationBar": "Floating na Bottom Navigation Bar"
+  "floatingBottomNavigationBar": "Floating na Bottom Navigation Bar",
+  "monthSummary": "Buod ng Buwan",
+  "monthSummaryDesc": "Mabilisang buod ng kita, gastos, at netong balanse para sa kasalukuyang buwan",
+  "yearlySummary": "Buod ng Taon",
+  "yearlySummaryDesc": "Komprehensibong taunang buod ng pananalapi na may buwanang detalye",
+  "categoryBreakdown": "Pagbabasag ng Kategorya",
+  "categoryBreakdownDesc": "Detalyadong pagsusuri ng paggastos ayon sa kategorya na may visual na tsart",
+  "budgetPerformance": "Pagganap ng Badyet",
+  "budgetPerformanceDesc": "Subaybayan ang badyet kumpara sa aktwal na paggastos gamit ang mga indicator ng pagganap",
+  "cashFlowAnalysis": "Pagsusuri ng Daloy ng Pera",
+  "cashFlowAnalysisDesc": "Mga trend at pattern ng daloy ng pera sa paglipas ng panahon",
+  "goalProgress": "Progreso ng Layunin",
+  "goalProgressDesc": "Pagsubaybay ng mga layunin sa pananalapi na may milestone na progreso",
+  "transactionDetailsDesc": "Kumpletong kasaysayan ng transaksyon na may mga opsyon sa pag-filter"
 }
