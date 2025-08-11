@@ -4049,5 +4049,40 @@
     "@transactionDetailsDesc": {
         "description": "Description shown for the transaction details",
         "type": "text"
+    },
+    "defaultAccountDesc": "Default account will be selected while adding transaction",
+    "@defaultAccountDesc": {
+        "description": "Description shown for the default account",
+        "type": "text"
+    },
+    "excludeAccountDesc": "Transactions are not calculated in the balance and other places",
+    "@excludeAccountDesc": {
+        "description": "Description shown for the exclude account",
+        "type": "text"
+    },
+    "trackBudgetDesc": "Track this budget on home screen",
+    "@trackBudgetDesc": {
+        "description": "Description shown for the track budget",
+        "type": "text"
+    },
+    "rollOverBudgetDesc": "Unused amount from previous period added to current budget",
+    "@rollOverBudgetDesc": {
+        "description": "Description shown for the roll over budget",
+        "type": "text"
+    },
+    "markAsDone": "Mark as Done",
+    "@markAsDone": {
+        "description": "Text shown for the mark as done action",
+        "type": "text"
+    },
+    "reopenLoan": "Reopen Loan",
+    "@reopenLoan": {
+        "description": "Text shown for the reopen action",
+        "type": "text"
+    },
+    "loanStatusUpdated": "Loan status updated",
+    "@loanStatusUpdated": {
+        "description": "Text shown for the loan status updated action",
+        "type": "text"
     }
 }

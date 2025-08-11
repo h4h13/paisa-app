@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "お金の流れや傾向を時系列で表示",
   "goalProgress": "目標進捗",
   "goalProgressDesc": "財務目標の進捗とマイルストーン管理",
-  "transactionDetailsDesc": "フィルター機能付きの全取引履歴"
+  "transactionDetailsDesc": "フィルター機能付きの全取引履歴",
+  "loanStatusUpdated": "ローン状況を更新しました",
+  "reopenLoan": "ローンを再開",
+  "markAsDone": "完了としてマーク",
+  "rollOverBudgetDesc": "前期間の未使用額が現在の予算に追加されます",
+  "trackBudgetDesc": "この予算をホーム画面で追跡",
+  "excludeAccountDesc": "この口座の取引は残高や他の場所で計算されません",
+  "defaultAccountDesc": "取引追加時にデフォルト口座が選択されます"
 }

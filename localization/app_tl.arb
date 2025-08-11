@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Mga trend at pattern ng daloy ng pera sa paglipas ng panahon",
   "goalProgress": "Progreso ng Layunin",
   "goalProgressDesc": "Pagsubaybay ng mga layunin sa pananalapi na may milestone na progreso",
-  "transactionDetailsDesc": "Kumpletong kasaysayan ng transaksyon na may mga opsyon sa pag-filter"
+  "transactionDetailsDesc": "Kumpletong kasaysayan ng transaksyon na may mga opsyon sa pag-filter",
+  "loanStatusUpdated": "Na-update ang status ng utang",
+  "reopenLoan": "Buksan muli ang Utang",
+  "markAsDone": "Markahan bilang Tapos",
+  "rollOverBudgetDesc": "Ang hindi nagamit na halaga mula sa nakaraang panahon ay idinadagdag sa kasalukuyang badyet",
+  "trackBudgetDesc": "Subaybayan ang badyet na ito sa home screen",
+  "excludeAccountDesc": "Ang mga transaksyon ay hindi isinasama sa balanse at iba pang bahagi",
+  "defaultAccountDesc": "Ang default na account ay awtomatikong pipiliin kapag nagdadagdag ng transaksyon"
 }

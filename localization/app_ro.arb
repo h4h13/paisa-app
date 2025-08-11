@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Tendințe și modele ale fluxului de bani în timp",
   "goalProgress": "Progres obiective",
   "goalProgressDesc": "Urmărirea obiectivelor financiare cu progres pe etape",
-  "transactionDetailsDesc": "Istoric complet al tranzacțiilor cu opțiuni de filtrare"
+  "transactionDetailsDesc": "Istoric complet al tranzacțiilor cu opțiuni de filtrare",
+  "loanStatusUpdated": "Stare împrumut actualizată",
+  "reopenLoan": "Redeschide împrumutul",
+  "markAsDone": "Marchează ca finalizat",
+  "rollOverBudgetDesc": "Suma neutilizată din perioada anterioară este adăugată la bugetul curent",
+  "trackBudgetDesc": "Urmărește acest buget pe ecranul principal",
+  "excludeAccountDesc": "Tranzacțiile nu sunt calculate în sold și în alte locuri",
+  "defaultAccountDesc": "Contul implicit va fi selectat la adăugarea unei tranzacții"
 }

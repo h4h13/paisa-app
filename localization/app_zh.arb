@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "资金流动趋势和模式分析",
   "goalProgress": "目标进度",
   "goalProgressDesc": "财务目标跟踪及里程碑进展",
-  "transactionDetailsDesc": "完整的交易历史及筛选选项"
+  "transactionDetailsDesc": "完整的交易历史及筛选选项",
+  "loanStatusUpdated": "贷款状态已更新",
+  "reopenLoan": "重新开启贷款",
+  "markAsDone": "标记为已完成",
+  "rollOverBudgetDesc": "上一期间未使用的金额将添加到当前预算中",
+  "trackBudgetDesc": "在主屏幕跟踪此预算",
+  "excludeAccountDesc": "该账户的交易不会计入余额和其他位置",
+  "defaultAccountDesc": "添加交易时将默认选择此账户"
 }

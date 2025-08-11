@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "시간에 따른 자금 흐름 추세 및 패턴",
   "goalProgress": "목표 진행 상황",
   "goalProgressDesc": "마일스톤별 재무 목표 추적",
-  "transactionDetailsDesc": "필터링 옵션이 포함된 전체 거래 내역"
+  "transactionDetailsDesc": "필터링 옵션이 포함된 전체 거래 내역",
+  "loanStatusUpdated": "대출 상태가 업데이트되었습니다",
+  "reopenLoan": "대출 다시 열기",
+  "markAsDone": "완료로 표시",
+  "rollOverBudgetDesc": "이전 기간의 미사용 금액이 현재 예산에 추가됩니다",
+  "trackBudgetDesc": "홈 화면에서 이 예산을 추적하세요",
+  "excludeAccountDesc": "이 계좌의 거래는 잔액 및 기타 항목에 계산되지 않습니다",
+  "defaultAccountDesc": "거래 추가 시 기본 계좌가 선택됩니다"
 }

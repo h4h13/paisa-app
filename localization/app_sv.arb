@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Pengaflödestrender och mönster över tid",
   "goalProgress": "Måluppföljning",
   "goalProgressDesc": "Spårning av ekonomiska mål med milstolpsframsteg",
-  "transactionDetailsDesc": "Fullständig transaktionshistorik med filtreringsalternativ"
+  "transactionDetailsDesc": "Fullständig transaktionshistorik med filtreringsalternativ",
+  "loanStatusUpdated": "Lånestatus uppdaterad",
+  "reopenLoan": "Återöppna lån",
+  "markAsDone": "Markera som klar",
+  "rollOverBudgetDesc": "Oanvänt belopp från föregående period läggs till nuvarande budget",
+  "trackBudgetDesc": "Spåra denna budget på hemskärmen",
+  "excludeAccountDesc": "Transaktioner räknas inte med i saldot och andra platser",
+  "defaultAccountDesc": "Standardkonto väljs när du lägger till en transaktion"
 }

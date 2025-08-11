@@ -730,5 +730,12 @@
   "cashFlowAnalysisDesc": "מגמות ודפוסי תזרים מזומנים לאורך זמן",
   "goalProgress": "התקדמות יעדים",
   "goalProgressDesc": "מעקב אחר יעדים פיננסיים עם התקדמות אבני דרך",
-  "transactionDetailsDesc": "היסטוריית עסקאות מלאה עם אפשרויות סינון"
+  "transactionDetailsDesc": "היסטוריית עסקאות מלאה עם אפשרויות סינון",
+  "loanStatusUpdated": "סטטוס ההלוואה עודכן",
+  "reopenLoan": "פתח מחדש הלוואה",
+  "markAsDone": "סמן כהושלם",
+  "rollOverBudgetDesc": "סכום שלא נוצל מהתקופה הקודמת נוסף לתקציב הנוכחי",
+  "trackBudgetDesc": "עקוב אחר תקציב זה במסך הבית",
+  "excludeAccountDesc": "עסקאות אינן מחושבות ביתרה ובמקומות אחרים",
+  "defaultAccountDesc": "חשבון ברירת מחדל ייבחר בעת הוספת עסקה"
 }

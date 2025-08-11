@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Tren dan pola arus uang dari waktu ke waktu",
   "goalProgress": "Progres Tujuan",
   "goalProgressDesc": "Pelacakan tujuan keuangan dengan progres pencapaian",
-  "transactionDetailsDesc": "Riwayat transaksi lengkap dengan opsi penyaringan"
+  "transactionDetailsDesc": "Riwayat transaksi lengkap dengan opsi penyaringan",
+  "loanStatusUpdated": "Status pinjaman diperbarui",
+  "reopenLoan": "Buka Kembali Pinjaman",
+  "markAsDone": "Tandai Selesai",
+  "rollOverBudgetDesc": "Jumlah yang tidak terpakai dari periode sebelumnya ditambahkan ke anggaran saat ini",
+  "trackBudgetDesc": "Lacak anggaran ini di layar beranda",
+  "excludeAccountDesc": "Transaksi tidak dihitung dalam saldo dan tempat lain",
+  "defaultAccountDesc": "Akun default akan dipilih saat menambah transaksi"
 }

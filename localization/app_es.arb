@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Money flow trends and patterns over time",
   "goalProgress": "Goal Progress",
   "goalProgressDesc": "Financial goals tracking with milestone progress",
-  "transactionDetailsDesc": "Complete transaction history with filtering options"
+  "transactionDetailsDesc": "Complete transaction history with filtering options",
+  "loanStatusUpdated": "Estado del préstamo actualizado",
+  "reopenLoan": "Reabrir préstamo",
+  "markAsDone": "Marcar como hecho",
+  "rollOverBudgetDesc": "El importe no utilizado del periodo anterior se añade al presupuesto actual",
+  "trackBudgetDesc": "Sigue este presupuesto en la pantalla de inicio",
+  "excludeAccountDesc": "Las transacciones no se calculan en el saldo ni en otros lugares",
+  "defaultAccountDesc": "La cuenta predeterminada se seleccionará al añadir una transacción"
 }

@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Mwenendo na mifumo ya mtiririko wa pesa kwa muda",
   "goalProgress": "Maendeleo ya Malengo",
   "goalProgressDesc": "Ufuatiliaji wa malengo ya kifedha na maendeleo ya hatua",
-  "transactionDetailsDesc": "Historia kamili ya miamala na chaguo za kuchuja"
+  "transactionDetailsDesc": "Historia kamili ya miamala na chaguo za kuchuja",
+  "loanStatusUpdated": "Hali ya mkopo imesasishwa",
+  "reopenLoan": "Fungua tena Mkopo",
+  "markAsDone": "Weka Kama Imekamilika",
+  "rollOverBudgetDesc": "Kiasi kisichotumika kutoka kipindi kilichopita kimeongezwa kwenye bajeti ya sasa",
+  "trackBudgetDesc": "Fuatilia bajeti hii kwenye skrini ya nyumbani",
+  "excludeAccountDesc": "Miamala haijahesabiwa kwenye salio na sehemu nyingine",
+  "defaultAccountDesc": "Akaunti chaguo-msingi itachaguliwa wakati wa kuongeza mwamala"
 }

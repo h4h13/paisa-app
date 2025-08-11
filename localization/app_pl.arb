@@ -731,5 +731,12 @@
   "cashFlowAnalysisDesc": "Trendy i wzorce przepływu pieniędzy w czasie",
   "goalProgress": "Postęp celu",
   "goalProgressDesc": "Śledzenie celów finansowych z kamieniami milowymi",
-  "transactionDetailsDesc": "Pełna historia transakcji z opcjami filtrowania"
+  "transactionDetailsDesc": "Pełna historia transakcji z opcjami filtrowania",
+  "loanStatusUpdated": "Status pożyczki zaktualizowany",
+  "reopenLoan": "Ponownie otwórz pożyczkę",
+  "markAsDone": "Oznacz jako zakończone",
+  "rollOverBudgetDesc": "Niewykorzystana kwota z poprzedniego okresu dodana do bieżącego budżetu",
+  "trackBudgetDesc": "Śledź ten budżet na ekranie głównym",
+  "excludeAccountDesc": "Transakcje nie są uwzględniane w saldzie i innych miejscach",
+  "defaultAccountDesc": "Domyślne konto będzie wybrane podczas dodawania transakcji"
 }

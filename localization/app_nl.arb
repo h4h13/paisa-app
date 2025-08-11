@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Trends en patronen in geldstromen in de loop van de tijd",
   "goalProgress": "Doelvoortgang",
   "goalProgressDesc": "Financiële doelen bijhouden met mijlpaalvoortgang",
-  "transactionDetailsDesc": "Volledige transactiegeschiedenis met filteropties"
+  "transactionDetailsDesc": "Volledige transactiegeschiedenis met filteropties",
+  "loanStatusUpdated": "Leningstatus bijgewerkt",
+  "reopenLoan": "Lening heropenen",
+  "markAsDone": "Markeren als voltooid",
+  "rollOverBudgetDesc": "Ongebruikt bedrag van de vorige periode toegevoegd aan het huidige budget",
+  "trackBudgetDesc": "Volg dit budget op het startscherm",
+  "excludeAccountDesc": "Transacties worden niet meegerekend in het saldo en andere plaatsen",
+  "defaultAccountDesc": "Standaardrekening wordt geselecteerd bij het toevoegen van een transactie"
 }

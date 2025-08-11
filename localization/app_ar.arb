@@ -731,5 +731,12 @@
   "cashFlowAnalysisDesc": "اتجاهات وأنماط تدفق الأموال مع مرور الوقت",
   "goalProgress": "تقدم الأهداف",
   "goalProgressDesc": "تتبع الأهداف المالية مع تقدم الإنجازات",
-  "transactionDetailsDesc": "سجل كامل للمعاملات مع خيارات التصفية"
+  "transactionDetailsDesc": "سجل كامل للمعاملات مع خيارات التصفية",
+  "loanStatusUpdated": "تم تحديث حالة القرض",
+  "reopenLoan": "إعادة فتح القرض",
+  "markAsDone": "وضع علامة كمكتمل",
+  "rollOverBudgetDesc": "يتم إضافة المبلغ غير المستخدم من الفترة السابقة إلى ميزانية الفترة الحالية",
+  "trackBudgetDesc": "تتبع هذه الميزانية على الشاشة الرئيسية",
+  "excludeAccountDesc": "لا يتم احتساب المعاملات في الرصيد والأماكن الأخرى",
+  "defaultAccountDesc": "سيتم اختيار الحساب الافتراضي عند إضافة معاملة"
 }

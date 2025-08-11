@@ -731,5 +731,12 @@
   "cashFlowAnalysisDesc": "Geldfluss-Trends und Muster im Zeitverlauf",
   "goalProgress": "Ziel-Fortschritt",
   "goalProgressDesc": "Verfolgung finanzieller Ziele mit Meilenstein-Fortschritt",
-  "transactionDetailsDesc": "Vollständige Transaktionshistorie mit Filteroptionen"
+  "transactionDetailsDesc": "Vollständige Transaktionshistorie mit Filteroptionen",
+  "loanStatusUpdated": "Darlehensstatus aktualisiert",
+  "reopenLoan": "Darlehen wieder öffnen",
+  "markAsDone": "Als erledigt markieren",
+  "rollOverBudgetDesc": "Nicht verwendeter Betrag aus dem vorherigen Zeitraum wird dem aktuellen Budget hinzugefügt",
+  "trackBudgetDesc": "Verfolgen Sie dieses Budget auf dem Startbildschirm",
+  "excludeAccountDesc": "Transaktionen werden nicht im Saldo und an anderen Stellen berechnet",
+  "defaultAccountDesc": "Standardkonto wird beim Hinzufügen einer Transaktion ausgewählt"
 }

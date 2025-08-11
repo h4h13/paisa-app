@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "資金流動趨勢與模式分析",
   "goalProgress": "目標進度",
   "goalProgressDesc": "財務目標追蹤與里程碑進度",
-  "transactionDetailsDesc": "完整交易紀錄，支援篩選功能"
+  "transactionDetailsDesc": "完整交易紀錄，支援篩選功能",
+  "loanStatusUpdated": "貸款狀態已更新",
+  "reopenLoan": "重新開啟貸款",
+  "markAsDone": "標記為已完成",
+  "rollOverBudgetDesc": "前一期間未用金額將新增至目前預算",
+  "trackBudgetDesc": "在主畫面追蹤此預算",
+  "excludeAccountDesc": "此帳戶的交易不計入餘額及其他統計",
+  "defaultAccountDesc": "新增交易時將自動選擇預設帳戶"
 }

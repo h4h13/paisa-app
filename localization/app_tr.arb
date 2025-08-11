@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Zaman içindeki para akışı eğilimleri ve kalıpları",
   "goalProgress": "Hedef İlerlemesi",
   "goalProgressDesc": "Kilometre taşı ilerlemesiyle finansal hedef takibi",
-  "transactionDetailsDesc": "Filtreleme seçenekleriyle eksiksiz işlem geçmişi"
+  "transactionDetailsDesc": "Filtreleme seçenekleriyle eksiksiz işlem geçmişi",
+  "loanStatusUpdated": "Kredi durumu güncellendi",
+  "reopenLoan": "Krediyi Yeniden Aç",
+  "markAsDone": "Tamamlandı Olarak İşaretle",
+  "rollOverBudgetDesc": "Önceki dönemden kullanılmayan tutar mevcut bütçeye eklendi",
+  "trackBudgetDesc": "Bu bütçeyi ana ekranda takip et",
+  "excludeAccountDesc": "İşlemler bakiye ve diğer yerlerde hesaplamaya dahil edilmez",
+  "defaultAccountDesc": "İşlem eklerken varsayılan hesap seçilecektir"
 }

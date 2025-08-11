@@ -729,5 +729,12 @@
   "cashFlowAnalysisDesc": "Xu hướng và mô hình dòng tiền theo thời gian",
   "goalProgress": "Tiến độ mục tiêu",
   "goalProgressDesc": "Theo dõi mục tiêu tài chính với tiến trình các cột mốc",
-  "transactionDetailsDesc": "Lịch sử giao dịch đầy đủ với các tùy chọn lọc"
+  "transactionDetailsDesc": "Lịch sử giao dịch đầy đủ với các tùy chọn lọc",
+  "loanStatusUpdated": "Trạng thái khoản vay đã được cập nhật",
+  "reopenLoan": "Mở lại khoản vay",
+  "markAsDone": "Đánh dấu là đã hoàn thành",
+  "rollOverBudgetDesc": "Số tiền chưa sử dụng từ kỳ trước sẽ được cộng vào ngân sách hiện tại",
+  "trackBudgetDesc": "Theo dõi ngân sách này trên màn hình chính",
+  "excludeAccountDesc": "Các giao dịch sẽ không được tính vào số dư và các nơi khác",
+  "defaultAccountDesc": "Tài khoản mặc định sẽ được chọn khi thêm giao dịch"
 }
