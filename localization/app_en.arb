@@ -4084,5 +4084,15 @@
     "@loanStatusUpdated": {
         "description": "Text shown for the loan status updated action",
         "type": "text"
+    },
+    "legacyBackup": "Legacy Backup",
+    "@legacyBackup": {
+        "description": "Text shown for the legacy backup option",
+        "type": "text"
+    },
+    "newBackup": "New Backup",
+    "@newBackup": {
+        "description": "Text shown for the new backup option",
+        "type": "text"
     }
 }
