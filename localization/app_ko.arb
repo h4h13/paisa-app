@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "이전 기간의 미사용 금액이 현재 예산에 추가됩니다",
   "trackBudgetDesc": "홈 화면에서 이 예산을 추적하세요",
   "excludeAccountDesc": "이 계좌의 거래는 잔액 및 기타 항목에 계산되지 않습니다",
-  "defaultAccountDesc": "거래 추가 시 기본 계좌가 선택됩니다"
+  "defaultAccountDesc": "거래 추가 시 기본 계좌가 선택됩니다",
+  "premiumFeature3Description": "Google Drive에 데이터를 백업하여 쉽게 액세스하고 복구하세요.",
+  "premiumFeature6Title": "거래에 이미지 첨부",
+  "premiumFeature6Description": "거래에 사진이나 영수증을 추가하여 더 잘 추적하세요.",
+  "premiumFeature7Title": "재무 보고서 생성",
+  "premiumFeature7Description": "상세 재무 보고서를 생성하여 지출 습관에 대한 인사이트를 얻으세요.",
+  "legacyBackup": "레거시 백업",
+  "newBackup": "새 백업",
+  "monthlySummaryReportDate": "월간 요약 보고서 {date}",
+  "recognizedAndTrusted": "인정받고 신뢰받는"
 }

@@ -725,5 +725,14 @@
   "rollOverBudgetDesc": "סכום שלא נוצל מהתקופה הקודמת נוסף לתקציב הנוכחי",
   "trackBudgetDesc": "עקוב אחר תקציב זה במסך הבית",
   "excludeAccountDesc": "עסקאות אינן מחושבות ביתרה ובמקומות אחרים",
-  "defaultAccountDesc": "חשבון ברירת מחדל ייבחר בעת הוספת עסקה"
+  "defaultAccountDesc": "חשבון ברירת מחדל ייבחר בעת הוספת עסקה",
+  "premiumFeature3Description": "גבה את הנתונים שלך ל-Google Drive לגישה ושחזור קלים.",
+  "premiumFeature6Title": "צרף תמונות לעסקאות",
+  "premiumFeature6Description": "הוסף תמונות או קבלות לעסקאות שלך למעקב טוב יותר.",
+  "premiumFeature7Title": "יצירת דוחות פיננסיים",
+  "premiumFeature7Description": "צור דוחות פיננסיים מפורטים לקבלת תובנות על הרגלי ההוצאות שלך.",
+  "legacyBackup": "גיבוי ישן",
+  "newBackup": "גיבוי חדש",
+  "monthlySummaryReportDate": "דוח סיכום חודשי {date}",
+  "recognizedAndTrusted": "מוכר ואמין"
 }

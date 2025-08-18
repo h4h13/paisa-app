@@ -726,5 +726,14 @@
   "rollOverBudgetDesc": "Nicht verwendeter Betrag aus dem vorherigen Zeitraum wird dem aktuellen Budget hinzugefügt",
   "trackBudgetDesc": "Verfolgen Sie dieses Budget auf dem Startbildschirm",
   "excludeAccountDesc": "Transaktionen werden nicht im Saldo und an anderen Stellen berechnet",
-  "defaultAccountDesc": "Standardkonto wird beim Hinzufügen einer Transaktion ausgewählt"
+  "defaultAccountDesc": "Standardkonto wird beim Hinzufügen einer Transaktion ausgewählt",
+  "premiumFeature3Description": "Sichern Sie Ihre Daten auf Google Drive für einfachen Zugriff und Wiederherstellung.",
+  "premiumFeature6Title": "Bilder an Transaktionen anhängen",
+  "premiumFeature6Description": "Fügen Sie Fotos oder Belege zu Ihren Transaktionen hinzu, um sie besser zu verfolgen.",
+  "premiumFeature7Title": "Finanzberichtserstellung",
+  "premiumFeature7Description": "Erstellen Sie detaillierte Finanzberichte, um Einblicke in Ihre Ausgabengewohnheiten zu erhalten.",
+  "legacyBackup": "Legacy-Backup",
+  "newBackup": "Neues Backup",
+  "monthlySummaryReportDate": "Monatlicher Zusammenfassungsbericht {date}",
+  "recognizedAndTrusted": "Anerkannt & Vertrauenswürdig"
 }

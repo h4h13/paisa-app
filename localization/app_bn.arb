@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "পূর্ববর্তী সময়ের অব্যবহৃত পরিমাণ বর্তমান বাজেটে যোগ করা হয়েছে",
   "trackBudgetDesc": "হোম স্ক্রিনে এই বাজেটটি ট্র্যাক করুন",
   "excludeAccountDesc": "এই অ্যাকাউন্টের লেনদেন ব্যালেন্স ও অন্যান্য স্থানে গণনা করা হবে না",
-  "defaultAccountDesc": "লেনদেন যোগ করার সময় ডিফল্ট অ্যাকাউন্ট নির্বাচন করা হবে"
+  "defaultAccountDesc": "লেনদেন যোগ করার সময় ডিফল্ট অ্যাকাউন্ট নির্বাচন করা হবে",
+  "premiumFeature3Description": "সহজে অ্যাক্সেস ও পুনরুদ্ধারের জন্য আপনার ডেটা Google Drive-এ ব্যাকআপ করুন।",
+  "premiumFeature6Title": "লেনদেনে ছবি সংযুক্ত করুন",
+  "premiumFeature6Description": "আপনার লেনদেনে ছবি বা রসিদ যোগ করুন আরও ভালো ট্র্যাকিংয়ের জন্য।",
+  "premiumFeature7Title": "আর্থিক রিপোর্ট তৈরি",
+  "premiumFeature7Description": "আপনার খরচের অভ্যাস বুঝতে বিস্তারিত আর্থিক রিপোর্ট তৈরি করুন।",
+  "legacyBackup": "লেগেসি ব্যাকআপ",
+  "newBackup": "নতুন ব্যাকআপ",
+  "monthlySummaryReportDate": "মাসিক সারাংশ রিপোর্ট {date}",
+  "recognizedAndTrusted": "স্বীকৃত এবং বিশ্বস্ত"
 }

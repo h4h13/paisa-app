@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Ongebruikt bedrag van de vorige periode toegevoegd aan het huidige budget",
   "trackBudgetDesc": "Volg dit budget op het startscherm",
   "excludeAccountDesc": "Transacties worden niet meegerekend in het saldo en andere plaatsen",
-  "defaultAccountDesc": "Standaardrekening wordt geselecteerd bij het toevoegen van een transactie"
+  "defaultAccountDesc": "Standaardrekening wordt geselecteerd bij het toevoegen van een transactie",
+  "premiumFeature3Description": "Maak een back-up van uw gegevens naar Google Drive voor gemakkelijke toegang en herstel.",
+  "premiumFeature6Title": "Afbeeldingen toevoegen aan transacties",
+  "premiumFeature6Description": "Voeg foto's of bonnetjes toe aan uw transacties voor betere tracking.",
+  "premiumFeature7Title": "Financiële rapporten genereren",
+  "premiumFeature7Description": "Genereer gedetailleerde financiële rapporten om inzicht te krijgen in uw uitgavenpatroon.",
+  "legacyBackup": "Legacy back-up",
+  "newBackup": "Nieuwe back-up",
+  "monthlySummaryReportDate": "Maandoverzicht rapport {date}",
+  "recognizedAndTrusted": "Erkend & Vertrouwd"
 }

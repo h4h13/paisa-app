@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Suma neutilizată din perioada anterioară este adăugată la bugetul curent",
   "trackBudgetDesc": "Urmărește acest buget pe ecranul principal",
   "excludeAccountDesc": "Tranzacțiile nu sunt calculate în sold și în alte locuri",
-  "defaultAccountDesc": "Contul implicit va fi selectat la adăugarea unei tranzacții"
+  "defaultAccountDesc": "Contul implicit va fi selectat la adăugarea unei tranzacții",
+  "premiumFeature3Description": "Fă backup datelor tale pe Google Drive pentru acces și recuperare ușoară.",
+  "premiumFeature6Title": "Atașează imagini la tranzacții",
+  "premiumFeature6Description": "Adaugă fotografii sau chitanțe la tranzacțiile tale pentru o urmărire mai bună.",
+  "premiumFeature7Title": "Generare rapoarte financiare",
+  "premiumFeature7Description": "Generează rapoarte financiare detaliate pentru a obține informații despre obiceiurile tale de cheltuieli.",
+  "legacyBackup": "Backup vechi",
+  "newBackup": "Backup nou",
+  "monthlySummaryReportDate": "Raport Rezumat Lunar {date}",
+  "recognizedAndTrusted": "Recunoscut & De Încredere"
 }

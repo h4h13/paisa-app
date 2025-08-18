@@ -726,5 +726,14 @@
   "rollOverBudgetDesc": "Ubrugt beløb fra forrige periode tilføjes til det aktuelle budget",
   "trackBudgetDesc": "Spor dette budget på startskærmen",
   "excludeAccountDesc": "Transaktioner med denne konto medregnes ikke i saldoen og andre steder",
-  "defaultAccountDesc": "Standardkontoen vælges automatisk, når du tilføjer en transaktion"
+  "defaultAccountDesc": "Standardkontoen vælges automatisk, når du tilføjer en transaktion",
+  "premiumFeature3Description": "Sikkerhedskopier dine data til Google Drive for nem adgang og gendannelse.",
+  "premiumFeature6Title": "Vedhæft billeder til transaktioner",
+  "premiumFeature6Description": "Tilføj fotos eller kvitteringer til dine transaktioner for bedre sporing.",
+  "premiumFeature7Title": "Generering af økonomiske rapporter",
+  "premiumFeature7Description": "Generer detaljerede økonomiske rapporter for at få indsigt i dine forbrugsvaner.",
+  "legacyBackup": "Ældre sikkerhedskopi",
+  "newBackup": "Ny sikkerhedskopi",
+  "monthlySummaryReportDate": "Månedlig oversigtsrapport {date}",
+  "recognizedAndTrusted": "Anerkendt og betroet"
 }

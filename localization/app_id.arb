@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Jumlah yang tidak terpakai dari periode sebelumnya ditambahkan ke anggaran saat ini",
   "trackBudgetDesc": "Lacak anggaran ini di layar beranda",
   "excludeAccountDesc": "Transaksi tidak dihitung dalam saldo dan tempat lain",
-  "defaultAccountDesc": "Akun default akan dipilih saat menambah transaksi"
+  "defaultAccountDesc": "Akun default akan dipilih saat menambah transaksi",
+  "premiumFeature3Description": "Cadangkan data Anda ke Google Drive untuk akses dan pemulihan yang mudah.",
+  "premiumFeature6Title": "Lampirkan gambar ke transaksi",
+  "premiumFeature6Description": "Tambahkan foto atau struk ke transaksi Anda untuk pelacakan yang lebih baik.",
+  "premiumFeature7Title": "Pembuatan laporan keuangan",
+  "premiumFeature7Description": "Buat laporan keuangan terperinci untuk mendapatkan wawasan tentang kebiasaan pengeluaran Anda.",
+  "legacyBackup": "Cadangan Lama",
+  "newBackup": "Cadangan Baru",
+  "monthlySummaryReportDate": "Laporan Ringkasan Bulanan {date}",
+  "recognizedAndTrusted": "Diakui & Dipercaya"
 }

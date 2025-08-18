@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "前一期間未用金額將新增至目前預算",
   "trackBudgetDesc": "在主畫面追蹤此預算",
   "excludeAccountDesc": "此帳戶的交易不計入餘額及其他統計",
-  "defaultAccountDesc": "新增交易時將自動選擇預設帳戶"
+  "defaultAccountDesc": "新增交易時將自動選擇預設帳戶",
+  "premiumFeature3Description": "將您的資料備份到 Google Drive，方便存取與還原。",
+  "premiumFeature6Title": "交易附加圖片",
+  "premiumFeature6Description": "可為交易新增照片或收據，方便追蹤。",
+  "premiumFeature7Title": "財務報告產生",
+  "premiumFeature7Description": "產生詳細財務報告，深入了解您的消費習慣。",
+  "legacyBackup": "舊版備份",
+  "newBackup": "新版備份",
+  "monthlySummaryReportDate": "月度摘要報告 {date}",
+  "recognizedAndTrusted": "受認可與信賴"
 }

@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "L'importo non utilizzato dal periodo precedente viene aggiunto al budget corrente",
   "trackBudgetDesc": "Tieni traccia di questo budget nella schermata principale",
   "excludeAccountDesc": "Le transazioni non sono calcolate nel saldo e in altre sezioni",
-  "defaultAccountDesc": "L'account predefinito verrà selezionato durante l'aggiunta di una transazione"
+  "defaultAccountDesc": "L'account predefinito verrà selezionato durante l'aggiunta di una transazione",
+  "premiumFeature3Description": "Esegui il backup dei tuoi dati su Google Drive per un facile accesso e ripristino.",
+  "premiumFeature6Title": "Allega immagini alle transazioni",
+  "premiumFeature6Description": "Aggiungi foto o ricevute alle tue transazioni per una migliore tracciabilità.",
+  "premiumFeature7Title": "Generazione di rapporti finanziari",
+  "premiumFeature7Description": "Genera rapporti finanziari dettagliati per ottenere informazioni sulle tue abitudini di spesa.",
+  "legacyBackup": "Backup legacy",
+  "newBackup": "Nuovo backup",
+  "monthlySummaryReportDate": "Rapporto riepilogativo mensile {date}",
+  "recognizedAndTrusted": "Riconosciuto e affidabile"
 }

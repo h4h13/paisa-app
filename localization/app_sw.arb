@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Kiasi kisichotumika kutoka kipindi kilichopita kimeongezwa kwenye bajeti ya sasa",
   "trackBudgetDesc": "Fuatilia bajeti hii kwenye skrini ya nyumbani",
   "excludeAccountDesc": "Miamala haijahesabiwa kwenye salio na sehemu nyingine",
-  "defaultAccountDesc": "Akaunti chaguo-msingi itachaguliwa wakati wa kuongeza mwamala"
+  "defaultAccountDesc": "Akaunti chaguo-msingi itachaguliwa wakati wa kuongeza mwamala",
+  "premiumFeature3Description": "Hifadhi data zako kwenye Google Drive kwa urahisi wa upatikanaji na urejeshaji.",
+  "premiumFeature6Title": "Ambatisha picha kwenye miamala",
+  "premiumFeature6Description": "Ongeza picha au risiti kwenye miamala yako kwa ufuatiliaji bora.",
+  "premiumFeature7Title": "Uundaji wa ripoti za kifedha",
+  "premiumFeature7Description": "Tengeneza ripoti za kifedha za kina ili kupata maarifa kuhusu tabia zako za matumizi.",
+  "legacyBackup": "Nakala ya Zamani",
+  "newBackup": "Nakala Mpya",
+  "monthlySummaryReportDate": "Ripoti ya Muhtasari wa Mwezi {date}",
+  "recognizedAndTrusted": "Inatambulika & Kuaminika"
 }

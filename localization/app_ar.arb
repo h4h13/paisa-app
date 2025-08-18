@@ -726,5 +726,14 @@
   "rollOverBudgetDesc": "يتم إضافة المبلغ غير المستخدم من الفترة السابقة إلى ميزانية الفترة الحالية",
   "trackBudgetDesc": "تتبع هذه الميزانية على الشاشة الرئيسية",
   "excludeAccountDesc": "لا يتم احتساب المعاملات في الرصيد والأماكن الأخرى",
-  "defaultAccountDesc": "سيتم اختيار الحساب الافتراضي عند إضافة معاملة"
+  "defaultAccountDesc": "سيتم اختيار الحساب الافتراضي عند إضافة معاملة",
+  "premiumFeature3Description": "نسخ بياناتك احتياطيًا إلى Google Drive للوصول إليها واستعادتها بسهولة.",
+  "premiumFeature6Title": "إرفاق صور بالمعاملات",
+  "premiumFeature6Description": "أضف صورًا أو إيصالات إلى معاملاتك لتتبع أفضل.",
+  "premiumFeature7Title": "إنشاء تقارير مالية",
+  "premiumFeature7Description": "إنشاء تقارير مالية مفصلة للحصول على رؤى حول عادات إنفاقك.",
+  "legacyBackup": "النسخة الاحتياطية التقليدية",
+  "newBackup": "نسخة احتياطية جديدة",
+  "monthlySummaryReportDate": "تقرير الملخص الشهري {date}",
+  "recognizedAndTrusted": "معروف وموثوق"
 }

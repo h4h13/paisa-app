@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "上一期间未使用的金额将添加到当前预算中",
   "trackBudgetDesc": "在主屏幕跟踪此预算",
   "excludeAccountDesc": "该账户的交易不会计入余额和其他位置",
-  "defaultAccountDesc": "添加交易时将默认选择此账户"
+  "defaultAccountDesc": "添加交易时将默认选择此账户",
+  "premiumFeature3Description": "将您的数据备份到 Google Drive，便于访问和恢复。",
+  "premiumFeature6Title": "为交易添加图片",
+  "premiumFeature6Description": "为您的交易添加照片或收据，以便更好地跟踪。",
+  "premiumFeature7Title": "财务报告生成",
+  "premiumFeature7Description": "生成详细的财务报告，深入了解您的消费习惯。",
+  "legacyBackup": "旧版备份",
+  "newBackup": "新版备份",
+  "monthlySummaryReportDate": "月度摘要报告 {date}",
+  "recognizedAndTrusted": "广受认可与信赖"
 }

@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Ang hindi nagamit na halaga mula sa nakaraang panahon ay idinadagdag sa kasalukuyang badyet",
   "trackBudgetDesc": "Subaybayan ang badyet na ito sa home screen",
   "excludeAccountDesc": "Ang mga transaksyon ay hindi isinasama sa balanse at iba pang bahagi",
-  "defaultAccountDesc": "Ang default na account ay awtomatikong pipiliin kapag nagdadagdag ng transaksyon"
+  "defaultAccountDesc": "Ang default na account ay awtomatikong pipiliin kapag nagdadagdag ng transaksyon",
+  "premiumFeature3Description": "I-backup ang inyong data sa Google Drive para sa madaling access at recovery.",
+  "premiumFeature6Title": "Mag-attach ng mga larawan sa transaksyon",
+  "premiumFeature6Description": "Magdagdag ng mga larawan o resibo sa inyong mga transaksyon para sa mas mahusay na pagsubaybay.",
+  "premiumFeature7Title": "Pagbuo ng ulat sa pananalapi",
+  "premiumFeature7Description": "Bumuo ng detalyadong mga ulat sa pananalapi upang makakuha ng insights sa inyong mga gawi sa paggastos.",
+  "legacyBackup": "Legacy Backup",
+  "newBackup": "Bagong Backup",
+  "monthlySummaryReportDate": "Buod ng Ulat ng Buwan {date}",
+  "recognizedAndTrusted": "Kinilala at Pinagkakatiwalaan"
 }

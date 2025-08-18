@@ -726,5 +726,14 @@
   "rollOverBudgetDesc": "Nevyužitá částka z předchozího období přidána do aktuálního rozpočtu",
   "trackBudgetDesc": "Sledovat tento rozpočet na domovské obrazovce",
   "excludeAccountDesc": "Transakce nejsou započítány do zůstatku a dalších míst",
-  "defaultAccountDesc": "Výchozí účet bude vybrán při přidávání transakce"
+  "defaultAccountDesc": "Výchozí účet bude vybrán při přidávání transakce",
+  "premiumFeature3Description": "Zálohujte svá data na Google Drive pro snadný přístup a obnovu.",
+  "premiumFeature6Title": "Připojit obrázky k transakcím",
+  "premiumFeature6Description": "Přidejte fotografie nebo účtenky ke svým transakcím pro lepší sledování.",
+  "premiumFeature7Title": "Generování finančních zpráv",
+  "premiumFeature7Description": "Generujte podrobné finanční zprávy a získejte přehled o svých návycích utrácení.",
+  "legacyBackup": "Záloha (legacy)",
+  "newBackup": "Nová záloha",
+  "monthlySummaryReportDate": "Měsíční souhrnná zpráva {date}",
+  "recognizedAndTrusted": "Uznávané a důvěryhodné"
 }

@@ -726,5 +726,14 @@
   "rollOverBudgetDesc": "Le montant inutilisé de la période précédente est ajouté au budget actuel",
   "trackBudgetDesc": "Suivez ce budget sur l'écran d'accueil",
   "excludeAccountDesc": "Les transactions ne sont pas prises en compte dans le solde et ailleurs",
-  "defaultAccountDesc": "Le compte par défaut sera sélectionné lors de l'ajout d'une transaction"
+  "defaultAccountDesc": "Le compte par défaut sera sélectionné lors de l'ajout d'une transaction",
+  "premiumFeature3Description": "Sauvegardez vos données sur Google Drive pour un accès et une récupération faciles.",
+  "premiumFeature6Title": "Joindre des images aux transactions",
+  "premiumFeature6Description": "Ajoutez des photos ou des reçus à vos transactions pour un meilleur suivi.",
+  "premiumFeature7Title": "Génération de rapports financiers",
+  "premiumFeature7Description": "Générez des rapports financiers détaillés pour obtenir des informations sur vos habitudes de dépenses.",
+  "legacyBackup": "Sauvegarde héritée",
+  "newBackup": "Nouvelle sauvegarde",
+  "monthlySummaryReportDate": "Rapport récapitulatif mensuel {date}",
+  "recognizedAndTrusted": "Reconnu et digne de confiance"
 }

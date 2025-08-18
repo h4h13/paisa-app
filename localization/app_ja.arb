@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "前期間の未使用額が現在の予算に追加されます",
   "trackBudgetDesc": "この予算をホーム画面で追跡",
   "excludeAccountDesc": "この口座の取引は残高や他の場所で計算されません",
-  "defaultAccountDesc": "取引追加時にデフォルト口座が選択されます"
+  "defaultAccountDesc": "取引追加時にデフォルト口座が選択されます",
+  "premiumFeature3Description": "Googleドライブにデータをバックアップして簡単にアクセス・復元できます。",
+  "premiumFeature6Title": "取引に画像添付",
+  "premiumFeature6Description": "取引に写真やレシートを追加して管理を強化。",
+  "premiumFeature7Title": "財務レポート作成",
+  "premiumFeature7Description": "詳細な財務レポートを作成し、支出傾向を把握。",
+  "legacyBackup": "レガシーバックアップ",
+  "newBackup": "新しいバックアップ",
+  "monthlySummaryReportDate": "月次サマリーレポート {date}",
+  "recognizedAndTrusted": "認知され信頼されています"
 }

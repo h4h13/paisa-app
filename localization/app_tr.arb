@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Önceki dönemden kullanılmayan tutar mevcut bütçeye eklendi",
   "trackBudgetDesc": "Bu bütçeyi ana ekranda takip et",
   "excludeAccountDesc": "İşlemler bakiye ve diğer yerlerde hesaplamaya dahil edilmez",
-  "defaultAccountDesc": "İşlem eklerken varsayılan hesap seçilecektir"
+  "defaultAccountDesc": "İşlem eklerken varsayılan hesap seçilecektir",
+  "premiumFeature3Description": "Verilerinizi kolay erişim ve kurtarma için Google Drive'a yedekleyin.",
+  "premiumFeature6Title": "İşlemlere görsel ekleyin",
+  "premiumFeature6Description": "Daha iyi takip için işlemlerinize fotoğraf veya makbuz ekleyin.",
+  "premiumFeature7Title": "Finansal rapor oluşturma",
+  "premiumFeature7Description": "Harcama alışkanlıklarınızı anlamak için ayrıntılı finansal raporlar oluşturun.",
+  "legacyBackup": "Eski Yedekleme",
+  "newBackup": "Yeni Yedekleme",
+  "monthlySummaryReportDate": "Aylık Özet Raporu {date}",
+  "recognizedAndTrusted": "Tanınmış ve Güvenilir"
 }

@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "ยอดเงินที่ไม่ได้ใช้จากงวดก่อนจะถูกเพิ่มไปยังงบประมาณปัจจุบัน",
   "trackBudgetDesc": "ติดตามงบประมาณนี้บนหน้าหลัก",
   "excludeAccountDesc": "ธุรกรรมจะไม่ถูกคำนวณในยอดรวมและที่อื่นๆ",
-  "defaultAccountDesc": "บัญชีเริ่มต้นจะถูกเลือกขณะเพิ่มธุรกรรม"
+  "defaultAccountDesc": "บัญชีเริ่มต้นจะถูกเลือกขณะเพิ่มธุรกรรม",
+  "premiumFeature3Description": "สำรองข้อมูลของคุณไปยัง Google Drive เพื่อเข้าถึงและกู้คืนได้ง่าย",
+  "premiumFeature6Title": "แนบรูปภาพกับธุรกรรม",
+  "premiumFeature6Description": "เพิ่มรูปภาพหรือใบเสร็จในธุรกรรมของคุณเพื่อการติดตามที่ดียิ่งขึ้น",
+  "premiumFeature7Title": "สร้างรายงานการเงิน",
+  "premiumFeature7Description": "สร้างรายงานการเงินโดยละเอียดเพื่อดูข้อมูลเชิงลึกเกี่ยวกับนิสัยการใช้จ่ายของคุณ",
+  "legacyBackup": "ข้อมูลสำรองแบบเดิม",
+  "newBackup": "ข้อมูลสำรองแบบใหม่",
+  "monthlySummaryReportDate": "รายงานสรุปรายเดือน {date}",
+  "recognizedAndTrusted": "ได้รับการยอมรับและไว้วางใจ"
 }

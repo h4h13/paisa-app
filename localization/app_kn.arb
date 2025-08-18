@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "ಹಿಂದಿನ ಅವಧಿಯ ಬಳಕೆಯಾಗದ ಮೊತ್ತವನ್ನು ಪ್ರಸ್ತುತ ಬಜೆಟ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ",
   "trackBudgetDesc": "ಈ ಬಜೆಟ್ ಅನ್ನು ಮುಖಪುಟದಲ್ಲಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಿ",
   "excludeAccountDesc": "ವಹಿವಾಟುಗಳನ್ನು ಬಾಕಿ ಮತ್ತು ಇತರ ಸ್ಥಳಗಳಲ್ಲಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲಾಗುವುದಿಲ್ಲ",
-  "defaultAccountDesc": "ವಹಿವಾಟು ಸೇರಿಸುವಾಗ ಡೀಫಾಲ್ಟ್ ಖಾತೆ ಆಯ್ಕೆಮಾಡಲಾಗುತ್ತದೆ"
+  "defaultAccountDesc": "ವಹಿವಾಟು ಸೇರಿಸುವಾಗ ಡೀಫಾಲ್ಟ್ ಖಾತೆ ಆಯ್ಕೆಮಾಡಲಾಗುತ್ತದೆ",
+  "premiumFeature3Description": "ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಸುಲಭ ಪ್ರವೇಶ ಮತ್ತು ಮರುಸ್ಥಾಪನೆಗಾಗಿ Google Drive ಗೆ ಬ್ಯಾಕಪ್ ಮಾಡಿ.",
+  "premiumFeature6Title": "ವಹಿವಾಟುಗಳಿಗೆ ಚಿತ್ರಗಳನ್ನು ಅಂಟಿಸಿ",
+  "premiumFeature6Description": "ಉತ್ತಮ ಟ್ರ್ಯಾಕಿಂಗ್‌ಗಾಗಿ ನಿಮ್ಮ ವಹಿವಾಟುಗಳಿಗೆ ಫೋಟೋಗಳು ಅಥವಾ ರಸೀದಿಗಳನ್ನು ಸೇರಿಸಿ.",
+  "premiumFeature7Title": "ಹಣಕಾಸು ವರದಿ ರಚನೆ",
+  "premiumFeature7Description": "ನಿಮ್ಮ ಖರ್ಚು ಅಭ್ಯಾಸಗಳ ಬಗ್ಗೆ ಒಳನೋಟ ಪಡೆಯಲು ವಿವರವಾದ ಹಣಕಾಸು ವರದಿಗಳನ್ನು ರಚಿಸಿ.",
+  "legacyBackup": "ಹಳೆಯ ಬ್ಯಾಕಪ್",
+  "newBackup": "ಹೊಸ ಬ್ಯಾಕಪ್",
+  "monthlySummaryReportDate": "ಮಾಸಿಕ ಸಾರಾಂಶ ವರದಿ {date}",
+  "recognizedAndTrusted": "ಪ್ರತಿಷ್ಠಿತ ಮತ್ತು ವಿಶ್ವಾಸಾರ್ಹ"
 }

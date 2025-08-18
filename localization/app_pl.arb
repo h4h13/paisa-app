@@ -726,5 +726,14 @@
   "rollOverBudgetDesc": "Niewykorzystana kwota z poprzedniego okresu dodana do bieżącego budżetu",
   "trackBudgetDesc": "Śledź ten budżet na ekranie głównym",
   "excludeAccountDesc": "Transakcje nie są uwzględniane w saldzie i innych miejscach",
-  "defaultAccountDesc": "Domyślne konto będzie wybrane podczas dodawania transakcji"
+  "defaultAccountDesc": "Domyślne konto będzie wybrane podczas dodawania transakcji",
+  "premiumFeature3Description": "Utwórz kopię zapasową danych na Dysku Google, aby mieć łatwy dostęp i możliwość odzyskania.",
+  "premiumFeature6Title": "Dołącz obrazy do transakcji",
+  "premiumFeature6Description": "Dodaj zdjęcia lub paragony do swoich transakcji, aby lepiej je śledzić.",
+  "premiumFeature7Title": "Generowanie raportów finansowych",
+  "premiumFeature7Description": "Generuj szczegółowe raporty finansowe, aby uzyskać wgląd w swoje nawyki wydatkowe.",
+  "legacyBackup": "Kopia zapasowa starszego typu",
+  "newBackup": "Nowa kopia zapasowa",
+  "monthlySummaryReportDate": "Miesięczny raport podsumowujący {date}",
+  "recognizedAndTrusted": "Rozpoznawalny i godny zaufania"
 }

@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "مبلغ استفاده‌نشده از دوره قبل به بودجه فعلی اضافه می‌شود",
   "trackBudgetDesc": "این بودجه را در صفحه اصلی پیگیری کنید",
   "excludeAccountDesc": "تراکنش‌ها در موجودی و سایر بخش‌ها محاسبه نمی‌شوند",
-  "defaultAccountDesc": "هنگام افزودن تراکنش، حساب پیش‌فرض انتخاب می‌شود"
+  "defaultAccountDesc": "هنگام افزودن تراکنش، حساب پیش‌فرض انتخاب می‌شود",
+  "premiumFeature3Description": "از داده‌های خود در گوگل درایو پشتیبان‌گیری کنید تا به راحتی به آنها دسترسی داشته و بازیابی کنید.",
+  "premiumFeature6Title": "ضمیمه تصاویر به تراکنش‌ها",
+  "premiumFeature6Description": "برای پیگیری بهتر، عکس یا رسید را به تراکنش‌های خود اضافه کنید.",
+  "premiumFeature7Title": "ایجاد گزارش مالی",
+  "premiumFeature7Description": "گزارش‌های مالی دقیق ایجاد کنید تا بینش بهتری درباره عادات خرج کردن خود به دست آورید.",
+  "legacyBackup": "پشتیبان قدیمی",
+  "newBackup": "پشتیبان جدید",
+  "monthlySummaryReportDate": "گزارش خلاصه ماهانه {date}",
+  "recognizedAndTrusted": "شناخته‌شده و قابل اعتماد"
 }

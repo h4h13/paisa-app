@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Oanvänt belopp från föregående period läggs till nuvarande budget",
   "trackBudgetDesc": "Spåra denna budget på hemskärmen",
   "excludeAccountDesc": "Transaktioner räknas inte med i saldot och andra platser",
-  "defaultAccountDesc": "Standardkonto väljs när du lägger till en transaktion"
+  "defaultAccountDesc": "Standardkonto väljs när du lägger till en transaktion",
+  "premiumFeature3Description": "Säkerhetskopiera dina data till Google Drive för enkel åtkomst och återställning.",
+  "premiumFeature6Title": "Bifoga bilder till transaktioner",
+  "premiumFeature6Description": "Lägg till foton eller kvitton till dina transaktioner för bättre spårning.",
+  "premiumFeature7Title": "Generering av ekonomiska rapporter",
+  "premiumFeature7Description": "Generera detaljerade ekonomiska rapporter för att få insikter om dina utgiftsvanor.",
+  "legacyBackup": "Legacy-backup",
+  "newBackup": "Ny backup",
+  "monthlySummaryReportDate": "Månadssammanfattningsrapport {date}",
+  "recognizedAndTrusted": "Erkänd & Betrodd"
 }

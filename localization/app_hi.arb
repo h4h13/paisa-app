@@ -725,5 +725,14 @@
   "rollOverBudgetDesc": "पिछली अवधि की अप्रयुक्त राशि को वर्तमान बजट में जोड़ा गया",
   "trackBudgetDesc": "इस बजट को होम स्क्रीन पर ट्रैक करें",
   "excludeAccountDesc": "इन खातों के लेनदेन को शेष और अन्य स्थानों में नहीं जोड़ा जाएगा",
-  "defaultAccountDesc": "लेनदेन जोड़ते समय डिफ़ॉल्ट खाता चयनित रहेगा"
+  "defaultAccountDesc": "लेनदेन जोड़ते समय डिफ़ॉल्ट खाता चयनित रहेगा",
+  "premiumFeature3Description": "आसान पहुँच और पुनर्प्राप्ति के लिए अपने डेटा का Google ड्राइव पर बैकअप लें।",
+  "premiumFeature6Title": "लेनदेन में छवियां संलग्न करें",
+  "premiumFeature6Description": "बेहतर ट्रैकिंग के लिए अपने लेनदेन में फ़ोटो या रसीदें जोड़ें।",
+  "premiumFeature7Title": "वित्तीय रिपोर्ट जनरेशन",
+  "premiumFeature7Description": "अपने खर्च की आदतों की जानकारी प्राप्त करने के लिए विस्तृत वित्तीय रिपोर्ट बनाएं।",
+  "legacyBackup": "पुराना बैकअप",
+  "newBackup": "नया बैकअप",
+  "monthlySummaryReportDate": "मासिक सारांश रिपोर्ट {date}",
+  "recognizedAndTrusted": "मान्यता प्राप्त और विश्वसनीय"
 }

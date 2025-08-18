@@ -724,5 +724,14 @@
   "rollOverBudgetDesc": "Số tiền chưa sử dụng từ kỳ trước sẽ được cộng vào ngân sách hiện tại",
   "trackBudgetDesc": "Theo dõi ngân sách này trên màn hình chính",
   "excludeAccountDesc": "Các giao dịch sẽ không được tính vào số dư và các nơi khác",
-  "defaultAccountDesc": "Tài khoản mặc định sẽ được chọn khi thêm giao dịch"
+  "defaultAccountDesc": "Tài khoản mặc định sẽ được chọn khi thêm giao dịch",
+  "premiumFeature3Description": "Sao lưu dữ liệu của bạn lên Google Drive để dễ dàng truy cập và khôi phục.",
+  "premiumFeature6Title": "Đính kèm hình ảnh vào giao dịch",
+  "premiumFeature6Description": "Thêm ảnh hoặc hóa đơn vào giao dịch để theo dõi tốt hơn.",
+  "premiumFeature7Title": "Tạo báo cáo tài chính",
+  "premiumFeature7Description": "Tạo báo cáo tài chính chi tiết để hiểu rõ hơn về thói quen chi tiêu của bạn.",
+  "legacyBackup": "Sao lưu cũ",
+  "newBackup": "Sao lưu mới",
+  "monthlySummaryReportDate": "Báo cáo tóm tắt tháng {date}",
+  "recognizedAndTrusted": "Được công nhận & tin cậy"
 }
