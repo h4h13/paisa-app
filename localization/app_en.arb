@@ -4074,5 +4074,25 @@
     "@recognizedAndTrusted": {
         "description": "Text shown for the recognized and trusted option",
         "type": "text"
+    },
+    "tapToUnarchive": "Tap to Unarchive",
+    "@tapToUnarchive": {
+        "description": "Text shown for the tap to unarchive action",
+        "type": "text"
+    },
+    "goalArchived": "Goal Archived",
+    "@goalArchived": {
+        "description": "Text shown for the goal archived option",
+        "type": "text"
+    },
+    "productHunt": "Product Hunt",
+    "@productHunt": {
+        "description": "Text shown for the product hunt option",
+        "type": "text"
+    },
+    "productHuntDesc": "Discover and share new products",
+    "@productHuntDesc": {
+        "description": "Description shown for the product hunt option",
+        "type": "text"
     }
 }
