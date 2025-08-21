@@ -735,5 +735,22 @@
   "legacyBackup": "Ældre sikkerhedskopi",
   "newBackup": "Ny sikkerhedskopi",
   "monthlySummaryReportDate": "Månedlig oversigtsrapport {date}",
-  "recognizedAndTrusted": "Anerkendt og betroet"
+  "recognizedAndTrusted": "Anerkendt og betroet",
+  "restoreComplete": "Gendannelse fuldført!",
+  "restoreCompleteMessage": "Din sikkerhedskopi er blevet gendannet succesfuldt.",
+  "restartRequired": "VIGTIGT: Luk og genåbn appen for at se dine gendannede data.",
+  "restartHint": "App-genstart påkrævet: Efter gendannelse, luk og genåbn appen for at se dine data.",
+  "restoringData": "Gendanner dine data...",
+  "restoringDataHint": "Dette kan tage et øjeblik",
+  "gotIt": "Forstået!",
+  "tapToUnarchive": "Tryk for at afarkivere",
+  "goalArchived": "Mål arkiveret",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Opdag og del nye produkter",
+  "exitApp": "Afslut appen",
+  "unusedBudgetRollOver": "Ubrugt budget overføres til næste periode",
+  "howBudgetRolloverWorks": "Sådan fungerer budgetoverførsel",
+  "howBudgetRolloverWorksPoint1": "• Eventuelt uforbrugt beløb fra den forrige periode tilføjes til dit nuværende periodebudget",
+  "howBudgetRolloverWorksPoint2": "• Overførsel fungerer kun efter budgettet har eksisteret i mindst én fuld periode",
+  "howBudgetRolloverWorksPoint3": "• Budgetsporing skal også være aktiveret på budgetdetaljeskærmen"
 }

@@ -733,5 +733,22 @@
   "legacyBackup": "লেগেসি ব্যাকআপ",
   "newBackup": "নতুন ব্যাকআপ",
   "monthlySummaryReportDate": "মাসিক সারাংশ রিপোর্ট {date}",
-  "recognizedAndTrusted": "স্বীকৃত এবং বিশ্বস্ত"
+  "recognizedAndTrusted": "স্বীকৃত এবং বিশ্বস্ত",
+  "restoreComplete": "রিস্টোর সম্পন্ন!",
+  "restoreCompleteMessage": "আপনার ব্যাকআপ সফলভাবে রিস্টোর হয়েছে।",
+  "restartRequired": "গুরুত্বপূর্ণ: রিস্টোর করার পর পরিবর্তন দেখতে অ্যাপ বন্ধ করে পুনরায় খুলুন।",
+  "restartHint": "অ্যাপ রিস্টার্ট প্রয়োজন: রিস্টোরের পর পরিবর্তন দেখতে অ্যাপ বন্ধ করে পুনরায় খুলুন।",
+  "restoringData": "আপনার ডেটা রিস্টোর হচ্ছে...",
+  "restoringDataHint": "এটি কিছু সময় নিতে পারে",
+  "gotIt": "বুঝেছি!",
+  "tapToUnarchive": "আনআর্কাইভ করতে ট্যাপ করুন",
+  "goalArchived": "লক্ষ্য আর্কাইভ করা হয়েছে",
+  "productHunt": "প্রোডাক্ট হান্ট",
+  "productHuntDesc": "নতুন প্রোডাক্ট আবিষ্কার ও শেয়ার করুন",
+  "exitApp": "অ্যাপ থেকে বের হন",
+  "unusedBudgetRollOver": "অব্যবহৃত বাজেট পরবর্তী সময়ে রোলওভার হবে",
+  "howBudgetRolloverWorks": "বাজেট রোলওভার কীভাবে কাজ করে",
+  "howBudgetRolloverWorksPoint1": "• পূর্ববর্তী সময়ের অব্যবহৃত পরিমাণ আপনার বর্তমান বাজেটে যোগ হবে",
+  "howBudgetRolloverWorksPoint2": "• বাজেট অন্তত একটি পূর্ণ সময়কাল বিদ্যমান থাকার পরেই রোলওভার কাজ করবে",
+  "howBudgetRolloverWorksPoint3": "• বাজেট ট্র্যাকিং বাজেটের বিবরণ স্ক্রিনে সক্রিয় থাকতে হবে"
 }

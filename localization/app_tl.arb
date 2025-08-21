@@ -733,5 +733,22 @@
   "legacyBackup": "Legacy Backup",
   "newBackup": "Bagong Backup",
   "monthlySummaryReportDate": "Buod ng Ulat ng Buwan {date}",
-  "recognizedAndTrusted": "Kinilala at Pinagkakatiwalaan"
+  "recognizedAndTrusted": "Kinilala at Pinagkakatiwalaan",
+  "restoreComplete": "Matagumpay na na-restore!",
+  "restoreCompleteMessage": "Matagumpay na na-restore ang inyong backup.",
+  "restartRequired": "MAHALAGA: Isara at muling buksan ang app upang makita ang na-restore na data.",
+  "restartHint": "Kailangan i-restart ang app: Pagkatapos mag-restore, isara at muling buksan ang app upang makita ang inyong data.",
+  "restoringData": "Nire-restore ang inyong data...",
+  "restoringDataHint": "Maaaring tumagal ito ng ilang sandali",
+  "gotIt": "Naintindihan!",
+  "tapToUnarchive": "I-tap upang i-unarchive",
+  "goalArchived": "Na-archive ang layunin",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Tuklasin at ibahagi ang mga bagong produkto",
+  "exitApp": "Lumabas sa App",
+  "unusedBudgetRollOver": "Ang hindi nagamit na badyet ay ililipat sa susunod na panahon",
+  "howBudgetRolloverWorks": "Paano Gumagana ang Budget Rollover",
+  "howBudgetRolloverWorksPoint1": "• Ang anumang hindi nagastos mula sa nakaraang panahon ay idadagdag sa badyet ng kasalukuyang panahon",
+  "howBudgetRolloverWorksPoint2": "• Gumagana lang ang rollover pagkatapos umiral ang badyet nang hindi bababa sa isang buong panahon",
+  "howBudgetRolloverWorksPoint3": "• Dapat naka-enable ang budget tracking sa screen ng detalye ng badyet"
 }

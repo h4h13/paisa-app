@@ -735,5 +735,22 @@
   "legacyBackup": "النسخة الاحتياطية التقليدية",
   "newBackup": "نسخة احتياطية جديدة",
   "monthlySummaryReportDate": "تقرير الملخص الشهري {date}",
-  "recognizedAndTrusted": "معروف وموثوق"
+  "recognizedAndTrusted": "معروف وموثوق",
+  "restoreComplete": "اكتملت الاستعادة!",
+  "restoreCompleteMessage": "تمت استعادة النسخة الاحتياطية بنجاح.",
+  "restartRequired": "هام: يرجى إغلاق التطبيق وإعادة فتحه لرؤية بياناتك المستعادة.",
+  "restartHint": "مطلوب إعادة تشغيل التطبيق: بعد الاستعادة، يرجى إغلاق التطبيق وإعادة فتحه لرؤية بياناتك.",
+  "restoringData": "جارٍ استعادة بياناتك...",
+  "restoringDataHint": "قد يستغرق ذلك بعض الوقت",
+  "gotIt": "تم!",
+  "tapToUnarchive": "انقر لإلغاء الأرشفة",
+  "goalArchived": "تم أرشفة الهدف",
+  "productHunt": "برودكت هانت",
+  "productHuntDesc": "اكتشف وشارك منتجات جديدة",
+  "exitApp": "الخروج من التطبيق",
+  "unusedBudgetRollOver": "سيتم ترحيل الميزانية غير المستخدمة إلى الفترة التالية",
+  "howBudgetRolloverWorks": "كيف يعمل ترحيل الميزانية",
+  "howBudgetRolloverWorksPoint1": "• أي مبلغ غير مُنفق من الفترة السابقة سيُضاف إلى ميزانية الفترة الحالية",
+  "howBudgetRolloverWorksPoint2": "• يعمل الترحيل فقط بعد أن تكون الميزانية موجودة لفترة كاملة واحدة على الأقل",
+  "howBudgetRolloverWorksPoint3": "• يجب أيضًا تفعيل تتبع الميزانية في شاشة تفاصيل الميزانية"
 }

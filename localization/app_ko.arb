@@ -733,5 +733,22 @@
   "legacyBackup": "레거시 백업",
   "newBackup": "새 백업",
   "monthlySummaryReportDate": "월간 요약 보고서 {date}",
-  "recognizedAndTrusted": "인정받고 신뢰받는"
+  "recognizedAndTrusted": "인정받고 신뢰받는",
+  "restoreComplete": "복원 완료!",
+  "restoreCompleteMessage": "백업이 성공적으로 복원되었습니다.",
+  "restartRequired": "중요: 복원된 데이터를 보려면 앱을 닫았다가 다시 열어주세요.",
+  "restartHint": "앱 재시작 필요: 복원 후 데이터를 보려면 앱을 닫았다가 다시 열어주세요.",
+  "restoringData": "데이터 복원 중...",
+  "restoringDataHint": "잠시만 기다려주세요",
+  "gotIt": "확인!",
+  "tapToUnarchive": "보관 해제하려면 탭하세요",
+  "goalArchived": "목표가 보관되었습니다",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "새로운 제품을 발견하고 공유하세요",
+  "exitApp": "앱 종료",
+  "unusedBudgetRollOver": "사용하지 않은 예산은 다음 기간으로 이월됩니다",
+  "howBudgetRolloverWorks": "예산 롤오버 작동 방식",
+  "howBudgetRolloverWorksPoint1": "• 이전 기간의 미사용 금액이 현재 기간 예산에 추가됩니다",
+  "howBudgetRolloverWorksPoint2": "• 예산이 최소 한 기간 이상 존재해야 롤오버가 작동합니다",
+  "howBudgetRolloverWorksPoint3": "• 예산 세부 정보 화면에서 예산 추적도 활성화해야 합니다"
 }

@@ -733,5 +733,22 @@
   "legacyBackup": "Nakala ya Zamani",
   "newBackup": "Nakala Mpya",
   "monthlySummaryReportDate": "Ripoti ya Muhtasari wa Mwezi {date}",
-  "recognizedAndTrusted": "Inatambulika & Kuaminika"
+  "recognizedAndTrusted": "Inatambulika & Kuaminika",
+  "restoreComplete": "Rejesho limekamilika!",
+  "restoreCompleteMessage": "Nakala yako imerejeshwa kwa mafanikio.",
+  "restartRequired": "MUHIMU: Tafadhali funga na fungua tena programu ili kuona data yako iliyorejeshwa.",
+  "restartHint": "Inahitaji kuanzisha upya programu: Baada ya kurejesha, tafadhali funga na fungua tena programu ili kuona data yako.",
+  "restoringData": "Inarejesha data zako...",
+  "restoringDataHint": "Hii inaweza kuchukua muda kidogo",
+  "gotIt": "Nimeelewa!",
+  "tapToUnarchive": "Gusa ili kuondoa kwenye hifadhi",
+  "goalArchived": "Lengo limehifadhiwa",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Gundua na shiriki bidhaa mpya",
+  "exitApp": "Toka Programu",
+  "unusedBudgetRollOver": "Bajeti isiyotumika itahamishwa kwenda kipindi kijacho",
+  "howBudgetRolloverWorks": "Jinsi Uhamishaji wa Bajeti Unavyofanya Kazi",
+  "howBudgetRolloverWorksPoint1": "• Kiasi chochote kisichotumika kutoka kipindi kilichopita kitaongezwa kwenye bajeti ya kipindi chako cha sasa",
+  "howBudgetRolloverWorksPoint2": "• Uhamishaji unafanya kazi tu baada ya bajeti kuwepo kwa angalau kipindi kimoja kamili",
+  "howBudgetRolloverWorksPoint3": "• Ufuatiliaji wa bajeti lazima uwe umewezeshwa kwenye skrini ya maelezo ya bajeti"
 }

@@ -735,5 +735,22 @@
   "legacyBackup": "Sauvegarde héritée",
   "newBackup": "Nouvelle sauvegarde",
   "monthlySummaryReportDate": "Rapport récapitulatif mensuel {date}",
-  "recognizedAndTrusted": "Reconnu et digne de confiance"
+  "recognizedAndTrusted": "Reconnu et digne de confiance",
+  "restoreComplete": "Restauration terminée !",
+  "restoreCompleteMessage": "Votre sauvegarde a été restaurée avec succès.",
+  "restartRequired": "IMPORTANT : Veuillez fermer et rouvrir l'application pour voir vos données restaurées.",
+  "restartHint": "Redémarrage de l'application requis : Après la restauration, veuillez fermer et rouvrir l'application pour voir vos données.",
+  "restoringData": "Restauration de vos données...",
+  "restoringDataHint": "Cela peut prendre un moment",
+  "gotIt": "Compris !",
+  "tapToUnarchive": "Appuyez pour désarchiver",
+  "goalArchived": "Objectif archivé",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Découvrez et partagez de nouveaux produits",
+  "exitApp": "Quitter l'application",
+  "unusedBudgetRollOver": "Le budget inutilisé sera reporté à la période suivante",
+  "howBudgetRolloverWorks": "Comment fonctionne le report de budget",
+  "howBudgetRolloverWorksPoint1": "• Tout montant non dépensé de la période précédente sera ajouté au budget de votre période actuelle",
+  "howBudgetRolloverWorksPoint2": "• Le report ne fonctionne qu'après que le budget ait existé pendant au moins une période complète",
+  "howBudgetRolloverWorksPoint3": "• Budget tracking must also be enabled in the budget details screen"
 }

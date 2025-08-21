@@ -733,5 +733,22 @@
   "legacyBackup": "Backup Legado",
   "newBackup": "Novo Backup",
   "monthlySummaryReportDate": "Relatório Resumido Mensal {date}",
-  "recognizedAndTrusted": "Reconhecido e confiável"
+  "recognizedAndTrusted": "Reconhecido e confiável",
+  "restoreComplete": "Restauração Completa!",
+  "restoreCompleteMessage": "Seu backup foi restaurado com sucesso.",
+  "restartRequired": "IMPORTANTE: Por favor, feche e reabra o app para ver seus dados restaurados.",
+  "restartHint": "Reinício do app necessário: Após restaurar, feche e reabra o app para ver seus dados.",
+  "restoringData": "Restaurando seus dados...",
+  "restoringDataHint": "Isso pode levar um momento",
+  "gotIt": "Entendi!",
+  "tapToUnarchive": "Toque para Desarquivar",
+  "goalArchived": "Meta Arquivada",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Descubra e compartilhe novos produtos",
+  "exitApp": "Sair do App",
+  "unusedBudgetRollOver": "Orçamento não utilizado será transferido para o próximo período",
+  "howBudgetRolloverWorks": "Como funciona o rollover de orçamento",
+  "howBudgetRolloverWorksPoint1": "• Qualquer valor não gasto do período anterior será adicionado ao orçamento do período atual",
+  "howBudgetRolloverWorksPoint2": "• O rollover só funciona após o orçamento existir por pelo menos um período completo",
+  "howBudgetRolloverWorksPoint3": "• O acompanhamento do orçamento também deve estar ativado na tela de detalhes do orçamento"
 }

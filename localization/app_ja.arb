@@ -733,5 +733,22 @@
   "legacyBackup": "レガシーバックアップ",
   "newBackup": "新しいバックアップ",
   "monthlySummaryReportDate": "月次サマリーレポート {date}",
-  "recognizedAndTrusted": "認知され信頼されています"
+  "recognizedAndTrusted": "認知され信頼されています",
+  "restoreComplete": "復元完了！",
+  "restoreCompleteMessage": "バックアップが正常に復元されました。",
+  "restartRequired": "重要: 復元後はアプリを閉じて再起動してください。",
+  "restartHint": "復元後はアプリを閉じて再起動し、データを確認してください。",
+  "restoringData": "データ復元中...",
+  "restoringDataHint": "少々お待ちください",
+  "gotIt": "了解！",
+  "tapToUnarchive": "タップでアーカイブ解除",
+  "goalArchived": "目標をアーカイブしました",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "新しいプロダクトを発見・共有",
+  "exitApp": "アプリ終了",
+  "unusedBudgetRollOver": "未使用予算は次期間に繰越されます",
+  "howBudgetRolloverWorks": "予算繰越の仕組み",
+  "howBudgetRolloverWorksPoint1": "• 前期間の未使用額が現在の予算に追加されます",
+  "howBudgetRolloverWorksPoint2": "• 繰越は予算が少なくとも1期間存在した後に有効になります",
+  "howBudgetRolloverWorksPoint3": "• 予算詳細画面で予算追跡も有効にする必要があります"
 }

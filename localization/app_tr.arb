@@ -733,5 +733,22 @@
   "legacyBackup": "Eski Yedekleme",
   "newBackup": "Yeni Yedekleme",
   "monthlySummaryReportDate": "Aylık Özet Raporu {date}",
-  "recognizedAndTrusted": "Tanınmış ve Güvenilir"
+  "recognizedAndTrusted": "Tanınmış ve Güvenilir",
+  "restoreComplete": "Geri Yükleme Tamamlandı!",
+  "restoreCompleteMessage": "Yedeğiniz başarıyla geri yüklendi.",
+  "restartRequired": "ÖNEMLİ: Geri yüklenen verileri görmek için lütfen uygulamayı kapatıp yeniden açın.",
+  "restartHint": "Uygulama yeniden başlatılmalı: Geri yüklemeden sonra verilerinizi görmek için uygulamayı kapatıp yeniden açın.",
+  "restoringData": "Verileriniz geri yükleniyor...",
+  "restoringDataHint": "Bu işlem biraz zaman alabilir",
+  "gotIt": "Anladım!",
+  "tapToUnarchive": "Arşivden çıkarmak için dokunun",
+  "goalArchived": "Hedef Arşivlendi",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Yeni ürünleri keşfedin ve paylaşın",
+  "exitApp": "Uygulamadan Çık",
+  "unusedBudgetRollOver": "Kullanılmayan bütçe bir sonraki döneme devredilecek",
+  "howBudgetRolloverWorks": "Bütçe Devretme Nasıl Çalışır",
+  "howBudgetRolloverWorksPoint1": "• Önceki dönemden harcanmayan tutar mevcut dönem bütçenize eklenir",
+  "howBudgetRolloverWorksPoint2": "• Devretme yalnızca bütçe en az bir tam dönem var olduğunda çalışır",
+  "howBudgetRolloverWorksPoint3": "• Bütçe takibi ayrıca bütçe detayları ekranında etkinleştirilmelidir"
 }

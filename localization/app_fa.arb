@@ -733,5 +733,22 @@
   "legacyBackup": "پشتیبان قدیمی",
   "newBackup": "پشتیبان جدید",
   "monthlySummaryReportDate": "گزارش خلاصه ماهانه {date}",
-  "recognizedAndTrusted": "شناخته‌شده و قابل اعتماد"
+  "recognizedAndTrusted": "شناخته‌شده و قابل اعتماد",
+  "restoreComplete": "بازیابی کامل شد!",
+  "restoreCompleteMessage": "پشتیبان شما با موفقیت بازیابی شد.",
+  "restartRequired": "مهم: لطفاً برنامه را ببندید و دوباره باز کنید تا داده‌های بازیابی‌شده را ببینید.",
+  "restartHint": "نیاز به راه‌اندازی مجدد برنامه: پس از بازیابی، لطفاً برنامه را ببندید و دوباره باز کنید تا داده‌های خود را مشاهده کنید.",
+  "restoringData": "در حال بازیابی داده‌ها...",
+  "restoringDataHint": "این کار ممکن است کمی طول بکشد",
+  "gotIt": "فهمیدم!",
+  "tapToUnarchive": "برای خروج از بایگانی ضربه بزنید",
+  "goalArchived": "هدف بایگانی شد",
+  "productHunt": "پروداکت هانت",
+  "productHuntDesc": "محصولات جدید را کشف و به اشتراک بگذارید",
+  "exitApp": "خروج از برنامه",
+  "unusedBudgetRollOver": "بودجه استفاده‌نشده به دوره بعد منتقل می‌شود",
+  "howBudgetRolloverWorks": "نحوه انتقال بودجه",
+  "howBudgetRolloverWorksPoint1": "• هر مبلغ خرج‌نشده از دوره قبلی به بودجه دوره فعلی شما اضافه می‌شود",
+  "howBudgetRolloverWorksPoint2": "• انتقال بودجه فقط پس از گذشت حداقل یک دوره کامل از بودجه فعال می‌شود",
+  "howBudgetRolloverWorksPoint3": "• پیگیری بودجه باید در صفحه جزئیات بودجه فعال باشد"
 }

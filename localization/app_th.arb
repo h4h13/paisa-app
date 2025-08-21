@@ -733,5 +733,22 @@
   "legacyBackup": "ข้อมูลสำรองแบบเดิม",
   "newBackup": "ข้อมูลสำรองแบบใหม่",
   "monthlySummaryReportDate": "รายงานสรุปรายเดือน {date}",
-  "recognizedAndTrusted": "ได้รับการยอมรับและไว้วางใจ"
+  "recognizedAndTrusted": "ได้รับการยอมรับและไว้วางใจ",
+  "restoreComplete": "กู้คืนสำเร็จ!",
+  "restoreCompleteMessage": "ข้อมูลสำรองของคุณถูกกู้คืนเรียบร้อยแล้ว",
+  "restartRequired": "สำคัญ: กรุณาปิดและเปิดแอปใหม่เพื่อดูข้อมูลที่กู้คืน",
+  "restartHint": "ต้องรีสตาร์ทแอป: หลังจากกู้คืน กรุณาปิดและเปิดแอปใหม่เพื่อดูข้อมูลของคุณ",
+  "restoringData": "กำลังกู้คืนข้อมูลของคุณ...",
+  "restoringDataHint": "อาจใช้เวลาสักครู่",
+  "gotIt": "เข้าใจแล้ว!",
+  "tapToUnarchive": "แตะเพื่อยกเลิกเก็บถาวร",
+  "goalArchived": "เก็บถาวรเป้าหมายแล้ว",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "ค้นพบและแบ่งปันผลิตภัณฑ์ใหม่",
+  "exitApp": "ออกจากแอป",
+  "unusedBudgetRollOver": "งบประมาณที่ไม่ได้ใช้จะถูกหมุนเวียนไปยังงวดถัดไป",
+  "howBudgetRolloverWorks": "วิธีการหมุนเวียนงบประมาณ",
+  "howBudgetRolloverWorksPoint1": "• ยอดเงินที่ไม่ได้ใช้จากงวดก่อนจะถูกเพิ่มไปยังงบประมาณงวดปัจจุบัน",
+  "howBudgetRolloverWorksPoint2": "• การหมุนเวียนจะทำงานหลังจากมีงบประมาณครบหนึ่งงวดเต็ม",
+  "howBudgetRolloverWorksPoint3": "• ต้องเปิดใช้งานการติดตามงบประมาณในหน้ารายละเอียดงบประมาณ"
 }

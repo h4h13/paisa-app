@@ -733,5 +733,22 @@
   "legacyBackup": "旧版备份",
   "newBackup": "新版备份",
   "monthlySummaryReportDate": "月度摘要报告 {date}",
-  "recognizedAndTrusted": "广受认可与信赖"
+  "recognizedAndTrusted": "广受认可与信赖",
+  "restoreComplete": "恢复完成！",
+  "restoreCompleteMessage": "您的备份已成功恢复。",
+  "restartRequired": "重要提示：请关闭并重新打开应用以查看恢复的数据。",
+  "restartHint": "需要重启应用：恢复后请关闭并重新打开应用以查看您的数据。",
+  "restoringData": "正在恢复您的数据...",
+  "restoringDataHint": "这可能需要一些时间",
+  "gotIt": "知道了！",
+  "tapToUnarchive": "点击取消存档",
+  "goalArchived": "目标已归档",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "发现并分享新产品",
+  "exitApp": "退出应用",
+  "unusedBudgetRollOver": "未用预算将结转到下一个期间",
+  "howBudgetRolloverWorks": "预算结转如何运作",
+  "howBudgetRolloverWorksPoint1": "• 前一期间未使用的金额将添加到当前期间预算中",
+  "howBudgetRolloverWorksPoint2": "• 预算结转仅在预算已存在至少一个完整期间后生效",
+  "howBudgetRolloverWorksPoint3": "• 预算详情页需启用预算跟踪"
 }

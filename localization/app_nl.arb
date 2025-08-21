@@ -733,5 +733,22 @@
   "legacyBackup": "Legacy back-up",
   "newBackup": "Nieuwe back-up",
   "monthlySummaryReportDate": "Maandoverzicht rapport {date}",
-  "recognizedAndTrusted": "Erkend & Vertrouwd"
+  "recognizedAndTrusted": "Erkend & Vertrouwd",
+  "restoreComplete": "Herstel voltooid!",
+  "restoreCompleteMessage": "Uw back-up is succesvol hersteld.",
+  "restartRequired": "BELANGRIJK: Sluit en heropen de app om uw herstelde gegevens te zien.",
+  "restartHint": "App herstart vereist: Sluit en heropen de app na herstel om uw gegevens te zien.",
+  "restoringData": "Gegevens worden hersteld...",
+  "restoringDataHint": "Dit kan even duren",
+  "gotIt": "Begrepen!",
+  "tapToUnarchive": "Tik om te de-archiveren",
+  "goalArchived": "Doel gearchiveerd",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Ontdek en deel nieuwe producten",
+  "exitApp": "App afsluiten",
+  "unusedBudgetRollOver": "Ongebruikt budget wordt overgedragen naar de volgende periode",
+  "howBudgetRolloverWorks": "Hoe budgetoverdracht werkt",
+  "howBudgetRolloverWorksPoint1": "• Elk niet uitgegeven bedrag van de vorige periode wordt toegevoegd aan uw budget van de huidige periode",
+  "howBudgetRolloverWorksPoint2": "• Overdracht werkt alleen nadat het budget ten minste één volledige periode heeft bestaan",
+  "howBudgetRolloverWorksPoint3": "• Budgettracking moet ook ingeschakeld zijn in het budgetdetailscherm"
 }

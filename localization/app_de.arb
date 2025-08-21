@@ -735,5 +735,22 @@
   "legacyBackup": "Legacy-Backup",
   "newBackup": "Neues Backup",
   "monthlySummaryReportDate": "Monatlicher Zusammenfassungsbericht {date}",
-  "recognizedAndTrusted": "Anerkannt & Vertrauenswürdig"
+  "recognizedAndTrusted": "Anerkannt & Vertrauenswürdig",
+  "restoreComplete": "Wiederherstellung abgeschlossen!",
+  "restoreCompleteMessage": "Ihr Backup wurde erfolgreich wiederhergestellt.",
+  "restartRequired": "WICHTIG: Bitte schließen Sie die App und öffnen Sie sie erneut, um Ihre wiederhergestellten Daten zu sehen.",
+  "restartHint": "App-Neustart erforderlich: Nach der Wiederherstellung bitte die App schließen und erneut öffnen, um Ihre Daten zu sehen.",
+  "restoringData": "Ihre Daten werden wiederhergestellt...",
+  "restoringDataHint": "Dies kann einen Moment dauern",
+  "gotIt": "Verstanden!",
+  "tapToUnarchive": "Zum Entarchivieren tippen",
+  "goalArchived": "Ziel archiviert",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Entdecken und teilen Sie neue Produkte",
+  "exitApp": "App beenden",
+  "unusedBudgetRollOver": "Nicht genutztes Budget wird in den nächsten Zeitraum übertragen",
+  "howBudgetRolloverWorks": "So funktioniert das Budgetübertragen",
+  "howBudgetRolloverWorksPoint1": "• Jeder nicht ausgegebene Betrag aus dem vorherigen Zeitraum wird Ihrem aktuellen Budget hinzugefügt",
+  "howBudgetRolloverWorksPoint2": "• Übertrag funktioniert erst, nachdem das Budget mindestens einen vollständigen Zeitraum bestanden hat",
+  "howBudgetRolloverWorksPoint3": "• Die Budgetverfolgung muss im Budget-Detailbildschirm aktiviert sein"
 }

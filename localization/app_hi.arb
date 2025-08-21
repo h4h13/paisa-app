@@ -734,5 +734,22 @@
   "legacyBackup": "पुराना बैकअप",
   "newBackup": "नया बैकअप",
   "monthlySummaryReportDate": "मासिक सारांश रिपोर्ट {date}",
-  "recognizedAndTrusted": "मान्यता प्राप्त और विश्वसनीय"
+  "recognizedAndTrusted": "मान्यता प्राप्त और विश्वसनीय",
+  "restoreComplete": "पुनर्स्थापना पूर्ण!",
+  "restoreCompleteMessage": "आपका बैकअप सफलतापूर्वक पुनर्स्थापित हो गया है।",
+  "restartRequired": "महत्वपूर्ण: पुनर्स्थापना के बाद अपना डेटा देखने के लिए कृपया ऐप बंद करें और पुनः खोलें।",
+  "restartHint": "ऐप पुनः प्रारंभ आवश्यक: पुनर्स्थापना के बाद, कृपया अपना डेटा देखने के लिए ऐप बंद करें और पुनः खोलें।",
+  "restoringData": "आपका डेटा पुनर्स्थापित किया जा रहा है...",
+  "restoringDataHint": "इसमें कुछ समय लग सकता है",
+  "gotIt": "समझ गया!",
+  "tapToUnarchive": "अनारकाइव करने के लिए टैप करें",
+  "goalArchived": "लक्ष्य पुरालेखबद्ध",
+  "productHunt": "प्रोडक्ट हंट",
+  "productHuntDesc": "नए उत्पादों की खोज करें और साझा करें",
+  "exitApp": "ऐप से बाहर निकलें",
+  "unusedBudgetRollOver": "अप्रयुक्त बजट अगली अवधि में रोलओवर हो जाएगा",
+  "howBudgetRolloverWorks": "बजट रोलओवर कैसे काम करता है",
+  "howBudgetRolloverWorksPoint1": "• पिछली अवधि की कोई भी अप्रयुक्त राशि आपकी वर्तमान अवधि के बजट में जोड़ दी जाएगी",
+  "howBudgetRolloverWorksPoint2": "• रोलओवर केवल तब काम करता है जब बजट कम से कम एक पूर्ण अवधि के लिए मौजूद रहा हो",
+  "howBudgetRolloverWorksPoint3": "• बजट विवरण स्क्रीन में बजट ट्रैकिंग भी सक्षम होनी चाहिए"
 }

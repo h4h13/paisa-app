@@ -733,5 +733,22 @@
   "legacyBackup": "Backup vechi",
   "newBackup": "Backup nou",
   "monthlySummaryReportDate": "Raport Rezumat Lunar {date}",
-  "recognizedAndTrusted": "Recunoscut & De Încredere"
+  "recognizedAndTrusted": "Recunoscut & De Încredere",
+  "restoreComplete": "Restaurare completă!",
+  "restoreCompleteMessage": "Backup-ul tău a fost restaurat cu succes.",
+  "restartRequired": "IMPORTANT: Închide și redeschide aplicația pentru a vedea datele restaurate.",
+  "restartHint": "Este necesară repornirea aplicației: După restaurare, închide și redeschide aplicația pentru a vedea datele.",
+  "restoringData": "Se restaurează datele...",
+  "restoringDataHint": "Acest proces poate dura câteva momente",
+  "gotIt": "Am înțeles!",
+  "tapToUnarchive": "Atinge pentru a dezarhiva",
+  "goalArchived": "Obiectiv arhivat",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Descoperă și distribuie produse noi",
+  "exitApp": "Ieși din aplicație",
+  "unusedBudgetRollOver": "Bugetul neutilizat va fi reportat în perioada următoare",
+  "howBudgetRolloverWorks": "Cum funcționează reportarea bugetului",
+  "howBudgetRolloverWorksPoint1": "• Orice sumă necheltuită din perioada anterioară va fi adăugată la bugetul perioadei curente",
+  "howBudgetRolloverWorksPoint2": "• Reportarea funcționează doar după ce bugetul a existat cel puțin o perioadă completă",
+  "howBudgetRolloverWorksPoint3": "• Urmărirea bugetului trebuie să fie activată în ecranul de detalii al bugetului"
 }

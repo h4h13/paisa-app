@@ -3779,6 +3779,46 @@
         "description": "Text shown on the settings page for restoring local backup description",
         "type": "text"
     },
+    "restoreComplete": "Restore Complete!",
+    "@restoreComplete": {
+        "description": "Title shown when backup restoration is complete",
+        "type": "text"
+    },
+    "restoreCompleteMessage": "Your backup has been restored successfully.",
+    "@restoreCompleteMessage": {
+        "description": "Message shown when backup restoration is complete",
+        "type": "text"
+    },
+    "restartRequired": "IMPORTANT: Please close and reopen the app to see your restored data.",
+    "@restartRequired": {
+        "description": "Warning message about app restart requirement",
+        "type": "text"
+    },
+    "restartHint": "App restart required: After restore, please close and reopen the app to see your data.",
+    "@restartHint": {
+        "description": "Hint about app restart requirement shown before restore",
+        "type": "text"
+    },
+    "restoringData": "Restoring your data...",
+    "@restoringData": {
+        "description": "Text shown while data is being restored",
+        "type": "text"
+    },
+    "restoringDataHint": "This may take a moment",
+    "@restoringDataHint": {
+        "description": "Hint text shown while data is being restored",
+        "type": "text"
+    },
+    "gotIt": "Got it!",
+    "@gotIt": {
+        "description": "Button text for acknowledgment",
+        "type": "text"
+    },
+    "exitApp": "Exit App",
+    "@exitApp": {
+        "description": "Button text to exit/close the app",
+        "type": "text"
+    },
     "categoryNotFound": "Category not found",
     "@categoryNotFound": {
         "description": "Text shown when a category is not found",
@@ -4093,6 +4133,31 @@
     "productHuntDesc": "Discover and share new products",
     "@productHuntDesc": {
         "description": "Description shown for the product hunt option",
+        "type": "text"
+    },
+    "unusedBudgetRollOver": "Unused budget will roll over to the next period",
+    "@unusedBudgetRollOver": {
+        "description": "Description shown for the unused budget roll over",
+        "type": "text"
+    },
+    "howBudgetRolloverWorks": "How Budget Rollover Works",
+    "@howBudgetRolloverWorks": {
+        "description": "Description shown for how budget rollover works",
+        "type": "text"
+    },
+    "howBudgetRolloverWorksPoint1": "• Any unspent amount from the previous period will be added to your current period budget",
+    "@howBudgetRolloverWorksPoint1": {
+        "description": "Description shown for how budget rollover works point 1",
+        "type": "text"
+    },
+    "howBudgetRolloverWorksPoint2": "• Rollover only works after the budget has existed for at least one full period",
+    "@howBudgetRolloverWorksPoint2": {
+        "description": "Description shown for how budget rollover works point 2",
+        "type": "text"
+    },
+    "howBudgetRolloverWorksPoint3": "• Budget tracking must also be enabled in the budget details screen",
+    "@howBudgetRolloverWorksPoint3": {
+        "description": "Description shown for how budget rollover works point 3",
         "type": "text"
     }
 }

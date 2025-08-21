@@ -733,5 +733,22 @@
   "legacyBackup": "Sao lưu cũ",
   "newBackup": "Sao lưu mới",
   "monthlySummaryReportDate": "Báo cáo tóm tắt tháng {date}",
-  "recognizedAndTrusted": "Được công nhận & tin cậy"
+  "recognizedAndTrusted": "Được công nhận & tin cậy",
+  "restoreComplete": "Khôi phục hoàn tất!",
+  "restoreCompleteMessage": "Bản sao lưu của bạn đã được khôi phục thành công.",
+  "restartRequired": "QUAN TRỌNG: Vui lòng đóng và mở lại ứng dụng để xem dữ liệu đã khôi phục.",
+  "restartHint": "Cần khởi động lại ứng dụng: Sau khi khôi phục, vui lòng đóng và mở lại ứng dụng để xem dữ liệu.",
+  "restoringData": "Đang khôi phục dữ liệu...",
+  "restoringDataHint": "Việc này có thể mất một chút thời gian",
+  "gotIt": "Đã hiểu!",
+  "tapToUnarchive": "Nhấn để bỏ lưu trữ",
+  "goalArchived": "Mục tiêu đã lưu trữ",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Khám phá và chia sẻ sản phẩm mới",
+  "exitApp": "Thoát ứng dụng",
+  "unusedBudgetRollOver": "Ngân sách chưa sử dụng sẽ được chuyển sang kỳ tiếp theo",
+  "howBudgetRolloverWorks": "Cách hoạt động của chuyển ngân sách",
+  "howBudgetRolloverWorksPoint1": "• Bất kỳ số tiền chưa sử dụng nào từ kỳ trước sẽ được cộng vào ngân sách kỳ hiện tại của bạn",
+  "howBudgetRolloverWorksPoint2": "• Chuyển ngân sách chỉ hoạt động sau khi ngân sách tồn tại ít nhất một kỳ đầy đủ",
+  "howBudgetRolloverWorksPoint3": "• Theo dõi ngân sách cũng phải được bật trong màn hình chi tiết ngân sách"
 }

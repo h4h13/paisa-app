@@ -735,5 +735,22 @@
   "legacyBackup": "Záloha (legacy)",
   "newBackup": "Nová záloha",
   "monthlySummaryReportDate": "Měsíční souhrnná zpráva {date}",
-  "recognizedAndTrusted": "Uznávané a důvěryhodné"
+  "recognizedAndTrusted": "Uznávané a důvěryhodné",
+  "restoreComplete": "Obnovení dokončeno!",
+  "restoreCompleteMessage": "Vaše záloha byla úspěšně obnovena.",
+  "restartRequired": "DŮLEŽITÉ: Zavřete a znovu otevřete aplikaci, abyste viděli obnovená data.",
+  "restartHint": "Je vyžadován restart aplikace: Po obnovení zavřete a znovu otevřete aplikaci, abyste viděli svá data.",
+  "restoringData": "Obnovuji vaše data...",
+  "restoringDataHint": "Může to chvíli trvat",
+  "gotIt": "Rozumím!",
+  "tapToUnarchive": "Klepněte pro obnovení",
+  "goalArchived": "Cíl archivován",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Objevujte a sdílejte nové produkty",
+  "exitApp": "Ukončit aplikaci",
+  "unusedBudgetRollOver": "Nevyužitý rozpočet bude převeden do dalšího období",
+  "howBudgetRolloverWorks": "Jak funguje převod rozpočtu",
+  "howBudgetRolloverWorksPoint1": "• Jakákoli nevyčerpaná částka z předchozího období bude přidána do rozpočtu aktuálního období",
+  "howBudgetRolloverWorksPoint2": "• Převod funguje pouze po existenci rozpočtu alespoň jedno celé období",
+  "howBudgetRolloverWorksPoint3": "• Sledování rozpočtu musí být také povoleno v detailu rozpočtu"
 }

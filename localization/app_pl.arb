@@ -735,5 +735,22 @@
   "legacyBackup": "Kopia zapasowa starszego typu",
   "newBackup": "Nowa kopia zapasowa",
   "monthlySummaryReportDate": "Miesięczny raport podsumowujący {date}",
-  "recognizedAndTrusted": "Rozpoznawalny i godny zaufania"
+  "recognizedAndTrusted": "Rozpoznawalny i godny zaufania",
+  "restoreComplete": "Przywracanie zakończone!",
+  "restoreCompleteMessage": "Twoja kopia zapasowa została pomyślnie przywrócona.",
+  "restartRequired": "WAŻNE: Zamknij i ponownie otwórz aplikację, aby zobaczyć przywrócone dane.",
+  "restartHint": "Wymagane ponowne uruchomienie aplikacji: Po przywróceniu zamknij i ponownie otwórz aplikację, aby zobaczyć swoje dane.",
+  "restoringData": "Przywracanie danych...",
+  "restoringDataHint": "To może chwilę potrwać",
+  "gotIt": "Rozumiem!",
+  "tapToUnarchive": "Dotknij, aby rozarchiwizować",
+  "goalArchived": "Cel zarchiwizowany",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Odkrywaj i udostępniaj nowe produkty",
+  "exitApp": "Wyjdź z aplikacji",
+  "unusedBudgetRollOver": "Niewykorzystany budżet zostanie przeniesiony na następny okres",
+  "howBudgetRolloverWorks": "Jak działa przenoszenie budżetu",
+  "howBudgetRolloverWorksPoint1": "• Każda niewydana kwota z poprzedniego okresu zostanie dodana do budżetu bieżącego okresu",
+  "howBudgetRolloverWorksPoint2": "• Przenoszenie działa tylko po tym, jak budżet istnieje przez co najmniej jeden pełny okres",
+  "howBudgetRolloverWorksPoint3": "• Śledzenie budżetu musi być również włączone na ekranie szczegółów budżetu"
 }

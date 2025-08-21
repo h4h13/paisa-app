@@ -733,5 +733,22 @@
   "legacyBackup": "Copia de seguridad heredada",
   "newBackup": "Nueva copia de seguridad",
   "monthlySummaryReportDate": "Informe mensual de resumen {date}",
-  "recognizedAndTrusted": "Reconocido y de confianza"
+  "recognizedAndTrusted": "Reconocido y de confianza",
+  "restoreComplete": "¡Restauración completa!",
+  "restoreCompleteMessage": "Tu copia de seguridad se ha restaurado correctamente.",
+  "restartRequired": "IMPORTANTE: Cierra y vuelve a abrir la app para ver tus datos restaurados.",
+  "restartHint": "Se requiere reiniciar la app: Después de restaurar, cierra y vuelve a abrir la app para ver tus datos.",
+  "restoringData": "Restaurando tus datos...",
+  "restoringDataHint": "Esto puede tardar un momento",
+  "gotIt": "¡Entendido!",
+  "tapToUnarchive": "Toca para desarchivar",
+  "goalArchived": "Meta archivada",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Descubre y comparte nuevos productos",
+  "exitApp": "Salir de la app",
+  "unusedBudgetRollOver": "El presupuesto no utilizado se acumulará al siguiente periodo",
+  "howBudgetRolloverWorks": "Cómo funciona la acumulación de presupuesto",
+  "howBudgetRolloverWorksPoint1": "• Cualquier importe no gastado del periodo anterior se añadirá al presupuesto del periodo actual",
+  "howBudgetRolloverWorksPoint2": "• La acumulación solo funciona después de que el presupuesto haya existido al menos un periodo completo",
+  "howBudgetRolloverWorksPoint3": "• El seguimiento de presupuesto también debe estar habilitado en la pantalla de detalles del presupuesto"
 }

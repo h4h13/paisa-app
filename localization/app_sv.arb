@@ -733,5 +733,22 @@
   "legacyBackup": "Legacy-backup",
   "newBackup": "Ny backup",
   "monthlySummaryReportDate": "Månadssammanfattningsrapport {date}",
-  "recognizedAndTrusted": "Erkänd & Betrodd"
+  "recognizedAndTrusted": "Erkänd & Betrodd",
+  "restoreComplete": "Återställning slutförd!",
+  "restoreCompleteMessage": "Din backup har återställts framgångsrikt.",
+  "restartRequired": "VIKTIGT: Stäng och öppna appen igen för att se din återställda data.",
+  "restartHint": "Appen måste startas om: Efter återställning, stäng och öppna appen igen för att se din data.",
+  "restoringData": "Återställer din data...",
+  "restoringDataHint": "Detta kan ta en stund",
+  "gotIt": "Jag förstår!",
+  "tapToUnarchive": "Tryck för att avarkivera",
+  "goalArchived": "Mål arkiverat",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Upptäck och dela nya produkter",
+  "exitApp": "Avsluta appen",
+  "unusedBudgetRollOver": "Oanvänd budget överförs till nästa period",
+  "howBudgetRolloverWorks": "Så fungerar budgetöverföring",
+  "howBudgetRolloverWorksPoint1": "• Oanvänt belopp från föregående period läggs till din nuvarande budget",
+  "howBudgetRolloverWorksPoint2": "• Överföring fungerar endast efter att budgeten funnits i minst en hel period",
+  "howBudgetRolloverWorksPoint3": "• Budgetspårning måste också vara aktiverad på budgetdetaljsidan"
 }

@@ -734,5 +734,22 @@
   "legacyBackup": "גיבוי ישן",
   "newBackup": "גיבוי חדש",
   "monthlySummaryReportDate": "דוח סיכום חודשי {date}",
-  "recognizedAndTrusted": "מוכר ואמין"
+  "recognizedAndTrusted": "מוכר ואמין",
+  "restoreComplete": "השחזור הושלם!",
+  "restoreCompleteMessage": "הגיבוי שלך שוחזר בהצלחה.",
+  "restartRequired": "חשוב: סגור ופתח מחדש את האפליקציה כדי לראות את הנתונים ששוחזרו.",
+  "restartHint": "נדרש הפעלה מחדש: לאחר השחזור, סגור ופתח מחדש את האפליקציה כדי לראות את הנתונים שלך.",
+  "restoringData": "משחזר את הנתונים שלך...",
+  "restoringDataHint": "זה עשוי לקחת רגע",
+  "gotIt": "הבנתי!",
+  "tapToUnarchive": "הקש לביטול ארכיון",
+  "goalArchived": "היעד הועבר לארכיון",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "גלה ושתף מוצרים חדשים",
+  "exitApp": "צא מהאפליקציה",
+  "unusedBudgetRollOver": "תקציב שלא נוצל יעבור לתקופה הבאה",
+  "howBudgetRolloverWorks": "איך עובד העברת תקציב",
+  "howBudgetRolloverWorksPoint1": "• כל סכום שלא נוצל מהתקופה הקודמת יתווסף לתקציב התקופה הנוכחית שלך",
+  "howBudgetRolloverWorksPoint2": "• העברה פועלת רק לאחר שהתקציב קיים לפחות תקופה אחת מלאה",
+  "howBudgetRolloverWorksPoint3": "• יש להפעיל גם מעקב תקציב במסך פרטי התקציב"
 }

@@ -733,5 +733,22 @@
   "legacyBackup": "舊版備份",
   "newBackup": "新版備份",
   "monthlySummaryReportDate": "月度摘要報告 {date}",
-  "recognizedAndTrusted": "受認可與信賴"
+  "recognizedAndTrusted": "受認可與信賴",
+  "restoreComplete": "還原完成！",
+  "restoreCompleteMessage": "您的備份已成功還原。",
+  "restartRequired": "重要提示：請關閉並重新開啟應用程式以查看還原的資料。",
+  "restartHint": "需要重新啟動應用程式：還原後請關閉並重新開啟以查看資料。",
+  "restoringData": "正在還原資料...",
+  "restoringDataHint": "這可能需要一些時間",
+  "gotIt": "知道了！",
+  "tapToUnarchive": "點擊以取消封存",
+  "goalArchived": "目標已封存",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "探索並分享新產品",
+  "exitApp": "退出應用程式",
+  "unusedBudgetRollOver": "未用預算將結轉至下一期間",
+  "howBudgetRolloverWorks": "預算結轉運作方式",
+  "howBudgetRolloverWorksPoint1": "• 前一期間未用金額將新增至目前期間預算",
+  "howBudgetRolloverWorksPoint2": "• 結轉僅在預算已存在至少一個完整期間後才會生效",
+  "howBudgetRolloverWorksPoint3": "• 必須在預算詳情頁啟用預算追蹤"
 }

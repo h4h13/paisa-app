@@ -733,5 +733,22 @@
   "legacyBackup": "Cadangan Lama",
   "newBackup": "Cadangan Baru",
   "monthlySummaryReportDate": "Laporan Ringkasan Bulanan {date}",
-  "recognizedAndTrusted": "Diakui & Dipercaya"
+  "recognizedAndTrusted": "Diakui & Dipercaya",
+  "restoreComplete": "Pemulihan Selesai!",
+  "restoreCompleteMessage": "Cadangan Anda telah berhasil dipulihkan.",
+  "restartRequired": "PENTING: Silakan tutup dan buka kembali aplikasi untuk melihat data yang telah dipulihkan.",
+  "restartHint": "Aplikasi perlu dimulai ulang: Setelah pemulihan, tutup dan buka kembali aplikasi untuk melihat data Anda.",
+  "restoringData": "Memulihkan data Anda...",
+  "restoringDataHint": "Ini mungkin membutuhkan waktu sebentar",
+  "gotIt": "Mengerti!",
+  "tapToUnarchive": "Ketuk untuk Batalkan Pengarsipan",
+  "goalArchived": "Tujuan Diarsipkan",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Temukan dan bagikan produk baru",
+  "exitApp": "Keluar Aplikasi",
+  "unusedBudgetRollOver": "Anggaran yang tidak terpakai akan dialihkan ke periode berikutnya",
+  "howBudgetRolloverWorks": "Cara Kerja Pengalihan Anggaran",
+  "howBudgetRolloverWorksPoint1": "• Jumlah yang tidak terpakai dari periode sebelumnya akan ditambahkan ke anggaran periode Anda saat ini",
+  "howBudgetRolloverWorksPoint2": "• Pengalihan hanya berfungsi setelah anggaran ada setidaknya satu periode penuh",
+  "howBudgetRolloverWorksPoint3": "• Pelacakan anggaran juga harus diaktifkan di layar detail anggaran"
 }

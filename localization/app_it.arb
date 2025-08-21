@@ -733,5 +733,22 @@
   "legacyBackup": "Backup legacy",
   "newBackup": "Nuovo backup",
   "monthlySummaryReportDate": "Rapporto riepilogativo mensile {date}",
-  "recognizedAndTrusted": "Riconosciuto e affidabile"
+  "recognizedAndTrusted": "Riconosciuto e affidabile",
+  "restoreComplete": "Ripristino completato!",
+  "restoreCompleteMessage": "Il backup è stato ripristinato con successo.",
+  "restartRequired": "IMPORTANTE: Chiudi e riapri l'app per visualizzare i dati ripristinati.",
+  "restartHint": "Riavvio dell'app richiesto: Dopo il ripristino, chiudi e riapri l'app per vedere i tuoi dati.",
+  "restoringData": "Ripristino dei dati in corso...",
+  "restoringDataHint": "Questo potrebbe richiedere qualche istante",
+  "gotIt": "Ho capito!",
+  "tapToUnarchive": "Tocca per sarchiviare",
+  "goalArchived": "Obiettivo archiviato",
+  "productHunt": "Product Hunt",
+  "productHuntDesc": "Scopri e condividi nuovi prodotti",
+  "exitApp": "Esci dall'app",
+  "unusedBudgetRollOver": "Il budget non utilizzato verrà riportato al periodo successivo",
+  "howBudgetRolloverWorks": "Come funziona il riporto del budget",
+  "howBudgetRolloverWorksPoint1": "• Qualsiasi importo non speso dal periodo precedente verrà aggiunto al budget del periodo corrente",
+  "howBudgetRolloverWorksPoint2": "• Il riporto funziona solo dopo che il budget è esistito per almeno un periodo completo",
+  "howBudgetRolloverWorksPoint3": "• Il monitoraggio del budget deve essere abilitato nella schermata dei dettagli del budget"
 }
