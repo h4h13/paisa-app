@@ -1,3 +1,5 @@
+# I have decided to not release any APKs to GitHub since it's causing issue for users who are switching between Play Store and GitHub builds causing data to loose
+Reason: Google Play and GitHub generates different APKs and signing keys causing signature missmatchs 
 <p align="center">
   <a href="https://retromusic.app">
     <img src="assets\images\icon.png" height="128">
